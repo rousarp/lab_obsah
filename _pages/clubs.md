@@ -1,6 +1,6 @@
 ---
 ID: 39
-post_title: clubs
+post_title: Skupiny
 author: admin
 post_excerpt: ""
 layout: page
