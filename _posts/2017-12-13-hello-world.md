@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-13 13:26:22
 ---
-Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+Welcome to WordPress-XX. This is your first post. Edit or delete it, then start writing!
