@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/
 published: true
 post_date: 2018-01-15 22:15:14
+tags: [ ]
+categories: [ ]
 ---
 1. To change privacy and other settings for a course, project, or club, log in and go to the <strong>Profile</strong> of your course, project or club.
 

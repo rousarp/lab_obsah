@@ -7,5 +7,7 @@ layout: page
 permalink: http://multi.openlab.dev/dwqa-questions/
 published: true
 post_date: 2018-01-02 20:05:24
+tags: [ ]
+categories: [ ]
 ---
 [dwqa-list-questions]

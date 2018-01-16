@@ -8,4 +8,6 @@ permalink: >
   http://multi.openlab.dev/about/calendar/upcoming/
 published: true
 post_date: 2018-01-02 20:10:16
+tags: [ ]
+categories: [ ]
 ---

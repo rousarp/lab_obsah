@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/writing-a-post/
 published: true
 post_date: 2018-01-15 22:29:49
+tags: [ ]
+categories: [ ]
 ---
 1. From your site’s Dashboard, click on <strong>Posts &gt; Add New</strong> in the left hand menu. Or click <strong>+ New</strong> in the toolbar that appears at the top of the screen, and choose <strong>Post</strong> from the drop down menu.
 

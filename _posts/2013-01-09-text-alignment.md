@@ -8,6 +8,10 @@ permalink: >
   http://multi.openlab.dev/blog/text-alignment/
 published: true
 post_date: 2013-01-09 09:00:39
+tags: [ ]
+categories:
+  - Alignment
+  - Content
 ---
 <h3>Default</h3>
 This is a paragraph. It should not have any alignment of any kind. It should just flow like you would normally expect. Nothing fancy. Just straight up text, free flowing, with love. Completely neutral and not picking a side or sitting on the fence. It just is. It just freaking is. It likes where it is. It does not feel compelled to pick a side. Leave him be. It will just be better that way. Trust me.

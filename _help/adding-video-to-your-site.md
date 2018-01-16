@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/adding-video-to-your-site/
 published: true
 post_date: 2018-01-15 22:32:47
+tags: [ ]
+categories: [ ]
 ---
 1. To embed a video to your site from a video-hosting site such as YouTube or Vimeo, simply copy the URL of the video onto a single line on a “New Post” or “New Page” text box.
 

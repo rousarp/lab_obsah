@@ -7,6 +7,9 @@ layout: post
 permalink: http://multi.openlab.dev/blog/paginated/
 published: true
 post_date: 2013-01-08 10:00:20
+tags: [ ]
+categories:
+  - Content
 ---
 Post Page 1
 

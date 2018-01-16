@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-a-site-on-a-course-project-club-or-portfolio/
 published: true
 post_date: 2018-01-15 22:26:42
+tags: [ ]
+categories: [ ]
 ---
 1. If you are faculty, you can create a site on the OpenLab as an extension of your <a title="What is a course on the OpenLab?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-a-course-on-the-openlab/">course</a>, <a title="What is a Project on the OpenLab?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-a-project-on-the-openlab/">project</a>, or <a title="What is a Club on the OpenLab?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-a-club-on-the-openlab/">club</a>.  Your site provides an additional online presence for your course, project, or club where you can create content (e.g., blog posts), maintain content (e.g., a syllabus or project description), and engage in discussion with other site <a title="Managing users on your Site" href="https://openlab.citytech.cuny.edu/blog/help/managing-users-on-your-site/">users</a>.
 

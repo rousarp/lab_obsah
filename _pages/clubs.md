@@ -7,4 +7,6 @@ layout: page
 permalink: http://multi.openlab.dev/clubs/
 published: true
 post_date: 2018-01-02 20:13:26
+tags: [ ]
+categories: [ ]
 ---

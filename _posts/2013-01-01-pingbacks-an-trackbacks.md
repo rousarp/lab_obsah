@@ -8,6 +8,11 @@ permalink: >
   http://multi.openlab.dev/blog/pingbacks-an-trackbacks/
 published: true
 post_date: 2013-01-01 10:17:18
+tags: [ ]
+categories:
+  - Comments
+  - Pingbacks
+  - Trackbacks
 ---
 This post has many pingpacks and trackbacks.
 

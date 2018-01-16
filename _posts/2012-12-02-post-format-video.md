@@ -8,6 +8,10 @@ permalink: >
   http://multi.openlab.dev/blog/post-format-video/
 published: true
 post_date: 2012-12-02 02:00:58
+tags: [ ]
+categories:
+  - Post Formats
+  - Video
 ---
 http://www.youtube.com/watch?v=nwe-H6l4beM
 

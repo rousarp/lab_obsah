@@ -7,4 +7,6 @@ layout: page
 permalink: http://multi.openlab.dev/courses/
 published: true
 post_date: 2018-01-02 20:13:40
+tags: [ ]
+categories: [ ]
 ---

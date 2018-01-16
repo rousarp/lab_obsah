@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/joining-a-project/
 published: true
 post_date: 2018-01-15 22:02:02
+tags: [ ]
+categories: [ ]
 ---
 1. You must be logged in to the OpenLab to join a Project, so after logging in, go to the <strong>Project Profile</strong> of the Project you want to join.  (Read more about how to <a title="Finding a Project" href="https://openlab.citytech.cuny.edu/blog/help/finding-a-project/">find a Project</a>.)
 

@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/categories-and-tags/
 published: true
 post_date: 2018-01-15 22:40:19
+tags: [ ]
+categories: [ ]
 ---
 <strong>Categories</strong> allow you to further organize the content of your site.  Careful categorization allows your site posts to be grouped together with other similar posts on your site.  This, in turn, helps users to better navigate your site.  Note that all site posts are filed under categories.  If you do not create your own post categories, all of the posts on your site will be placed in the default category, “Uncategorized.”  In general, once you create categories, and assign posts to those categories, these categories do not change.
 

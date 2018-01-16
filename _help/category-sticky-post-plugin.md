@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/category-sticky-post-plugin/
 published: true
 post_date: 2018-01-15 22:46:43
+tags: [ ]
+categories: [ ]
 ---
 <div class="entry-content">
 

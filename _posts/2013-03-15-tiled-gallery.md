@@ -8,6 +8,11 @@ permalink: >
   http://multi.openlab.dev/blog/tiled-gallery/
 published: true
 post_date: 2013-03-15 17:23:27
+tags: [ ]
+categories:
+  - Gallery
+  - Images
+  - Jetpack
 ---
 This is a test for Jetpack's Tiled Gallery.
 

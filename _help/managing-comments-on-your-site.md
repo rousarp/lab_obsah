@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/managing-comments-on-your-site/
 published: true
 post_date: 2018-01-15 22:41:16
+tags: [ ]
+categories: [ ]
 ---
 1. After you have <a title="Who can build a Site?" href="https://openlab.citytech.cuny.edu/blog/help/who-can-build-a-site/">created your site</a>, you will often have to moderate and filter the <a title="Commenting on a Site" href="https://openlab.citytech.cuny.edu/blog/help/commenting-on-a-site/">comments</a> that are made on the posts and pages on your site.  All comments made on your site are listed in a moderation queue accessible via your site Dashboard.  You can view these comments by going to your Dashboard and clicking <strong>Comments</strong> in the left-hand menu.
 

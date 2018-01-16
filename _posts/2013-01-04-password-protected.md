@@ -8,5 +8,11 @@ permalink: >
   http://multi.openlab.dev/blog/password-protected/
 published: true
 post_date: 2013-01-04 09:38:05
+tags: [ ]
+categories:
+  - Comments
+  - Password
+  - Pingbacks
+  - Trackbacks
 ---
 This content, comments, pingbacks, and trackbacks should not be visible until the password is entered.

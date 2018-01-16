@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/using-docs/
 published: true
 post_date: 2018-01-15 22:09:11
+tags: [ ]
+categories: [ ]
 ---
 Docs are documents that members of the group can add, edit, and comment on.  Unlike Files, which can only be uploaded and downloaded, not edited, Docs are helpful for creating course wikis and other collective projects. Docs are a dynamic area of Course, Projects, and Clubs on the OpenLab and can significantly contribute to a Course, Project, or Club’s online experience. For an example of how Docs are used in a Course on the OpenLab, see Prof. Jody Rosen’s ENG 2003: Introduction to Poetry <a href="https://openlab.citytech.cuny.edu/groups/eng-2003-introduction-to-poetry/docs/glossary-3">“Glossary” document</a>. Prof. Rosen’s students contributed a new word every week resulting in a valuable resource that students could call their own.
 

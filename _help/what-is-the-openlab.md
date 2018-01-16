@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-the-openlab/
 published: true
 post_date: 2018-01-15 23:12:00
+tags: [ ]
+categories: [ ]
 ---
 <h3>Welcome to the OpenLab!</h3>
 If you find you have a question that isn’t answered in our help section, would like to know more about what you find here, or have any requests, please <a href="https://openlab.citytech.cuny.edu/support/contact-us">contact us</a> at any time.

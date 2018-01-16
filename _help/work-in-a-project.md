@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/work-in-a-project/
 published: true
 post_date: 2018-01-15 23:01:56
+tags: [ ]
+categories: [ ]
 ---
 <h3>How Do I…</h3>
 <a href="https://openlab.citytech.cuny.edu/blog/help/work-in-a-project/#clubproject">decide whether to choose a club or project?</a>

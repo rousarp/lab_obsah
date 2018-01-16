@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/edit-my-profile/
 published: true
 post_date: 2018-01-15 23:00:42
+tags: [ ]
+categories: [ ]
 ---
 <h3>How do I…</h3>
 <a href="https://openlab.citytech.cuny.edu/blog/help/edit-my-profile/#changeprofile">change the information in my profile?</a>

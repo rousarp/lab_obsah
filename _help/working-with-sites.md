@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/working-with-sites/
 published: true
 post_date: 2018-01-15 23:04:34
+tags: [ ]
+categories: [ ]
 ---
 <ul>
  	<li><a href="https://openlab.citytech.cuny.edu/blog/help/working-with-sites/#videoembed">I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</a></li>

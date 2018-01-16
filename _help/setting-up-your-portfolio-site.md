@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/setting-up-your-portfolio-site/
 published: true
 post_date: 2018-01-15 22:24:07
+tags: [ ]
+categories: [ ]
 ---
 Once you have created your Portfolio, you can then begin working on your Portfolio Site.  The Faculty Portfolio Site is set up to loosely follow the Professional Activity Report and Self Evaluation (PARSE) format, but you may use it in any way that suits you. Here are a few ideas:
 <ul>

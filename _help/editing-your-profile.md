@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/editing-your-profile/
 published: true
 post_date: 2018-01-15 21:47:11
+tags: [ ]
+categories: [ ]
 ---
 1. After logging in to the OpenLab, click<strong> My OpenLab</strong>.
 

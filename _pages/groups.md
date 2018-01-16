@@ -7,4 +7,6 @@ layout: page
 permalink: http://multi.openlab.dev/groups/
 published: true
 post_date: 2018-01-02 20:04:24
+tags: [ ]
+categories: [ ]
 ---

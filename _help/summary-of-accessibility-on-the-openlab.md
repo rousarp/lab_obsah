@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/summary-of-accessibility-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:54:36
+tags: [ ]
+categories: [ ]
 ---
 Visit the <a href="http://www2.cuny.edu/accessibility/">CUNY IT Accessibility site</a> for resources and information on technology accessibility for students, faculty, and staff at The City University of New York (CUNY).
 

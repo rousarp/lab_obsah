@@ -8,6 +8,10 @@ permalink: >
   http://multi.openlab.dev/blog/nested-and-mixed-lists/
 published: true
 post_date: 2013-03-15 14:48:32
+tags: [ ]
+categories:
+  - Content
+  - Lists
 ---
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 <ul>

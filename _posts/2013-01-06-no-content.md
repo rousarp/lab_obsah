@@ -8,4 +8,7 @@ permalink: >
   http://multi.openlab.dev/blog/no-content/
 published: true
 post_date: 2013-01-06 09:39:56
+tags: [ ]
+categories:
+  - Content
 ---

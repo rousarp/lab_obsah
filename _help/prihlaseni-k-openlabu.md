@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/prihlaseni-k-openlabu/
 published: true
 post_date: 2018-01-08 15:23:40
+tags: [ ]
+categories: [ ]
 ---
 <div class="entry-content">
 <blockquote><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">PŘED ZAČÁTEK, POZORNĚ: Chcete-li vytvořit účet v OpenLab, musíte mít přístup k e-mailovému účtu City Tech. </span><span style="vertical-align: inherit;">Pokud ji nemáte, nikdy jste ho nepoužili, nebo jste zapomněli své uživatelské jméno a / nebo heslo pro stávající účet, budete se muset obrátit na Help Desk na adrese 718-260-4900 nebo studenthelpdesk@citytech.cuny.edu , nebo navštivte Help Desk v prvním patře budovy Atrium. </span><span style="vertical-align: inherit;">Můžete se také podívat do své e-mailové uživatelské jméno </span></span><a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">zde</span></span></a><span style="vertical-align: inherit;"><span style="vertical-align: inherit;"> . </span><span style="vertical-align: inherit;">Nápověda Desk není součástí programu OpenLab, který se nezabývá otázkami e-mailového účtu CityTech.</span></span></blockquote>

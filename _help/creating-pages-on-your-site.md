@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/creating-pages-on-your-site/
 published: true
 post_date: 2018-01-15 22:36:30
+tags: [ ]
+categories: [ ]
 ---
 1. To create a page on your site, go to your site Dashboard and click <strong>Pages &gt; Add New</strong> in the left-hand menu.
 

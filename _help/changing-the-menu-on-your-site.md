@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-the-menu-on-your-site/
 published: true
 post_date: 2018-01-15 22:38:34
+tags: [ ]
+categories: [ ]
 ---
 With most <a title="Changing the appearance of your Site with themes" href="https://openlab.citytech.cuny.edu/blog/help/changing-the-appearance-of-your-site-with-themes/">themes</a>, you can create custom menus on your site.  Custom menus give you the option of modifying how viewers access the particular content on your site.  For example, custom menus allow you to change where your page links appear on your site, they allow you to add drop-down menus, add links to external sites, and/or create category archives on your site (i.e., pages that aggregate all posts into a particular category).
 <h3>Creating Your Menu</h3>

@@ -8,5 +8,7 @@ permalink: >
   http://multi.openlab.dev/dwqa-ask-question/
 published: true
 post_date: 2018-01-02 20:05:25
+tags: [ ]
+categories: [ ]
 ---
 [dwqa-submit-question-form]

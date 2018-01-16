@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/sharing-large-files-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:54:00
+tags: [ ]
+categories: [ ]
 ---
 <h3>Sharing Large Files</h3>
 The OpenLab was conceived as a hub for sharing information and ideas. It would be wonderful to have unlimited file storage space on the OpenLab, but unfortunately that is beyond our current scope and we must have a data limit for individual course, project, club, and portfolio sites. For those members who have reached or are nearing their data limit, this an opportunity to learn “best web practices” – an important skill in any field today. The term best practices refers to the generally accepted practice in a certain medium, field or expertise.

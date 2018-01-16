@@ -7,4 +7,6 @@ layout: page
 permalink: http://multi.openlab.dev/sites/
 published: true
 post_date: 2018-01-02 20:04:26
+tags: [ ]
+categories: [ ]
 ---

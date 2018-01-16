@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-your-avatar-profile-picture/
 published: true
 post_date: 2018-01-15 21:48:58
+tags: [ ]
+categories: [ ]
 ---
 Avatars introduce us and represent us on the OpenLab community.  While many users feel comfortable with images of themselves, it’s not at all required.  Feel free to use an image that represents you or your interests.  But do change it from the generic avatar–it makes the community a much more vibrant place.
 

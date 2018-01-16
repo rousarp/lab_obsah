@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/commenting-on-a-site/
 published: true
 post_date: 2018-01-15 22:28:00
+tags: [ ]
+categories: [ ]
 ---
 1. When you are viewing a <a title="Building blocks: posts, pages, widgets, and plugins" href="https://openlab.citytech.cuny.edu/blog/help/building-blocks-posts-pages-widgets-and-plugins/">post or a page</a> on a course, project, or club site, you will usually have the option of leaving a comment.  Comments usually respond to the content of a post or a page (e.g., expand a conversation, answer a question, etc.).  To leave a comment on a site, you will need to <a title="How do I get to my Site?" href="https://openlab.citytech.cuny.edu/blog/help/how-do-i-get-to-my-site/">access that site’s “Home” page</a>  and browse to locate the post or page on which you would like to leave a comment.  Once you have identified the appropriate post or page, click <strong>Leave a Reply</strong>.  If others have already left comments, the link will instead let you know how many comments have already been left (e.g., instead of “Leave a Reply” it will read “4 Replies”)—this is still the correct link to leave your comment.
 

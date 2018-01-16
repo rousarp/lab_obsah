@@ -7,6 +7,8 @@ layout: page
 permalink: http://multi.openlab.dev/page-comments/
 published: true
 post_date: 2013-03-15 18:16:08
+tags: [ ]
+categories: [ ]
 ---
 This post has its comments, pingbacks, and trackbacks enabled.
 

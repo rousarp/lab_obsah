@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/privacy-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:53:22
+tags: [ ]
+categories: [ ]
 ---
 We take privacy seriously on the OpenLab, which is why we have many different options for choosing what you want to share and with whom.
 

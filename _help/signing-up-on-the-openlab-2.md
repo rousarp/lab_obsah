@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/signing-up-on-the-openlab-2/
 published: true
 post_date: 2018-01-15 23:13:07
+tags: [ ]
+categories: [ ]
 ---
 <blockquote>PŘED ZAČÁTEK, POZORNĚ: Chcete-li vytvořit účet v OpenLab, musíte mít přístup k e-mailovému účtu City Tech. Pokud ji nemáte, nikdy jste ho nepoužili, nebo jste zapomněli své uživatelské jméno a / nebo heslo pro stávající účet, budete se muset obrátit na Help Desk na adrese 718-260-4900 nebo studenthelpdesk@citytech.cuny.edu , nebo navštivte Help Desk v prvním patře budovy Atrium. Můžete se také podívat do své e-mailové uživatelské jméno <a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx">zde</a> . Nápověda Desk není součástí programu OpenLab, který se nezabývá otázkami e-mailového účtu CityTech.</blockquote>
 1. Jakmile jste si jisti, že máte přístup k e-mailovému účtu City Tech, přejděte na  <a href="http://https://openlab.citytech.cuny.edu">domovskou stránku OpenLab</a>  ( <a href="https://openlab.citytech.cuny.edu">https://openlab.citytech.cuny.edu</a> ). Uvidíte spojení  <strong>OpenLab</strong>  v levé části obrazovky. Klikněte na položku <strong> Registrace.</strong>

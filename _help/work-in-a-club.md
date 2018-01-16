@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/work-in-a-club/
 published: true
 post_date: 2018-01-15 23:02:31
+tags: [ ]
+categories: [ ]
 ---
 <h3>How Do I…</h3>
 <a href="https://openlab.citytech.cuny.edu/blog/help/work-in-a-club/#changeadmins">make someone else the admin? I’m the admin for my club but I’m graduating.</a>

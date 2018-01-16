@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/contacting-a-person-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:49:32
+tags: [ ]
+categories: [ ]
 ---
 Once you have <a title="Finding People on the OpenLab" href="https://openlab.citytech.cuny.edu/blog/help/finding-people-on-the-openlab/">located</a> an OpenLab member, you can contact that person in more than one way.
 

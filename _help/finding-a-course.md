@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/finding-a-course/
 published: true
 post_date: 2018-01-15 21:56:15
+tags: [ ]
+categories: [ ]
 ---
 1. If you are already a member of the course, log in and click <strong>My OpenLab</strong> in the main menu. In the right-hand menu, click <strong>My Courses</strong>.  You will see a list of all the courses of which you are a member.
 

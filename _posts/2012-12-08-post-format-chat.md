@@ -8,6 +8,10 @@ permalink: >
   http://multi.openlab.dev/blog/post-format-chat/
 published: true
 post_date: 2012-12-08 08:00:31
+tags: [ ]
+categories:
+  - Chat
+  - Post Formats
 ---
 John: Are we still meeting for breakfast this morning?
 

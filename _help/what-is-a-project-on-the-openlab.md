@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-a-project-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:00:29
+tags: [ ]
+categories: [ ]
 ---
 Students, faculty, and staff can develop projects individually or together to represent a range of activities at City Tech. A project can be academic or social in nature. For example, students collaborating on a class assignment may choose to create a project where they work together on documents and have discussions, eventually building a full Site to display their work.  Other members of the City Tech community might create a project to demonstrate research completed as part of a grant project, and faculty might create a project for a learning community.  Each project offers a <a title="Using “Discussion” forums" href="https://openlab.citytech.cuny.edu/blog/help/discussion-forums/">Discussion</a> forum, <a title="Using “Docs”" href="https://openlab.citytech.cuny.edu/blog/help/using-docs/">Docs</a> for collaborative editing, a place to upload <a title="Using “Files”" href="https://openlab.citytech.cuny.edu/blog/help/using-files/">Files</a>, and a <a title="What is a “Site” on a Course, Project, or Club?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-a-site-on-a-course-project-or-club/">Site</a> where members can write posts (blog entries), provide feedback, and share files and other resources.
 <h3><strong>Project Profile</strong></h3>

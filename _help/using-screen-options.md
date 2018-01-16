@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/using-screen-options/
 published: true
 post_date: 2018-01-15 22:33:24
+tags: [ ]
+categories: [ ]
 ---
 Many people don’t notice the Screen Options menu, appearing in the upper right-hand corner when editing a post or page.  If you’ve ever wondered why you can’t find settings you might be looking for, for example, discussion (commenting) settings or the revisions history, try looking under the Screen Options menu.
 

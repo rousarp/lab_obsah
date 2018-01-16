@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/finding-people-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:48:55
+tags: [ ]
+categories: [ ]
 ---
 You can find people on the OpenLab in several different ways.
 

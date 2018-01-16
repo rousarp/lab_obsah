@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/joining-a-course/
 published: true
 post_date: 2018-01-15 21:56:59
+tags: [ ]
+categories: [ ]
 ---
 1. You must be logged in to the OpenLab to join a Course, so after logging in, go to the go to the <strong>Course Profile</strong> of the course you want to join.  (Read more about how to <a title="Finding a course" href="https://openlab.citytech.cuny.edu/blog/help/finding-a-course/">find a course</a>.)
 

@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/ajax-wp-edit-comments-plugin/
 published: true
 post_date: 2018-01-15 22:44:39
+tags: [ ]
+categories: [ ]
 ---
 The comments function is a central feature to many OpenLab sites, from courses, projects, and clubs to portfolios.  Until recently, site members couldn’t edit their comments if, for example, they rethought what they had said, had something additional to add, or even just misspelled something.  The “Ajax Edit Comments” plugin addresses this issue, allowing comments to be edited for a set length of time (the administrator of the site can set that time length); it also has a spell check feature.
 

@@ -7,4 +7,6 @@ layout: page
 permalink: http://multi.openlab.dev/register/
 published: true
 post_date: 2018-01-03 01:50:20
+tags: [ ]
+categories: [ ]
 ---

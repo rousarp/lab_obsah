@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/making-your-work-accessible/
 published: true
 post_date: 2018-01-15 22:52:07
+tags: [ ]
+categories: [ ]
 ---
 <h3>Making your Work Accessible</h3>
 Web accessibility means that people with disabilities can use the Web. More specifically, it means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.  Web accessibility also benefits others, including older people with changing abilities due to aging (from <a href="https://www.w3.org/WAI/intro/accessibility.php">Web Accessibility Initiative</a>).  Implementing accessible design standards will often improve the experience of everyone using your site.

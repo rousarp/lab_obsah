@@ -8,5 +8,7 @@ permalink: >
   http://multi.openlab.dev/parent-page/child-page-02/
 published: true
 post_date: 2013-03-15 18:25:51
+tags: [ ]
+categories: [ ]
 ---
 This is a child page.

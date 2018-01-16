@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/adding-images-other-media/
 published: true
 post_date: 2018-01-15 22:31:18
+tags: [ ]
+categories: [ ]
 ---
 PLEASE NOTE: Each site has a size limit and unnecessarily large images can take up more of your space than you’d like. If you are sharing many large images, we suggest hosting them with an external storage solution, such as Google Drive, Dropbox, or Flickr, among others. Instructions for embedding externally hosted images is <a href="https://openlab.citytech.cuny.edu/blog/help/adding-images-to-your-site/#embedding">below</a>.  You can also read our guide to <a href="https://openlab.citytech.cuny.edu/blog/help/sharing-large-files-on-the-openlab">sharing large files on the OpenLab</a>.  If you’re uploading images it’s important to optimize them as much as possible before you upload; you can learn more about resizing images <a href="https://openlab.citytech.cuny.edu/openroad/2012/04/23/image-resizing-part-2/">here</a>.
 <h3>Uploading images and other media</h3>

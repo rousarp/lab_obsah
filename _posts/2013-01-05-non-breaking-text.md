@@ -9,6 +9,11 @@ permalink: >
   http://multi.openlab.dev/blog/non-breaking-text/
 published: true
 post_date: 2013-01-05 12:00:59
+tags: [ ]
+categories:
+  - Comments
+  - Content
+  - Titles
 ---
 Super/Duper/Long/NonBreaking/Path/Name/To/A/File/That/Is/Way/Deep/Down/In/Some/Mysterious/Remote/Desolate/Part/Of/The/Operating/System/To/A/File/That/Just/So/Happens/To/Be/Strangely/Named/Supercalifragilisticexpialidocious.txt
 

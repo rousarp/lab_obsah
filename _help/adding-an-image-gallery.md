@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/adding-an-image-gallery/
 published: true
 post_date: 2018-01-15 22:32:06
+tags: [ ]
+categories: [ ]
 ---
 In addition to adding individual images to a post or page, you can also add an image gallery.
 

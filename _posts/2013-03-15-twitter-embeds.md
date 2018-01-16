@@ -8,6 +8,11 @@ permalink: >
   http://multi.openlab.dev/blog/twitter-embeds/
 published: true
 post_date: 2013-03-15 15:47:16
+tags: [ ]
+categories:
+  - Content
+  - Embeds
+  - Twitter
 ---
 https://twitter.com/carlsmith/status/258214236126322689
 

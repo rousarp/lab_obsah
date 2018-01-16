@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/parent-page/child-page-03/
 published: true
 post_date: 2013-03-15 18:26:23
+tags: [ ]
+categories: [ ]
 ---
 This is a child page.
 

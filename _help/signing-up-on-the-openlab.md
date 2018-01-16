@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/signing-up-on-the-openlab/
 published: true
 post_date: 2018-01-07 22:30:24
+tags: [ ]
+categories: [ ]
 ---
 <div>
 <blockquote>BEFORE YOU BEGIN, PLEASE NOTE:  To create an account on the OpenLab, you will need to be able to access your City Tech email account.  If you don’t have one, have never used one, or have forgotten your username and/or password for an existing account, you’ll need to contact the Help Desk at 718-260-4900 or studenthelpdesk@citytech.cuny.edu, or visit the Help Desk on the first floor of the Atrium Building.  You can also look up your email username <a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx">here</a>.  The Help Desk is not part of the OpenLab, which doesn’t handle CityTech email account issues.</blockquote>

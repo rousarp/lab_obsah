@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-an-eportfolio/
 published: true
 post_date: 2018-01-15 22:17:11
+tags: [ ]
+categories: [ ]
 ---
 Each ePortfolio consists of both a Site and an associated Profile that are linked to an OpenLab member’s personal Profile, and can be created by anyone in the OpenLab community.
 

@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/managing-membership-of-a-course-project-or-club/
 published: true
 post_date: 2018-01-15 22:15:56
+tags: [ ]
+categories: [ ]
 ---
 Go to the <strong>Profile Page</strong> of the Course, Project, or Club you administer, and click <strong>Membership</strong> in the right hand menu.  You’ll find two main areas. The major portion of the page (where all the avatars are), and the submenu just above them where you can accept Member Requests, Invite New Members, Email Members, or change Your Email Options. We’ll deal with each of these in turn.
 

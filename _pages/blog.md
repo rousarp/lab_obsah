@@ -7,6 +7,8 @@ layout: page
 permalink: http://multi.openlab.dev/blog/
 published: true
 post_date: 2013-03-15 17:59:55
+tags: [ ]
+categories: [ ]
 ---
 Note that you will probably want to test this page in conjunction with the <strong>Home</strong> page.
 

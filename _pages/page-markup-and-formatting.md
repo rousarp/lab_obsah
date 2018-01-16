@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/page-markup-and-formatting/
 published: true
 post_date: 2013-03-15 18:20:05
+tags: [ ]
+categories: [ ]
 ---
 <h2>Headings</h2>
 <h1>Header one</h1>

@@ -7,6 +7,8 @@ layout: page
 permalink: http://multi.openlab.dev/about/
 published: true
 post_date: 2013-03-15 18:21:12
+tags: [ ]
+categories: [ ]
 ---
 <a title="WP Test - The Best Tests For WordPress" href="http://wptest.io" target="_blank">WP Test</a> is a fantastically exhaustive set of test data to measure the integrity of your plugins and themes.
 

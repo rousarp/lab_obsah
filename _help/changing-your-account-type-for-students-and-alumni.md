@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-your-account-type-for-students-and-alumni/
 published: true
 post_date: 2018-01-15 21:51:49
+tags: [ ]
+categories: [ ]
 ---
 If you have a student account, you can change it to alumni once you graduate. Alumni will not lose access to their OpenLab accounts. According to the <a href="http://www.citytech.cuny.edu/alumni/faqs.aspx">City Tech Alumni Association</a>, you may keep your City Tech email address for the rest of your life. However, they note that you should be sure to log in at least once a year so that it does not go dormant, in which case you can reactivate it, but there are a few extra steps involved.
 

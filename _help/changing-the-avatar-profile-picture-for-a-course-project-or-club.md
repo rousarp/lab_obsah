@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-the-avatar-profile-picture-for-a-course-project-or-club/
 published: true
 post_date: 2018-01-15 22:14:27
+tags: [ ]
+categories: [ ]
 ---
 To change the avatar for any course, project, or club, make sure that you’re logged in, and then go to your course, project, or club profile page.
 

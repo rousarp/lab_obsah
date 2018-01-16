@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/deleting-your-account/
 published: true
 post_date: 2018-01-15 21:52:31
+tags: [ ]
+categories: [ ]
 ---
 Before we proceed, note that these steps are for deleting an OpenLab account in<strong> its entirety</strong>.  They are not the steps for deleting a course, or a project, or a club.  If you want to do that look in help under courses, projects, and clubs.  Following these steps will permanently delete your account and<strong> all courses, projects and clubs </strong>associated with your account.
 

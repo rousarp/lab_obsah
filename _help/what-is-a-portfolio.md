@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-a-portfolio/
 published: true
 post_date: 2018-01-15 22:22:43
+tags: [ ]
+categories: [ ]
 ---
 Each Portfolio consists of both a Site and an associated Profile that are linked to an OpenLab member’s personal Profile.  They are a digital representation of academic and professional interests and achievements that any faculty or staff member on the OpenLab can create.  They might be used, for example, to highlight teaching, research, creative work, and professional service.  See, for example, Professor Jenna Spevack’s Portfolio Site below.
 

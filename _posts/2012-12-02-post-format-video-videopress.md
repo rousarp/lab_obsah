@@ -8,6 +8,14 @@ permalink: >
   http://multi.openlab.dev/blog/post-format-video-videopress/
 published: true
 post_date: 2012-12-02 03:00:34
+tags: [ ]
+categories:
+  - Corner Case
+  - Jetpack
+  - Post Formats
+  - Shortcodes
+  - Video
+  - VideoPress
 ---
 [wpvideo tFnqC9XQ w=680]
 

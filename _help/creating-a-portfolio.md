@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/creating-a-portfolio/
 published: true
 post_date: 2018-01-15 22:23:28
+tags: [ ]
+categories: [ ]
 ---
 By creating a Portfolio on the OpenLab, you will be setting up a Portfolio Site and an associated Portfolio Profile page.  The steps below will take you through naming your Portfolio, writing a short description, and uploading an avatar for your Portfolio Profile page.  You will also choose a URL for the Portfolio Site and Privacy Settings for both the Profile and Site.
 

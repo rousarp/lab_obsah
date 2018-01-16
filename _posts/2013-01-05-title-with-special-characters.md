@@ -8,6 +8,9 @@ permalink: >
   http://multi.openlab.dev/blog/title-with-special-characters/
 published: true
 post_date: 2013-01-05 11:00:20
+tags: [ ]
+categories:
+  - Titles
 ---
 Putting special characters in the title should have no adverse effect on the layout or functionality.
 

@@ -8,6 +8,9 @@ permalink: >
   http://multi.openlab.dev/blog/post-format-gallery/
 published: true
 post_date: 2012-12-10 10:00:14
+tags: [ ]
+categories:
+  - Post Formats
 ---
 [gallery]
 

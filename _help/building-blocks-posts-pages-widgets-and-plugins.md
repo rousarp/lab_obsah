@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/building-blocks-posts-pages-widgets-and-plugins/
 published: true
 post_date: 2018-01-15 22:35:12
+tags: [ ]
+categories: [ ]
 ---
 The four basic “building blocks” for your site are the following: <a href="https://openlab.citytech.cuny.edu/blog/help/writing-a-post/">posts</a>, <a title="Creating pages on your Site" href="https://openlab.citytech.cuny.edu/blog/help/creating-pages-on-your-site/">pages</a>, widgets, and plugins.  To add content to your site, you can use posts or pages.  To add functions to your site, you can use widgets and plugins.  In this section, you will find brief explanations of these building blocks as well as helpful tips for how to best use them on your site.
 

@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/guide-to-plugins/
 published: true
 post_date: 2018-01-15 22:43:25
+tags: [ ]
+categories: [ ]
 ---
 <strong>Achievements</strong>
 

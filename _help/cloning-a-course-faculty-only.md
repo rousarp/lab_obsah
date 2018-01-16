@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/cloning-a-course-faculty-only/
 published: true
 post_date: 2018-01-15 21:58:46
+tags: [ ]
+categories: [ ]
 ---
 Cloning a course will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.
 <ol>

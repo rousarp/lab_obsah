@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-the-appearance-of-your-site-with-themes/
 published: true
 post_date: 2018-01-15 22:35:56
+tags: [ ]
+categories: [ ]
 ---
 1. Choosing a theme allows you to determine the visual aspects, or “look,” of your site.  You can change your site’s theme by going to your site Dashboard and clicking <strong>Appearance &gt; Themes</strong> in the left-hand menu.  Additionally, you can customize your current theme by clicking <strong>Appearance &gt; Themes</strong> and then clicking <strong>Customize</strong> underneath the description of your current theme.
 

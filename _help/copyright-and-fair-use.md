@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/copyright-and-fair-use/
 published: true
 post_date: 2018-01-15 22:55:27
+tags: [ ]
+categories: [ ]
 ---
 <h3><strong>Using the Work of Others on the OpenLab</strong></h3>
 One of the great things about using the OpenLab is that it’s easy to share work, such as writing, images, video, and sound. This means that it’s also important to understand how to respect copyright guidelines, give appropriate credit to the work and ideas of others, and to understand how others might use your work.

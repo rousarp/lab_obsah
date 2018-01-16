@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-your-password/
 published: true
 post_date: 2018-01-15 21:49:56
+tags: [ ]
+categories: [ ]
 ---
 1. After logging into the OpenLab, click<strong> My OpenLab</strong>, then<strong> My Settings </strong>in the right-hand menu.
 

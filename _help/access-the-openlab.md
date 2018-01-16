@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/access-the-openlab/
 published: true
 post_date: 2018-01-15 23:00:03
+tags: [ ]
+categories: [ ]
 ---
 <h3>How do I…</h3>
 <a href="https://openlab.citytech.cuny.edu/blog/help/access-the-openlab/#gainaccess">gain access to the OpenLab?</a>

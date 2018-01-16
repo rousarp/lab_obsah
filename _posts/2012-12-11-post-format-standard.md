@@ -8,6 +8,10 @@ permalink: >
   http://multi.openlab.dev/blog/post-format-standard/
 published: true
 post_date: 2012-12-11 11:00:11
+tags: [ ]
+categories:
+  - Post Formats
+  - Standard
 ---
 <strong>This is an example of a standard post format</strong>.
 

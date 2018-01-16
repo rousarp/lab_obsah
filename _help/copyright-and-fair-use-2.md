@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/copyright-and-fair-use-2/
 published: true
 post_date: 2018-01-15 22:58:54
+tags: [ ]
+categories: [ ]
 ---
 You may be wondering how <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">copyright</a> restrictions and <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">fair use</a> apply on the OpenLab.
 

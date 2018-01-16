@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/who-can-build-a-site/
 published: true
 post_date: 2018-01-15 22:34:35
+tags: [ ]
+categories: [ ]
 ---
 Any faculty, staff, or student can create a site as part of a course (faculty only), project, or club.  The individual who creates the site will be that site’s <a title="Managing users on your Site" href="https://openlab.citytech.cuny.edu/blog/help/managing-users-on-your-site/">Administrator</a> and in charge of creating and managing the site content and site functions.
 

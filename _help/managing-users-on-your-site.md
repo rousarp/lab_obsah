@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/managing-users-on-your-site/
 published: true
 post_date: 2018-01-15 22:42:12
+tags: [ ]
+categories: [ ]
 ---
 The <a title="Who can build a Site?" href="https://openlab.citytech.cuny.edu/blog/help/who-can-build-a-site/">site administrator</a> has sole access to the full site <a title="What is the Site Dashboard?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/">Dashboard</a>.  If you would like others to be able to post, edit, and/or manage posts, they will need to become members of your <a href="https://openlab.citytech.cuny.edu/blog/help/help-category/courses-projects-clubs/">course, project, or club</a>.  All members of a course, project, or club will have the ability to post on the site as authors.  This means they can publish and edit their own content, but cannot change or delete anything that anyone else has created on the site.
 

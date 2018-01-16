@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/creating-a-course-faculty-only/
 published: true
 post_date: 2018-01-15 21:57:51
+tags: [ ]
+categories: [ ]
 ---
 1. After logging in, click <strong>My OpenLab </strong>in the main menu. Then click <strong>My Courses</strong> in the right-hand menu. On the My Courses page, click <strong>+ Create / Clone a Course</strong> at the top of the page.
 

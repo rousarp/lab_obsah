@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/adding-widgets-to-your-site/
 published: true
 post_date: 2018-01-15 22:39:09
+tags: [ ]
+categories: [ ]
 ---
 A widget is a tool that adds different functions to your site. Most sites come with certain widgets already installed, but you can add to and remove them by following the steps below.
 

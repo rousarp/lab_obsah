@@ -8,6 +8,10 @@ permalink: >
   http://multi.openlab.dev/blog/post-format-quote/
 published: true
 post_date: 2012-12-04 04:00:15
+tags: [ ]
+categories:
+  - Post Formats
+  - Quote
 ---
 <blockquote>I suggest a new strategy to you... Let the Wookie win.
 

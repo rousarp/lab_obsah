@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/adding-a-link-to-a-post/
 published: true
 post_date: 2018-01-15 22:30:32
+tags: [ ]
+categories: [ ]
 ---
 1. You can add a link to a post or page by highlighting the words that you would like to link inside the text box and selecting link icon in the toolbar.
 

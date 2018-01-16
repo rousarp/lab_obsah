@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-a-club-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:04:17
+tags: [ ]
+categories: [ ]
 ---
 Students, faculty, and staff can create clubs on the OpenLab to serve as online extensions of their in-person City Tech clubs. If updated regularly, this online space can serve as a way to inform other students of club meetings and activities, have discussions about events and other club-related matters, share club materials, and maintain a web presence.  Each club offers a <a title="Using “Discussion” forums" href="https://openlab.citytech.cuny.edu/blog/help/discussion-forums/">Discussion</a> forum, <a title="Using “Docs”" href="https://openlab.citytech.cuny.edu/blog/help/using-docs/">Docs</a> for collaborative editing, a place to upload <a title="Using “Files”" href="https://openlab.citytech.cuny.edu/blog/help/using-files/">Files</a>, and a <a title="What is a “Site” on a Course, Project, or Club?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-a-site-on-a-course-project-or-club/">Site</a> where members can write posts (blog entries), provide feedback, and share files and other resources.
 <h3><strong>Club Profile</strong></h3>

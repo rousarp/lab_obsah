@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/understanding-eportfolios-for-faculty/
 published: true
 post_date: 2018-01-15 22:21:12
+tags: [ ]
+categories: [ ]
 ---
 Faculty using ePortfolios in their courses can help students build their ePortfolios by choosing their best work to showcase and encouraging them to establish connections between their coursework and the professional skills they will need when they graduate.
 

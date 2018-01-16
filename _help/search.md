@@ -8,4 +8,6 @@ permalink: >
   http://multi.openlab.dev/blog/help/search/
 published: true
 post_date: 2018-01-15 00:31:51
+tags: [ ]
+categories: [ ]
 ---

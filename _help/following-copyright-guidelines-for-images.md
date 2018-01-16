@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/following-copyright-guidelines-for-images/
 published: true
 post_date: 2018-01-15 22:52:46
+tags: [ ]
+categories: [ ]
 ---
 Images that you upload are integral to the appearance and message of your OpenLab presence. From your My OpenLab profile to your Course, Project, or Club and their sites, images play a very important role.  Hence, it’s important to use these images ethically and legally. Here are some ways to find images that are meant to be shared.
 

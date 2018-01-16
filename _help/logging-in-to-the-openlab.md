@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/logging-in-to-the-openlab/
 published: true
 post_date: 2018-01-15 23:14:01
+tags: [ ]
+categories: [ ]
 ---
 Once you’re an OpenLab member (see <a href="https://openlab.citytech.cuny.edu/blog/help/signing-up-on-the-openlab/ ‎">Signing Up On The OpenLab</a>), you can log in two ways:
 

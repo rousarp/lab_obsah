@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/changing-your-email-options-for-a-course-project-or-club/
 published: true
 post_date: 2018-01-15 22:10:45
+tags: [ ]
+categories: [ ]
 ---
 1. In order to change the amount and types of emails you receive that alert you to new activity in your Course, Project, or Club you need to first log into the OpenLab. Once logged in, click the <strong>My OpenLab</strong> dropdown menu.
 

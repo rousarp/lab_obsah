@@ -10,6 +10,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/accessing-your-city-tech-email-for-students-and-alumni/
 published: true
 post_date: 2018-01-15 23:14:40
+tags: [ ]
+categories: [ ]
 ---
 You can find instructions and look up your City Tech email username <a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx">here</a>.  Instructions are also included below.  Please note: Alumni have access to City Tech email for life.  According to the <a href="http://www.citytech.cuny.edu/alumni/faqs.aspx">City Tech Alumni FAQ</a>, “You’ll be able to continue to send and receive e-mails after graduating. Just make sure to log in at least once a year or it will go dormant, in which case you will have to log in and follow a few steps to reactivate it.”
 

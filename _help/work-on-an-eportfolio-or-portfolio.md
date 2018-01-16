@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/work-on-an-eportfolio-or-portfolio/
 published: true
 post_date: 2018-01-15 23:03:05
+tags: [ ]
+categories: [ ]
 ---
 <h3>How Do I…</h3>
 <a href="https://openlab.citytech.cuny.edu/blog/help/work-on-an-eportfolio-or-portfolio/#resume">put my resume on the OpenLab? You said something about “hosting my resume.”</a>

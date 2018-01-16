@@ -7,4 +7,6 @@ layout: page
 permalink: http://multi.openlab.dev/people/
 published: true
 post_date: 2018-01-03 01:39:11
+tags: [ ]
+categories: [ ]
 ---

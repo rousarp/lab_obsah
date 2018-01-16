@@ -8,6 +8,8 @@ permalink: >
   http://multi.openlab.dev/blog/help/what-is-the-site-dashboard/
 published: true
 post_date: 2018-01-15 22:28:35
+tags: [ ]
+categories: [ ]
 ---
 1. When you type in the URL, or web address for your site, you are viewing the public side or “front-end” of your site.  If you have kept your site public, anyone can see this.
 
