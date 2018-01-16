@@ -19,7 +19,7 @@ The image above happens to be <em><strong>centered</strong></em>.
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thang. Mission accomplished!
 
-And now for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
+AND NOW for a <em><strong>massively large image</strong></em>. It also has <em><strong>no alignment</strong></em>.
 
 <img class="alignnone  wp-image-907" title="Image Alignment 1200x400" alt="Image Alignment 1200x400" src="http://multi.openlab.dev/wp-content/uploads/2013/03/image-alignment-1200x4002.jpg" width="1200" height="400" />
 
