@@ -12,7 +12,7 @@ tags: [ ]
 categories: [ ]
 ---
 <h3>Welcome to the OpenLab!</h3>
-If you find you have a question that isn’t answered in our help section, would like to know more about what you find here, or have any requests, please <a href="https://openlab.citytech.cuny.edu/support/contact-us">contact us</a> at any time.
+If you find you have a question that isn’t answered in our help section, would like to know more about what you find here, or have any requests, please <a href="https://multi.openlab.dev/support/contact-us">contact us</a> at any time.
 <h3>What is the OpenLab?</h3>
 The OpenLab is an online community where City Tech students, faculty, and staff meet to learn, work, and share. Its goals are to support teaching and learning, enable connection, and strengthen the life of the college community.
 
@@ -24,11 +24,11 @@ Anyone at City Tech can join, anyone can share, anyone can create a site, projec
  	<li>You can learn how to create courses and teach using the OpenLab before using it in an actual term</li>
  	<li>You can join just to meet members, communicate with colleagues, and make friends.</li>
 </ul>
-Here’s how to <a href="https://openlab.citytech.cuny.edu/blog/help/help-category/getting-started/">get started</a>!
+Here’s how to <a href="https://multi.openlab.dev/blog/help/help-category/getting-started/">get started</a>!
 
-The OpenLab has also been created for the City Tech community by a team that includes and depends on City Tech faculty, staff, and current and former students. If you’d like to be involved <a href="https://openlab.citytech.cuny.edu/about/support/contact-us/">please contact us at any time.</a>
+The OpenLab has also been created for the City Tech community by a team that includes and depends on City Tech faculty, staff, and current and former students. If you’d like to be involved <a href="https://multi.openlab.dev/about/support/contact-us/">please contact us at any time.</a>
 
 &nbsp;
 <p dir="ltr">_____________________</p>
 <strong>
-</strong>The OpenLab is part of a five-year initiative at City Tech called “A Living Laboratory: Revitalizing General Education for a 21st-Century College of Technology,” funded by the U. S. Department of Education, under its Strengthening Hispanic-Serving Institutions (HSI) Title V Program. <a href="https://openlab.citytech.cuny.edu/livinglab">Learn more about the “Living Lab.”</a>
+</strong>The OpenLab is part of a five-year initiative at City Tech called “A Living Laboratory: Revitalizing General Education for a 21st-Century College of Technology,” funded by the U. S. Department of Education, under its Strengthening Hispanic-Serving Institutions (HSI) Title V Program. <a href="https://multi.openlab.dev/livinglab">Learn more about the “Living Lab.”</a>

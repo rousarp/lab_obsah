@@ -76,4 +76,4 @@ Our goal is to ensure that the OpenLab is accessible for all users by complying 
 </ol>
 </li>
 </ol>
-If you have any questions about accessibility on the OpenLab, please don’t hesitate to <a href="https://openlab.citytech.cuny.edu/blog/help/contact-us">contact us</a>.
+If you have any questions about accessibility on the OpenLab, please don’t hesitate to <a href="https://multi.openlab.dev/blog/help/contact-us">contact us</a>.

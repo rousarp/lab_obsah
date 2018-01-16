@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:05:51
 tags: [ ]
 categories: [ ]
 ---
-1. You must be logged in to the OpenLab to join a Club, so after logging in, go to the <strong>Club Profile</strong> of the Club you want to join.  (Read more about how to <a title="Finding a Club" href="https://openlab.citytech.cuny.edu/blog/help/finding-a-club/">find a Club</a>.)
+1. You must be logged in to the OpenLab to join a Club, so after logging in, go to the <strong>Club Profile</strong> of the Club you want to join.  (Read more about how to <a title="Finding a Club" href="https://multi.openlab.dev/blog/help/finding-a-club/">find a Club</a>.)
 
 2. If the Club is public, click <strong>+ Join Now</strong>, and you will automatically become a member.  If the Club is private, click <strong>+ Request Membership</strong> and the Club administrator will be notified of your request.  Once she approves the request you’ll be added as a member.
 

@@ -16,14 +16,14 @@ You can get started by browsing through the topics to the right.  Or, below are
 
 Do you need help…
 <ul>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/signing-up-on-the-openlab/">Creating an account</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/accessing-your-city-tech-email-for-students/">Accessing your City Tech email</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/joining-a-course/">Joining a Course</a>, <a href="https://openlab.citytech.cuny.edu/blog/help/joining-a-project/">Project</a>, or <a href="https://openlab.citytech.cuny.edu/blog/help/joining-a-club/">Club</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/creating-a-course-faculty-only/">Creating a Course</a>, <a href="https://openlab.citytech.cuny.edu/blog/help/creating-a-project/">Project</a>, or <a href="https://openlab.citytech.cuny.edu/blog/help/creating-a-club/">Club</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/creating-an-eportfolio/">Creating an ePortfolio</a> or <a href="https://openlab.citytech.cuny.edu/blog/help/creating-a-portfolio/">Portfolio</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/help-category/using-a-site/">Posting work on a Site in a Course, Project, Club, or Portfolio</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/help-category/building-your-site-for-site-administrators/">Building your Site</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/help-category/managing-your-site/">Managing your Site</a>?</li>
- 	<li><a href="https://openlab.citytech.cuny.edu/blog/help/editing-my-profile/">Editing your Profile</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/signing-up-on-the-openlab/">Creating an account</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/accessing-your-city-tech-email-for-students/">Accessing your City Tech email</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/joining-a-course/">Joining a Course</a>, <a href="https://multi.openlab.dev/blog/help/joining-a-project/">Project</a>, or <a href="https://multi.openlab.dev/blog/help/joining-a-club/">Club</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/creating-a-course-faculty-only/">Creating a Course</a>, <a href="https://multi.openlab.dev/blog/help/creating-a-project/">Project</a>, or <a href="https://multi.openlab.dev/blog/help/creating-a-club/">Club</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/creating-an-eportfolio/">Creating an ePortfolio</a> or <a href="https://multi.openlab.dev/blog/help/creating-a-portfolio/">Portfolio</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/help-category/using-a-site/">Posting work on a Site in a Course, Project, Club, or Portfolio</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/help-category/building-your-site-for-site-administrators/">Building your Site</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/help-category/managing-your-site/">Managing your Site</a>?</li>
+ 	<li><a href="https://multi.openlab.dev/blog/help/editing-my-profile/">Editing your Profile</a>?</li>
 </ul>
-Can’t find what you’re looking for here? <a href="https://openlab.citytech.cuny.edu/blog/help/contact-us/"> Contact us!</a>
+Can’t find what you’re looking for here? <a href="https://multi.openlab.dev/blog/help/contact-us/"> Contact us!</a>
