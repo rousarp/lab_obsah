@@ -4,9 +4,9 @@ post_title: Sample Page
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://openlab.urad.online/sample-page/
+permalink: http://multi.openlab.dev/sample-page/
 published: true
-post_date: 2017-12-13 13:26:22
+post_date: 2018-01-02 19:19:16
 ---
 This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
 
@@ -16,4 +16,4 @@ This is an example page. It's different from a blog post because it will stay in
 
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
 
-As a new WordPress user, you should go to <a href="https://openlab.urad.online/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!
+As a new WordPress user, you should go to <a href="http://multi.openlab.dev/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!

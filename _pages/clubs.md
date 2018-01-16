@@ -1,10 +1,10 @@
 ---
-ID: 39
-post_title: Skupiny
+ID: 1331
+post_title: clubs
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://openlab.urad.online/clubs/
+permalink: http://multi.openlab.dev/clubs/
 published: true
-post_date: 2017-12-13 14:16:28
+post_date: 2018-01-02 20:13:26
 ---

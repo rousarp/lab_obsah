@@ -1,10 +1,10 @@
 ---
-ID: 22
+ID: 1315
 post_title: Groups
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://openlab.urad.online/groups/
+permalink: http://multi.openlab.dev/groups/
 published: true
-post_date: 2017-12-13 14:07:59
+post_date: 2018-01-02 20:04:24
 ---

@@ -1,10 +1,10 @@
 ---
-ID: 53
+ID: 1341
 post_title: portfolios
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://openlab.urad.online/portfolios/
+permalink: http://multi.openlab.dev/portfolios/
 published: true
-post_date: 2017-12-13 17:48:12
+post_date: 2018-01-02 20:14:38
 ---

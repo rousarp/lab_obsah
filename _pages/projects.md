@@ -1,10 +1,10 @@
 ---
-ID: 35
+ID: 1329
 post_title: projects
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://openlab.urad.online/projects/
+permalink: http://multi.openlab.dev/projects/
 published: true
-post_date: 2017-12-13 14:15:41
+post_date: 2018-01-02 20:13:04
 ---
