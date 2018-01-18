@@ -15,13 +15,13 @@ help_category:
   - Getting Started
   - Setting up an Account
 ---
-Once you’re an OpenLab member (see <a href="https://lab.urad.online/help/signing-up-on-the-openlab/ ‎">Signing Up On The OpenLab</a>), you can log in two ways:
+Jakmile jste členem OpenLab (viz <a href="https://lab.urad.online/help/signing-up-on-the-openlab/ ‎">Registrace na OpenLab</a>), můžete se přihlásit dvěma způsoby:
 
 <strong>
-</strong>1. You can visit the OpenLab <a href="https://lab.urad.online/">homepage</a> (<a href="https://lab.urad.online">https://openlab.citytech.cuny.edu</a>) and enter your user name and password under <strong>Log In To OpenLab</strong>.  Once you do that, you’ll remain logged in wherever you go on the OpenLab.
+</strong>1. Můžete navštívit OpenLab <a href="https://lab.urad.online/">úvodní stránku</a> (<a href="https://lab.urad.online">https://lab.urad.online</a>) a zadejte své uživatelské jméno a heslo pod <strong>Přihlásit se</strong>. Jakmile to uděláte, zůstanete přihlášeni pro všechny navštěvované stránky webu.
 
-This is also where you can ask for help if you’ve lost your password or username.  If you need help with your password, simply click <strong>Forgot Password?</strong> and enter your username or City Tech email address on the next screen.  Then log into your City Tech inbox and look for an email from the OpenLab.
+Zde také můžete požádat o pomoc, pokud jste své heslo nebo uživatelské jméno zapomněli. Pokud potřebujete pomoci s heslem, jednoduše klikněte na tlačítko <strong>Zapoměli jste heslo?</strong> a na další obrazovce zadejte uživatelské jméno nebo e-mailovou adresu. Pak se přihlaste do doručené pošty a vyhledejte e-mail od OpenLab.
 
-2. You can also log in from any page you have bookmarked or find yourself on by clicking <strong>Log In</strong> which you will find at the very top right corner of your screen.
+2. Můžete se také přihlásit z libovolné stránky, na které máte záložku nebo se ocitnete kliknutím na tlačítko <strong>Přihlášení</strong>, které najdete v pravém horním rohu obrazovky.
 
-<img class="alignnone wp-image-36133 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/logging_In_1_v2.png" alt="screen shot" />
+<img class="alignnone wp-image-36133 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/logging_In_1_v2.png" alt="přihlášení" />
