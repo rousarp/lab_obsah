@@ -1,6 +1,6 @@
 ---
 ID: 1368
-post_title: Signing up on the OpenLab
+post_title: Vytvořit účet na OpenLab
 author: admin
 post_excerpt: ""
 layout: help
