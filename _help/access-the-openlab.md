@@ -1,6 +1,6 @@
 ---
 ID: 1566
-post_title: Access the OpenLab
+post_title: Přístup do OpenLab
 author: admin
 post_excerpt: ""
 layout: help
@@ -16,14 +16,14 @@ help_category:
   - How do I...?
 ---
 <h3>How do I…</h3>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#gainaccess">gain access to the OpenLab?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#createaccount">create an account?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#email">access my City Tech email?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#username">look up my email username?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#olpassword">recover my OpenLab password that I forgot?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#emailpassword">reset my email password?</a><a name="gainaccess"></a>
+<a href="https://lab.urad.online/blog/help/access-the-openlab/#gainaccess">získat přístup k OpenLab?</a>
+<a href="https://lab.urad.online/blog/help/access-the-openlab/#createaccount">vytvořit účet??</a>
+<a href="https://lab.urad.online/blog/help/access-the-openlab/#email">přístup k mému e-mailu City Tech?</a>
+<a href="https://lab.urad.online/blog/help/access-the-openlab/#username">vyhledat své e-mailové uživatelské jméno?</a>
+<a href="https://lab.urad.online/blog/help/access-the-openlab/#olpassword">obnovit své heslo OpenLab, které jsem zapomněl(a)?</a>
+<a href="https://lab.urad.online/blog/help/access-the-openlab/#emailpassword">resetovat moje e-mailové heslo?</a><a name="gainaccess"></a>
 <a href="https://lab.urad.online/blog/help/access-the-openlab/#alumni">continue using the OpenLab after I graduate?</a>
-<h4>How do I gain access to the OpenLab?</h4>
+<h4>Jak získat přístup k OpenLab?</h4>
 <ul>
  	<li>Anyone can browse through the OpenLab, but only City Tech students, faculty, and staff can <a href="https://lab.urad.online/blog/help/signing-up-on-the-openlab/">sign up</a> for an OpenLab account.</li>
  	<li>To sign up, you need <a href="https://lab.urad.online/blog/help/accessing-your-city-tech-email-for-students/">access</a> to your City Tech email.</li>
