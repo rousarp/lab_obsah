@@ -15,24 +15,24 @@ help_category:
   - Getting Started
   - OpenLab Basics
 ---
-<h3>Welcome to the OpenLab!</h3>
-If you find you have a question that isn’t answered in our help section, would like to know more about what you find here, or have any requests, please <a href="https://lab.urad.online/support/contact-us">contact us</a> at any time.
-<h3>What is the OpenLab?</h3>
-The OpenLab is an online community where City Tech students, faculty, and staff meet to learn, work, and share. Its goals are to support teaching and learning, enable connection, and strengthen the life of the college community.
+<h3>Vítejte v OpenLab!</h3>
+Pokud zjistíte, že máte otázku, která není v naší sekci nápovědy zodpovězena, chtěli byste se dozvědět více o tom, co zde naleznete nebo máte nějaké požadavky, prosím, <a href="https://lab.urad.online/support/contact-us">kontaktujte nás</a> kdykoli.
+<h3>Co je OpenLab?</h3>
+OpenLab je online komunita, kde se setkávají zaměstnanci veřejné správy, dodavatelé, politici či studenti aby se učili, pracovali a sdíleli. Jejím cílem je podporovat výuku a učení, umožnit spojení a posílit život komunity pracovníků veřejné správy.
 
-And unlike many online educational systems, the OpenLab allows its members a look at what’s going on around City Tech.  It gives students a sense of what’s happening in other departments, majors, and classes, and a way to search for and join physical and virtual clubs and other groups.  It gives faculty access to an array of teaching tools, styles and methods, from all disciplines.  By creating a digital campus to extend and compensate for the largely commuter nature of our population, the OpenLab is growing and fostering community across City Tech.
+A na rozdíl od mnoha online vzdělávacích systémů, OpenLab umožňuje svým členům podívat se na to, co se ve veřejné správě děje. Dává všem náhled, co se děje v jiných organizacích, odborech zabývající se shodnou problematikou, umožňuje vyhledávat a připojovat se k fyzickým a virtuálním skupinám a dalším klubům. Poskytuje uživatelům přístup k řadě učebních nástrojů, stylů a metod ze všech oblastí. Vytvořením digitálního portálu s cílem rozšířit a kompenzovat do značné míry usedlost ve vztahu k veřejné správě, OpenLab roste a podporuje komunitu napříč institucemi veřejné správy.
 
-Anyone at City Tech can join, anyone can share, anyone can create a site, project, club, or portfolio.  And it’s not limited to current-semester in-classroom activities:
+Kdokoliv v OpenLab se může připojit, může se podělit o své zkušenosti a názory, každý může vytvořit vlastní webové stránky, projekty, skupiny nebo portfolia. A to není nikterak omezeno:
 <ul>
- 	<li>You can create a club or website based on any interest, at any time</li>
- 	<li>You can learn how to create courses and teach using the OpenLab before using it in an actual term</li>
- 	<li>You can join just to meet members, communicate with colleagues, and make friends.</li>
-</ul>
-Here’s how to <a href="https://lab.urad.online/help/help-category/getting-started/">get started</a>!
+ <li>Můžete kdykoli vytvořit skupinu nebo webové stránky založené na libovolném zájmu.</li>
+ <li>Můžete se naučit vytvářet kurzy a vyučovat pomocí nástrojů OpenLab.</li>
+ <li>Můžete se připojit pouze pro setkání s členy, komunikovat s kolegy a vytvářet přátele.</li>
+</ ul>
+Zde je návod, jak <a href="https://lab.urad.online/help/help-category/getting-started/">začít</a>.
 
-The OpenLab has also been created for the City Tech community by a team that includes and depends on City Tech faculty, staff, and current and former students. If you’d like to be involved <a href="https://lab.urad.online/about/support/contact-us/">please contact us at any time.</a>
+OpenLab byl také vytvořen pro komunitu veřejné správy, který zahrnuje a závisí i na jejich dodavatelích nebo studentech mnohých oborů zabývajících se veřejnou správou. Pokud byste se chtěli podílet <a href="https://lab.urad.online/about/support/contact-us/"> kdykoli nás kontaktujte.</a>
 
-&nbsp;
-<p dir="ltr">_____________________</p>
+& nbsp;
+<p dir = "ltr"> _____________________ </p>
 <strong>
-</strong>The OpenLab is part of a five-year initiative at City Tech called “A Living Laboratory: Revitalizing General Education for a 21st-Century College of Technology,” funded by the U. S. Department of Education, under its Strengthening Hispanic-Serving Institutions (HSI) Title V Program. <a href="https://lab.urad.online/livinglab">Learn more about the “Living Lab.”</a>
+</strong>OpenLab úřad.online je odvozen od stejnojmeném projektu OpenLab, jehož domovskou stránku naleznete <a href="https://openlab.citytech.cuny.edu">zde.</a>
