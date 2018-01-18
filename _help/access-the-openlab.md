@@ -16,29 +16,29 @@ help_category:
   - FAQs
 ---
 <h3>Jak mohu…</h3>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#gainaccess">získat přístup k OpenLab?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#createaccount">vytvořit účet??</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#email">přístup k mému e-mailu City Tech?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#username">vyhledat své e-mailové uživatelské jméno?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#olpassword">obnovit své heslo OpenLab, které jsem zapomněl(a)?</a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#emailpassword">resetovat moje e-mailové heslo?</a><a name="gainaccess"></a>
-<a href="https://lab.urad.online/blog/help/access-the-openlab/#alumni">continue using the OpenLab after I graduate?</a>
+<a href="https://lab.urad.online/help/access-the-openlab/#gainaccess">získat přístup k OpenLab?</a>
+<a href="https://lab.urad.online/help/access-the-openlab/#createaccount">vytvořit účet??</a>
+<a href="https://lab.urad.online/help/access-the-openlab/#email">přístup k mému e-mailu City Tech?</a>
+<a href="https://lab.urad.online/help/access-the-openlab/#username">vyhledat své e-mailové uživatelské jméno?</a>
+<a href="https://lab.urad.online/help/access-the-openlab/#olpassword">obnovit své heslo OpenLab, které jsem zapomněl(a)?</a>
+<a href="https://lab.urad.online/help/access-the-openlab/#emailpassword">resetovat moje e-mailové heslo?</a><a name="gainaccess"></a>
+<a href="https://lab.urad.online/help/access-the-openlab/#alumni">pokračovat v používání OpenLabu poté, co ukončím práci a ztratím pracovní emailovou adresu?</a>
 <h4>Jak získat přístup k OpenLab?</h4>
 <ul>
- 	<li>Anyone can browse through the OpenLab, but only City Tech students, faculty, and staff can <a href="https://lab.urad.online/blog/help/signing-up-on-the-openlab/">sign up</a> for an OpenLab account.</li>
- 	<li>To sign up, you need <a href="https://lab.urad.online/blog/help/accessing-your-city-tech-email-for-students/">access</a> to your City Tech email.</li>
- 	<li>Once you are able to log into your email, you can <a href="https://lab.urad.online/blog/help/signing-up-on-the-openlab/">create an OpenLab account</a>.</li>
- 	<li>If you have an account but have forgotten your password, click the <strong>Forgot Password</strong> link in the <strong>Log in box</strong> on the <a href="https://lab.urad.online/">OpenLab homepage</a> and enter your email or username to reset your password.<a name="createaccount"></a></li>
+ 	<li>Každý může procházet portálem OpenLab, ale pouze zaměstnanci úřadů nebo osobám s přiděleným přístupem se mohou <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">registrovat</a> a získat OpenLab účet.</li>
+ 	<li>K registraci potřebujete <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">přístup</a> k pracovnímu emailu kterékoliv instituce veřejné správy. Více informací získáte v článku Jak zjistím, zda se mohu se svým účtem registrovat či ne? </li>
+ 	<li>Pokud je Vaše e-mailová adresa v systému institucí veřejné správy, můžete <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">vytvořit OpenLab účet</a>.</li>
+   	<li>Pokud máte účet, ale zapomněli jste heslo, klikněte na odkaz <strong>Zapomenuté heslo</strong> v <strong> boxu Přihlašte se</strong> na <a href="https://lab.urad.online/">Úvodní stránce OpenLab</a>, zadejte své e-mailové nebo uživatelské jméno a obnovte heslo.<a name="createaccount"></a></li>
 </ul>
-<h4>How do I create an account?</h4>
+<h4>Jak mohu vytvořit účet?</h4>
 <ul>
- 	<li>First, you’ll need to be able to <a href="https://lab.urad.online/blog/help/accessing-your-city-tech-email-for-students/">access</a> your City Tech email. Students can follow <a href="https://lab.urad.online/blog/help/accessing-your-city-tech-email-for-students/">our instructions</a> for logging into City Tech email.</li>
- 	<li>If you can’t log in, contact the Help Desk on the first floor of the Atrium Building, at 718-260-4900, or <a href="mailto:studenthelpdesk@citytech.cuny.edu">studenthelpdesk@citytech.cuny.edu</a>. Faculty and staff, please contact <a href="http://cis.citytech.cuny.edu/index.aspx">Computing and Information Services</a>.</li>
- 	<li>If you are able to access to your email, please follow our <a href="https://lab.urad.online/blog/help/signing-up-on-the-openlab/">instructions</a> on how to create an account.<a name="email"></a></li>
+ 	<li>Za prvé, budete muset mít <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">přístup</a> k vašemu pracovnímu e-mailovému účtu libovolné instituce veřejné správy. Uživatelé mohou postupovat podle <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">našich instrukcí</a> pro přístup k pracovnímu účtu.</li>
+ 	<li>Pokud se nemůžete přihlásit, kontaktujte <a href="mailto:studenthelpdesk@citytech.cuny.edu">helpdesk@lab.urad.online</a>.
+ 	<li>Pokud máte přístup k e-mailu, postupujte podle našich <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">pokynů</a> jak si vytvořit vlastní účet.<a name="email"></a></li>
 </ul>
-<h4>How do I access my City Tech email?</h4>
+<h4>Jak mohu získat přístup k e-mailu instituce veřejné správy?</h4>
 <ul>
- 	<li>Students, you can access your email from the<a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1377636614&amp;rver=6.1.6206.0&amp;wp=MBI_KEY&amp;wreply=https:%2F%2Fwww.outlook.com%2Fowa%2F&amp;id=260563&amp;whr=mail.citytech.cuny.edu&amp;CBCXT=out"> Microsoft Office 365 email login</a> page. For more information, follow <a href="https://lab.urad.online/blog/help/accessing-your-city-tech-email-for-students/">our instructions</a> for logging into your email.</li>
+ 	<li>Students, you can access your email from the<a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1377636614&amp;rver=6.1.6206.0&amp;wp=MBI_KEY&amp;wreply=https:%2F%2Fwww.outlook.com%2Fowa%2F&amp;id=260563&amp;whr=mail.citytech.cuny.edu&amp;CBCXT=out"> Microsoft Office 365 email login</a> page. For more information, follow <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">our instructions</a> for logging into your email.</li>
  	<li>If you can’t log in, contact the Help Desk on the first floor of the Atrium Building, at 718-260-4900, or <a href="mailto:studenthelpdesk@citytech.cuny.edu">studenthelpdesk@citytech.cuny.edu</a>.</li>
  	<li>Faculty and staff, you can log in to your email <a href="http://email1.citytech.cuny.edu/gw/webacc">here</a>. If you have any trouble logging in, please contact <a href="http://cis.citytech.cuny.edu/index.aspx">Computing and Information Services</a>.</li>
 </ul>
@@ -62,5 +62,5 @@ help_category:
 <a name="alumni"></a>
 <h4>How do I continue using the OpenLab after I graduate?</h4>
 <ul>
- 	<li>You can <a href="https://lab.urad.online/blog/help/changing-your-account-type-for-students-and-alumni/">switch your account type</a> from student to alumni and continue using the OpenLab for as long as you’d like after you graduate.</li>
+ 	<li>You can <a href="https://lab.urad.online/help/changing-your-account-type-for-students-and-alumni/">switch your account type</a> from student to alumni and continue using the OpenLab for as long as you’d like after you graduate.</li>
 </ul>
