@@ -5,11 +5,13 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/understanding-eportfolios-for-faculty/
+  https://lab.urad.online/help/understanding-eportfolios-for-faculty/
 published: true
 post_date: 2018-01-15 22:21:12
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Úvod
+help_category:
+  - Student ePortfolios
 ---
 Faculty using ePortfolios in their courses can help students build their ePortfolios by choosing their best work to showcase and encouraging them to establish connections between their coursework and the professional skills they will need when they graduate.
 
@@ -17,4 +19,4 @@ Rather than having multiple ePortfolios for different courses, students will cre
 
 <strong>Accessing your Students’ ePortfolios</strong>
 
-If an ePortfolio is public, it can be viewed by anyone.  However, if an ePortfolio is private, you will need to <a href="https://multi.openlab.dev/blog/help/changing-privacy-and-other-settings-on-an-eportfolio#access">request membership</a>, or ask your student to invite you to join the ePortfolio.
+If an ePortfolio is public, it can be viewed by anyone.  However, if an ePortfolio is private, you will need to <a href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-on-an-eportfolio#access">request membership</a>, or ask your student to invite you to join the ePortfolio.

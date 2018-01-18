@@ -1,14 +1,13 @@
 ---
-ID: 1090
+ID: 1062
 post_title: Child Page 01
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
-permalink: >
-  http://multi.openlab.dev/parent-page/child-page-01/
+permalink: https://lab.urad.online/child-page-01/
 published: true
 post_date: 2013-03-15 18:25:40
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 This is a child page.

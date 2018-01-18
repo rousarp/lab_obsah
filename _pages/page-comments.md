@@ -1,14 +1,14 @@
 ---
-ID: 1077
+ID: 1096
 post_title: Page Comments
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/page-comments/
+permalink: https://lab.urad.online/page-comments/
 published: true
 post_date: 2013-03-15 18:16:08
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 This post has its comments, pingbacks, and trackbacks enabled.
 

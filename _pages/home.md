@@ -1,14 +1,14 @@
 ---
-ID: 1064
+ID: 1084
 post_title: Home
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/home/
+permalink: https://lab.urad.online/home/
 published: true
 post_date: 2013-03-15 17:56:11
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 Note that you will probably want to test this page in conjunction with the <strong>Blog</strong> page.
 

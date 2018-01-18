@@ -5,11 +5,15 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/copyright-and-fair-use-2/
+  https://lab.urad.online/help/copyright-and-fair-use-2/
 published: true
 post_date: 2018-01-15 22:58:54
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Doporučení
+  - Úvod
+help_category:
+  - Best Practices
+  - For Faculty
 ---
 You may be wondering how <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">copyright</a> restrictions and <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">fair use</a> apply on the OpenLab.
 
@@ -28,7 +32,7 @@ The same principles you would use in your own scholarly work apply on the OpenLa
  	<li>Use open license images, such as those licensed through <a href="http://creativecommons.org/licenses/">Creative Commons</a>. You may use these as long as you credit the original owner or creator of the image.</li>
  	<li>Try to find images that are in the public domain, which are free of copyright. In the U.S., images created before 1923 are automatically in the public domain.</li>
  	<li>Find out whether you have permission to use an image. If it says “all rights reserved” or “copyright,” do not use. Or, if you can’t find any copyright information or if you’re unsure, it’s best not to use.</li>
- 	<li>Read our help page on <a href="https://multi.openlab.dev/blog/help/following-copyright-guidelines-for-images/">images</a> for more information, including where you can find open license and public domain images.</li>
+ 	<li>Read our help page on <a href="https://openlab.citytech.cuny.edu/blog/help/following-copyright-guidelines-for-images/">images</a> for more information, including where you can find open license and public domain images.</li>
 </ul>
 </li>
 </ul>
@@ -38,7 +42,7 @@ The same principles you would use in your own scholarly work apply on the OpenLa
 <h3><b>Licensing your own Work on the OpenLab</b></h3>
 Any content that you or your students create or post on the OpenLab is automatically protected under the terms and conditions of a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution NonCommercial Share-Alike 3.0 license</a>, or any successor or equivalent Creative Commons license. However, you are free to specify other copyright conditions for any content that you create or post on the OpenLab. You will need to specify those on your own site if they differ from the general OpenLab license.
 
-If you have questions about copyright and fair use, or concerns about violations related to your content, please contact us at openlab@citytech.cuny.edu. You can also find more information about copyright issues by reading our <a href="https://multi.openlab.dev/about/terms-of-service/">Terms of Use</a>.
+If you have questions about copyright and fair use, or concerns about violations related to your content, please contact us at openlab@citytech.cuny.edu. You can also find more information about copyright issues by reading our <a href="https://openlab.citytech.cuny.edu/about/terms-of-service/">Terms of Use</a>.
 <h3><b>Additional Resources</b></h3>
 <b>Copyright and Fair Use
 </b><a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use

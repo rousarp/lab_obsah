@@ -5,16 +5,19 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/making-your-work-accessible/
+  https://lab.urad.online/help/making-your-work-accessible/
 published: true
 post_date: 2018-01-15 22:52:07
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Nepřiřazeno
+help_category:
+  - Best Practices
+  - For Everyone
 ---
 <h3>Making your Work Accessible</h3>
 Web accessibility means that people with disabilities can use the Web. More specifically, it means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.  Web accessibility also benefits others, including older people with changing abilities due to aging (from <a href="https://www.w3.org/WAI/intro/accessibility.php">Web Accessibility Initiative</a>).  Implementing accessible design standards will often improve the experience of everyone using your site.
 
-The post below outlines what you should do to improve accessibility on your own Course, Project, Club, and Portfolio sites.  You can find out more information about accessibility, and improvements the OpenLab has been making, in our post on <a href="https://multi.openlab.dev/blog/help/summary-of-accessibility-on-the-openlab/">Summary of Accessibility on the OpenLab</a>.  CUNY’s site on accessibility standards also has helpful information on <a href="http://www2.cuny.edu/accessibility/content/">making digital content accessible</a>.
+The post below outlines what you should do to improve accessibility on your own Course, Project, Club, and Portfolio sites.  You can find out more information about accessibility, and improvements the OpenLab has been making, in our post on <a href="https://openlab.citytech.cuny.edu/blog/help/summary-of-accessibility-on-the-openlab/">Summary of Accessibility on the OpenLab</a>.  CUNY’s site on accessibility standards also has helpful information on <a href="http://www2.cuny.edu/accessibility/content/">making digital content accessible</a>.
 <h4>Documents</h4>
 It is important that documents, such as PDF and Microsoft Word files, that you upload to the OpenLab, are accessible.  These  include documents on a Site, or in the Files section of a Course, Project, or Club Profile.  CUNY’s guide to <a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/">creating accessible PDF and Microsoft Office documents</a> provides detailed instructions for how to do this, but a few key points are emphasized below.
 <ol>
@@ -54,7 +57,7 @@ It is important that documents, such as PDF and Microsoft Word files, that you u
 </ol>
 &nbsp;
 
-<img class="alignnone size-full wp-image-45616" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1-300x171.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1-768x436.png 768w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1-1024x582.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1-32x18.png 32w" alt="Screenshot showing title, alt text, and link to settings." />
+<img class="alignnone size-full wp-image-45616" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1.png" alt="Screenshot showing title, alt text, and link to settings." />
 <h4>Video and Animation</h4>
 <ol>
  	<li>Do not autoplay video and animated gifs with flashing visual content.
@@ -106,7 +109,7 @@ It is important that documents, such as PDF and Microsoft Word files, that you u
 </ol>
 &nbsp;
 
-<img class="alignnone size-full wp-image-45617" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2.png" sizes="(max-width: 847px) 100vw, 847px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2.png 847w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2-286x300.png 286w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2-768x806.png 768w, https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2-30x32.png 30w" alt="Screenshot showing heading styles" />
+<img class="alignnone size-full wp-image-45617" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2.png" alt="Screenshot showing heading styles" />
 <h4>Additional Resources</h4>
 Below are some more helpful resources on how to make your site more accessible:
 <ul>

@@ -1,14 +1,14 @@
 ---
-ID: 1323
+ID: 496
 post_title: DWQA Ask Question
 author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://multi.openlab.dev/dwqa-ask-question/
+  https://lab.urad.online/dwqa-ask-question/
 published: true
-post_date: 2018-01-02 20:05:25
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-15 23:24:05
+help_tags: [ ]
+help_category: [ ]
 ---
 [dwqa-submit-question-form]

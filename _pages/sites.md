@@ -1,12 +1,12 @@
 ---
-ID: 1316
+ID: 34
 post_title: Sites
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/sites/
+permalink: https://lab.urad.online/sites/
 published: true
-post_date: 2018-01-02 20:04:26
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-20 23:46:58
+help_tags: [ ]
+help_category: [ ]
 ---

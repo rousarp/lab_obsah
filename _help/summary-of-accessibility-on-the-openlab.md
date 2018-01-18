@@ -5,11 +5,14 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/summary-of-accessibility-on-the-openlab/
+  https://lab.urad.online/help/summary-of-accessibility-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:54:36
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Nepřiřazeno
+help_category:
+  - Best Practices
+  - For Everyone
 ---
 Visit the <a href="http://www2.cuny.edu/accessibility/">CUNY IT Accessibility site</a> for resources and information on technology accessibility for students, faculty, and staff at The City University of New York (CUNY).
 
@@ -76,4 +79,4 @@ Our goal is to ensure that the OpenLab is accessible for all users by complying 
 </ol>
 </li>
 </ol>
-If you have any questions about accessibility on the OpenLab, please don’t hesitate to <a href="https://multi.openlab.dev/blog/help/contact-us">contact us</a>.
+If you have any questions about accessibility on the OpenLab, please don’t hesitate to <a href="https://openlab.citytech.cuny.edu/blog/help/contact-us">contact us</a>.

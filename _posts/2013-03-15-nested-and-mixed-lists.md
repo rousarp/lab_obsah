@@ -1,17 +1,15 @@
 ---
-ID: 1000
+ID: 1182
 post_title: Nested And Mixed Lists
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/nested-and-mixed-lists/
+  https://lab.urad.online/nested-and-mixed-lists/
 published: true
 post_date: 2013-03-15 14:48:32
-tags: [ ]
-categories:
-  - Content
-  - Lists
+help_tags: [ ]
+help_category: [ ]
 ---
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 <ul>

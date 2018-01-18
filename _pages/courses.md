@@ -1,12 +1,12 @@
 ---
-ID: 1333
+ID: 530
 post_title: courses
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/courses/
+permalink: https://lab.urad.online/groups/courses/
 published: true
-post_date: 2018-01-02 20:13:40
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-23 01:29:47
+help_tags: [ ]
+help_category: [ ]
 ---

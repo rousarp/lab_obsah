@@ -1,13 +1,13 @@
 ---
-ID: 1322
+ID: 495
 post_title: DWQA Questions
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/dwqa-questions/
+permalink: https://lab.urad.online/dwqa-questions/
 published: true
-post_date: 2018-01-02 20:05:24
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-15 23:24:05
+help_tags: [ ]
+help_category: [ ]
 ---
 [dwqa-list-questions]

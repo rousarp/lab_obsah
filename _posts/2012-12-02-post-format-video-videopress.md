@@ -1,21 +1,15 @@
 ---
-ID: 1005
+ID: 1122
 post_title: 'Post Format: Video (VideoPress)'
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/post-format-video-videopress/
+  https://lab.urad.online/post-format-video-videopress/
 published: true
 post_date: 2012-12-02 03:00:34
-tags: [ ]
-categories:
-  - Corner Case
-  - Jetpack
-  - Post Formats
-  - Shortcodes
-  - Video
-  - VideoPress
+help_tags: [ ]
+help_category: [ ]
 ---
 [wpvideo tFnqC9XQ w=680]
 

@@ -1,17 +1,15 @@
 ---
-ID: 568
+ID: 1129
 post_title: 'Post Format: Image'
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/post-format-image/
+  https://lab.urad.online/post-format-image/
 published: true
 post_date: 2012-12-05 05:00:39
-tags: [ ]
-categories:
-  - Images
-  - Post Formats
+help_tags: [ ]
+help_category: [ ]
 ---
 <dl class="wp-caption aligncenter" id="attachment_612" style="width: 650px;"><dt class="wp-caption-dt"></dt></dl><img class="alignnone size-full wp-image-967" alt="Unicorn Wallpaper" src="http://multi.openlab.dev/wp-content/uploads/2012/12/unicorn-wallpaper.jpg" width="1600" height="1200" />
 

@@ -5,11 +5,15 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/working-with-courses/
+  https://lab.urad.online/help/working-with-courses/
 published: true
 post_date: 2018-01-15 22:57:27
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Doporučení
+  - Úvod
+help_category:
+  - Best Practices
+  - For Faculty
 ---
 If you’re a faculty member, you might be wondering what practices might help organize your OpenLab course(s) to make semester-transition easier.  A few you might think about before the semester starts, others at the end.
 <h3><strong>Before the semester</strong></h3>
@@ -25,9 +29,9 @@ Or you could simply add students to a single course over time.  This can be par
 If you’re interested in setting up this sort of structure, email us anytime for advice and assistance.
 <h3><strong>When the semester is done or Beginning a new semester</strong></h3>
 <h4>Copying (“cloning”) Courses</h4>
-Our system makes it incredibly easy to “clone” a course, bringing all documents and most settings to a new and uniquely named site and profile.  Cloning a course is particularly useful for setting up multiple sections of the same course in a new semester.  You’ll find cloning is now integrated into the OpenLab’s course creation.  You can <a href="https://multi.openlab.dev/blog/help/cloning-a-course/">learn more about it here</a>.
+Our system makes it incredibly easy to “clone” a course, bringing all documents and most settings to a new and uniquely named site and profile.  Cloning a course is particularly useful for setting up multiple sections of the same course in a new semester.  You’ll find cloning is now integrated into the OpenLab’s course creation.  You can <a href="https://openlab.citytech.cuny.edu/blog/help/cloning-a-course/">learn more about it here</a>.
 
-If you want to copy only certain parts of a course site, however, or to copy material created only by certain users (yourself, for example), you might want to use the import/export function on our sites.  You can <a href="https://multi.openlab.dev/openroad/2012/05/21/importing-and-exporting-sites/">learn more about that here</a>.  Do note that the import/export function only copies course sites:  if most of your course material is on your profile page, you probably are better off using the clone feature.
+If you want to copy only certain parts of a course site, however, or to copy material created only by certain users (yourself, for example), you might want to use the import/export function on our sites.  You can <a href="https://openlab.citytech.cuny.edu/openroad/2012/05/21/importing-and-exporting-sites/">learn more about that here</a>.  Do note that the import/export function only copies course sites:  if most of your course material is on your profile page, you probably are better off using the clone feature.
 
 PLEASE DON’T DELETE STUDENT WORK!
 

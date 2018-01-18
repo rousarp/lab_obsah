@@ -7,11 +7,16 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/accessing-your-city-tech-email-for-students-and-alumni/
+  https://lab.urad.online/help/accessing-your-city-tech-email-for-students-and-alumni/
 published: true
 post_date: 2018-01-15 23:14:40
-tags: [ ]
-categories: [ ]
+help_tags:
+  - E-maily
+  - Připojení
+  - Úvod
+help_category:
+  - Getting Started
+  - Setting up an Account
 ---
 You can find instructions and look up your City Tech email username <a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx">here</a>.  Instructions are also included below.  Please note: Alumni have access to City Tech email for life.  According to the <a href="http://www.citytech.cuny.edu/alumni/faqs.aspx">City Tech Alumni FAQ</a>, “You’ll be able to continue to send and receive e-mails after graduating. Just make sure to log in at least once a year or it will go dormant, in which case you will have to log in and follow a few steps to reactivate it.”
 
@@ -27,7 +32,7 @@ For example, if your name is Lisa Simpson and you were born on December 1, 1994,
  	<li>Username: lisa.simpson@mail.citytech.cuny.edu</li>
  	<li>Password: 1201941234</li>
 </ul>
-<img class="alignnone wp-image-7442 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_11.png" sizes="(max-width: 421px) 100vw, 421px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_11.png 421w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_11-280x300.png 280w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_11-29x32.png 29w" alt="Student_Email screen shot" />
+<img class="alignnone wp-image-7442 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_11.png" alt="Student_Email screen shot" />
 
 If you are logging in for the first time, you will be asked a number of questions, such as your location, time zone, and contact information.  Answer these questions, and if prompted to create a new password, do so, but make sure to write it down!
 
@@ -37,7 +42,7 @@ If you can’t remember your password and need to have it reset, please contact 
 
 Once you have gone through the OpenLab registration process described here you will receive an email from the OpenLab in your City Tech email inbox.  Click on the link, or copy and paste it into a new browser tab or window to complete your registration.
 
-<img class="alignnone wp-image-7443" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_21.png" sizes="(max-width: 646px) 100vw, 646px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_21.png 1076w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_21-300x97.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_21-1024x332.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_21-32x10.png 32w" alt="Student_Email screen shot" />
+<img class="alignnone wp-image-7443" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/10/Student_Email_21.png" alt="Student_Email screen shot" />
 
 <strong>PLEASE NOTE</strong>:
 <ul>

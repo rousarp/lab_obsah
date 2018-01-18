@@ -1,18 +1,14 @@
 ---
-ID: 1031
+ID: 1184
 post_title: Tiled Gallery
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
-permalink: >
-  http://multi.openlab.dev/blog/tiled-gallery/
+permalink: https://lab.urad.online/tiled-gallery/
 published: true
 post_date: 2013-03-15 17:23:27
-tags: [ ]
-categories:
-  - Gallery
-  - Images
-  - Jetpack
+help_tags: [ ]
+help_category: [ ]
 ---
 This is a test for Jetpack's Tiled Gallery.
 

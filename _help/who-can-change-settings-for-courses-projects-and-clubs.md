@@ -7,11 +7,16 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/who-can-change-settings-for-courses-projects-and-clubs/
+  https://lab.urad.online/help/who-can-change-settings-for-courses-projects-and-clubs/
 published: true
 post_date: 2018-01-15 22:12:45
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Nastavení
+help_category:
+  - >
+    Changing Settings for Courses Projects
+    and Clubs
+  - Courses Projects and Clubs
 ---
 Only administrators can change settings for courses, projects, and clubs.  By default the administrator is the member who started the site, but sites can have multiple administrators.  This can be particularly useful for clubs and groups, where you might not want every major change to have to go through one specific person.  It can also create confusion, particularly if more than one administrator is making changes simultaneously (everything can be reset, however), so we recommend a good level of communication between all administrators.
 
@@ -21,7 +26,7 @@ To make a member an administrator, follow these steps:
 
 2.  Here you will see all the members of your site, arranged by current role.  Find the member you would like to promote, then change their role in the drop-down menu to the right of their avatar.
 
-<img class="alignnone wp-image-36479 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2-300x163.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2-1024x556.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2-32x17.png 32w" alt="Membership Change Settings Screen Shot" />
+<img class="alignnone wp-image-36479 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2.png" alt="Membership Change Settings Screen Shot" />
 
 3. Click <strong>Save Changes</strong>, and you’re done!
 

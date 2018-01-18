@@ -1,20 +1,14 @@
 ---
-ID: 903
+ID: 1170
 post_title: Image Alignment
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
-permalink: >
-  http://multi.openlab.dev/blog/image-alignment/
+permalink: https://lab.urad.online/image-alignment/
 published: true
 post_date: 2013-01-10 20:15:40
-tags: [ ]
-categories:
-  - Alignment
-  - Captions
-  - Content
-  - Images
-  - Link
+help_tags: [ ]
+help_category: [ ]
 ---
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 

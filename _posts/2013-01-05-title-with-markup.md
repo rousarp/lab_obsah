@@ -1,16 +1,15 @@
 ---
-ID: 861
+ID: 1157
 post_title: Title With Markup
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/title-with-markup/
+  https://lab.urad.online/title-with-markup/
 published: true
 post_date: 2013-01-05 10:00:49
-tags: [ ]
-categories:
-  - Titles
+help_tags: [ ]
+help_category: [ ]
 ---
 Verify that:
 <ul>

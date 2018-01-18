@@ -1,18 +1,14 @@
 ---
-ID: 1027
+ID: 1186
 post_title: Twitter Embeds
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
-permalink: >
-  http://multi.openlab.dev/blog/twitter-embeds/
+permalink: https://lab.urad.online/twitter-embeds/
 published: true
 post_date: 2013-03-15 15:47:16
-tags: [ ]
-categories:
-  - Content
-  - Embeds
-  - Twitter
+help_tags: [ ]
+help_category: [ ]
 ---
 https://twitter.com/carlsmith/status/258214236126322689
 

@@ -1,12 +1,12 @@
 ---
-ID: 1353
+ID: 528
 post_title: register
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/register/
+permalink: https://lab.urad.online/register/
 published: true
-post_date: 2018-01-03 01:50:20
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-23 00:49:33
+help_tags: [ ]
+help_category: [ ]
 ---

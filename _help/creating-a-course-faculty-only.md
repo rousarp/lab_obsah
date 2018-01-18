@@ -5,21 +5,24 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/creating-a-course-faculty-only/
+  https://lab.urad.online/help/creating-a-course-faculty-only/
 published: true
 post_date: 2018-01-15 21:57:51
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Vytvoření
+help_category:
+  - Courses
+  - Courses Projects and Clubs
 ---
 1. After logging in, click <strong>My OpenLab </strong>in the main menu. Then click <strong>My Courses</strong> in the right-hand menu. On the My Courses page, click <strong>+ Create / Clone a Course</strong> at the top of the page.
 
-<img class="alignnone wp-image-36188 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2-300x158.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2-1024x539.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2-32x17.png 32w" alt="Create Course screen shot" />
+<img class="alignnone wp-image-36188 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2.png" alt="Create Course screen shot" />
 <h3>Step One: Profile</h3>
-1. On the first course creation page, you can either choose to create a new course or <a title="Cloning a course (faculty only)" href="https://multi.openlab.dev/blog/help/cloning-a-course/">clone an existing course</a>.  Cloning will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.  <a title="Cloning a course (faculty only)" href="https://multi.openlab.dev/blog/help/cloning-a-course/">View instructions here</a> on cloning a course or continue below for creating a new course.
+1. On the first course creation page, you can either choose to create a new course or <a title="Cloning a course (faculty only)" href="https://openlab.citytech.cuny.edu/blog/help/cloning-a-course/">clone an existing course</a>.  Cloning will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.  <a title="Cloning a course (faculty only)" href="https://openlab.citytech.cuny.edu/blog/help/cloning-a-course/">View instructions here</a> on cloning a course or continue below for creating a new course.
 
 2. Choose <strong>Create a New Course</strong>.
 
-<img class="alignnone wp-image-36189 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_2_v2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_2_v2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_2_v2-300x158.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_2_v2-1024x539.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_2_v2-32x17.png 32w" alt="Create Course screen shot" />
+<img class="alignnone wp-image-36189 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_2_v2.png" alt="Create Course screen shot" />
 
 3. Enter the required information including the <strong>Course Name</strong>, <strong>Course Description</strong>, <strong>School</strong>, <strong>Department</strong>, and any additional information you wish.  The more information you fill out, the easier it will be to find the course.  You can always change any of the information later.
 
@@ -34,7 +37,7 @@ If you have an existing site that is not on the OpenLab, you can choose to <stro
 
 5. When you are finished, click <strong>Create Course and Continue</strong>.
 
-<img class="alignnone wp-image-36190 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_3_v2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_3_v2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_3_v2-300x158.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_3_v2-1024x539.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_3_v2-32x17.png 32w" alt="Create Course screen shot" />
+<img class="alignnone wp-image-36190 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_3_v2.png" alt="Create Course screen shot" />
 <h3>Step Two: Privacy Settings</h3>
 <h4>Profile Privacy Settings</h4>
 1. Choose your <strong>Profile privacy settings</strong>.  These settings control the privacy of the course profile, and are different from the course site, which you will choose next. You can change the settings at any time.
@@ -95,29 +98,29 @@ If you have an existing site that is not on the OpenLab, you can choose to <stro
 </ul>
 3. When you’re done, click <strong>Next Step</strong>.
 
-<img class="alignnone wp-image-36191 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_4_v2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_4_v2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_4_v2-300x54.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_4_v2-1024x183.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_4_v2-32x6.png 32w" alt="Create Course screen shot" />
+<img class="alignnone wp-image-36191 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_4_v2.png" alt="Create Course screen shot" />
 <h3>Step Three: Avatar</h3>
 1. Upload an avatar that reflects the subject or topic of your course.   If you have an image file ready that you would like to use as your avatar, click <strong>Browse</strong> or <strong>Choose</strong> <strong>File</strong>.  Select the file you want to use from your computer or flash drive and then click <strong>Upload Image</strong>.  If you don’t have an image you would like to use you can always add one later–just click <strong>Next Step </strong>(if you are finished skip to the next section, “Step Four: Invite Members”).
 
-<img class="alignnone wp-image-36192 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_5_v2.png" sizes="(max-width: 871px) 100vw, 871px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_5_v2.png 871w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_5_v2-300x178.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_5_v2-32x19.png 32w" alt="Create Course Upload Avatar screen shot" />
+<img class="alignnone wp-image-36192 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_5_v2.png" alt="Create Course Upload Avatar screen shot" />
 
 2. Crop the image by dragging the square around the portion of the image you want to use and then click <strong>Crop Image</strong>.
 
-<img class="alignnone wp-image-36193 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_6_v2.png" sizes="(max-width: 775px) 100vw, 775px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_6_v2.png 775w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_6_v2-300x285.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_6_v2-32x30.png 32w" alt="Create Course Crop Avatar screen shot" />
+<img class="alignnone wp-image-36193 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_6_v2.png" alt="Create Course Crop Avatar screen shot" />
 
 3. When you are done click <strong>Next Step</strong>.
 
-<img class="alignnone wp-image-36194 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_7_v2.png" sizes="(max-width: 893px) 100vw, 893px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_7_v2.png 893w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_7_v2-300x191.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_7_v2-32x20.png 32w" alt="Create Course Next Step screen shot" />
+<img class="alignnone wp-image-36194 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_7_v2.png" alt="Create Course Next Step screen shot" />
 <h3>Step Four: Inviting Members</h3>
 1. If you would like to invite members to your Course, start typing their display name.  When a dropdown list appears, select their name from the list.  Their name and avatar will appear under the heading Invites.  When you’re finished, or if you do not wish to invite anyone at this time (you can always do it later!), click <strong>Finish</strong>, at the bottom of the page.
 
-<img class="alignnone wp-image-36195 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2-300x158.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2-1024x539.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2-32x17.png 32w" alt="Create Course Invite Members screen shot" />
+<img class="alignnone wp-image-36195 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2.png" alt="Create Course Invite Members screen shot" />
 
-2. After you click <strong>Finish</strong> you will see your new Course Profile page!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and <a title="What is the Site Dashboard?" href="https://multi.openlab.dev/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Course Site).
+2. After you click <strong>Finish</strong> you will see your new Course Profile page!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and <a title="What is the Site Dashboard?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Course Site).
 
-<img class="alignnone wp-image-36196 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2-300x259.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2-1024x885.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2-32x28.png 32w" alt="Create Course Complete screen shot" />
+<img class="alignnone wp-image-36196 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2.png" alt="Create Course Complete screen shot" />
 
-Now that your course has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://multi.openlab.dev/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://multi.openlab.dev/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
+Now that your course has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://openlab.citytech.cuny.edu/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
 
 Help information on course site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu" target="_blank" rel="noopener">Blogs@Baruch</a> at Baruch College, CUNY.
 

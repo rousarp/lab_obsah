@@ -1,12 +1,12 @@
 ---
-ID: 1344
+ID: 1054
 post_title: Aktivovat
-author: admin
+author: pavel
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/aktivovat/
+permalink: https://lab.urad.online/aktivovat/
 published: true
 post_date: 2018-01-02 21:40:00
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---

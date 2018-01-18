@@ -1,12 +1,12 @@
 ---
-ID: 1351
+ID: 549
 post_title: People
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/people/
+permalink: https://lab.urad.online/people/
 published: true
-post_date: 2018-01-03 01:39:11
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-24 00:53:29
+help_tags: [ ]
+help_category: [ ]
 ---

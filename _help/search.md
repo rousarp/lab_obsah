@@ -4,10 +4,9 @@ post_title: search
 author: admin
 post_excerpt: ""
 layout: help
-permalink: >
-  http://multi.openlab.dev/blog/help/search/
+permalink: https://lab.urad.online/help/search/
 published: true
 post_date: 2018-01-15 00:31:51
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---

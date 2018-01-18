@@ -5,11 +5,13 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/eportfolio-resources/
+  https://lab.urad.online/help/eportfolio-resources/
 published: true
 post_date: 2018-01-15 22:21:52
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Doporučení
+help_category:
+  - Student ePortfolios
 ---
 There are many resources available for students working with ePortfolios.
 <h3>ePortfolio Lab, G-606</h3>

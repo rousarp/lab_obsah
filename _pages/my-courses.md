@@ -1,12 +1,12 @@
 ---
-ID: 1339
+ID: 41
 post_title: my-courses
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/my-courses/
+permalink: https://lab.urad.online/my-courses/
 published: true
-post_date: 2018-01-02 20:14:23
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-20 23:55:55
+help_tags: [ ]
+help_category: [ ]
 ---

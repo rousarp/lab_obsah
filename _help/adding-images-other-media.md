@@ -1,17 +1,21 @@
 ---
 ID: 1503
-post_title: 'Adding images &#038; other media'
+post_title: 'Adding images &amp; other media'
 author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/adding-images-other-media/
+  https://lab.urad.online/help/adding-images-other-media/
 published: true
 post_date: 2018-01-15 22:31:18
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Obrázky
+  - Vytvoření
+help_category:
+  - Sites on the OpenLab
+  - Using a Site (for Site members)
 ---
-PLEASE NOTE: Each site has a size limit and unnecessarily large images can take up more of your space than you’d like. If you are sharing many large images, we suggest hosting them with an external storage solution, such as Google Drive, Dropbox, or Flickr, among others. Instructions for embedding externally hosted images is <a href="https://multi.openlab.dev/blog/help/adding-images-to-your-site/#embedding">below</a>.  You can also read our guide to <a href="https://multi.openlab.dev/blog/help/sharing-large-files-on-the-openlab">sharing large files on the OpenLab</a>.  If you’re uploading images it’s important to optimize them as much as possible before you upload; you can learn more about resizing images <a href="https://multi.openlab.dev/openroad/2012/04/23/image-resizing-part-2/">here</a>.
+PLEASE NOTE: Each site has a size limit and unnecessarily large images can take up more of your space than you’d like. If you are sharing many large images, we suggest hosting them with an external storage solution, such as Google Drive, Dropbox, or Flickr, among others. Instructions for embedding externally hosted images is <a href="https://openlab.citytech.cuny.edu/blog/help/adding-images-to-your-site/#embedding">below</a>.  You can also read our guide to <a href="https://openlab.citytech.cuny.edu/blog/help/sharing-large-files-on-the-openlab">sharing large files on the OpenLab</a>.  If you’re uploading images it’s important to optimize them as much as possible before you upload; you can learn more about resizing images <a href="https://openlab.citytech.cuny.edu/openroad/2012/04/23/image-resizing-part-2/">here</a>.
 <h3>Uploading images and other media</h3>
 <ol>
  	<li>To upload images or other media (e.g. pdfs, Word docs, txt files) to a post or a page, go to your <strong>Dashboard</strong> &gt; <strong>Posts</strong> &gt; <strong>Add New</strong> or <strong>Pages</strong> &gt; <strong>Add New</strong>.  On the “Add New Post” or “Add New Page” screen, click <strong>Add Media</strong> from above the text box toolbar.</li>
@@ -21,7 +25,7 @@ PLEASE NOTE: Each site has a size limit and unnecessarily large images can take 
 </ol>
 5, The image will appear in your post.  When you’re finished with the post, click <strong>Publish</strong>.
 <ol start="6">
- 	<li>You can also add images to your media library to use later in posts and pages.  Go to your site <a href="https://multi.openlab.dev/blog/help/what-is-the-site-dashboard/">Dashboard</a> and click <strong>Media &gt; Add New</strong> in the left-hand menu.</li>
+ 	<li>You can also add images to your media library to use later in posts and pages.  Go to your site <a href="https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/">Dashboard</a> and click <strong>Media &gt; Add New</strong> in the left-hand menu.</li>
 </ol>
 <h3>Embedding externally-hosted images</h3>
 <ol>
@@ -36,4 +40,4 @@ For most sites, such as Google Drive, Google Plus, or Dropbox, it’s easy to fi
  	<li>Choose the size you want, and right click on the image. Choose <strong>Copy Image Location</strong> (the wording may vary depending on your browser — you just want to copy the image link or URL).</li>
  	<li>Paste the URL into the “Insert from URL” page, described in step 1 above for embedding externally-hosted images and follow the rest of those directions.</li>
 </ol>
-As always, be sure you are following copyright or Creative Commons guidelines for all images you use. For more information read about <a href="https://multi.openlab.dev/blog/help/following-copyright-guidelines-for-images/">Following Copyright Guidelines for Images</a>.
+As always, be sure you are following copyright or Creative Commons guidelines for all images you use. For more information read about <a href="https://openlab.citytech.cuny.edu/blog/help/following-copyright-guidelines-for-images/">Following Copyright Guidelines for Images</a>.

@@ -1,16 +1,14 @@
 ---
-ID: 565
+ID: 1132
 post_title: 'Post Format: Link'
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/post-format-link/
+  https://lab.urad.online/post-format-link/
 published: true
 post_date: 2012-12-07 07:00:53
-tags: [ ]
-categories:
-  - Link
-  - Post Formats
+help_tags: [ ]
+help_category: [ ]
 ---
 <a title="Video Game Inspired Mural [Pics, Videos]" href="http://wpdaily.co/mural/" target="_blank">8BIT's Office - Video Game Inspired Mural</a>

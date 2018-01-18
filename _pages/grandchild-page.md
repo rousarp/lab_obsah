@@ -1,14 +1,13 @@
 ---
-ID: 1102
+ID: 1080
 post_title: Grandchild Page
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
-permalink: >
-  http://multi.openlab.dev/parent-page/child-page-03/grandchild-page/
+permalink: https://lab.urad.online/grandchild-page/
 published: true
 post_date: 2013-03-15 18:28:48
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 This is a grandchild page.

@@ -1,13 +1,13 @@
 ---
-ID: 1343
+ID: 1117
 post_title: Zaregistrujte se
-author: admin
+author: pavel
 post_excerpt: ""
 layout: page
 permalink: >
-  http://multi.openlab.dev/zaregistrujte-se/
+  https://lab.urad.online/zaregistrujte-se/
 published: true
 post_date: 2018-01-02 21:40:00
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---

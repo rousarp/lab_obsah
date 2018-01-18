@@ -1,15 +1,15 @@
 ---
-ID: 1080
+ID: 1098
 post_title: Page Image Alignment
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
 permalink: >
-  http://multi.openlab.dev/page-image-alignment/
+  https://lab.urad.online/page-image-alignment/
 published: true
 post_date: 2013-03-15 18:19:23
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 

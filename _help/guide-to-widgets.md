@@ -5,11 +5,14 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/guide-to-widgets/
+  https://lab.urad.online/help/guide-to-widgets/
 published: true
 post_date: 2018-01-15 22:44:03
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Nástroje
+help_category:
+  - Plugins and Widgets
+  - Sites on the OpenLab
 ---
 <strong>Akismet Widget</strong>
 

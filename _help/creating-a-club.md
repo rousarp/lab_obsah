@@ -5,15 +5,18 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/creating-a-club/
+  https://lab.urad.online/help/creating-a-club/
 published: true
 post_date: 2018-01-15 22:06:37
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Vytvoření
+help_category:
+  - Clubs
+  - Courses Projects and Clubs
 ---
 1. After logging in, click My OpenLab in the main menu. Then click <strong>My Clubs</strong> on the right-hand menu. On the My Clubs page, click <strong>+ Create a Club</strong> at the top of the page.
 
-<img class="alignnone wp-image-36469 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2-300x163.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2-1024x556.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2-32x17.png 32w" alt="Creating a Club Screen Shot" />
+<img class="alignnone wp-image-36469 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2.png" alt="Creating a Club Screen Shot" />
 <h3>Step One: Profile</h3>
 1. On the first club creation page, enter the required information including the <strong>Club Name</strong>, <strong>Club Description</strong>, and <strong>School</strong> (if applicable).  You can change any of the information later.
 
@@ -24,10 +27,10 @@ categories: [ ]
 </ul>
 3. When you are finished, click <strong>Create Club and Continue</strong>.
 
-<img class="alignnone wp-image-36471 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2.png" sizes="(max-width: 1033px) 100vw, 1033px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2.png 1033w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2-258x300.png 258w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2-881x1024.png 881w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2-28x32.png 28w" alt="Creating a Club Step One Screen Shot" />
+<img class="alignnone wp-image-36471 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2.png" alt="Creating a Club Step One Screen Shot" />
 <h3>Step Two: Privacy Settings</h3>
 <h4>Profile Privacy Settings</h4>
-1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the club profile, and are different from the club site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://multi.openlab.dev/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
+1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the club profile, and are different from the club site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
 
 <strong>This is a public club:</strong>
 <ul>
@@ -84,28 +87,28 @@ categories: [ ]
 </ul>
 3. When you’re done, click <strong>Next Step</strong>.
 
-<img class="alignnone wp-image-36472 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2.png" sizes="(max-width: 1116px) 100vw, 1116px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2.png 1116w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2-279x300.png 279w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2-952x1024.png 952w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2-30x32.png 30w" alt="Creating a Club Step Two Screen Shot" />
+<img class="alignnone wp-image-36472 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2.png" alt="Creating a Club Step Two Screen Shot" />
 <h3>Step Three: Avatar</h3>
 1. Upload an avatar that reflects the subject or topic of your club.  If you have an image file ready that you would like to use as your avatar, click <strong>Browse</strong> or <strong>Choose</strong> <strong>File</strong>.  Select the file you want to use from your computer or flash drive and then click <strong>Upload Image</strong>.  If you don’t have an image you would like to use you can always add one later–just click <strong>Next Step </strong>(if you are finished skip to the next section, “Step Four: Invite Members”).
 
-<img class="alignnone wp-image-36473 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2-300x163.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2-1024x556.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2-32x17.png 32w" alt="Creating a Club Step Three Screen Shot" />
+<img class="alignnone wp-image-36473 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2.png" alt="Creating a Club Step Three Screen Shot" />
 
 2. Crop the image by dragging the square around the portion of the image you want to use and then click <strong>Crop Image</strong>.
 
-<img class="alignnone wp-image-36474 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2-300x163.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2-1024x556.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2-32x17.png 32w" alt="Creating a Club Step Three Crop Screen Shot" />
+<img class="alignnone wp-image-36474 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2.png" alt="Creating a Club Step Three Crop Screen Shot" />
 
 3. Once your avatar is uploaded, click <strong>Next Step</strong>.
 
-<img class="alignnone wp-image-36475 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2-300x163.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2-1024x556.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2-32x17.png 32w" alt="Creating a Club Next Step Screen Shot" />
+<img class="alignnone wp-image-36475 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2.png" alt="Creating a Club Next Step Screen Shot" />
 <h3>Step Four: Inviting Members</h3>
 1. If you would like to invite members to your club, start typing their display name.  When a dropdown list appears, select their name from the list.  Their name and avatar will appear under the heading Invites.  When you’re finished, or if you do not wish to invite anyone at this time (you can always do it later!), click <strong>Finish</strong>, at the bottom of the page.
 
-<img class="alignnone wp-image-36476 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2-300x163.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2-1024x556.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2-32x17.png 32w" alt="Creating a Club Step Four Screen Shot" />
+<img class="alignnone wp-image-36476 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2.png" alt="Creating a Club Step Four Screen Shot" />
 
-2. After you click <strong>Finish</strong> you will see your new Club Profile page!  From here, you can (a) change settings such as privacy, Club description, or (b) change your avatar.  From your Club Profile you can also access your (c) Club Site and <a title="What is the Site Dashboard?" href="https://multi.openlab.dev/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Club Site).
+2. After you click <strong>Finish</strong> you will see your new Club Profile page!  From here, you can (a) change settings such as privacy, Club description, or (b) change your avatar.  From your Club Profile you can also access your (c) Club Site and <a title="What is the Site Dashboard?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Club Site).
 
-<img class="alignnone wp-image-36477 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2.png 1200w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2-300x244.png 300w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2-1024x834.png 1024w, https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2-32x26.png 32w" alt="Creating a Club Finished Screen Shot" />
+<img class="alignnone wp-image-36477 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2.png" alt="Creating a Club Finished Screen Shot" />
 
-Now that your club has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://multi.openlab.dev/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://multi.openlab.dev/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
+Now that your club has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://openlab.citytech.cuny.edu/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
 
 Help information on club site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu">Blogs@Baruch</a> at Baruch College, CUNY.

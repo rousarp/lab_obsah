@@ -1,15 +1,15 @@
 ---
-ID: 1075
+ID: 1094
 post_title: Page Comments Disabled
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
 permalink: >
-  http://multi.openlab.dev/page-comments-disabled/
+  https://lab.urad.online/page-comments-disabled/
 published: true
 post_date: 2013-03-15 18:15:14
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 This page has its comments, pingbacks, and trackbacks disabled.
 

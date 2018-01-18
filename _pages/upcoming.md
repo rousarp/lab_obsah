@@ -1,13 +1,12 @@
 ---
-ID: 1325
+ID: 31
 post_title: 'OpenLab Calendar: Upcoming'
 author: admin
 post_excerpt: ""
 layout: page
-permalink: >
-  http://multi.openlab.dev/about/calendar/upcoming/
+permalink: https://lab.urad.online/upcoming/
 published: true
-post_date: 2018-01-02 20:10:16
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-20 23:35:49
+help_tags: [ ]
+help_category: [ ]
 ---

@@ -5,11 +5,15 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  http://multi.openlab.dev/blog/help/sharing-large-files-on-the-openlab/
+  https://lab.urad.online/help/sharing-large-files-on-the-openlab/
 published: true
 post_date: 2018-01-15 22:54:00
-tags: [ ]
-categories: [ ]
+help_tags:
+  - Doporučení
+  - Obrázky
+help_category:
+  - Best Practices
+  - For Everyone
 ---
 <h3>Sharing Large Files</h3>
 The OpenLab was conceived as a hub for sharing information and ideas. It would be wonderful to have unlimited file storage space on the OpenLab, but unfortunately that is beyond our current scope and we must have a data limit for individual course, project, club, and portfolio sites. For those members who have reached or are nearing their data limit, this an opportunity to learn “best web practices” – an important skill in any field today. The term best practices refers to the generally accepted practice in a certain medium, field or expertise.
@@ -27,11 +31,11 @@ File storage solutions like <a href="https://drive.google.com" target="_blank" r
 </ul>
 Below is a PowerPoint slideshow that was uploaded to <a href="http://www.slideshare.net/?ss">Slideshare</a>. Slideshare files will automatically embed in your posts. All you have to do is copy and paste the slideshow URL on its own line in your post.
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/g2HVIzGRtyCBAJ" width="300" height="150" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"> </iframe>
+ 
 <div><strong> <a title="ADV1100 Workshop for Faculty" href="https://www.slideshare.net/jspevack/adv1100workshop-v2" target="_blank" rel="noopener">ADV1100 Workshop for Faculty</a> </strong> from <strong><a href="https://www.slideshare.net/jspevack" target="_blank" rel="noopener">jspevack</a></strong></div>
 &nbsp;
 <h4>Sharing Web-Ready Images (jpgs, pngs, gifs):</h4>
-Large numbers of web-ready files, such as jpgs, pngs, gifs, can also be embedded on your site using links from <a href="https://drive.google.com" target="_blank" rel="noopener">Google Drive</a>, <a href="https://www.dropbox.com" target="_blank" rel="noopener">Dropbox</a>, <a href="http://www.flickr.com/" target="_blank" rel="noopener">Flickr</a>, <a href="http://www.slideshare.net/" target="_blank" rel="noopener">Slideshare</a>, and others. You can find <a href="https://multi.openlab.dev/blog/help/adding-images-to-your-site#embedding">instructions on embedding images</a> from services like Flickr, Dropbox, or Google Drive on our help page, <a href="https://multi.openlab.dev/blog/help/adding-images-to-your-site/">Adding Images to your Site</a>.
+Large numbers of web-ready files, such as jpgs, pngs, gifs, can also be embedded on your site using links from <a href="https://drive.google.com" target="_blank" rel="noopener">Google Drive</a>, <a href="https://www.dropbox.com" target="_blank" rel="noopener">Dropbox</a>, <a href="http://www.flickr.com/" target="_blank" rel="noopener">Flickr</a>, <a href="http://www.slideshare.net/" target="_blank" rel="noopener">Slideshare</a>, and others. You can find <a href="https://openlab.citytech.cuny.edu/blog/help/adding-images-to-your-site#embedding">instructions on embedding images</a> from services like Flickr, Dropbox, or Google Drive on our help page, <a href="https://openlab.citytech.cuny.edu/blog/help/adding-images-to-your-site/">Adding Images to your Site</a>.
 
 Below are a few examples of files that have been linked to this WordPress site rather than uploaded and stored on the OpenLab server.
 
@@ -48,4 +52,4 @@ Below are a few examples of files that have been linked to this WordPress site r
 &nbsp;
 <blockquote><strong>Have you gone over your data limit on your OpenLab Project, Course, Club or Portfolio?</strong>
 
-Ask our <a href="https://multi.openlab.dev/blog/help/contact-us/" target="_blank" rel="noopener">Community Team</a> for help. They will gladly show you how to link or embed files on your Site from externally hosted storage solutions.</blockquote>
+Ask our <a href="https://openlab.citytech.cuny.edu/blog/help/contact-us/" target="_blank" rel="noopener">Community Team</a> for help. They will gladly show you how to link or embed files on your Site from externally hosted storage solutions.</blockquote>

@@ -1,12 +1,12 @@
 ---
-ID: 1341
-post_title: portfolios
+ID: 251
+post_title: Portfólia
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/portfolios/
+permalink: https://lab.urad.online/portfolios/
 published: true
-post_date: 2018-01-02 20:14:38
-tags: [ ]
-categories: [ ]
+post_date: 2017-11-18 22:34:31
+help_tags: [ ]
+help_category: [ ]
 ---

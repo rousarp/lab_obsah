@@ -1,18 +1,15 @@
 ---
-ID: 919
+ID: 1172
 post_title: Markup And Formatting
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/markup-and-formatting/
+  https://lab.urad.online/markup-and-formatting/
 published: true
 post_date: 2013-01-11 20:22:19
-tags: [ ]
-categories:
-  - Content
-  - Formatting
-  - Markup
+help_tags: [ ]
+help_category: [ ]
 ---
 <h2>Headings</h2>
 <h1>Header one</h1>
@@ -162,7 +159,7 @@ This tag styles large blocks of code.
 
 <strong>Strong Tag</strong>
 
-This tag shows <strong>bold<strong> text.</strong></strong>
+This tag shows <strong>bold</strong><strong> text.</strong>
 
 <strong>Subscript Tag</strong>
 

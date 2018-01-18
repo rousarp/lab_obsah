@@ -1,17 +1,15 @@
 ---
-ID: 946
+ID: 1139
 post_title: 'Post Format: Standard'
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/post-format-standard/
+  https://lab.urad.online/post-format-standard/
 published: true
 post_date: 2012-12-11 11:00:11
-tags: [ ]
-categories:
-  - Post Formats
-  - Standard
+help_tags: [ ]
+help_category: [ ]
 ---
 <strong>This is an example of a standard post format</strong>.
 

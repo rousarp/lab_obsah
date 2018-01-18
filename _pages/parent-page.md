@@ -1,14 +1,14 @@
 ---
-ID: 1088
+ID: 1102
 post_title: Parent Page
-author: ""
+author: pavel
 post_excerpt: ""
 layout: page
-permalink: http://multi.openlab.dev/parent-page/
+permalink: https://lab.urad.online/parent-page/
 published: true
 post_date: 2013-03-15 18:24:09
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
 This page the a parent page.
 
