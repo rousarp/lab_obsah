@@ -1,6 +1,10 @@
 ---
 ID: 1368
+<<<<<<< HEAD
 post_title: Přihlášení k OpenLabu
+=======
+post_title: Vytvořit účet na OpenLab
+>>>>>>> 746608b8a6a3b86e0b7de84eb7bff15057c1b1fc
 author: admin
 post_excerpt: ""
 layout: help
