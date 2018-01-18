@@ -32,6 +32,6 @@ Zde je návod, jak <a href="https://lab.urad.online/help/help-category/getting-s
 
 OpenLab byl také vytvořen pro komunitu veřejné správy, který zahrnuje a závisí i na jejich dodavatelích nebo studentech mnohých oborů zabývajících se veřejnou správou. Pokud byste se chtěli na naší práci podílet, kdykoli nás <a href="https://lab.urad.online/about/support/contact-us/">kontaktujte</a>.
 
-& nbsp;
+
 <p dir = "ltr"> _____________________ </p>
 <strong>OpenLab úřad.online</strong> je odvozen od stejnojmeném projektu OpenLab, jehož domovskou stránku naleznete <a href="https://openlab.citytech.cuny.edu">zde</a>.
