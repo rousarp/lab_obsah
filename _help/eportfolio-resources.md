@@ -1,6 +1,6 @@
 ---
 ID: 1481
-post_title: ePortfolio Resources
+post_title: Zdroje portfolia
 author: admin
 post_excerpt: ""
 layout: help

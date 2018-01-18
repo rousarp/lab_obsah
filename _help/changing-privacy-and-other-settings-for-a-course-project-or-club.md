@@ -1,8 +1,8 @@
 ---
 ID: 1465
 post_title: >
-  Changing privacy and other settings for
-  a Course, Project, or Club
+  Změna nastavení soukromí a dalších nastavení pro
+  kurz, projekt nebo skupinu
 author: admin
 post_excerpt: ""
 layout: help

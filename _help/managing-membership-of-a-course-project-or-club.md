@@ -1,8 +1,8 @@
 ---
 ID: 1467
 post_title: >
-  Managing membership of a Course,
-  Project, or Club
+  Správa členství v kurzu,
+  projektu nebo skupině
 author: admin
 post_excerpt: ""
 layout: help

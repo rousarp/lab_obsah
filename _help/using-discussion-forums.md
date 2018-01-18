@@ -1,6 +1,6 @@
 ---
 ID: 1451
-post_title: Using “Discussion” forums
+post_title: Použití diskusních fór
 author: admin
 post_excerpt: ""
 layout: help

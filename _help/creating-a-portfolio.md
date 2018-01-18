@@ -1,6 +1,6 @@
 ---
 ID: 1485
-post_title: Creating a Portfolio
+post_title: Vytvoření portfolia
 author: admin
 post_excerpt: ""
 layout: help

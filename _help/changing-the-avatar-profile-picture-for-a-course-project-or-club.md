@@ -1,8 +1,8 @@
 ---
 ID: 1463
 post_title: >
-  Changing the avatar (profile picture)
-  for a Course, Project, or Club
+  Změna náhledového obrázku (profilový obrázek)
+ pro kurz, projekt nebo skupinu
 author: admin
 post_excerpt: ""
 layout: help

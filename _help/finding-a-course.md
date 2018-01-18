@@ -1,6 +1,6 @@
 ---
 ID: 1427
-post_title: Finding a Course
+post_title: Nalezení kurzu
 author: admin
 post_excerpt: ""
 layout: help

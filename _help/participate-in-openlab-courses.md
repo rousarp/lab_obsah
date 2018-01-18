@@ -1,6 +1,6 @@
 ---
 ID: 1570
-post_title: Participate in OpenLab Courses
+post_title: Účastněte se kurzů OpenLab
 author: admin
 post_excerpt: ""
 layout: help

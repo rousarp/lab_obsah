@@ -1,6 +1,6 @@
 ---
 ID: 1586
-post_title: Logging in to the OpenLab
+post_title: Přihlášení k OpenLab
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1443
-post_title: What is a Club on the OpenLab?
+post_title: Co je to skupina na OpenLab?
 author: admin
 post_excerpt: ""
 layout: help

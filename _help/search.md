@@ -1,6 +1,6 @@
 ---
 ID: 1393
-post_title: search
+post_title: Vyhledat
 author: admin
 post_excerpt: ""
 layout: help

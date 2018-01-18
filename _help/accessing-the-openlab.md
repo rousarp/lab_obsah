@@ -1,6 +1,6 @@
 ---
 ID: 1578
-post_title: Accessing the OpenLab
+post_title: Přístup k OpenLabu
 author: admin
 post_excerpt: ""
 layout: help

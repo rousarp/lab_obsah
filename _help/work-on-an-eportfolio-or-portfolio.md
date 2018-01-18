@@ -1,6 +1,6 @@
 ---
 ID: 1576
-post_title: Work on an ePortfolio or Portfolio
+post_title: Práce v portfoliu
 author: admin
 post_excerpt: ""
 layout: help

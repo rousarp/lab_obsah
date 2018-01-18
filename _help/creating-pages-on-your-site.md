@@ -1,6 +1,6 @@
 ---
 ID: 1517
-post_title: Creating pages on your Site
+post_title: Vytvoření stránek na vašem webu
 author: admin
 post_excerpt: ""
 layout: help

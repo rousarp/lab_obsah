@@ -1,6 +1,6 @@
 ---
 ID: 1533
-post_title: Guide to Plugins
+post_title: Průvodce k pluginům
 author: admin
 post_excerpt: ""
 layout: help

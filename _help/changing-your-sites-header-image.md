@@ -1,6 +1,6 @@
 ---
 ID: 1519
-post_title: Changing your Site’s header image
+post_title: Změna obrázku záhlaví vašeho webu
 author: admin
 post_excerpt: ""
 layout: help

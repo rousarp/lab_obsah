@@ -1,6 +1,6 @@
 ---
 ID: 1495
-post_title: Commenting on a Site
+post_title: Komentář k webu
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1572
-post_title: Work in a Project
+post_title: Práce v projektu
 author: admin
 post_excerpt: ""
 layout: help

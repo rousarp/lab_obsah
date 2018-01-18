@@ -1,6 +1,6 @@
 ---
 ID: 1580
-post_title: Working with Sites
+post_title: Práce s webovými stránkami
 author: admin
 post_excerpt: ""
 layout: help

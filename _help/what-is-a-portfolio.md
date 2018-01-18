@@ -1,6 +1,6 @@
 ---
 ID: 1483
-post_title: What is a Portfolio?
+post_title: Co je portfolio?
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1555
-post_title: Sharing large files on the OpenLab
+post_title: Sdílení velkých souborů na OpenLab
 author: admin
 post_excerpt: ""
 layout: help
@@ -31,7 +31,7 @@ File storage solutions like <a href="https://drive.google.com" target="_blank" r
 </ul>
 Below is a PowerPoint slideshow that was uploaded to <a href="http://www.slideshare.net/?ss">Slideshare</a>. Slideshare files will automatically embed in your posts. All you have to do is copy and paste the slideshow URL on its own line in your post.
 
- 
+
 <div><strong> <a title="ADV1100 Workshop for Faculty" href="https://www.slideshare.net/jspevack/adv1100workshop-v2" target="_blank" rel="noopener">ADV1100 Workshop for Faculty</a> </strong> from <strong><a href="https://www.slideshare.net/jspevack" target="_blank" rel="noopener">jspevack</a></strong></div>
 &nbsp;
 <h4>Sharing Web-Ready Images (jpgs, pngs, gifs):</h4>

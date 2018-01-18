@@ -1,6 +1,6 @@
 ---
 ID: 1505
-post_title: Adding an image gallery
+post_title: Přidání galerie obrázků
 author: admin
 post_excerpt: ""
 layout: help

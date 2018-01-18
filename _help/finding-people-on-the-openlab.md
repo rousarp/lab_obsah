@@ -1,6 +1,6 @@
 ---
 ID: 1543
-post_title: Finding People on the OpenLab
+post_title: Vyhledání lidí na OpenLab
 author: admin
 post_excerpt: ""
 layout: help

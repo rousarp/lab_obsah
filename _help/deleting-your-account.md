@@ -1,6 +1,6 @@
 ---
 ID: 1423
-post_title: Deleting your account
+post_title: Zrušení svého účtu
 author: admin
 post_excerpt: ""
 layout: help

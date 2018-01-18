@@ -1,6 +1,6 @@
 ---
 ID: 1367
-post_title: Getting Started
+post_title: Začínáme
 author: admin
 post_excerpt: ""
 layout: help

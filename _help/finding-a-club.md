@@ -1,6 +1,6 @@
 ---
 ID: 1445
-post_title: Finding a Club
+post_title: Nalezení skupiny
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1521
-post_title: Changing the menu on your Site
+post_title: Změna menu na vašem webu
 author: admin
 post_excerpt: ""
 layout: help

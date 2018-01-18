@@ -1,6 +1,6 @@
 ---
 ID: 1453
-post_title: Using “Docs”
+post_title: Využití Dokumentů
 author: admin
 post_excerpt: ""
 layout: help

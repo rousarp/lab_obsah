@@ -1,6 +1,6 @@
 ---
 ID: 1417
-post_title: Changing your password
+post_title: Změna hesla
 author: admin
 post_excerpt: ""
 layout: help

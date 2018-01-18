@@ -1,6 +1,6 @@
 ---
 ID: 1511
-post_title: Who can build a Site?
+post_title: Kdo může vytvořit web?
 author: admin
 post_excerpt: ""
 layout: help

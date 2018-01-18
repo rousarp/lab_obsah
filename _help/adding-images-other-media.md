@@ -1,6 +1,6 @@
 ---
 ID: 1503
-post_title: 'Adding images &amp; other media'
+post_title: 'Přidání obrázků &amp; jiných médií'
 author: admin
 post_excerpt: ""
 layout: help

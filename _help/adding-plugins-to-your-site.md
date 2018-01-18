@@ -1,6 +1,6 @@
 ---
 ID: 1525
-post_title: Adding plugins to your Site
+post_title: Přidání pluginů na vaše stránky
 author: admin
 post_excerpt: ""
 layout: help

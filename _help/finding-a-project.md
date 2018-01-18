@@ -1,6 +1,6 @@
 ---
 ID: 1437
-post_title: Finding a Project
+post_title: Nalezení projektu
 author: admin
 post_excerpt: ""
 layout: help

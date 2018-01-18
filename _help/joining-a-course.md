@@ -1,6 +1,6 @@
 ---
 ID: 1429
-post_title: Joining a Course
+post_title: Připojení ke kurzu
 author: admin
 post_excerpt: ""
 layout: help

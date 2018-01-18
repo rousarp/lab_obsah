@@ -1,6 +1,6 @@
 ---
 ID: 1531
-post_title: Managing users on your Site
+post_title: Správa uživatelů na vašem webu
 author: admin
 post_excerpt: ""
 layout: help

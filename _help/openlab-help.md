@@ -1,6 +1,6 @@
 ---
 ID: 1590
-post_title: OpenLab Help
+post_title: OpenLab Nápověda
 author: admin
 post_excerpt: ""
 layout: help

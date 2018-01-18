@@ -1,6 +1,6 @@
 ---
 ID: 1568
-post_title: Edit my Profile
+post_title: Úprava profilu
 author: admin
 post_excerpt: ""
 layout: help

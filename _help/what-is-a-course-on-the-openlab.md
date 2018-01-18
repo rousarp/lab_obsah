@@ -1,6 +1,6 @@
 ---
 ID: 1425
-post_title: What is a Course on the OpenLab?
+post_title: Co je kurz na OpenLab?
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1509
-post_title: Using Screen Options
+post_title: Použití možností obrazovky
 author: admin
 post_excerpt: ""
 layout: help

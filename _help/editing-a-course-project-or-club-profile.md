@@ -1,8 +1,8 @@
 ---
 ID: 1461
 post_title: >
-  Editing a Course, Project, or Club
-  Profile
+  Úprava profilu kurzu, skupiny nebo
+  projektu
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1489
-post_title: Changing Portfolio Settings
+post_title: Změna nastavení portfolia
 author: admin
 post_excerpt: ""
 layout: help

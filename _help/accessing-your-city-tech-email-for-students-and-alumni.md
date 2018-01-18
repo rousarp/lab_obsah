@@ -1,8 +1,8 @@
 ---
 ID: 1588
 post_title: >
-  Accessing your City Tech email (for
-  students and alumni)
+  Zachování přístupu k účtu OpenLab (pro
+  zaměsnance, kteří ukončili pracovní poměr v instituci veřejné správy)
 author: admin
 post_excerpt: ""
 layout: help

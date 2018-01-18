@@ -1,6 +1,6 @@
 ---
 ID: 1455
-post_title: Using “Files”
+post_title: Využití Souborů
 author: admin
 post_excerpt: ""
 layout: help

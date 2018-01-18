@@ -1,6 +1,6 @@
 ---
 ID: 1582
-post_title: What is the OpenLab?
+post_title: Co je OpenLab?
 author: admin
 post_excerpt: ""
 layout: help

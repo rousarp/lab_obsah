@@ -1,6 +1,6 @@
 ---
 ID: 1553
-post_title: Privacy on the OpenLab
+post_title: Ochrana osobních údajů na portále OpenLab
 author: admin
 post_excerpt: ""
 layout: help

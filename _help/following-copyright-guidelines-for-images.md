@@ -1,8 +1,8 @@
 ---
 ID: 1551
 post_title: >
-  Following copyright guidelines for
-  images
+Následujte pokyny pro autorská práva ke
+ snímkům
 author: admin
 post_excerpt: ""
 layout: help

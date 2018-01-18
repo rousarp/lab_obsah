@@ -1,6 +1,6 @@
 ---
 ID: 1499
-post_title: Writing a Post
+post_title: Psaní příspěvku
 author: admin
 post_excerpt: ""
 layout: help

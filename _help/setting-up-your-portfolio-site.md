@@ -1,6 +1,6 @@
 ---
 ID: 1487
-post_title: Setting up your Portfolio Site
+post_title: Nastavení stránek portfolia
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1475
-post_title: Changing ePortfolio settings
+post_title: Změna nastavení portfolia
 author: admin
 post_excerpt: ""
 layout: help

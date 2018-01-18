@@ -1,6 +1,6 @@
 ---
 ID: 1431
-post_title: Creating a Course (faculty only)
+post_title: Vytvoření kurzu (pouze pro správce kurzů)
 author: admin
 post_excerpt: ""
 layout: help

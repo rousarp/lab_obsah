@@ -1,6 +1,6 @@
 ---
 ID: 1561
-post_title: Working with Courses
+post_title: Práce s kurzy
 author: admin
 post_excerpt: ""
 layout: help

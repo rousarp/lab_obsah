@@ -1,6 +1,6 @@
 ---
 ID: 1549
-post_title: Making your Work Accessible
+post_title: Zpřístupnění práce
 author: admin
 post_excerpt: ""
 layout: help

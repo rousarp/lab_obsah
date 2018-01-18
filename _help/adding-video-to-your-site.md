@@ -1,6 +1,6 @@
 ---
 ID: 1507
-post_title: Adding video to your Site
+post_title: Přidání videa na vaše stránky
 author: admin
 post_excerpt: ""
 layout: help

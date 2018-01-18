@@ -1,6 +1,6 @@
 ---
 ID: 1473
-post_title: Creating an ePortfolio
+post_title: Vytvoření portfolia
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1413
-post_title: Editing your profile
+post_title: Úprava svého profilu
 author: admin
 post_excerpt: ""
 layout: help

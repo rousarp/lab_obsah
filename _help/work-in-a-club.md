@@ -1,6 +1,6 @@
 ---
 ID: 1574
-post_title: Work in a Club
+post_title: Práce ve skupině
 author: admin
 post_excerpt: ""
 layout: help

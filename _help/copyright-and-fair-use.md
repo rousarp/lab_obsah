@@ -1,6 +1,6 @@
 ---
 ID: 1559
-post_title: Copyright and fair use
+post_title: Autorské právo a férové používání
 author: admin
 post_excerpt: ""
 layout: help

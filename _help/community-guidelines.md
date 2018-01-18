@@ -1,6 +1,6 @@
 ---
 ID: 1547
-post_title: Community guidelines
+post_title: Komunitní návody
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1557
-post_title: Summary of Accessibility on the OpenLab
+post_title: Shrnutí přístupnosti na OpenLab
 author: admin
 post_excerpt: ""
 layout: help

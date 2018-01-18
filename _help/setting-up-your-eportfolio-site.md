@@ -1,6 +1,6 @@
 ---
 ID: 1477
-post_title: Setting up your ePortfolio Site
+post_title: Nastavení stránek poortfolia
 author: admin
 post_excerpt: ""
 layout: help

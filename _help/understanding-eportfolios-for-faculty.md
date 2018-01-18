@@ -1,6 +1,6 @@
 ---
 ID: 1479
-post_title: Understanding ePortfolios (for faculty)
+post_title: Porozumění portfoliím (pro zaměstnance veřejné správy)
 author: admin
 post_excerpt: ""
 layout: help

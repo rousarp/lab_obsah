@@ -1,6 +1,6 @@
 ---
 ID: 1545
-post_title: Contacting a person on the OpenLab
+post_title: Kontaktování osoby na OpenLab
 author: admin
 post_excerpt: ""
 layout: help

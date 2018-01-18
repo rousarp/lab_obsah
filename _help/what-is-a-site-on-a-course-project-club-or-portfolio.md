@@ -1,8 +1,8 @@
 ---
 ID: 1491
 post_title: >
-  What is a “Site” on a Course,
-  Project, Club, or Portfolio?
+Co jsou "webové stránky" v kurzu, 
+ projektu, skupině nebo v portfoliu?
 author: admin
 post_excerpt: ""
 layout: help

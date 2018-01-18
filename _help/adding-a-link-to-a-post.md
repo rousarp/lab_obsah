@@ -1,6 +1,6 @@
 ---
 ID: 1501
-post_title: Adding a link to a post
+post_title: Přidání odkazu na příspěvek
 author: admin
 post_excerpt: ""
 layout: help

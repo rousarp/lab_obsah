@@ -1,8 +1,8 @@
 ---
 ID: 1515
 post_title: >
-  Changing the appearance of your Site
-  with themes
+  Změna vzhledu vašeho webu
+  s motivy
 author: admin
 post_excerpt: ""
 layout: help

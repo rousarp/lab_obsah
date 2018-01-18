@@ -1,6 +1,6 @@
 ---
 ID: 1433
-post_title: Cloning a Course (faculty only)
+post_title: Klonování kurzu (pouze správci kurzů)
 author: admin
 post_excerpt: ""
 layout: help

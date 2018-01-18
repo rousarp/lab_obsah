@@ -1,8 +1,8 @@
 ---
 ID: 1459
 post_title: >
-  Who can change settings for Courses,
-  Projects, and Clubs?
+  Kdo může změnit nastavení kurzů,
+  projektů a skupin?
 author: admin
 post_excerpt: ""
 layout: help

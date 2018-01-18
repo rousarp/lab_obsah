@@ -1,6 +1,6 @@
 ---
 ID: 1527
-post_title: Categories and tags
+post_title: Kategorie a štítky
 author: admin
 post_excerpt: ""
 layout: help

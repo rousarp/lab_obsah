@@ -1,6 +1,6 @@
 ---
 ID: 1441
-post_title: Creating a Project
+post_title: Vytvoření projektu
 author: admin
 post_excerpt: ""
 layout: help

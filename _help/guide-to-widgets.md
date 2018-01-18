@@ -1,6 +1,6 @@
 ---
 ID: 1535
-post_title: Guide to Widgets
+post_title: Průvodce widgety
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1449
-post_title: Creating a Club
+post_title: Vytvoření skupiny
 author: admin
 post_excerpt: ""
 layout: help

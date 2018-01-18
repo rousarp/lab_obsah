@@ -1,6 +1,6 @@
 ---
 ID: 1419
-post_title: Changing your email notifications
+post_title: Změna e-mailových oznámení
 author: admin
 post_excerpt: ""
 layout: help

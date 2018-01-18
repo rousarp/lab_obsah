@@ -1,6 +1,6 @@
 ---
 ID: 1435
-post_title: What is a Project on the OpenLab?
+post_title: Co je projekt na OpenLab?
 author: admin
 post_excerpt: ""
 layout: help

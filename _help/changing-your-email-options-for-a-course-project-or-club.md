@@ -1,8 +1,8 @@
 ---
 ID: 1457
 post_title: >
-  Changing your email options for a
-  Course, Project, or Club
+  Změna možností e-mailu pro
+  kurz, projekt nebo skupinu
 author: admin
 post_excerpt: ""
 layout: help

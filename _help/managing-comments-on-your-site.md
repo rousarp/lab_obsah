@@ -1,6 +1,6 @@
 ---
 ID: 1529
-post_title: Managing comments on your Site
+post_title: Správa komentářů na vašem webu
 author: admin
 post_excerpt: ""
 layout: help

@@ -1,6 +1,6 @@
 ---
 ID: 1439
-post_title: Joining a Project
+post_title: Připojení k projektu
 author: admin
 post_excerpt: ""
 layout: help

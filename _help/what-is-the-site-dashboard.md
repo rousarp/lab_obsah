@@ -1,6 +1,6 @@
 ---
 ID: 1497
-post_title: What is the Site Dashboard?
+post_title: Co je nástěnka webových stránek?
 author: admin
 post_excerpt: ""
 layout: help

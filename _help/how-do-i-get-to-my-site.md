@@ -1,6 +1,6 @@
 ---
 ID: 1493
-post_title: How do I get to my Site?
+post_title: Jak se dostanu na svůj web?
 author: admin
 post_excerpt: ""
 layout: help

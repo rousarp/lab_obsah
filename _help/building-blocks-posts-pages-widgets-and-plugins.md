@@ -1,6 +1,6 @@
 ---
 ID: 1513
-post_title: 'Building blocks: posts, pages, widgets, and plugins'
+post_title: 'Stavební bloky: příspěvky, stránky, widgety a pluginy'
 author: admin
 post_excerpt: ""
 layout: help

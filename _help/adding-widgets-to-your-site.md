@@ -1,6 +1,6 @@
 ---
 ID: 1523
-post_title: Adding widgets to your Site
+post_title: Přidání widgetů na váš web
 author: admin
 post_excerpt: ""
 layout: help

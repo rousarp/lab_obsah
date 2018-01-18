@@ -1,8 +1,6 @@
 ---
 ID: 1421
-post_title: >
-  Changing your account type (for students
-  and alumni)
+post_title: Změna typu účtu (pro bývalé zaměstnance veřejné správy)
 author: admin
 post_excerpt: ""
 layout: help
