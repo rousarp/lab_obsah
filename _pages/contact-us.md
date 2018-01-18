@@ -1,6 +1,6 @@
 ---
 ID: 1990
-post_title: contact us
+post_title: Kontaktujte nás
 author: admin
 post_excerpt: ""
 layout: page
