@@ -39,4 +39,4 @@ _____________
 
 <strong>What is the difference between an ePortfolio and a Project?</strong>
 
-ePortfolios are intended for a specific use–to showcase students’ academic and professional work.  <a title="What is a Project on the OpenLab?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-a-project-on-the-openlab/">Projects</a>, on the other hand, are multi-purpose, and may encompass a wide range of uses.  Projects can also be created by individuals (not just students) or groups.  ePortfolios are only created by individuals, and are linked to one specific Profile.
+ePortfolios are intended for a specific use–to showcase students’ academic and professional work.  <a title="What is a Project on the OpenLab?" href="https://lab.urad.online/blog/help/what-is-a-project-on-the-openlab/">Projects</a>, on the other hand, are multi-purpose, and may encompass a wide range of uses.  Projects can also be created by individuals (not just students) or groups.  ePortfolios are only created by individuals, and are linked to one specific Profile.

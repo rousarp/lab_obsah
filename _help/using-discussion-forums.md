@@ -41,6 +41,6 @@ If you are the Administrator of the Course, Project, or Club and do not wish to 
 
 4. Or to go on to the next discussion topic, click <strong>Next Topic</strong>.
 
-<a href="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png"><img class="alignnone wp-image-36516 size-full" title="Using_Discussion_5" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png" alt="return to discussion screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png"><img class="alignnone wp-image-36516 size-full" title="Using_Discussion_5" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png" alt="return to discussion screenshot" /></a>
 
 &nbsp;

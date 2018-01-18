@@ -14,7 +14,7 @@ help_category:
   - Courses
   - Courses Projects and Clubs
 ---
-1. You must be logged in to the OpenLab to join a Course, so after logging in, go to the go to the <strong>Course Profile</strong> of the course you want to join.  (Read more about how to <a title="Finding a course" href="https://openlab.citytech.cuny.edu/blog/help/finding-a-course/">find a course</a>.)
+1. You must be logged in to the OpenLab to join a Course, so after logging in, go to the go to the <strong>Course Profile</strong> of the course you want to join.  (Read more about how to <a title="Finding a course" href="https://lab.urad.online/blog/help/finding-a-course/">find a course</a>.)
 
 2. If the course is public, click <strong>+ Join Now</strong>, and you will automatically become a member.  If the course is private, click <strong>+ Request Membership</strong> and your professor will be notified of your request.  Once she approves the request you’ll be added as a member.
 
@@ -26,7 +26,7 @@ help_category:
 
 <img class="alignnone wp-image-36445 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_2b_v2.png" alt="Joining_Course screen shot" />
 
-4. If you are not a City Tech student but are taking a City Tech course using the OpenLab, please <a title="Contact Us" href="https://openlab.citytech.cuny.edu/blog/help/contact-us/" target="_blank" rel="noopener">contact us</a> for more information about how non-City Tech students can join the OpenLab.
+4. If you are not a City Tech student but are taking a City Tech course using the OpenLab, please <a title="Contact Us" href="https://lab.urad.online/blog/help/contact-us/" target="_blank" rel="noopener">contact us</a> for more information about how non-City Tech students can join the OpenLab.
 <h3><strong>Leaving a course</strong></h3>
 1. After logging into the OpenLab, go to the Course Profile and click <strong>– Leave Group</strong>. You will no longer be a member of the course.
 

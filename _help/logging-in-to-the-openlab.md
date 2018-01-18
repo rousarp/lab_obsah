@@ -15,10 +15,10 @@ help_category:
   - Getting Started
   - Setting up an Account
 ---
-Once you’re an OpenLab member (see <a href="https://openlab.citytech.cuny.edu/blog/help/signing-up-on-the-openlab/ ‎">Signing Up On The OpenLab</a>), you can log in two ways:
+Once you’re an OpenLab member (see <a href="https://lab.urad.online/blog/help/signing-up-on-the-openlab/ ‎">Signing Up On The OpenLab</a>), you can log in two ways:
 
 <strong>
-</strong>1. You can visit the OpenLab <a href="https://openlab.citytech.cuny.edu/">homepage</a> (<a href="https://openlab.citytech.cuny.edu">https://openlab.citytech.cuny.edu</a>) and enter your user name and password under <strong>Log In To OpenLab</strong>.  Once you do that, you’ll remain logged in wherever you go on the OpenLab.
+</strong>1. You can visit the OpenLab <a href="https://lab.urad.online/">homepage</a> (<a href="https://lab.urad.online">https://openlab.citytech.cuny.edu</a>) and enter your user name and password under <strong>Log In To OpenLab</strong>.  Once you do that, you’ll remain logged in wherever you go on the OpenLab.
 
 This is also where you can ask for help if you’ve lost your password or username.  If you need help with your password, simply click <strong>Forgot Password?</strong> and enter your username or City Tech email address on the next screen.  Then log into your City Tech inbox and look for an email from the OpenLab.
 

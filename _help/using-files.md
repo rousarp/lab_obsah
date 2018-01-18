@@ -13,7 +13,7 @@ help_tags:
   - Vytvoření
 help_category: [ ]
 ---
-“Files” are documents that members can upload to the group. Unlike “<a title="Using “Docs”" href="https://openlab.citytech.cuny.edu/blog/help/using-docs/">Docs</a>,” “Files” are static and cannot be commented on and can only be edited by the group Administrator or the member who originally uploaded the file. Files are a good place to put things that will be useful resources to the group but aren’t intended to be collaborative projects like “Docs.” Some examples of an appropriate use of the “Files” area would be the syllabus or assignments for a course or a flyer that a club has put together. In order to upload, edit, or delete a file you need to first be logged into your account on the Openlab.
+“Files” are documents that members can upload to the group. Unlike “<a title="Using “Docs”" href="https://lab.urad.online/blog/help/using-docs/">Docs</a>,” “Files” are static and cannot be commented on and can only be edited by the group Administrator or the member who originally uploaded the file. Files are a good place to put things that will be useful resources to the group but aren’t intended to be collaborative projects like “Docs.” Some examples of an appropriate use of the “Files” area would be the syllabus or assignments for a course or a flyer that a club has put together. In order to upload, edit, or delete a file you need to first be logged into your account on the Openlab.
 <h3><strong>Uploading a File</strong></h3>
 1. From your Course, Project, or Club’s profile page click <strong>Files</strong> in the right-hand menu.
 

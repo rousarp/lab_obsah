@@ -37,10 +37,10 @@ Due to University regulations, there are also some other restrictions.
  	<li>Because we are a state-funded, public institution, sites cannot endorse or support specific political candidates.</li>
  	<li>Anything you post on the OpenLab should be yours, or properly credited.</li>
 </ul>
-For more information and an explanation of your responsibility for your own activity on the OpenLab, please consult the <a href="https://openlab.citytech.cuny.edu/about/terms-of-service/">OpenLab Terms of Use</a>.
+For more information and an explanation of your responsibility for your own activity on the OpenLab, please consult the <a href="https://lab.urad.online/about/terms-of-service/">OpenLab Terms of Use</a>.
 <h3><b>What should I do if I see something inappropriate?</b></h3>
 Members of our community sometimes disagree with one another, but everyone here has a right to expect that they and their work will be treated respectfully, that any criticism will be thoughtful and constructive, and that they will be free from harassment on the site.
 
-If you receive a message or see something that makes you uncomfortable, please let the Community Team know by emailing us at <a href="mailto:OpenLab@citytech.cuny.edu">openlab@citytech.cuny.edu</a>. We will work with everyone involved to come to a resolution. As a last resort, we will intervene to remove content. Repeated posting of inappropriate content may result in loss of access to the OpenLab. Again, please see the <a href="https://openlab.citytech.cuny.edu/about/terms-of-service/">OpenLab Terms of Use</a> for more information.
+If you receive a message or see something that makes you uncomfortable, please let the Community Team know by emailing us at <a href="mailto:OpenLab@citytech.cuny.edu">openlab@citytech.cuny.edu</a>. We will work with everyone involved to come to a resolution. As a last resort, we will intervene to remove content. Repeated posting of inappropriate content may result in loss of access to the OpenLab. Again, please see the <a href="https://lab.urad.online/about/terms-of-service/">OpenLab Terms of Use</a> for more information.
 
 If you receive a message or see something that suggests someone is an immediate danger to themselves or others, please contact City Tech Public Safety at 718-260-5550.

@@ -30,7 +30,7 @@ help_category:
 <img class="alignnone wp-image-36686 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Creating_Project_2_v2.png" alt="Creating a Project Step One Screen Shot" />
 <h3>Step Two: Privacy Settings</h3>
 <h4>Profile Privacy Settings</h4>
-1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the project profile, and are different from the project site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
+1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the project profile, and are different from the project site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
 
 <strong>This is a public project:</strong>
 <ul>
@@ -105,10 +105,10 @@ help_category:
 
 <img class="alignnone wp-image-36691 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Creating_Project_7_v2.png" alt="Creating a Project Step Four Screen Shot" />
 
-2. After you click <strong>Finish</strong> you will see your new Project Profile page!  From here, you can (a) change settings such as privacy, Project description, or (b) change your avatar.  From your Project Profile you can also access your (c) Project Site and <a title="What is the Site Dashboard?" href="https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Project Site).
+2. After you click <strong>Finish</strong> you will see your new Project Profile page!  From here, you can (a) change settings such as privacy, Project description, or (b) change your avatar.  From your Project Profile you can also access your (c) Project Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Project Site).
 
 <img class="alignnone wp-image-36692 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Creating_Project_8_v2.png" alt="Creating a Project Complete Screen Shot" />
 
-Now that your project has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://openlab.citytech.cuny.edu/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
+Now that your project has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://lab.urad.online/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
 
 Help information on project site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu">Blogs@Baruch</a> at Baruch College, CUNY.

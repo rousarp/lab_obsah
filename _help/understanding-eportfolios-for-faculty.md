@@ -19,4 +19,4 @@ Rather than having multiple ePortfolios for different courses, students will cre
 
 <strong>Accessing your Students’ ePortfolios</strong>
 
-If an ePortfolio is public, it can be viewed by anyone.  However, if an ePortfolio is private, you will need to <a href="https://openlab.citytech.cuny.edu/blog/help/changing-privacy-and-other-settings-on-an-eportfolio#access">request membership</a>, or ask your student to invite you to join the ePortfolio.
+If an ePortfolio is public, it can be viewed by anyone.  However, if an ePortfolio is private, you will need to <a href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-on-an-eportfolio#access">request membership</a>, or ask your student to invite you to join the ePortfolio.

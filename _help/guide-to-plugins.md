@@ -18,21 +18,21 @@ help_category:
 
 Achievements allows you to gamify your site by using challenges, badges, and points to encourage participation by site members. You can also use leaderboards and rankings to compare points among site members.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/ajax-wp-edit-comments/"><strong>Ajax Edit Comments</strong></a>
+<a href="https://lab.urad.online/blog/help/ajax-wp-edit-comments/"><strong>Ajax Edit Comments</strong></a>
 
-This plugin allows comments to be edited for a specified length of time (the administrator of the site can set the time length); it also has some formatting features not available in the usual comment editor, a spell check feature, and a simple spam prevention captcha. <a href="https://openlab.citytech.cuny.edu/blog/help/ajax-wp-edit-comments/">Click here </a>for a longer tutorial.
+This plugin allows comments to be edited for a specified length of time (the administrator of the site can set the time length); it also has some formatting features not available in the usual comment editor, a spell check feature, and a simple spam prevention captcha. <a href="https://lab.urad.online/blog/help/ajax-wp-edit-comments/">Click here </a>for a longer tutorial.
 
 <strong>Ambrosite Next/Previous Post Link Plus</strong>
 
 According to its developers, this plugin “upgrades the next/previous post link functions to reorder or loop adjacent post navigation links, sort on custom fields, return multiple links, display post thumbnails, and customize the link format.”
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/anthologize/"><strong>Anthologize</strong></a>
+<a href="https://lab.urad.online/blog/help/anthologize/"><strong>Anthologize</strong></a>
 
-In the words of the plugin developers, “Anthologize is a free, open-source, plugin that transforms WordPress into a platform for publishing electronic texts. Grab posts from your WordPress blog, import feeds from external sites, or create new content directly within Anthologize. Then outline, order, and edit your work, crafting it into a single volume for export in several formats, including—in this release—PDF, ePUB, TEI.” <a href="https://openlab.citytech.cuny.edu/blog/help/anthologize/">Click here</a> for a longer tutorial.
+In the words of the plugin developers, “Anthologize is a free, open-source, plugin that transforms WordPress into a platform for publishing electronic texts. Grab posts from your WordPress blog, import feeds from external sites, or create new content directly within Anthologize. Then outline, order, and edit your work, crafting it into a single volume for export in several formats, including—in this release—PDF, ePUB, TEI.” <a href="https://lab.urad.online/blog/help/anthologize/">Click here</a> for a longer tutorial.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/awesome-flickr-gallery-plugin/"><strong>Awesome Flickr Gallery</strong></a>
+<a href="https://lab.urad.online/blog/help/awesome-flickr-gallery-plugin/"><strong>Awesome Flickr Gallery</strong></a>
 
-Awesome Flickr Gallery allows you to create photo galleries that import photos from your Flickr account.  You can display a particular set or curate a gallery from different Flickr photos.  You must have a Flickr account to use this plugin. <a href="https://openlab.citytech.cuny.edu/blog/help/awesome-flickr-gallery-plugin/">Click here</a> for a longer tutorial.
+Awesome Flickr Gallery allows you to create photo galleries that import photos from your Flickr account.  You can display a particular set or curate a gallery from different Flickr photos.  You must have a Flickr account to use this plugin. <a href="https://lab.urad.online/blog/help/awesome-flickr-gallery-plugin/">Click here</a> for a longer tutorial.
 
 <strong>BadgeOS</strong>
 
@@ -42,7 +42,7 @@ BadgeOS turns your site into an achievement and badging system. Your users compl
 
 The CAC Featured Content plugin was developed by our friends over at the<a href="http://commons.gc.cuny.edu"> CUNY Academic Commons</a>. It uses a widget which allows site admins to feature selected content, such as Featured Blogs, Featured Groups, Featured Posts, Featured Members and Featured Resources. We use it on the OpenLab homepage to generate our “In the Spotlight” section, but you could use it on any site to feature anything from your own site or another.
 
-<strong><a href="https://openlab.citytech.cuny.edu/blog/help/category-sticky-post-plugin/">Category Sticky Post</a></strong>
+<strong><a href="https://lab.urad.online/blog/help/category-sticky-post-plugin/">Category Sticky Post</a></strong>
 
 Category Sticky Post is a plugin that allows you to mark a post as sticky within a specific category archive. It works exactly like the typical sticky post functionality within WordPress, except that it’s specifically for category archives.
 
@@ -58,9 +58,9 @@ This plugin allows you to create a glossary of terms from your site and show the
 
 This plugin allows you to create a contact form (or multiple forms) to add to your site. You can also easily customize the forms, as well as use CAPTCHA and Akismet for simple spam prevention.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/cubepoints/"><strong>CubePoints</strong></a>
+<a href="https://lab.urad.online/blog/help/cubepoints/"><strong>CubePoints</strong></a>
 
-CubePoints is a way of awarding points to site visitors and members for participating in a site. Site administrators can choose what sorts of activities are worth points, and how many each activity is worth. If you connect points to real-world prizes, or even just honorary titles, you might find your site visitors and members are more active. The plugin keeps track of each user’s activity, allows for a “leaderboard” on the site home-page, and gives the administrator many specific options, making it very customizable. <a href="https://openlab.citytech.cuny.edu/blog/help/cubepoints/">Click here</a> for a longer tutorial.
+CubePoints is a way of awarding points to site visitors and members for participating in a site. Site administrators can choose what sorts of activities are worth points, and how many each activity is worth. If you connect points to real-world prizes, or even just honorary titles, you might find your site visitors and members are more active. The plugin keeps track of each user’s activity, allows for a “leaderboard” on the site home-page, and gives the administrator many specific options, making it very customizable. <a href="https://lab.urad.online/blog/help/cubepoints/">Click here</a> for a longer tutorial.
 
 <strong>Duplicate Post</strong>
 
@@ -86,7 +86,7 @@ Edge Suite allows you to manage and view Adobe Edge Animate compositions on your
 
 This plugin allows you to embed Google Maps to posts, pages, or text widgets on your site.  Simply use the address or coordinates of the location you want to display on a map inside the [google_maps] shortcode.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/expire-sticky-posts-plugin/"><strong>Expire Sticky Posts</strong></a>
+<a href="https://lab.urad.online/blog/help/expire-sticky-posts-plugin/"><strong>Expire Sticky Posts</strong></a>
 
 This plugin allows you to set an expiration date on sticky posts so you don’t have to go back and “unstick” posts.  They’ll simply become “unstuck” on the date you set.
 
@@ -94,13 +94,13 @@ This plugin allows you to set an expiration date on sticky posts so you don’t 
 
 This plugin allows you to create a rotating image gallery anywhere you choose on your site. There are a number of customizable options, including gallery size, color, and style. In addition, you can choose which images and/or categories to display, create pages or posts with custom overlay text, and create a thumbnail carousel.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/feedwordpress/"><strong>FeedWordPress</strong></a>
+<a href="https://lab.urad.online/blog/help/feedwordpress/"><strong>FeedWordPress</strong></a>
 
-FeedWordPress is a plugin that pulls the posts from a site or multiple sites (using the RSS feed), and aggregates them on another site so that they appear on that site’s main blog page. <a href="https://openlab.citytech.cuny.edu/blog/help/feedwordpress/">Click here</a> for a longer tutorial.
+FeedWordPress is a plugin that pulls the posts from a site or multiple sites (using the RSS feed), and aggregates them on another site so that they appear on that site’s main blog page. <a href="https://lab.urad.online/blog/help/feedwordpress/">Click here</a> for a longer tutorial.
 
 <strong>Gravity Forms</strong>
 
-Gravity Forms is a very robust plugin for creating forms that can do many different things, from polling users, collecting contact information, to organizing reservations for events, and more. It can also be used as a way for site members to submit files.  <a href="https://openlab.citytech.cuny.edu/blog/help/using-gravity-forms-to-collect-work/">Click here</a> for a tutorial on how to use it to collect work.
+Gravity Forms is a very robust plugin for creating forms that can do many different things, from polling users, collecting contact information, to organizing reservations for events, and more. It can also be used as a way for site members to submit files.  <a href="https://lab.urad.online/blog/help/using-gravity-forms-to-collect-work/">Click here</a> for a tutorial on how to use it to collect work.
 
 <strong>Gravity Forms Change Entry Creator Add-on</strong>
 
@@ -110,7 +110,7 @@ This plugin is an add-on for Gravity Forms, which allows you to edit the user wh
 
 This is a Gravity Forms add-on which allows you to easily collect and display contact information, creating a directory of users. Members can display, for example, their email, or phone numbers, or interests, which then become searchable. Directories can be public or private just to site members.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/gravity-forms-quiz-add-on-plugin/"><strong>Gravity Forms Quiz Add-On</strong> </a>
+<a href="https://lab.urad.online/blog/help/gravity-forms-quiz-add-on-plugin/"><strong>Gravity Forms Quiz Add-On</strong> </a>
 
 This plugin allows you to quickly create Quizzes that are automatically graded or scored when the form is submitted.
 
@@ -160,9 +160,9 @@ This plugin allows users to embed OpenStreetMaps in their posts or pages.  Feat
 
 According to its developers, “this plugin allows you to make a WordPress page or post link to a URL of your choosing, instead of its WordPress page or post URL.” You can activate this plugin on any site, but if you’re using the Sliding Door theme, you’ll need this plugin to make the sliding images link to pages on your site.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/pagemash/"><strong>PageMash</strong></a>
+<a href="https://lab.urad.online/blog/help/pagemash/"><strong>PageMash</strong></a>
 
-PageMash makes menu customization easy. Use it if you want to hide pages so they don’t show up on your menu, if you want to quickly rename the page, or if you want to create parent/child pages (e.g. a dropdown menu). You can do all these things without PageMash, but the plugin makes it easy and intuitive. Click here for a longer tutorial. <a href="https://openlab.citytech.cuny.edu/blog/help/pagemash/">Click here</a> for a longer tutorial.
+PageMash makes menu customization easy. Use it if you want to hide pages so they don’t show up on your menu, if you want to quickly rename the page, or if you want to create parent/child pages (e.g. a dropdown menu). You can do all these things without PageMash, but the plugin makes it easy and intuitive. Click here for a longer tutorial. <a href="https://lab.urad.online/blog/help/pagemash/">Click here</a> for a longer tutorial.
 
 <strong>Page Tagger</strong>
 
@@ -172,25 +172,25 @@ Page Tagger allows you to add tags to pages, a function that is usually reserved
 
 Papercite formats BibTeX entries to display a bibliography or citations in posts and pages.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/prezi-wp/"><strong>Prezi WP</strong></a>
+<a href="https://lab.urad.online/blog/help/prezi-wp/"><strong>Prezi WP</strong></a>
 
-This plugin allows users to embed Prezi presentations into posts and pages using a simple shortcode.  Prezi is a “cloud-based presentation software” that allows users to create presentations with different animated effects. Since it is web-based, the presentation is available anywhere you have an internet connection. <a href="https://openlab.citytech.cuny.edu/blog/help/prezi-wp/">Click here</a> for a longer tutorial.
+This plugin allows users to embed Prezi presentations into posts and pages using a simple shortcode.  Prezi is a “cloud-based presentation software” that allows users to create presentations with different animated effects. Since it is web-based, the presentation is available anywhere you have an internet connection. <a href="https://lab.urad.online/blog/help/prezi-wp/">Click here</a> for a longer tutorial.
 
 <strong>Really Simple CAPTCHA</strong>
 
 This plugin works with Contact Form 7, and can be used to add a simple CAPTCHA to the form submission to prevent spam.
 
-<strong><a href="https://openlab.citytech.cuny.edu/blog/help/require-post-category-plugin/">Require Post Category</a></strong>
+<strong><a href="https://lab.urad.online/blog/help/require-post-category-plugin/">Require Post Category</a></strong>
 
 This very simple plugin can do wonders to organize a site with multiple users, just by making sure users can’t post without choosing a category first.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/rotating-post-gallery/"><strong>Rotating Post Gallery</strong></a>
+<a href="https://lab.urad.online/blog/help/rotating-post-gallery/"><strong>Rotating Post Gallery</strong></a>
 
-This plugin allows you to add a rotating gallery of images to one of the sidebars of your site. Each time a visitor refreshes or visits a new page, the image will change, giving them an appealing overall sense of the site activity. <a href="https://openlab.citytech.cuny.edu/blog/help/rotating-post-gallery/">Click here</a> for a longer tutorial.
+This plugin allows you to add a rotating gallery of images to one of the sidebars of your site. Each time a visitor refreshes or visits a new page, the image will change, giving them an appealing overall sense of the site activity. <a href="https://lab.urad.online/blog/help/rotating-post-gallery/">Click here</a> for a longer tutorial.
 
-<a href="https://openlab.citytech.cuny.edu/blog/help/sharethis/"><strong>ShareThis</strong></a>
+<a href="https://lab.urad.online/blog/help/sharethis/"><strong>ShareThis</strong></a>
 
-ShareThis adds a social media bar to all posts and pages, allowing your followers, members, or readers to easily share posts or pages from your site on other social media platforms such as Twitter and Facebook. <a href="https://openlab.citytech.cuny.edu/blog/help/sharethis/">Click here</a> for a longer tutorial.
+ShareThis adds a social media bar to all posts and pages, allowing your followers, members, or readers to easily share posts or pages from your site on other social media platforms such as Twitter and Facebook. <a href="https://lab.urad.online/blog/help/sharethis/">Click here</a> for a longer tutorial.
 
 <strong>Subscribe2</strong>
 
@@ -224,7 +224,7 @@ This plugin will allow you to add, remove and arrange the buttons that are shown
 
 With this plugin, users can choose categories to exclude from the site home page, archives, feeds, or search results.  Posts in those categories will not appear on those pages, if chosen.
 
-<strong><a href="https://openlab.citytech.cuny.edu/blog/help/openlab-grade-comments-plugin/">WP Grade Comments</a></strong>
+<strong><a href="https://lab.urad.online/blog/help/openlab-grade-comments-plugin/">WP Grade Comments</a></strong>
 
 The WP Grade Comments plugin is very simple to use, and it has an easy interface for privately leaving grades only the post creator and administrator can see.  You can also leave private comments.
 

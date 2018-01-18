@@ -14,7 +14,7 @@ help_category:
   - Courses Projects and Clubs
   - Using Courses Projects and Clubs
 ---
-Docs are documents that members of the group can add, edit, and comment on.  Unlike Files, which can only be uploaded and downloaded, not edited, Docs are helpful for creating course wikis and other collective projects. Docs are a dynamic area of Course, Projects, and Clubs on the OpenLab and can significantly contribute to a Course, Project, or Club’s online experience. For an example of how Docs are used in a Course on the OpenLab, see Prof. Jody Rosen’s ENG 2003: Introduction to Poetry <a href="https://openlab.citytech.cuny.edu/groups/eng-2003-introduction-to-poetry/docs/glossary-3">“Glossary” document</a>. Prof. Rosen’s students contributed a new word every week resulting in a valuable resource that students could call their own.
+Docs are documents that members of the group can add, edit, and comment on.  Unlike Files, which can only be uploaded and downloaded, not edited, Docs are helpful for creating course wikis and other collective projects. Docs are a dynamic area of Course, Projects, and Clubs on the OpenLab and can significantly contribute to a Course, Project, or Club’s online experience. For an example of how Docs are used in a Course on the OpenLab, see Prof. Jody Rosen’s ENG 2003: Introduction to Poetry <a href="https://lab.urad.online/groups/eng-2003-introduction-to-poetry/docs/glossary-3">“Glossary” document</a>. Prof. Rosen’s students contributed a new word every week resulting in a valuable resource that students could call their own.
 
 In order to start create, edit, or comment on a doc, you need to first be logged into your account on the Openlab.
 <h3><strong>Creating Docs</strong></h3>
