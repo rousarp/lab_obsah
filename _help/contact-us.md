@@ -4,7 +4,8 @@ post_title: contact-us
 author: admin
 post_excerpt: ""
 layout: help
-permalink: https://lab.urad.online/help/contact-us/
+permalink: >
+  https://lab.urad.online/help/support/contact-us/
 published: true
 post_date: 2018-01-15 21:05:47
 help_tags: [ ]
