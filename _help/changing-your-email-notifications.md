@@ -15,7 +15,7 @@ help_tags:
 help_category:
   - Můj OpenLab
 ---
-<strong>Please Note:</strong> The settings on this page affect how you receive email notifications for things on the OpenLab.  If you are the administrator of a <a title="What is a “Site” on a Course, Project, or Club?" href="https://lab.urad.online/blog/help/what-is-a-site-on-a-course-project-or-club/">Site</a>, you can adjust how members receive emails <a title="Changing your email options for a Course, Project, or Club" href="https://lab.urad.online/blog/help/changing-your-email-options-for-a-course-project-or-club/">here</a>.
+<strong>Please Note:</strong> The settings on this page affect how you receive email notifications for things on the OpenLab.  If you are the administrator of a <a title="What is a “Site” on a Course, Project, or Club?" href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">Site</a>, you can adjust how members receive emails <a title="Changing your email options for a Course, Project, or Club" href="https://lab.urad.online/help/changing-your-email-options-for-a-course-project-or-club/">here</a>.
 <strong>
 1</strong>. After logging into the OpenLab, click<strong> My OpenLab</strong> either from the main menu or top menu.  Then click<strong> My Settings</strong>.
 

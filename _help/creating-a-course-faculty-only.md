@@ -18,7 +18,7 @@ help_category:
 
 <img class="alignnone wp-image-36188 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_1_v2.png" alt="Create Course screen shot" />
 <h3>Step One: Profile</h3>
-1. On the first course creation page, you can either choose to create a new course or <a title="Cloning a course (faculty only)" href="https://lab.urad.online/blog/help/cloning-a-course/">clone an existing course</a>.  Cloning will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.  <a title="Cloning a course (faculty only)" href="https://lab.urad.online/blog/help/cloning-a-course/">View instructions here</a> on cloning a course or continue below for creating a new course.
+1. On the first course creation page, you can either choose to create a new course or <a title="Cloning a course (faculty only)" href="https://lab.urad.online/help/cloning-a-course/">clone an existing course</a>.  Cloning will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.  <a title="Cloning a course (faculty only)" href="https://lab.urad.online/help/cloning-a-course/">View instructions here</a> on cloning a course or continue below for creating a new course.
 
 2. Choose <strong>Create a New Course</strong>.
 
@@ -116,11 +116,11 @@ If you have an existing site that is not on the OpenLab, you can choose to <stro
 
 <img class="alignnone wp-image-36195 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_8_v2.png" alt="Create Course Invite Members screen shot" />
 
-2. After you click <strong>Finish</strong> you will see your new Course Profile page!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Course Site).
+2. After you click <strong>Finish</strong> you will see your new Course Profile page!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Course Site).
 
 <img class="alignnone wp-image-36196 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Create_Course_9_v2.png" alt="Create Course Complete screen shot" />
 
-Now that your course has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://lab.urad.online/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
+Now that your course has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://lab.urad.online/help/help-category/sites-on-the-openlab/">building your site</a>.
 
 Help information on course site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu" target="_blank" rel="noopener">Blogs@Baruch</a> at Baruch College, CUNY.
 

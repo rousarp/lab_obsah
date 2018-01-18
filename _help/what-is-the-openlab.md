@@ -28,7 +28,7 @@ Anyone at City Tech can join, anyone can share, anyone can create a site, projec
  	<li>You can learn how to create courses and teach using the OpenLab before using it in an actual term</li>
  	<li>You can join just to meet members, communicate with colleagues, and make friends.</li>
 </ul>
-Here’s how to <a href="https://lab.urad.online/blog/help/help-category/getting-started/">get started</a>!
+Here’s how to <a href="https://lab.urad.online/help/help-category/getting-started/">get started</a>!
 
 The OpenLab has also been created for the City Tech community by a team that includes and depends on City Tech faculty, staff, and current and former students. If you’d like to be involved <a href="https://lab.urad.online/about/support/contact-us/">please contact us at any time.</a>
 

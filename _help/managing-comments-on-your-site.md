@@ -14,7 +14,7 @@ help_category:
   - Managing your Site
   - Sites on the OpenLab
 ---
-1. After you have <a title="Who can build a Site?" href="https://lab.urad.online/blog/help/who-can-build-a-site/">created your site</a>, you will often have to moderate and filter the <a title="Commenting on a Site" href="https://lab.urad.online/blog/help/commenting-on-a-site/">comments</a> that are made on the posts and pages on your site.  All comments made on your site are listed in a moderation queue accessible via your site Dashboard.  You can view these comments by going to your Dashboard and clicking <strong>Comments</strong> in the left-hand menu.
+1. After you have <a title="Who can build a Site?" href="https://lab.urad.online/help/who-can-build-a-site/">created your site</a>, you will often have to moderate and filter the <a title="Commenting on a Site" href="https://lab.urad.online/help/commenting-on-a-site/">comments</a> that are made on the posts and pages on your site.  All comments made on your site are listed in a moderation queue accessible via your site Dashboard.  You can view these comments by going to your Dashboard and clicking <strong>Comments</strong> in the left-hand menu.
 
 <a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments1.png"><img class="alignnone wp-image-3155 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments1.png" alt="Managing Comments 1 screenshot" /></a>
 

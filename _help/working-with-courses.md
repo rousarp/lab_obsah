@@ -29,7 +29,7 @@ Or you could simply add students to a single course over time.  This can be par
 If you’re interested in setting up this sort of structure, email us anytime for advice and assistance.
 <h3><strong>When the semester is done or Beginning a new semester</strong></h3>
 <h4>Copying (“cloning”) Courses</h4>
-Our system makes it incredibly easy to “clone” a course, bringing all documents and most settings to a new and uniquely named site and profile.  Cloning a course is particularly useful for setting up multiple sections of the same course in a new semester.  You’ll find cloning is now integrated into the OpenLab’s course creation.  You can <a href="https://lab.urad.online/blog/help/cloning-a-course/">learn more about it here</a>.
+Our system makes it incredibly easy to “clone” a course, bringing all documents and most settings to a new and uniquely named site and profile.  Cloning a course is particularly useful for setting up multiple sections of the same course in a new semester.  You’ll find cloning is now integrated into the OpenLab’s course creation.  You can <a href="https://lab.urad.online/help/cloning-a-course/">learn more about it here</a>.
 
 If you want to copy only certain parts of a course site, however, or to copy material created only by certain users (yourself, for example), you might want to use the import/export function on our sites.  You can <a href="https://lab.urad.online/openroad/2012/05/21/importing-and-exporting-sites/">learn more about that here</a>.  Do note that the import/export function only copies course sites:  if most of your course material is on your profile page, you probably are better off using the clone feature.
 

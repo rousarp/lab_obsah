@@ -23,7 +23,7 @@ The Faculty Portfolio Site is set up to loosely follow the Professional Activity
  	<li>Organize the Teaching Portfolio section as an online teaching portfolio and listing of the courses taught.</li>
  	<li>Populate the Institutional Service section each semester with your roles and responsibilities in the Department, College, and University communities.</li>
 </ul>
-The Staff Portfolio Site does not have a highly specified template, and you can easily create any <a title="Creating pages on your Site" href="https://lab.urad.online/blog/help/creating-pages-on-your-site/">pages</a> that are relevant to the content you would like to showcase in your Portfolio.
+The Staff Portfolio Site does not have a highly specified template, and you can easily create any <a title="Creating pages on your Site" href="https://lab.urad.online/help/creating-pages-on-your-site/">pages</a> that are relevant to the content you would like to showcase in your Portfolio.
 
 _____________
 
@@ -43,4 +43,4 @@ _____________
 
 <strong>What is the difference between a Portfolio and a Project?</strong>
 
-Portfolios are intended for a specific use–to showcase the academic and professional work of City Tech faculty and staff.  <a title="What is a Project on the OpenLab?" href="https://lab.urad.online/blog/help/what-is-a-project-on-the-openlab/">Projects</a>, on the other hand, are multi-purpose, and may encompass a wide range of uses.  Projects can also be created by individuals or groups, whereas Portfolios are only created by individuals, and are linked to one person’s Profile.
+Portfolios are intended for a specific use–to showcase the academic and professional work of City Tech faculty and staff.  <a title="What is a Project on the OpenLab?" href="https://lab.urad.online/help/what-is-a-project-on-the-openlab/">Projects</a>, on the other hand, are multi-purpose, and may encompass a wide range of uses.  Projects can also be created by individuals or groups, whereas Portfolios are only created by individuals, and are linked to one person’s Profile.

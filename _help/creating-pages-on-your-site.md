@@ -20,7 +20,7 @@ help_category:
 
 <img class="alignnone wp-image-3193 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages1.png" alt="Add New Page Screenshot" />
 
-2. On the following screen, you will see a title line, a text box, and a formatting toolbar.  Here you can enter a title for your page and the content that you would like to appear on your page.  To modify your text (e.g., to change the font style, add a link, etc.), highlight the text that you want to change and click the appropriate button from the formatting toolbar.  You can also add <a title="Adding images to your Site" href="https://lab.urad.online/blog/help/adding-images-to-your-site/">images</a>, audio, or <a title="Adding video to your Site" href="https://lab.urad.online/blog/help/adding-video-to-your-site/">video</a> to your page by clicking the icon next to <strong>Upload/Insert</strong>.
+2. On the following screen, you will see a title line, a text box, and a formatting toolbar.  Here you can enter a title for your page and the content that you would like to appear on your page.  To modify your text (e.g., to change the font style, add a link, etc.), highlight the text that you want to change and click the appropriate button from the formatting toolbar.  You can also add <a title="Adding images to your Site" href="https://lab.urad.online/help/adding-images-to-your-site/">images</a>, audio, or <a title="Adding video to your Site" href="https://lab.urad.online/help/adding-video-to-your-site/">video</a> to your page by clicking the icon next to <strong>Upload/Insert</strong>.
 
 <img class="alignnone wp-image-3194 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages2.png" alt="Upload Insert Screenshot" />
 

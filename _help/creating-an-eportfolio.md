@@ -21,13 +21,13 @@ By creating an ePortfolio on the OpenLab, you will be setting up an ePortfolio S
 <h3>Step One: Profile</h3>
 1. On the first ePortfolio creation page, you will see a space to enter your <strong>ePortfolio name</strong>.  It will already have a name filled in, based on your first and last name, but you can change that if you wish.  We recommend that you follow this format: FirstName LastName’s ePortfolio (for example, Jane Smith’s ePortfolio).
 
-2. Next, enter a <strong>description</strong> of your ePortfolio.  You can always <a title="Changing privacy and other settings on an ePortfolio" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-on-an-eportfolio/">change this</a> later, so if you don’t have a description prepared, just type something as a placeholder.
+2. Next, enter a <strong>description</strong> of your ePortfolio.  You can always <a title="Changing privacy and other settings on an ePortfolio" href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio/">change this</a> later, so if you don’t have a description prepared, just type something as a placeholder.
 
 3. Check the appropriate boxes for your <strong>school</strong> and <strong>department</strong>.  These are required.
 
 4. Click <strong>Create a new ePortfolio site</strong> and choose a site URL.  Like your name, this text box will already be filled in, based on your name.  However, you can enter a different site URL if you wish.  Once created, the URL cannot be changed, so consider it carefully.
 
-Or, if you have an existing site on the OpenLab or an external site outside of the OpenLab, you can choose to <strong>Use an existing OpenLab site</strong> or <strong>Use an external site</strong> for your ePortfolio.  If you created an ePortfolio on the OpenLab prior to Fall 2012 and you would like to link that site, please view the instructions <a title="Linking to an existing ePortfolio Site" href="https://lab.urad.online/blog/help/linking-to-an-existing-eportfolio-site/">here</a>. To use an external site outside of the OpenLab, type in the URL of the site in the text box provided, and click <strong>check</strong>.
+Or, if you have an existing site on the OpenLab or an external site outside of the OpenLab, you can choose to <strong>Use an existing OpenLab site</strong> or <strong>Use an external site</strong> for your ePortfolio.  If you created an ePortfolio on the OpenLab prior to Fall 2012 and you would like to link that site, please view the instructions <a title="Linking to an existing ePortfolio Site" href="https://lab.urad.online/help/linking-to-an-existing-eportfolio-site/">here</a>. To use an external site outside of the OpenLab, type in the URL of the site in the text box provided, and click <strong>check</strong>.
 
 5. When you are finished, click <strong>Create ePortfolio and Continue</strong>.
 
@@ -145,10 +145,10 @@ Or, if you have an existing site on the OpenLab or an external site outside of t
 
 <img class="alignnone wp-image-36743 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_7_v2.png" alt="ePortfolio Step Four screenshot" />
 
-2. After you click <strong>Finish</strong> you will see your new ePortfolio Profile page!  From here, you can (a) change settings such as privacy, ePortfolio description, or (b) change your avatar.  From your ePortfolio Profile you can also access your (c) ePortfolio Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your ePortfolio Site).
+2. After you click <strong>Finish</strong> you will see your new ePortfolio Profile page!  From here, you can (a) change settings such as privacy, ePortfolio description, or (b) change your avatar.  From your ePortfolio Profile you can also access your (c) ePortfolio Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your ePortfolio Site).
 
 <img class="alignnone wp-image-36744 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_8_v2.png" alt="ePortfolio Finish screenshot" />
 
 _____________
 
-<a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">Here you can view a video</a> kindly created by the <a href="http://websupport1.citytech.cuny.edu/eportfolio.html">ePortfolio support team</a> that demonstrates <a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">how to create an ePortfolio</a>. Before you start, you will need to first <a title="Signing up on the Openlab" href="https://lab.urad.online/blog/help/signing-up-on-the-openlab/">sign up on the OpenLab</a> if you don’t already have an account.
+<a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">Here you can view a video</a> kindly created by the <a href="http://websupport1.citytech.cuny.edu/eportfolio.html">ePortfolio support team</a> that demonstrates <a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">how to create an ePortfolio</a>. Before you start, you will need to first <a title="Signing up on the Openlab" href="https://lab.urad.online/help/signing-up-on-the-openlab/">sign up on the OpenLab</a> if you don’t already have an account.

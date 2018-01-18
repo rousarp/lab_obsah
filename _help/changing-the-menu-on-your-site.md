@@ -16,7 +16,7 @@ help_category:
     administrators)
   - Sites on the OpenLab
 ---
-With most <a title="Changing the appearance of your Site with themes" href="https://lab.urad.online/blog/help/changing-the-appearance-of-your-site-with-themes/">themes</a>, you can create custom menus on your site.  Custom menus give you the option of modifying how viewers access the particular content on your site.  For example, custom menus allow you to change where your page links appear on your site, they allow you to add drop-down menus, add links to external sites, and/or create category archives on your site (i.e., pages that aggregate all posts into a particular category).
+With most <a title="Changing the appearance of your Site with themes" href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">themes</a>, you can create custom menus on your site.  Custom menus give you the option of modifying how viewers access the particular content on your site.  For example, custom menus allow you to change where your page links appear on your site, they allow you to add drop-down menus, add links to external sites, and/or create category archives on your site (i.e., pages that aggregate all posts into a particular category).
 <h3>Creating Your Menu</h3>
 1. To add a custom menu to your site, go to your site Dashboard and click <strong>Appearance &gt; Menus</strong> in the left-hand menu.  By default, there will already be a menu started for you called “Menu 1,” which will include all the pages you currently have created on your site.  Click <strong>Create Menu</strong> to save this as your menu.
 

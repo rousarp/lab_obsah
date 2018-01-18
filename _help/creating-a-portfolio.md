@@ -21,13 +21,13 @@ By creating a Portfolio on the OpenLab, you will be setting up a Portfolio Site 
 <h3>Step One: Profile</h3>
 1. On the first Portfolio creation page, you will see a space to enter your <strong>Portfolio name</strong>.  It will already have a name filled in, based on your first and last name, but you can change that if you wish.  We recommend that you follow this format: FirstName LastName’s Portfolio or Professor LastName’s Portfolio (for example, Jane Smith’s Portfolio or Professor Smith’s Portfolio).
 
-2. Next, enter a <strong>description</strong> of your Portfolio.  You can always <a title="Changing privacy and other settings on an ePortfolio" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-on-an-eportfolio/">change this</a> later, so if you don’t have a description prepared, just type something in as a placeholder.
+2. Next, enter a <strong>description</strong> of your Portfolio.  You can always <a title="Changing privacy and other settings on an ePortfolio" href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio/">change this</a> later, so if you don’t have a description prepared, just type something in as a placeholder.
 
 3. Check the appropriate boxes for your <strong>school</strong> and <strong>department</strong>.  These are required.
 
 4. Click <strong>Create a new Portfolio site</strong> and choose a site URL.  Like your name, this text box will already be filled in, based on your name.  However, you can enter a different site URL if you wish.  Once created, the URL cannot be changed, so consider it carefully.
 
-Or, if you have an existing site on the OpenLab or an external site outside of the OpenLab, you can choose to <strong>Use an existing OpenLab site</strong> or <strong>Use an external site</strong> for your Portfolio.  To use an existing Openlab site, please view the instructions <a title="Linking to an existing ePortfolio Site" href="https://lab.urad.online/blog/help/linking-to-an-existing-eportfolio-site/">here</a>.  To use an external site outside of the OpenLab, type in the URL of the site in the text box provided, and click <strong>check</strong>.
+Or, if you have an existing site on the OpenLab or an external site outside of the OpenLab, you can choose to <strong>Use an existing OpenLab site</strong> or <strong>Use an external site</strong> for your Portfolio.  To use an existing Openlab site, please view the instructions <a title="Linking to an existing ePortfolio Site" href="https://lab.urad.online/help/linking-to-an-existing-eportfolio-site/">here</a>.  To use an external site outside of the OpenLab, type in the URL of the site in the text box provided, and click <strong>check</strong>.
 
 5. When you are finished, click <strong>Create Portfolio and Continue</strong>.
 
@@ -145,6 +145,6 @@ Or, if you have an existing site on the OpenLab or an external site outside of t
 
 <img class="alignnone wp-image-36743 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_7_v2.png" alt="Create a Portfolio Step Four Screenshot" />
 
-2. After you click <strong>Finish</strong> you will see your new Portfolio Profile page!  From here, you can (a) change settings such as privacy, portfolio description, or (b) change your avatar.  From your Portfolio Profile you can also access your (c) Portfolio Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Portfolio Site).
+2. After you click <strong>Finish</strong> you will see your new Portfolio Profile page!  From here, you can (a) change settings such as privacy, portfolio description, or (b) change your avatar.  From your Portfolio Profile you can also access your (c) Portfolio Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Portfolio Site).
 
 <img class="alignnone wp-image-36744 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_8_v2.png" alt="Create a Portfolio Finish Screenshot" />

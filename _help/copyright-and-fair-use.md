@@ -31,7 +31,7 @@ Below are some guidelines for using the work of others on the OpenLab. Please do
  	<li>Use open license images, such as those licensed through <a href="http://creativecommons.org/licenses/">Creative Commons</a>. In most cases you may use these as long as you credit the original owner or creator of the image.</li>
  	<li>Try to find images that are in the public domain, which are free of copyright. In the U.S., images created before 1923 are automatically in the public domain. The <a href="http://dp.la/">Digital Public Library of America</a> is one great place to look for public domain and Creative Commons images. <a href="http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources">This Wikipedia page</a> also lists many good resources for finding public domain and Creative Commons images.</li>
  	<li>Find out whether you have permission to use an image. If it says “all rights reserved” or “copyright,” do not use. Or, if you can’t find any copyright information or if you’re unsure, it’s best not to use.</li>
- 	<li>Read our help page on <a href="https://lab.urad.online/blog/help/following-copyright-guidelines-for-images/">images</a> for more information, including where you can find open license and public domain images.</li>
+ 	<li>Read our help page on <a href="https://lab.urad.online/help/following-copyright-guidelines-for-images/">images</a> for more information, including where you can find open license and public domain images.</li>
 </ul>
 </li>
  	<li>You can also link to a website, text, image, video, or music; again, it’s best not to link to something you know is infringing on copyright.</li>

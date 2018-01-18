@@ -14,7 +14,7 @@ help_category:
   - Courses Projects and Clubs
   - Projects
 ---
-1. You must be logged in to the OpenLab to join a Project, so after logging in, go to the <strong>Project Profile</strong> of the Project you want to join.  (Read more about how to <a title="Finding a Project" href="https://lab.urad.online/blog/help/finding-a-project/">find a Project</a>.)
+1. You must be logged in to the OpenLab to join a Project, so after logging in, go to the <strong>Project Profile</strong> of the Project you want to join.  (Read more about how to <a title="Finding a Project" href="https://lab.urad.online/help/finding-a-project/">find a Project</a>.)
 
 2. If the Project is public, click <strong>+ Join Now</strong>, and you will automatically become a member.  If the Project is private, click <strong>+ Request Membership</strong> and the Project administrator will be notified of your request.  Once she approves the request you’ll be added as a member.
 

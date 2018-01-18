@@ -54,7 +54,7 @@ help_category:
 <ul>
  	<li>The course, project, or club profile and related content and activity will only be visible to members.</li>
  	<li>The course, project, or club profile will be listed in OpenLab directories and search results.</li>
- 	<li>Only OpenLab members who request membership and are accepted by an <a title="Who Can Change Settings for Courses, Projects, and Clubs?" href="https://lab.urad.online/blog/help/who-can-change-settings-for-courses-projects-and-clubs-2/">administrator</a> may join this course.</li>
+ 	<li>Only OpenLab members who request membership and are accepted by an <a title="Who Can Change Settings for Courses, Projects, and Clubs?" href="https://lab.urad.online/help/who-can-change-settings-for-courses-projects-and-clubs-2/">administrator</a> may join this course.</li>
 </ul>
 <strong>This is a hidden course, project, or club:</strong>
 <ul>
@@ -103,7 +103,7 @@ help_category:
 
 <img class="alignnone wp-image-36753 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_6_v3.png" alt="Changing Privacy Settings Screen Shot" />
 <h3><strong>Email Subscription Defaults</strong></h3>
-1. These settings control the default email settings for new members of your course, project, or club.  Individual members may <a href="https://lab.urad.online/blog/help/changing-your-email-options-for-a-course-project-or-club/">change their own settings</a> at any time, but these settings set the automatic standard for anyone who signs up.
+1. These settings control the default email settings for new members of your course, project, or club.  Individual members may <a href="https://lab.urad.online/help/changing-your-email-options-for-a-course-project-or-club/">change their own settings</a> at any time, but these settings set the automatic standard for anyone who signs up.
 
 <strong>No Email</strong>
 <ul>
@@ -134,7 +134,7 @@ help_category:
 
 <img class="alignnone wp-image-36754 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_7_v3.png" alt="Changing Email Settings Screen Shot" />
 <h3><strong>Post or Page Privacy Settings</strong></h3>
-Privacy settings for individual posts and pages need to be changed on your <a title="What is the Site Dashboard?" href="https://lab.urad.online/blog/help/what-is-the-site-dashboard/">Site Dashboard</a>.
+Privacy settings for individual posts and pages need to be changed on your <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Site Dashboard</a>.
 
 1. On the right side of the post or page editor screen, there is a box with <strong>Publish</strong> options.
 
@@ -151,7 +151,7 @@ This is the standard setting and makes the post or page visible to anyone who ca
 Choose this option if you want to control who can view the post or page and who cannot. Once you click the button it will ask you to create a password specific to that post or page.  Only people who enter the password can view the post or page.
 
 <strong>C. Private</strong>
-This makes it so the post or page is only visible to the its author and <a title="Managing users on your Site" href="https://lab.urad.online/blog/help/managing-users-on-your-site/">site administrators</a>. This option may be useful in a course site if you are having students post assignments to the site and you do not want them to be visible to the entire class.
+This makes it so the post or page is only visible to the its author and <a title="Managing users on your Site" href="https://lab.urad.online/help/managing-users-on-your-site/">site administrators</a>. This option may be useful in a course site if you are having students post assignments to the site and you do not want them to be visible to the entire class.
 
 3. Click <strong>OK</strong> to save when you are done and then <strong>Publish</strong> when you are ready, or <strong>Update</strong> if the post is already published.
 

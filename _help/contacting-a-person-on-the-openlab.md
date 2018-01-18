@@ -13,7 +13,7 @@ help_tags:
 help_category:
   - People on the OpenLab
 ---
-Once you have <a title="Finding People on the OpenLab" href="https://lab.urad.online/blog/help/finding-people-on-the-openlab/">located</a> an OpenLab member, you can contact that person in more than one way.
+Once you have <a title="Finding People on the OpenLab" href="https://lab.urad.online/help/finding-people-on-the-openlab/">located</a> an OpenLab member, you can contact that person in more than one way.
 
 1. You can contact anyone on the OpenLab, whether you have friended them or not, by visiting <strong>People</strong> in the top menu and clicking their <strong>Profile Avatar</strong> or by clicking their <strong>name</strong>.
 

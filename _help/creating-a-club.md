@@ -30,7 +30,7 @@ help_category:
 <img class="alignnone wp-image-36471 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2.png" alt="Creating a Club Step One Screen Shot" />
 <h3>Step Two: Privacy Settings</h3>
 <h4>Profile Privacy Settings</h4>
-1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the club profile, and are different from the club site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
+1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the club profile, and are different from the club site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
 
 <strong>This is a public club:</strong>
 <ul>
@@ -105,10 +105,10 @@ help_category:
 
 <img class="alignnone wp-image-36476 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2.png" alt="Creating a Club Step Four Screen Shot" />
 
-2. After you click <strong>Finish</strong> you will see your new Club Profile page!  From here, you can (a) change settings such as privacy, Club description, or (b) change your avatar.  From your Club Profile you can also access your (c) Club Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/blog/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Club Site).
+2. After you click <strong>Finish</strong> you will see your new Club Profile page!  From here, you can (a) change settings such as privacy, Club description, or (b) change your avatar.  From your Club Profile you can also access your (c) Club Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Club Site).
 
 <img class="alignnone wp-image-36477 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2.png" alt="Creating a Club Finished Screen Shot" />
 
-Now that your club has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/blog/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://lab.urad.online/blog/help/help-category/sites-on-the-openlab/">building your site</a>.
+Now that your club has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://lab.urad.online/help/help-category/sites-on-the-openlab/">building your site</a>.
 
 Help information on club site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu">Blogs@Baruch</a> at Baruch College, CUNY.
