@@ -1,19 +1,25 @@
 ---
 ID: 1086
 post_title: About
-author: ""
+author: admin
 post_excerpt: ""
 layout: page
 permalink: http://multi.openlab.dev/about/
 published: true
 post_date: 2013-03-15 18:21:12
-tags: [ ]
-categories: [ ]
+help_tags: [ ]
+help_category: [ ]
 ---
-<a title="WP Test - The Best Tests For WordPress" href="http://wptest.io" target="_blank">WP Test</a> is a fantastically exhaustive set of test data to measure the integrity of your plugins and themes.
+<strong>Místo, kde se můžete naučit, pracovat a sdílet!</strong> Portál OpenLab na serveru Úřad.online je otevřená digitální platforma, kde se zaměstnanci veřejné správy mohou setkávat, aby se učili, společně pracovali a sdíleli své nápady. Jejím cílem je podporovat výuku a učení, umožnit komunikaci a spolupráci a navazovat lidská partnerství a synergické efekty.
 
-The foundation of these tests are derived from <a title="Theme Unit Test" href="http://codex.wordpress.org/Theme_Unit_Test" target="_blank">WordPress’ Theme Unit Test Codex</a> data. It’s paired with lessons learned from over three years of theme and plugin support, and baffling corner cases, to create a potent cocktail of simulated, quirky user content.
+<strong>Otevřený laboratorní program</strong>: Na rozdíl od uzavřených online výukových systémů, OpenLab umožňuje skupinám  komunikovat mezi sebou i ostatními. Stejně jako v laboratoři poskytuje prostor, kde mohou pracovníci úřadu, politici či dodavatelé služeb pracovat společně, experimentovat a inovovat.
 
-The word "comprehensive" was purposely left off this description. It's not. There will always be something new squarely scenario to test. That's where you come in. <a title="Contact" href="http://wptest.io/contact/">Let us know</a> of a test we're not covering. We'd love to squash it.
+<strong>Veřejná správa sama sobě!</strong> OpenLab je vytvořen pro komunitu portálu <a href="https://urad.online" target="_blank" rel="noopener">úřad.online</a> týmem spolupracovníků, z různých koutů i z růzých vazeb na naši veřejnou správu. Chceme, aby jste se zapojili i Vy – podělte se prosím o své nápady na stránky a vaše myšlenky na to, jak lze věci kolem nás zlepšit.
 
-Let’s make WordPress testing easier and resilient together.
+<strong>Otevřený zdrojový software:</strong> Postavili jsme OpenLab pomocí open source blogovacích, publikačních a sociálních sítí WordPress a BuddyPress. Jsme hrdí na to, že jsme součástí komunity, která se zavázala k technologiím open source. Náš projekt vychází z projektu OpenLab vytvořený pro účely vzdělávací instituce <a href="https://openlab.citytech.cuny.edu" target="_blank" rel="noopener">https://openlab.citytech.cuny.edu</a>.
+
+<strong>Chcete vidět, co je v OpenLabu možné?</strong> Vydejte se na pár skvělých příkladů kurzů, projektů, klubů a portfolia. A nezapomeňte se připojit k Open Road, naše webové stránce, abychom vás informovali o novinkách a akcích OpenLab!
+
+<strong>Potřebujete další informace?</strong> Další informace o OpenLabu získáte v <a href="http://multi.openlab.dev/blog/help/openlab-help/">nápovědě</a>.
+
+&nbsp;
