@@ -44,7 +44,7 @@ Apart from the City Tech email address, all of this information can be changed l
 
 <img class="alignnone wp-image-43490 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_4.png" alt="screen shot" />
 
-You do not need to go through this process again.  When you want to come back to the OpenLab, simply go to our<a href="http://https://openlab.citytech.cuny.edu"> homepage</a> (<a href="https://lab.urad.online">https://openlab.citytech.cuny.edu</a>), and log in with the username and password you created in step two.  You can find more information in the OpenLab help section entitled “<a href="https://lab.urad.online/help/logging-in-to-the-openlab/">Logging In To The OpenLab</a>.”
+You do not need to go through this process again.  When you want to come back to the OpenLab, simply go to our<a href="http://https://openlab.citytech.cuny.edu"> homepage</a> (<a href="https://lab.urad.online">https://openlab.citytech.cuny.edu</a>), and log in with the username and password you created in step two.  You can find more information in the OpenLab help section entitled “<a href="https://lab.urad.online/help/prihlaseni-k-openlabu/">Logging In To The OpenLab</a>.”
 
 &nbsp;
 
