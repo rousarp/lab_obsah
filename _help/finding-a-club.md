@@ -13,14 +13,14 @@ help_tags:
 help_category:
   - Skupiny
 ---
-1. If you are already a member of the club, log in and click on <strong>My OpenLab</strong> in the main menu. In the right-hand menu, click <strong>My Clubs</strong>.  You will see a list of all the clubs of which you are a member.
+1. Pokud jste již členem klubu, přihlaste se a klikněte na tlačítko <strong>My OpenLab</strong> v hlavní nabídce. V pravém menu klikněte na <strong>Moje kluby</strong> . Uvidíte seznam všech klubů, kterých jste členem.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/Finding_Club_1_v2.png"><img class="alignnone wp-image-36203 size-full" title="Finding_club_1" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Finding_Club_1_v2.png" alt="screenshot of my clubs" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/Finding_Club_1_v2.png"><img class="alignnone wp-image-36203 size-full" title="Finding_club_1" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Finding_Club_1_v2.png" alt="screenshot mých klubů" /></a>
 
-2. If you are not a member of the Club, click <strong>Clubs</strong> in the main menu.
+2. Pokud nejste členem klubu, klikněte v hlavní nabídce na <strong>Kluby</strong> .
 
-3. Once you are on the Clubs page, you can use the drop-down filter in the right-hand menu to arrange the order of the Clubs you see by alphabetical, date created (newest to oldest), or last active (most recent to least).
+3. Jakmile se nacházíte na stránce klubů, můžete pomocí rozevíracího filtru v pravé nabídce uspořádat pořadí klubů, které vidíte abecedně, datum vytvoření (nejnovější až nejstarší) nebo poslední aktivní (poslední na nejmenší).
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/Finding_Club_2_v2.png"><img class="alignnone wp-image-36205 size-full" title="Finding_club_2" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Finding_Club_2_v2.png" alt="screenshot of clubs directory page" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/Finding_Club_2_v2.png"><img class="alignnone wp-image-36205 size-full" title="Finding_club_2" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Finding_Club_2_v2.png" alt="screenshot klubové adresářové stránky" /></a>
 
-4. Click the Club avatar or title to see the Club profile page.
+4. Klepněte na avatar klubu nebo titul pro zobrazení profilu klubu.
