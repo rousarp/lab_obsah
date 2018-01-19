@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/what-is-the-openlab/
+  https://lab.urad.online/help/co-je-openlab/
 published: true
 post_date: 2018-01-15 23:12:00
 help_tags:
