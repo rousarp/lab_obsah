@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/signing-up-on-the-openlab-2/
+  https://lab.urad.online/help/registrace-na-openlab/
 published: true
 post_date: 2018-01-15 23:13:07
 help_tags:
