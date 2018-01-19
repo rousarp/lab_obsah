@@ -13,18 +13,18 @@ help_tags:
 help_category:
   - Skupiny
 ---
-1. You must be logged in to the OpenLab to join a Club, so after logging in, go to the <strong>Club Profile</strong> of the Club you want to join.  (Read more about how to <a title="Finding a Club" href="https://lab.urad.online/help/finding-a-club/">find a Club</a>.)
+1. Musíte být přihlášeni do OpenLab, abyste se připojili k klubu, takže po přihlášení jděte do <strong>klubového profilu</strong> klubu, ke kterému se chcete připojit. (Přečtěte si více o tom, jak <a title="Hledání klubu" href="https://lab.urad.online/help/finding-a-club/">najít klub</a> .)
 
-2. If the Club is public, click <strong>+ Join Now</strong>, and you will automatically become a member.  If the Club is private, click <strong>+ Request Membership</strong> and the Club administrator will be notified of your request.  Once she approves the request you’ll be added as a member.
+2. Pokud je Klub veřejný, klikněte na <strong>+ Join Now</strong> a automaticky se stanete členem. Pokud je klub soukromý, klikněte na tlačítko <strong>+ Žádost o členství</strong> a správce klubu bude o vaší žádosti informován. Po schválení žádosti budete přidáni jako člen.
 
-<img class="alignnone wp-image-36183 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_1_v2.png" alt="Join a Club Screen Shot" />
+<img class="alignnone wp-image-36183 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_1_v2.png" alt="Připojte se k zobrazení obrazovky klubu" />
 
-3. A Club administrator may invite you to join a Club. In this case, check your email inbox for a notification that you have been invited to join the Club.  Click the view invites link in that email.   You will then be prompted to log in.  When you do so, you’ll be on your “Invitations” page.  Click <strong>Accept</strong> next to the invitation for the Club.
+3. Správce klubu vás může vyzvat, abyste se připojili k klubu. V takovém případě zkontrolujte e-mailovou schránku, abyste oznámili, že jste byli pozváni do klubu. Klikněte na odkaz na pozvánky na zobrazení v tomto e-mailu. Potom budete vyzváni k přihlášení. Když tak učiníte, budete na stránce "Pozvánky". Klikněte na tlačítko <strong>Přijmout</strong> vedle pozvánky klubu.
 
-<img class="alignnone" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Joining_Course_2a.png" alt="Join a Club Email Screen Shot" />
+<img class="alignnone" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/07/Joining_Course_2a.png" alt="Připojte se k obrazovce Klubové e-mailové snímky" />
 
-<img class="alignnone wp-image-36450 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Joining_Club_2b_V2.png" alt="Join a Club Accept Screen Shot" />
-<h3><strong>Leaving a Club</strong></h3>
-1. After logging into the OpenLab, go to the Club Profile and click<strong> – Leave Group</strong>. You will no longer be a member of the Club.
+<img class="alignnone wp-image-36450 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Joining_Club_2b_V2.png" alt="Připojte se k klubu Přijmout obrazovku" />
+<h3><strong>Opuštění klubu</strong></h3>
+1. Po přihlášení do OpenLab přejděte do profilu klubu a klikněte na <strong>- Leave Group</strong> . Už nebudete členem klubu.
 
-<img class="alignnone wp-image-36451 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Joining_Club_3_V2.png" alt="Leave a Club Screen Shot" />
+<img class="alignnone wp-image-36451 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Joining_Club_3_V2.png" alt="Nechte Klubový snímek" />

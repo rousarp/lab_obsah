@@ -14,7 +14,7 @@ help_tags:
 help_category:
   - Nastavení účtu
 ---
-Jakmile jste členem OpenLab (viz <a href="https://lab.urad.online/help/signing-up-on-the-openlab/ ‎">Registrace na OpenLab</a>), můžete se přihlásit dvěma způsoby:
+Jakmile jste členem OpenLab (viz <a href="https://lab.urad.online/help/registrace-na-openlab/ ‎">Registrace na OpenLab</a>), můžete se přihlásit dvěma způsoby:
 
 <strong>
 </strong>1. Můžete navštívit OpenLab <a href="https://lab.urad.online/">úvodní stránku</a> (<a href="https://lab.urad.online">https://lab.urad.online</a>) a zadejte své uživatelské jméno a heslo pod <strong>Přihlásit se</strong>. Jakmile to uděláte, zůstanete přihlášeni pro všechny navštěvované stránky webu.

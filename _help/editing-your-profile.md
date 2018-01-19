@@ -9,22 +9,22 @@ permalink: >
 published: true
 post_date: 2018-01-15 21:47:11
 help_tags:
-  - Profil
   - Úvod
+  - Profil
 help_category:
   - Můj OpenLab
 ---
-1. After logging in to the OpenLab, click<strong> My OpenLab</strong>.
+1. Po přihlášení do OpenLab klikněte na tlačítko <strong>My OpenLab</strong> .
 
-2. Click<strong> Edit Profile</strong>.<strong>
+2. Klikněte na <strong>Upravit profil</strong> .<strong>
 </strong>
 
-<img class="alignnone wp-image-36155 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_Profile_1_v2.png" alt="Editing Profile screen shot" />
+<img class="alignnone wp-image-36155 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_Profile_1_v2.png" alt="Úprava snímku profilu" />
 
-3. Here you can make changes to any of the fields that you’d like, for example, academic interests, bio, or Twitter ID, or add information to any fields that you haven’t yet.
+3. Zde můžete provést změny v některém z požadovaných polí, například akademické zájmy, bio nebo ID Twitteru, nebo přidat informace do všech polí, které ještě nemáte.
 
-4. Note that the listed email address will default to your City Tech email address, but if you prefer, you can change your profile email address so that users know where to contact you.  This does not change where the OpenLab sends your email, it merely changes what email appears near your name on your profile page.
+4. Vezměte na vědomí, že uvedená e-mailová adresa bude výchozí k vaší e-mailové adrese City Tech, ale pokud chcete, můžete změnit svou e-mailovou adresu profilu tak, aby uživatelé věděli, kde vás kontaktovat. To se nemění tam, kde OpenLab pošle váš e-mail, ale pouze změní, jaký e-mail se zobrazí na vašem profilu vedle vašeho jména.
 
-5. When you’re finished, be sure to scroll all the way to the bottom of the screen and click<strong> Save Changes</strong>.  You’re done!
+5. Až skončíte, přesuňte se až do dolní části obrazovky a klikněte na tlačítko <strong>Uložit změny</strong> . Jsi hotový!
 
-<img class="alignnone wp-image-36681 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/editing_profile_2_v2.png" alt="Editing Profile screen shot" />
+<img class="alignnone wp-image-36681 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/editing_profile_2_v2.png" alt="Úprava snímku profilu" />

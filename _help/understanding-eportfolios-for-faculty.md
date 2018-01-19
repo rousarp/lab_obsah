@@ -15,10 +15,10 @@ help_tags:
 help_category:
   - Uživatelská portfolia
 ---
-Faculty using ePortfolios in their courses can help students build their ePortfolios by choosing their best work to showcase and encouraging them to establish connections between their coursework and the professional skills they will need when they graduate.
+Fakulta, která využívá ePortfolios ve svých kurzech, může pomáhat studentům stavět jejich ePortfolios tím, že si vybírají svou nejlepší práci a představí je a povzbudí je, aby vytvořily spojení mezi svou školní praxí a odbornými dovednostmi, které budou potřebovat, když absolvují.
 
-Rather than having multiple ePortfolios for different courses, students will create a single ePortfolio that they can develop and contribute to throughout their City Tech career.  This means that if you are teaching with ePortfolios, some students in your course may already have set up ePortfolios on their own or in another course while others may not yet have one.
+Spíše než mít více ePortfolios pro různé kurzy, studenti vytvoří jedno ePortfolio, které mohou rozvíjet a přispívat k jejich celoživotní kariéře. To znamená, že pokud vyučujete s ePortfoliosem, někteří studenti ve vašem kurzu možná již vytvořili ePortfolios samostatně nebo v jiném kurzu, zatímco jiní nemusí ještě mít jeden.
 
-<strong>Accessing your Students’ ePortfolios</strong>
+<strong>Přístup k ePortfoliosům studentů</strong>
 
-If an ePortfolio is public, it can be viewed by anyone.  However, if an ePortfolio is private, you will need to <a href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio#access">request membership</a>, or ask your student to invite you to join the ePortfolio.
+Pokud je ePortfolio veřejné, může ho zobrazit někdo. Pokud je však ePortfolio soukromé, musíte <a href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio#access">požádat o členství</a> nebo požádat studenta, aby vás pozval do ePortfolio.

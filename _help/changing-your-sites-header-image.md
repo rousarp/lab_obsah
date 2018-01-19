@@ -16,30 +16,30 @@ help_category:
     Tvorba webových stránek (pro
     administrátory webu)
 ---
-Changing your site’s header image is a quick and easy way to customize your site. A header image refers to the image that appears at the top of every page in many <a title="Changing the appearance of your Site with themes" href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">themes</a> (see example below). Depending on your theme, however, the header image will appear differently.  Two themes don’t have header images: “Carrington” doesn’t have a space for image at the top and the “<a title="Sliding Door theme" href="https://lab.urad.online/help/sliding-door-theme/">Sliding Door</a>” header image is actually a visual menu (read more about that here).
+Změna image hlavičky vašeho webu je rychlý a snadný způsob přizpůsobení vašeho webu. Záhlaví obrázku odkazuje na obrázek, který se zobrazí v horní části každé stránky v mnoha <a title="Změna vzhledu vašeho webu motivy" href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">tématech</a> (viz příklad níže). V závislosti na tématu se však obrázek záhlaví zobrazí jinak. Dvě témata nemají záhlaví: "Carrington" nemá místo pro obrázek v horní části a obrázek záhlaví " <a title="Téma posuvných dveří" href="https://lab.urad.online/help/sliding-door-theme/">Posuvné dveře</a> " je ve skutečnosti vizuální menu (přečtěte si více o tom).
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_0.jpg" alt="" />
 
-1. To change your site’s header, you need to navigate to the <strong>Dashboard</strong> and select <strong>Header</strong> under <strong>Appearance</strong>.  Or, you can choose <strong>Header</strong> from the the dropdown menu at the top from the your site’s main page.
+1. Chcete-li změnit záhlaví vašeho webu, musíte přejít na <strong>panel Dashboard</strong> a vybrat položku <strong>Header</strong> under <strong>Appearance</strong> . Můžete také zvolit <strong>záhlaví</strong> z rozbalovací nabídky nahoře na hlavní stránce vašeho webu.
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_1.jpg" alt="" />
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_2.jpg" alt="" />
 
-2. Pay attention to the image size recommendations that are stated.
+2. Věnujte pozornost výše uvedeným doporučením pro velikost obrazu.
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_3.jpg" alt="" />
 
-3. To upload an image to use, click <strong>Browse</strong> to find an image from your computer or select <strong>Choose Image</strong> if you already have an image in your media library you want to use.
+3. Chcete-li nahrát obrázek, který chcete použít, klepněte na tlačítko <strong>Procházet</strong> a vyhledejte obrázek z počítače nebo vyberte možnost <strong>Vybrat obrázek,</strong> pokud již máte v knihovně médií, kterou chcete použít, obrázek.
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_4.jpg" alt="" />
 
-4. Once you’ve chosen an image, you’ll be given the chance to crop it. Move the cropping window around to choose the section of the image you want to use. Some themes allow you to make the area to be cropped bigger, but remember that means that the image will be bigger on your page. When you’re finished, click <strong>Crop and Publish</strong>.
+4. Jakmile si vyberete obrázek, dostanete šanci ho oříznout. Přesuňte okénko oříznutí a vyberte část obrázku, kterou chcete použít. Některé motivy vám umožňují, aby oblast byla oříznuta větší, ale nezapomeňte, že obrázek bude na vaší stránce větší. Po dokončení klikněte na možnost <strong>Oříznout a publikovat</strong> .
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_5.jpg" alt="" />
 
-5. If you upload multiple images, you can choose between these on this same page. In addition you can choose <strong>Random</strong> as an option. This will rotate all of your header images at random so that each time someone visits your site a different image will appear.
+5. Pokud nahráváte více snímků, můžete si vybrat mezi těmito obrázky na stejné stránce. Navíc můžete jako volbu vybrat možnost <strong>Náhodně</strong> . Tímto náhodně otočíte všechny záhlaví obrázků tak, že pokaždé, když někdo navštíví vaše stránky, objeví se jiný obrázek.
 
 <img class="alignnone" src="https://dl.dropboxusercontent.com/u/78027977/Help%20Screenshots/Sites%20on%20the%20OpenLab/Header_6.jpg" alt="" />
 
-6. When you’ve decided on your new header image, click <strong>Save Changes</strong> at the bottom of the page.
+6. Když jste se rozhodli pro nový obrázek záhlaví, klepněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.

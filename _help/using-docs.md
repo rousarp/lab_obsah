@@ -13,40 +13,40 @@ help_tags:
 help_category:
   - Používání kurzů, projektů a skupin
 ---
-Docs are documents that members of the group can add, edit, and comment on.  Unlike Files, which can only be uploaded and downloaded, not edited, Docs are helpful for creating course wikis and other collective projects. Docs are a dynamic area of Course, Projects, and Clubs on the OpenLab and can significantly contribute to a Course, Project, or Club’s online experience. For an example of how Docs are used in a Course on the OpenLab, see Prof. Jody Rosen’s ENG 2003: Introduction to Poetry <a href="https://lab.urad.online/groups/eng-2003-introduction-to-poetry/docs/glossary-3">“Glossary” document</a>. Prof. Rosen’s students contributed a new word every week resulting in a valuable resource that students could call their own.
+Dokumenty jsou dokumenty, které členové skupiny mohou přidávat, upravovat a komentovat. Na rozdíl od souborů, které mohou být nahrávány a stahovány pouze neupravené, jsou dokumenty užitečné pro vytváření kurzových wiki a dalších kolektivních projektů. Dokumenty jsou dynamickou oblastí Kurzu, Projektů a Klubů v OpenLabu a mohou významně přispět k online zkušenostem Kurzu, Projektu nebo Klubu. Příklad, jak se dokumenty používají v kurzu OpenLab, naleznete v dokumentu ENG 2003: Úvod do poezie <a href="https://lab.urad.online/groups/eng-2003-introduction-to-poetry/docs/glossary-3">"Slovníček"</a> . Studenti prof. Rosena přispěli každý týden k novému slovu, což mělo za následek cenný zdroj, který by studenti mohli volat.
 
-In order to start create, edit, or comment on a doc, you need to first be logged into your account on the Openlab.
-<h3><strong>Creating Docs</strong></h3>
-1. From your Course, Project, or Club’s profile page click <strong>Docs</strong> in the right-hand menu.
+Chcete-li začít vytvářet, upravovat nebo komentovat dokument, musíte nejprve přihlásit do svého účtu v Openlab.
+<h3><strong>Vytváření dokumentů</strong></h3>
+1. Na stránce profilu kurzu, projektu nebo klubu klikněte na položku <strong>Dokumenty</strong> v pravém menu.
 
-<img class="alignnone wp-image-36694 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_1_v2.png" alt="Using Docs Screen Shot" />
+<img class="alignnone wp-image-36694 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_1_v2.png" alt="Použití snímků z obrazovky Dokumenty" />
 
-1. Click on <strong>New Doc</strong>.
+1. Klikněte na <strong>Nový dokument</strong> .
 
-<img class="alignnone wp-image-36695 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_2_v2.png" alt="New Doc Screen Shot" />
+<img class="alignnone wp-image-36695 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_2_v2.png" alt="Nový snímek obrazovky s dokumenty" />
 
-1. You can then begin entering the <strong>Title</strong> and the <strong>Content</strong>.
+1. Poté můžete začít zadávat <strong>název</strong> a  <strong>obsah</strong> .
 
-2. If you would like to format the content in more detail, you can click on the <strong>Kitchen Sink</strong> icon for more formatting tools. You can also copy and paste from Microsoft Word and text documents. (This is important because Word has hidden ways of formatting documents that can be lost. If you copy and paste in another way your document might not look right.)
+2. Chcete-li obsah podrobněji formátovat , můžete kliknout na ikonu <strong>Kuchyňský dřez</strong> pro další nástroje pro formátování. Můžete také zkopírovat a vložit z aplikace Microsoft Word a textové dokumenty. (To je důležité, protože aplikace Word skryje způsoby formátování dokumentů, které mohou být ztraceny. Pokud zkopírujete a vložíte jiným způsobem, nemusí dokument vypadat správně.)
 
-3. Click <strong>Save</strong>.
+3. Klepněte na tlačítko <strong>Uložit</strong> .
 
-<img class="alignnone wp-image-36696 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_3_v2.png" alt="Using Docs Screen Shot" />
+<img class="alignnone wp-image-36696 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_3_v2.png" alt="Použití snímků z obrazovky Dokumenty" />
 
-As an administrator, you can also set the role at which a user can create a new Doc:  it can be set so that different levels of role (administrator, moderator, user) can either view, create, or edit docs.
+Jako administrátor můžete také nastavit roli, ve které může uživatel vytvořit nový dokument: lze jej nastavit tak, aby různé úrovně rolí (administrátor, moderátor, uživatel) mohly buď prohlížet, vytvářet nebo upravovat dokumenty.
 
-<img class="alignnone wp-image-36697 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_4_v2.png" alt="Docs Settings Screen Shot" />
-<h3><strong>Viewing a Document</strong></h3>
-1. From your Course, Project, or Club’s profile page click <strong>Docs</strong> in the right-hand menu, then click the title of the document to see it.  You can also sort based on any of the headings.
+<img class="alignnone wp-image-36697 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_4_v2.png" alt="Nastavení snímků v okně Dokumenty" />
+<h3><strong>Zobrazení dokumentu</strong></h3>
+1. Na stránce profilu kurzu, projektu nebo klubu klikněte na položku <strong>Dokumenty</strong> v pravém menu a poté klikněte na název dokumentu a zobrazte jej. Můžete také třídit podle libovolné položky.
 
-<img class="alignnone wp-image-36698 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_5_v2.png" alt="Viewing Doc Screen Shot" />
-<h3><strong>Commenting on a Document</strong></h3>
-1. Once you’ve opened a document, you can view it, edit it, or look at its history.
+<img class="alignnone wp-image-36698 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_5_v2.png" alt="Prohlížení snímku na obrazovce" />
+<h3><strong>Komentovat k dokumentu</strong></h3>
+1. Jakmile otevřete dokument, můžete ho zobrazit, upravit nebo prohlížet jeho historii.
 
-2. Scroll down past the document to the Discussion area to <strong>Leave a Reply</strong>.
+2. Přejděte dolů kolem dokumentu do oblasti Diskuse a <strong>ponechte odpověď</strong> .
 
-3. Type your comment in the Comment box.
+3. Napište svůj komentář do pole Poznámky.
 
-4. Once you are finished click <strong>Post Comment</strong>.
+4. Po dokončení klikněte na možnost <strong>Postovat komentář</strong> .
 
-<img class="alignnone wp-image-36699 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_6_v2.png" alt="Commenting on a Doc Screen Shot" />
+<img class="alignnone wp-image-36699 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Docs_6_v2.png" alt="Komentář k snímku z obrazovky" />

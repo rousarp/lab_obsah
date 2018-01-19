@@ -13,26 +13,26 @@ help_tags:
 help_category:
   - Používání webu (pro členy webu)
 ---
-1. From your site’s Dashboard, click on <strong>Posts &gt; Add New</strong> in the left hand menu. Or click <strong>+ New</strong> in the toolbar that appears at the top of the screen, and choose <strong>Post</strong> from the drop down menu.
+1. Na panelu Dashboard klikněte na položky <strong>Příspěvky&gt; Přidat nový</strong> v levém menu. Nebo klikněte na tlačítko <strong>+ Nový</strong> na panelu nástrojů, který se zobrazí v horní části obrazovky, a v rozevírací nabídce vyberte možnost <strong>Postovat</strong> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Writing_Post_1.png"><img class="alignnone wp-image-3093" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Writing_Post_1.png" alt="add new post screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Writing_Post_1.png"><img class="alignnone wp-image-3093" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Writing_Post_1.png" alt="přidat nový postranový snímek" /></a>
 
-2. Add a title and content to your post.  You will notice that many of the formatting buttons such as bold or text alignment look similar to those in common word processing and email programs.  You can type in the content box shown below, or paste text from Microsoft word or another program.
+2. Přidejte do příspěvku název a obsah. Všimnete si, že mnoho formátovacích tlačítek, jako je tučné nebo textové zarovnání, vypadá podobně jako u běžných textových a e-mailových programů. Můžete zadat níže uvedené pole obsahu nebo vložit text ze slova Microsoft nebo jiného programu.
 
-3. You can include images, documents, and audio/video in your post using the Upload/Insert button just above the visual editor box.  You can also find more detailed instructions for  uploading images, documents, audio, video, and adding YouTube or Vimeo videos.
+3. Do příspěvku můžete zahrnout obrázky, dokumenty a audio / video pomocí tlačítka Nahrát / Vložit těsně nad rámečkem pro vizuální editor. Můžete také najít podrobnější pokyny pro nahrávání obrázků, dokumentů, zvuku, videa a přidávání videí YouTube nebo Vimeo.
 
 <a href="https://lab.urad.online/wp-content/uploads/2012/08/Writing_Post_2.png"><img class="alignnone wp-image-3095 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Writing_Post_2.png" alt="post editor screenshot" /></a>
 
-4. To the right of the visual editor is the Publish box.  You can click <strong>Save Draft</strong> to save your post and continue working on it later without making it visible on the site.  If you would like to see how your post will appear on the site before you publish it, click the <strong>Preview</strong> button.
+4. Vpravo od vizuálního editoru je pole Publikovat. Klepnutím na tlačítko <strong>Uložit návrh</strong> můžete uložit příspěvek a pokračovat v práci na něm později, aniž byste ho viděli na webu. Chcete-li zjistit, jakým způsobem se vaše příspěvek zobrazí na webu před jeho zveřejněním, klikněte na tlačítko <strong>Náhled</strong> .
 
-5. When you’re ready for it to be published on the site’s home page, click <strong>Publish</strong>. You’re done! You can now view your post on the site.
+5. Když jste připraveni k publikování na domovské stránce webu, klikněte na <strong>Publikovat</strong> . Jsi hotový! Váš příspěvek nyní můžete zobrazit na webu.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Writing_Post_3.png"><img class="alignnone wp-image-3096 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Writing_Post_3.png" alt="post editing screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Writing_Post_3.png"><img class="alignnone wp-image-3096 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Writing_Post_3.png" alt="post editace screenshot" /></a>
 
-6. If you’d like, you can “stick” a post to the top of a site so it remains at the top even after you add new posts.  In the Publish box, click the <strong>Edit</strong> link next to Visibility: Public (see below). Check the box, “<strong>Stick this post to the front page</strong>” and click <strong>OK</strong> to save.
+6. Pokud si přejete, můžete "poskládat" příspěvek do horní části stránky, takže zůstane na vrcholu i poté, co přidáte nové příspěvky. V poli Publikovat klikněte na odkaz <strong>Upravit</strong> vedle možnosti Viditelnost: Veřejné (viz níže). Zaškrtněte políčko " <strong>Uložte </strong><strong>tento příspěvek na přední stranu</strong> " a klepnutím na tlačítko <strong>OK</strong> uložte.
 
-7. You can also change the privacy settings for a single post in the Visibility section.  There are three options: (a) Public is the default. Anyone who can view the site can see your post. (b) Password Protected makes it available only to users who enter a password of your choosing, and (c) Private makes it accessible only to site administrators. Click OK to save when you are done. Students should check with their professors before making a post password protected or private.
+7. Můžete také změnit nastavení ochrany osobních údajů pro jednotlivé příspěvky v části Viditelnost. Existují tři možnosti: (a) Veřejnost je výchozí. K vašemu příspěvku může vidět každý, kdo si může zobrazit stránku. (b) Ochrana heslem je k dispozici pouze uživatelům, kteří zadávají heslo podle vašeho výběru, a (c) Private jej zpřístupňuje pouze správcům webu. Po dokončení klikněte na tlačítko OK. Studenti by si měli zkontrolovat u svých profesorů předtím, než udělají poštovní heslo chráněné nebo soukromé.
 
 <a href="https://lab.urad.online/wp-content/uploads/2012/08/Writing_Post_3b.png"><img class="alignnone wp-image-3097 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Writing_Post_3b.png" alt="post privacy screenshot" /></a>
 
-See more information on Posts at WordPress.org: <a href="http://codex.wordpress.org/Posts">http://codex.wordpress.org/Posts</a>
+Více informací o příspěvcích na WordPress.org: <a href="http://codex.wordpress.org/Posts">http://codex.wordpress.org/Posts</a>
