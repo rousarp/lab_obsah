@@ -7,7 +7,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/accessing-your-city-tech-email-for-students-and-alumni/
+  https://lab.urad.online/help/zachovani-pristupu-k-uctu/
 published: true
 post_date: 2018-01-15 23:14:40
 help_tags:
