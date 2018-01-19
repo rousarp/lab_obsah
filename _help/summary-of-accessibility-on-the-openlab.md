@@ -11,7 +11,6 @@ post_date: 2018-01-15 22:54:36
 help_tags:
   - Nepřiřazeno
 help_category:
-  - Osvědčené postupy
   - Pro všechny
 ---
 Visit the <a href="http://www2.cuny.edu/accessibility/">CUNY IT Accessibility site</a> for resources and information on technology accessibility for students, faculty, and staff at The City University of New York (CUNY).
