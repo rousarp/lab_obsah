@@ -13,34 +13,34 @@ help_tags:
 help_category:
   - Porfolia
 ---
-Once you have created your Portfolio, you can then begin working on your Portfolio Site.  The Faculty Portfolio Site is set up to loosely follow the Professional Activity Report and Self Evaluation (PARSE) format, but you may use it in any way that suits you. Here are a few ideas:
+Jakmile vytvoříte své portfolio, můžete začít pracovat na portfoliu. Portfóliové stránky fakulty jsou nastaveny tak, aby volně sledovaly formát profesionální zprávy a samohodnocení (PARSE), ale můžete je použít jakýmkoliv způsobem, který vám vyhovuje. Zde je několik nápadů:
 <ul>
- 	<li>Use the Blog section to document your teaching, scholarly, and professional growth to help you formulate your year-end Self Evaluation.</li>
- 	<li>Organize the Teaching Portfolio section as an online teaching portfolio and listing of the courses taught.</li>
- 	<li>Populate the Institutional Service section each semester with your roles and responsibilities in the Department, College, and University communities.</li>
+ 	<li>Použijte sekci Blog, abyste dokázali svůj výukový, odborný a profesionální růst, který vám pomůže formulovat vlastní hodnocení na konci roku.</li>
+ 	<li>Uspořádejte sekci Teaching Portfolio jako online výukové portfolio a seznamy vyučovaných kurzů.</li>
+ 	<li>Zapište sekci institucionální služby každý semestr podle svých rolí a povinností v odděleních, vysokých školách a univerzitních společnostech.</li>
 </ul>
-The staff Portfolio site uses a different template, but all the information included below is relevant for staff as well.
+Stránka portfolia zaměstnanců používá jinou šablonu, ale všechny informace uvedené níže jsou pro zaměstnance relevantní.
 
-<img class="alignnone wp-image-4733 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_1.png" alt="Setting Up Portfolio Screenshot" />
+<img class="alignnone wp-image-4733 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_1.png" alt="Nastavení obrazovky portfolia" />
 
-1a. To begin editing your site, you will need to go to the <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a>. Your Dashboard is the “back-end,” or administrative area.  This section of your site is only available only to you.   You can <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">view more information on the Dashboard here</a>.  To get to the Dashboard, go to your Portfolio Profile and click <strong>Dashboard</strong>.
+1a. Chcete-li začít upravovat své stránky, musíte se dostat na <a title="Co je panel Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">panel Dashboard</a> . Váš řídicí panel je "back-end" nebo správní oblast. Tato část vašeho webu je k dispozici pouze vám. Můžete si <a title="Co je panel Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">zobrazit více informací o panelu zde</a> . Chcete-li se dostat na panel Dashboard, přejděte do profilu portfolia a klikněte na položku <strong>Dashboard</strong> .
 
-<img class="alignnone wp-image-36833 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/portfolio_site2.png" alt="Setting Up Portfolio Screenshot" />
+<img class="alignnone wp-image-36833 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/portfolio_site2.png" alt="Nastavení obrazovky portfolia" />
 
-1b. You can also access your Dashboard (in addition to your Portfolio Profile and Site) from My OpenLab.
+1b. Můžete také přistupovat k panelu Dashboard (kromě portfolia profilu a webu) z aplikace My OpenLab.
 
-<img class="alignnone wp-image-36835 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/portfolio_site3.png" alt="Setting Up Portfolio Screenshot" />
+<img class="alignnone wp-image-36835 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/portfolio_site3.png" alt="Nastavení obrazovky portfolia" />
 
-2. Most of the content you will be adding and editing will be on <a href="https://lab.urad.online/help/creating-pages-on-your-site/">pages</a>.  Some examples of pages include Teaching Portfolio, Scholarly Work, Institutional Service, and all the related sub-pages, such as Statement of Teaching, Background, and Department.  To edit the pages included in your Site’s template, click <strong>Pages</strong> in the left-hand menu and then click on the title of a page, such as <strong>Teaching Portfolio</strong>, to edit.
+2. Většina obsahu, který přidáte a upravujete, bude na <a href="https://lab.urad.online/help/creating-pages-on-your-site/">stránkách</a> . Některé příklady stránek zahrnují Teaching Portfolio, Scholarly Work, Institutional Service a všechny související podstránky, jako je výkaz výuky, pozadí a oddělení. Chcete-li upravit stránky zahrnuté ve šabloně vašeho webu, klikněte v levém menu na položku <strong>Stránky</strong> a poté klikněte na název stránky, například na téma <strong>Vyučení portfolia</strong> , a upravte je.
 
-<img class="alignnone wp-image-4735 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_3.png" alt="Setting Up Portfolio Dashboard Screenshot" />
+<img class="alignnone wp-image-4735 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_3.png" alt="Nastavení obrazovky Dashboard portfolia" />
 
-3. Once you click on the page you would like to edit, you can replace any of the preexisting text with your own content.  You can <a href="https://lab.urad.online/help/creating-pages-on-your-site/">view more information on pages here</a>.
+3. Jakmile kliknete na stránku, kterou chcete upravit, můžete nahradit libovolný existující text vlastním obsahem. Můžete si <a href="https://lab.urad.online/help/creating-pages-on-your-site/">zobrazit více informací na stránkách zde</a> .
 
-<img class="alignnone wp-image-4737 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_4.png" alt="Setting Up Portfolio Edit Screenshot" />
+<img class="alignnone wp-image-4737 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_4.png" alt="Nastavení snímku pro úpravu portfolia" />
 
-4. Anything you include in the Blog section of your Site will be added using <a href="https://lab.urad.online/help/writing-a-post/">posts</a>.  This section might include more dynamic information, for example, ongoing documentation of your teaching, scholarly, and professional growth to help you formulate your year-end Self Evaluation.  Or, it could include more general updates or announcements related to your work.  You can view <a href="https://lab.urad.online/help/writing-a-post/">more information on writing a post here</a>.
+4. Všechno, co zahrnete do části blogu vašeho webu, bude přidáno pomocí <a href="https://lab.urad.online/help/writing-a-post/">příspěvků</a> . Tato část by mohla obsahovat dynamičtější informace, například průběžnou dokumentaci o vašem výuce, vědeckém a profesním růstu, které vám pomohou formulovat vaše sebehodnocení na konci roku. Nebo by mohlo zahrnovat obecnější aktualizace nebo oznámení týkající se vaší práce. Si můžete prohlédnout <a href="https://lab.urad.online/help/writing-a-post/">více informací o psaní příspěvek zde</a> .
 
-<img class="alignnone wp-image-4739 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_5.png" alt="Setting Up Portfolio Blog Screenshot" />
+<img class="alignnone wp-image-4739 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/PortfolioSite_5.png" alt="Nastavení portfolia Blog Screenshot" />
 
-For more help setting up your Portfolio Site–changing <a href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">how it looks</a>; creating <a href="https://lab.urad.online/help/writing-a-post/">posts</a>, <a href="https://lab.urad.online/help/creating-pages-on-your-site/">pages</a>, and <a href="https://lab.urad.online/help/changing-the-menu-on-your-site/">menus</a>; adding <a href="https://lab.urad.online/help/adding-images-to-your-site/">images</a> and <a href="https://lab.urad.online/help/adding-video-to-your-site/">video</a>; and much more–see the section <a href="https://lab.urad.online/help/help-category/sites-on-the-openlab/">Sites on the OpenLab</a>.
+Další nápověda k nastavení portfolia stránek, <a href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">jak to vypadá</a> . vytváření <a href="https://lab.urad.online/help/writing-a-post/">příspěvků</a> , <a href="https://lab.urad.online/help/creating-pages-on-your-site/">stránek</a> a <a href="https://lab.urad.online/help/changing-the-menu-on-your-site/">nabídek</a> ; přidávání <a href="https://lab.urad.online/help/adding-images-to-your-site/">obrázků</a> a <a href="https://lab.urad.online/help/adding-video-to-your-site/">videa</a> ; a mnohem víc - viz část <a href="https://lab.urad.online/help/help-category/sites-on-the-openlab/">Místa na OpenLabu</a> .
