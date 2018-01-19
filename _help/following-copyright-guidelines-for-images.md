@@ -1,6 +1,6 @@
 ---
 ID: 1551
-post_title: ""
+post_title: Autorská práva k obrázkům
 author: admin
 post_excerpt: ""
 layout: help
@@ -15,25 +15,27 @@ help_tags:
 help_category:
   - Pro všechny
 ---
-Images that you upload are integral to the appearance and message of your OpenLab presence. From your My OpenLab profile to your Course, Project, or Club and their sites, images play a very important role.  Hence, it’s important to use these images ethically and legally. Here are some ways to find images that are meant to be shared.
+<a href="http://dp.la/"></a>
 
-1. Use images that you take for yourself. For example, if you’re looking for an image of a birthday cake, and you’ve recently made a birthday cake, use that image. Not only is that image legally yours, it also adds a personal touch to your site.
+Obrázky, které nahráváte, jsou součástí vzhledu a zprávy o vaší přítomnosti OpenLab. Z vašeho profilu My OpenLab do kurzu, projektu nebo klubu a jejich stránek hrají velmi důležitou roli. Proto je důležité používat tyto obrázky eticky a legálně. Zde jsou některé způsoby, jak najít obrázky, které mají být sdíleny.
 
-2. Try to find images that are in the public domain, which are free of copyright. In the U.S., images created before 1923 are automatically in the public domain. The <a href="http://dp.la/">Digital Public Library of America</a> is one great place to look for public domain and Creative Commons images. <a href="http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources">This Wikipedia page</a> also lists many good resources for finding public domain and Creative Commons images.
+1. Použijte obrázky, které jste si sami vybrali. Například pokud hledáte obrázek narozeninového dortu a nedávno jste si vyrobili narozeninový dort, použijte tento obrázek. Nejenže je tento obrázek legálně vaše, ale také přidává osobní dojem na vašem webu.
 
-3. Use open license images, such as those licensed through <a href="http://creativecommons.org/licenses/">Creative Commons</a>. Creative Commons licenses allow artists and photographers to choose levels of image-sharing that go beyond just “all rights reserved,” and in most cases you may use these as long as you credit the original owner or creator of the image.
+2. Pokuste se najít snímky, které jsou ve veřejné doméně, které jsou bez autorských práv. V USA jsou snímky vytvořené před rokem 1923 automaticky ve veřejné doméně. <a href="http://dp.la/">Digital Public Library of America</a> je jedním skvělé místo, kde hledat veřejné doméně a Creative Commons obrazů. <a href="http://en.wikipedia.org/wiki/Wikipedia:Public_domain_image_resources">Tato stránka Wikipedie</a> také uvádí mnoho dobrých zdrojů pro vyhledání obrázků ve veřejné doméně a Creative Commons.
 
-For more information about Creative Commons, visit their website:
-<a href="http://creativecommons.org/about" target="_blank" rel="noopener"> http://creativecommons.org/about</a>
-<h3><strong>Places to Find Public Domain and Open License Images</strong></h3>
-<strong>Flickr</strong>
-<a href="http://www.flickr.com/creativecommons/" target="_blank" rel="noopener"> http://www.flickr.com/creativecommons</a>
+3. Používejte otevřené licenční obrázky, například licencované prostřednictvím <a href="http://creativecommons.org/licenses/">Creative Commons</a> . Licence Creative Commons umožňují umělcům a fotografům zvolit si úroveň sdílení obrázků, která přesahuje pouze "všechna práva vyhrazená", a ve většině případů je můžete použít, pokud připočítete původnímu vlastníkovi nebo tvůrci obrazu.
 
-<strong>Wikimedia Commons</strong>
-<a href="http://commons.wikimedia.org/wiki/Main_Page" target="_blank" rel="noopener"> http://commons.wikimedia.org/wiki/Main_Page</a>
+Další informace o službě Creative Commons najdete na jejich webové stránce:
+<a href="http://creativecommons.org/about" target="_blank" rel="noopener">http://creativecommons.org/about</a>
+<h3><strong>Místa, kde najdete veřejnou doménu a otevřené snímky licencí</strong></h3>
+<strong>Flickr </strong>
+<a href="http://www.flickr.com/creativecommons/" target="_blank" rel="noopener">http://www.flickr.com/creativecommons</a>
 
-<strong>Wikipedia Public Domain Image Resources</strong>:
-<a href="http://en.wikipedia.org/wiki/Public_domain_image_resources" target="_blank" rel="noopener"> http://en.wikipedia.org/wiki/Public_domain_image_resources</a>
+<strong>Wikimedia Commons: </strong>
+<a href="http://commons.wikimedia.org/wiki/Main_Page" target="_blank" rel="noopener">http://commons.wikimedia.org/wiki/Main_Page</a>
 
-<strong>Digital Public Library of America:</strong>
+<strong>Wikipedia Public Domain Image Zdroje</strong> :
+<a href="http://en.wikipedia.org/wiki/Public_domain_image_resources" target="_blank" rel="noopener">http://en.wikipedia.org/wiki/Public_domain_image_resources</a>
+
+<strong>Digitální veřejná knihovna Ameriky: </strong>
 <a href="http://dp.la/">http://dp.la</a>
