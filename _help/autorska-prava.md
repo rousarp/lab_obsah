@@ -7,7 +7,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/copyright-and-fair-use/
+  https://lab.urad.online/help/autorska-prava/
 published: true
 post_date: 2018-01-15 22:55:27
 help_tags:
