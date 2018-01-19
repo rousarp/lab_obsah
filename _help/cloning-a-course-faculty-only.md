@@ -15,109 +15,130 @@ help_tags:
 help_category:
   - Kurzy
 ---
-Cloning a course will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.
+Klonováním kurzu vytvoříte přesnou kopii stávajícího kurzu, zachováte veškerý obsah, který jste vytvořili nebo nahráli, ale práce účastníků kurzů nebude kopírována. Náhledový obrázek kurzu, nastavení kurzu a nastavení webu zůstanou stejné, ačkoli je můžete později změnit podle vaší potřeby.
 <ol>
- 	<li>After logging in, click <strong>My OpenLab</strong> in the main menu. Then click <strong>My Courses</strong> in the right-hand menu. On the My Courses page, click <strong>+ Create / Clone a Course</strong> at the top of the page.</li>
+ 	<li>Po přihlášení klikněte v hlavním menu na <strong>Můj OpenLab</strong>. Poté klikněte na tlačítko <strong>Moje kurzy</strong> v pravé nabídce. Na stránce Moje kurzy klikněte na <strong>Vytvořit / dupikovat kurz</strong> v horní části stránky.</li>
 </ol>
-1a. You may also begin cloning a course by going to the Profile of the course you would like to clone.  Choose <strong>Course Settings</strong> in the right-hand menu and then <strong>+ Clone Course</strong>.
-<h3>Step One: Profile</h3>
+1a. Můžete také začít duplikovat kurz tím, že půjdete do profilu kurzu, který chcete duplikovat. V pravé nabídce vyberte možnost <strong>Nastavení kurzu</strong> a potom <strong>Duplikovat kurz </strong>.
+<h3>První krok: Profil</h3>
 <ol>
- 	<li>On the first Create/Clone a Course screen, choose <strong>Clone an Existing Course</strong> and then in the dropdown menu, select the course you would like to clone.</li>
- 	<li>Enter the <strong>Course Name</strong>.</li>
- 	<li>You’ll notice that the description is already filled in, and is the same as the course you are cloning. The School, Department, Course Code, and Section Code are also pre-populated.  You can leave these as they appear or edit.</li>
- 	<li>Enter the <strong>Semester</strong> and <strong>Year</strong>.</li>
- 	<li>Choose the <strong>site details</strong>.  The button for “Name your cloned site” will be pre-selected.  Fill in the URL for the <strong>new site</strong>.  <strong>Please note</strong>: the site address must be different from the old site, which will be displayed below.  You should also only include the last part of the URL (do not include https://openlab.citytech.cuny.edu/).</li>
+ 	<li>Na první obrazovce Vytvořit / Duplikovat kurz vyberte možnost <strong>Duplikovat existující kurz</strong> a v rozbalovací nabídce vyberte kurz, který chcete duplikovat.</li>
+ 	<li>Zadejte <strong>Název kurzu</strong>.</li>
+ 	<li>Všimněte si, že popis je již vyplněn a je stejný jako kurz, který duplikujete. Téma, oblast, kód kurzu jsou také předem vyplněny. Můžete je nechat, jak se zobrazují nebo upravit.</li>
+ 	<li>Zadejte <strong>Kvartál</strong> a <strong>Rok</strong>.</li>
+ 	<li>Zvolte <strong>Podrobnosti o lokalitě </strong>. Tlačítko pro "Název duplikovaného webu" již bude předvyplněno. Vyplňte adresu URL <strong>nového webu</strong>. <strong>Upozorňujeme</strong>: adresa webu se musí lišit od starého webu, který se zobrazí níže. Měli byste také zahrnout pouze poslední část URL (nezahrnují https://lab.urad.online/).</li>
 </ol>
 <ul>
- 	<li>It is a good practice to add Semester and Year to differentiate between your courses from one semester to another: FacultyLastNameCourseCodeSemYear.  For example: smithadv1100sp2012</li>
- 	<li>If you teach multiple sections and plan to create additional course sites on the OpenLab, consider adding other identifying information to the URL, such as the section number or days of the week (for example, MW or TuTh).</li>
+ 	<li>Je dobré osvojit označení kvartálu a roku, abyste rozlišovali mezi kurzy z jednoho období na druhé: OblastPříjmeníKódKurzuKvartálRok. Například: XXnovakJ15032018</li>
+ 	<li>Pokud vyučujete více skupin a plánujete vytvořit další kurzy v OpenLabu, zvážte přidání dalších identifikačních informací do adresy URL, např. číslo skupiny nebo dny v týdnu (například PO- NE).</li>
 </ul>
-You may also choose to create a new site, use an existing site, or use an external site.
+Můžete také zvolit vytvoření nového webu, používání stávajícího webu nebo použití externího webu.
 <ol start="6">
- 	<li>When you are finished, click <strong>Create Course and Continue</strong>.</li>
+ 	<li>Po dokončení klikněte na <strong>Vytvořit kurz a pokračovat</strong>.</li>
 </ol>
-<h3>Step 2: Privacy Settings</h3>
-The privacy settings for the new course will be the same as the settings for the course you are cloning, but you may change them if you wish.
+<h3>Druhý krok: Nastavení ochrany osobních údajů</h3>
+Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení kurzů, které duplikujete, ale můžete ji změnit, pokud si přejete.
 <ol>
- 	<li>Choose your <strong>Profile privacy settings</strong>.  These settings control the privacy of the course profile, and are different from the course site, which you will choose next. You can change the settings at any time.</li>
+ 	<li>Zvolte <strong>Nastavení ochrany osobních údajů profilu</strong>. Tato nastavení řídí soukromí profilu kurzu a liší se od místa kurzu, které si vyberete dále. Nastavení můžete kdykoli změnit.</li>
 </ol>
-<strong>This is a public course:</strong>
+<strong>Toto je veřejný kurz:</strong>
 <ul>
- 	<li>The course profile and related content and activity will be visible to the public, whether or not they are members of the OpenLab.</li>
- 	<li>The course profile will be listed in the OpenLab course directory and search results.</li>
- 	<li>Any OpenLab member may join this course.</li>
- 	<li>Even if you want your course to be private, you might want to choose this option for the first few weeks of the semester because it is easier for students to join.</li>
+ 	<li>Profil kurzu a související obsah a aktivita budou pro veřejnost viditelné, bez ohledu na to, zda jsou nebo nejsou členy OpenLab.</li>
+ 	<li>Profil kurzu bude uveden v adresáři kurzů OpenLab a výsledcích hledání.</li>
+ 	<li>K tomuto kurzu se může připojit jakýkoli člen OpenLab</li>
+ 	<li>I když si přejete, aby váš kurz byl soukromý, můžete tuto možnost zvolit před zahájením tohoto kurzu, protože je snadnější, aby se uživatelé ke kurzu připojili.</li>
 </ul>
-<strong>This is a private course:</strong>
+<strong>Toto je soukromý kurz:</strong>
 <ul>
- 	<li>The course profile and related content and activity will only be visible to members of the course.</li>
- 	<li>The course profile will be listed in the course directory and search results.</li>
- 	<li>Only OpenLab members who request membership and are accepted by the professor may join this course.</li>
+ 	<li>Profil kurzu a související obsah a aktivita budou viditelné pouze pro účastníky kurzu.</li>
+ 	<li>Profil kurzu bude uveden v adresáři kurzů a výsledcích vyhledávání.</li>
+ 	<li>Do tohoto kurzu se mohou připojit pouze členové OpenLab, kteří požadují členství a jsou přijati vyučujícím.</li>
 </ul>
-<strong>This is a hidden course:</strong>
+<strong>Toto je skrytý kurz:</strong>
 <ul>
- 	<li>The course profile, related content, and activity will only be visible only to members of the course.</li>
- 	<li>The course profile will NOT be listed in the course directory and search results.</li>
- 	<li>Only OpenLab members who are invited may join this course.</li>
+ 	<li>Profil kurzu, související obsah a aktivita budou viditelné pouze pro členy kurzu.</li>
+ 	<li>Profil kurzu NENÍ uveden v adresáři kurzů a nebude zobrazován ve výsledcích vyhledávání.</li>
+ 	<li>Do tohoto kurzu se mohou připojit pouze pozvaní členové OpenLab.</li>
 </ul>
 <ol start="2">
- 	<li>Next, choose the privacy settings for your course site.</li>
-</ol>
-<strong>Public:</strong>
-
-<strong>Allow search engines to index this site:</strong>
-<ul>
- 	<li>Anyone can visit your site without needing a password.</li>
- 	<li>Search engines will index all pages and posts, meaning your site will show up in search results on Google, Bing and others.</li>
- 	<li>Choose this option for maximum public visibility.</li>
-</ul>
-<strong>Ask search engines not to index this site:</strong>
-<ul>
- 	<li>Visitors do not need a password to see your site if they know the URL or are linked from elsewhere, but Google, Bing and other search engines should not index your posts and pages. (Please note: it is up to search engines to honor your request.)</li>
- 	<li>Choose this option if you want to be able to show the blog to people who are not members of the OpenLab, but you don’t want people to stumble upon it via search engines.</li>
-</ul>
-<strong>Private:</strong>
-
-<strong>I would like my site to be visible only to registered users of City Tech OpenLab:</strong>
-<ul>
- 	<li>Anyone who is signed into the OpenLab can see this site.</li>
- 	<li>Choose this option if you’d only like the OpenLab community to be able to see the site.</li>
-</ul>
-<strong>I would like my site to be visible to registered users of this Course:</strong>
-<ul>
- 	<li>Only members of your course will be able to visit the site.</li>
- 	<li>Choose this option if you only want enrolled students to be able to see the site.</li>
-</ul>
-<strong>Hidden:</strong>
-
-<strong>I would like my site to be visible only to site administrators:</strong>
-<ul>
- 	<li>No one except site admins (only the professor, unless you add others) can see the site.</li>
- 	<li>You may choose this option if you are in the process of creating your course site, but it would rarely be useful during an active course.</li>
-</ul>
-<ol start="3">
- 	<li>When you’re done, click <strong>Next Step</strong>.</li>
-</ol>
-<h3>Step 3: Course Avatar</h3>
-<ol>
- 	<li>The avatar for the course you have cloned will appear.  If you would like to keep that avatar, just click <strong>Next Step</strong>. If you would like to change it, click <strong>Browse</strong>.  Select the file you want to use from your computer or flash drive and then click <strong>Upload Image</strong>.</li>
-</ol>
-&nbsp;
+ 	<li style="list-style-type: none;">
 <ol start="2">
- 	<li>When you are done click <strong>Next Step.</strong></li>
+<li>Dále zvolte nastavení ochrany osobních údajů pro váš kurz. &amp;</li>
 </ol>
-<h3>Step Four: Inviting Members</h3>
+<strong></strong><strong>Veřejné:</strong><strong> Povolit vyhledávačům indexování tohoto webu:</strong>
+<ul>
+ 	<li>Každý uživatel může navštívit váš web bez nutnosti zadání hesla.</li>
+ 	<li>Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že vaše stránky se budou zobrazovat ve výsledcích vyhledávání na stránkách Google, Seznam, Bing a dalších.</li>
+ 	<li>Zvolte tuto volbu pro maximální viditelnost veřejnosti.</li>
+</ul>
+<strong>Požádejte vyhledávače, aby tuto stránku neindexovali:</strong>
+<ul>
+ 	<li>Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají URL nebo jsou propojeni jinam, ale Google, Seznam, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozorňujeme, že vyhledávače odpovídají vašim požadavkům.)</li>
+ 	<li>Tuto možnost vyberte, pokud chcete, aby byl web zobrazen lidem, kteří nejsou členy OpenLabu, ale nechcete, aby na něm vyhledávali vyhledávače.</li>
+</ul>
+<strong>Soukromé:</strong>
+
+<strong> Chtěli byste, aby byl web viditelný pouze pro registrované uživatele OpenLab: </strong>
+<ul>
+ 	<li>Kdokoli, kdo je přihlášen do OpenLab, může tuto stránku vidět.</li>
+ 	<li>Zvolte tuto možnost, pokud byste chtěli pouze komunitu OpenLab</li>
+</ul>
+<strong>Chtěli byste, aby byl váš web viditelný pro registrované uživatele tohoto kurzu:</strong>
+
+<strong>Skrytý: </strong><strong></strong><strong></strong><strong>Chtěli byste, aby byl web viditelný pouze pro správce webu:</strong>
+<ul>
+ 	<li></li>
+ 	<li>nikdo kromě administrátorů stránek (pouze vyučující, pokud přidáte další) &gt; Touto volbou můžete zvolit, pokud se chystáte vytvořit šablonu kurzu, ale zřídka by to bylo užitečné během aktivního kurzu.</li>
+</ul>
+</li>
+</ol>
+<h3>Třetí krok: Náhledový obrázek kurzu</h3>
+<ol start="2">
+ 	<li style="list-style-type: none;">
+<ol start="2">
+ 	<li style="list-style-type: none;">
 <ol>
- 	<li>If you would like to invite members to your Course, start typing their display name.  When a dropdown list appears, select their name from the list.  Their name and avatar will appear under the heading Invites.  When you’re finished, or if you do not wish to invite anyone at this time (you can always do it later!), click <strong>Finish</strong>, at the bottom of the page.</li>
- 	<li>After you click <strong>Finish</strong> your course will be cloned, and you will be on the <strong>Course Profile</strong> page of your new course!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and <a href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Course Site).</li>
+ 	<li>Náhledový obrázek kurzu Bude zachován. Pokud chcete tento avatar ponechat, stačí kliknout na tlačítko <strong>Další krok</strong>. Chcete-li jej změnit, klikněte na možnost <strong>Procházet</strong>. Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klikněte na tlačítko <strong>Nahrát obrázek</strong>.</li>
 </ol>
-<strong>Please note:</strong>
+</li>
+ 	<li style="list-style-type: none;">
+<ol start="2">
+ 	<li>klikněte na tlačítko <strong>Další krok</strong></li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h3>Čtvrtý krok: Pozvat členy</h3>
+<ol start="2">
+ 	<li style="list-style-type: none;">
+<ol start="2">
+ 	<li style="list-style-type: none;">
+<ol>
+ 	<li>Pokud chcete pozvat členy do kurzu, zadejte jejich zobrazované jména. Když se objeví rozbalovací seznam, vyberte ze seznamu konkrétní osobu. Jejich jméno a náhledový obrázek se objeví pod nadpisem Pozvánky. Nechcete-li v tuto chvíli pozvat nikoho (můžete to udělat vždycky později!), klikněte na <strong>Dokončit</strong> v dolní části stránky</li>
+ 	<li>Po klepnutí na tlačítko <strong>Dokončit</strong> bude kurz duplikován a zůstanete na <strong>profilové stránkce</strong> nového kurzu! Odtud můžete (a) měnit nastavení, jako je soukromí, popis kurzu nebo (b) změnit náhledový obrázek kurzu. Z profilu kurzu můžete také přistupovat k webu kurzu (c) a <a href="https://lab.urad.online/help/what-is-the-site-dashboard/"> řídicímu panelu</a> (admin panel, kde budete moci upravovat a přidávat obsah do kurzu)</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<strong>POZOR:</strong>
+<ol start="2">
+ 	<li style="list-style-type: none;">
+<ol start="2">
+ 	<li style="list-style-type: none;">
 <ul>
- 	<li>All your <a href="https://lab.urad.online/help/writing-a-post/">posts</a> and <a href="https://lab.urad.online/help/creating-pages-on-your-site/">pages</a> from the previous course site will also have been cloned.  However, they will be in draft form, so you will need to publish any that you would like to appear on the new site. If you do not publish them, it will appear that your site is empty.</li>
- 	<li>If you had a custom <a href="https://lab.urad.online/help/changing-the-menu-on-your-site/">menu</a> it will need to be activated before it appears on the new site.  To do so, go to Dashboard &gt; Appearance &gt; Menus and click on the Manage Locations tab at the top of the Edit Menus page.  Choose your menu from the Primary Navigation dropdown and click Save Changes.</li>
- 	<li>You will notice that any posts on the <a href="https://lab.urad.online/help/discussion-forums/">Discussion forum</a> or <a href="https://lab.urad.online/help/using-docs/">Docs</a> you created or <a href="https://lab.urad.online/help/using-files/">Files</a> you uploaded in the previous course will appear in the new course. You can keep or delete any as necessary.</li>
+ 	<li>Všechny vaše <a href="//lab.urad.online/help/writing-a-post/&quot;">příspěvky </a> a <a href="https://lab.urad.online/help/creating-pages-on-your-site / "> stránky </a> z předchozího kurzu budou také duplikovány. Budou však v návrhu, takže budete muset publikovat všechny, které potřebujete na novém webu zobrazit. Pokud je nezveřejníte, nezobrazí se, že vaše stránky zůstanou prázdné.</li>
+ 	<li>Pokud jste měli vlastní <a href="https://lab.urad.online/help/changing-the-menu -on-your-site /">menu</a> bude ho muset nově aktivován, než se objeví na novém webu. Chcete-li tak učinit, přejděte na panel Nástěnka &amp; gt; Vzhled &amp; gt; Menu a klikněte na kartu Správa umístění v horní části stránky Úprava menu. Vyberte menu v rozbalovacín seznamu Primární navigace a klikněte na tlačítko Uložit změny.</li>
+ 	<li>Všimnete si, že všechny příspěvky na webu v <a href="https://lab.urad.online/help/discussion-forums/">Diskusním fóru</a> nebo v <a href="https://lab.urad.online/help/using-docs/">dokumentech </a>, které jste vytvořili nebo <a href="https: // lab. urad.online/help/using-files/">soubory </a> nahrané v předchozím kurzu se rovněž objeví v novém kurzu. Pokud je to nutné, můžete je zachovat nebo odstranit.</li>
 </ul>
+</li>
+ 	<li style="list-style-type: none;">
 <ul>
- 	<li>The <a href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">theme</a> and header image will remain the same, although you may change these at any time.  In addition, any <a href="https://lab.urad.online/help/adding-plugins-to-your-site/">plugins</a> or widgets you had activated on your old site will appear on the new site.</li>
+ 	<li><a href="https://lab.urad.online/help/changing-the-appearance-of-your -site-with-themes / ">Téma</a> a profilový obrázek zůstávají stejné, i když je můžete kdykoli změnit. Kromě toho se na vašem novém webu objeví všechny <a href="https://lab.urad.online/help/adding-plugins-to-your-site/">pluginy</a> a widgety, které jste aktivovali v původních stránkách.</li>
 </ul>
-Help information on course site privacy courtesy of<a href="http://blsciblogs.baruch.cuny.edu"> Blogs@Baruch</a> at Baruch College, CUNY.
+</li>
+</ol>
+</li>
+</ol>
+Informace o nápovědě k ochraně osobních údajů v kurzech se dozvíte zde.
