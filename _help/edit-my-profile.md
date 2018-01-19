@@ -9,11 +9,10 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:00:42
 help_tags:
-  - Otázky a odpovědi
   - Profil
+  - Otázky a odpovědi
 help_category:
   - Jak mohu ...?
-  - Otázky a odpovědi
 ---
 <h3>How do I…</h3>
 <a href="https://lab.urad.online/help/edit-my-profile/#changeprofile">change the information in my profile?</a>
