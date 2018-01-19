@@ -16,7 +16,7 @@ help_category:
 Začněte procházením témat napravo. Níže uvádíme několik nejčastějších nejčastějších otázek.
 <blockquote>Potřebujete pomoc s …
 <ul>
- 	<li><a href="https://lab.urad.online/help/signing-up-on-the-openlab/">vytvořením účtu na portále OpenLab</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/registrace-na-openlab/">vytvořením účtu na portále OpenLab</a>?</li>
  	<li><a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">získáním přístupu k účtu veřejné správy</a>?</li>
  	<li><a href="https://lab.urad.online/help/joining-a-course/">připojením ke kurzu</a>, <a href="https://lab.urad.online/help/joining-a-project/">projektu</a> nebo <a href="https://lab.urad.online/help/joining-a-club/">skupině</a>?</li>
  	<li><a href="https://lab.urad.online/help/creating-a-course-faculty-only/">vytvořením kurzu</a>, <a href="https://lab.urad.online/help/creating-a-project/">projektu</a> nebo <a href="https://lab.urad.online/help/creating-a-club/">skupiny</a>?</li>
