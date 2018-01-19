@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/work-in-a-club/
+  https://lab.urad.online/help/prace-skupina/
 published: true
 post_date: 2018-01-15 23:02:31
 help_tags:
