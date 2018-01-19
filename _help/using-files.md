@@ -13,28 +13,28 @@ help_tags:
   - Vytvoření
 help_category: [ ]
 ---
-“Files” are documents that members can upload to the group. Unlike “<a title="Using “Docs”" href="https://lab.urad.online/help/using-docs/">Docs</a>,” “Files” are static and cannot be commented on and can only be edited by the group Administrator or the member who originally uploaded the file. Files are a good place to put things that will be useful resources to the group but aren’t intended to be collaborative projects like “Docs.” Some examples of an appropriate use of the “Files” area would be the syllabus or assignments for a course or a flyer that a club has put together. In order to upload, edit, or delete a file you need to first be logged into your account on the Openlab.
-<h3><strong>Uploading a File</strong></h3>
-1. From your Course, Project, or Club’s profile page click <strong>Files</strong> in the right-hand menu.
+"Soubory" jsou dokumenty, které mohou členové nahrát do skupiny. Na rozdíl od " <a title="Použití položky &quot;Dokumenty&quot;" href="https://lab.urad.online/help/using-docs/">Dokumentů</a> ", "Soubory" jsou statické a nelze je komentovat a mohou být editovány pouze správcem skupiny nebo členem, který původně nahrál soubor. Soubory jsou dobrým místem pro zařazení věcí, které budou pro skupinu užitečné, ale nejsou zamýšleny jako projekty spolupráce, jako je například "Dokumenty". Některé příklady vhodného využití oblasti "Soubory" by byly osnovami nebo úkoly pro kurz nebo leták, který klub sestavil. Chcete-li nahrát, upravit nebo odstranit soubor, musíte nejprve přihlásit do svého účtu v Openlabu.
+<h3><strong>Nahrávání souboru</strong></h3>
+1. Na stránce Profil kurzu, projektu nebo klubu klepněte na položku  <strong>Soubory</strong> v pravé nabídce.
 
-<img class="alignnone wp-image-36519 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_1_v2.png" alt="Using Files Screen Shot" />
+<img class="alignnone wp-image-36519 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_1_v2.png" alt="Použití souborů Shot shot" />
 
-1.. On the “Files” page click <strong>Upload a New File</strong>.
+1. Na stránce Soubory klikněte na <strong>Nahrát nový soubor</strong> .
 
-<img class="alignnone wp-image-36521 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_2_v2.png" alt="Upload Files Screen Shot" />
+<img class="alignnone wp-image-36521 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_2_v2.png" alt="Nahrát soubory s filtrem" />
 
-1. To upload your file, click <strong>Browse</strong> to choose a file from your own computer. Then enter the <strong>Display Name</strong>, and the <strong>Description</strong>.
+1. Chcete-li nahrát soubor, klepněte na tlačítko <strong>Procházet</strong> a vyberte soubor ze svého počítače. Potom zadejte <strong>zobrazované jméno</strong> a <strong>popis</strong> .
 
-2. When you’re finished, click <strong>Submit</strong>.
+2. Po dokončení klikněte na tlačítko <strong>Odeslat</strong> .
 
-<img class="alignnone wp-image-36522 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_3_v2.png" alt="Using Files Screen Shot" />
-<h3><strong>Viewing a File</strong></h3>
-1. From your Course, Project, or Club’s profile page click <strong>Files</strong> in the right-hand  menu.
+<img class="alignnone wp-image-36522 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_3_v2.png" alt="Použití souborů Shot shot" />
+<h3><strong>Prohlížení souboru</strong></h3>
+1. Na stránce Profil kurzu, projektu nebo klubu klepněte na položku <strong>Soubory</strong> v pravé nabídce.
 
-<img class="alignnone wp-image-36519 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_1_v2.png" alt="Viewing Files Screen Shot" />
+<img class="alignnone wp-image-36519 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_1_v2.png" alt="Prohlížení souborů" />
 
-1.  On the “Files” page click the title of the File to open it. It will open in a new window in your browser.
-<h3><strong>Deleting or Editing a File</strong></h3>
-2. If you are the Adminstrator for your group or you uploaded the file itself you can edit or delete the file. From the Files page, click either <strong>Edit</strong> or <strong>Delete</strong>.
+1. Na stránce "Soubory" klikněte na název souboru a otevřete jej. Otevře se v novém okně v prohlížeči.
+<h3><strong>Smazání nebo úprava souboru</strong></h3>
+2. Pokud jste administrátor pro vaši skupinu nebo jste nahráli soubor samotný, můžete tento soubor upravit nebo smazat. Ze stránky Soubory klikněte na <strong>Upravit</strong> nebo <strong>Vymazat</strong> .
 
-<img class="alignnone wp-image-36523 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_5_v2.png" alt="Edit Delete Files Screen Shot" />
+<img class="alignnone wp-image-36523 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Files_5_v2.png" alt="Upravit odstranění souborů Snímání obrazovky" />
