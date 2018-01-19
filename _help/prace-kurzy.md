@@ -14,28 +14,28 @@ help_tags:
 help_category:
   - Pro spolupracovníky
 ---
-If you’re a faculty member, you might be wondering what practices might help organize your OpenLab course(s) to make semester-transition easier.  A few you might think about before the semester starts, others at the end.
-<h3><strong>Before the semester</strong></h3>
-<h4><strong>Naming Courses</strong></h4>
-Choosing a name and URL for your course is critical part of organizing your OpenLab experience, particularly if you’re teaching multiple sections of the same course or teaching the same course semester after semester.  If you’ve not clearly distinguished your courses, things can get pretty cumbersome after a short time (imagine several years of the teaching multiple sections of the same “econ 101” course).
+Pokud jste členem fakulty, můžete se zajímat, jaké praktiky mohou pomoci organizovat váš kurz OpenLab, abyste usnadnili přechod na semestr. Několik lidí, o kterých byste se mohli zamyslet před začátkem semestru, ostatní na konci.
+<h3><strong>Před semestrem</strong></h3>
+<h4><strong>Pojmenování kurzů</strong></h4>
+Výběr jména a adresy URL kurzu je důležitou součástí organizování vašeho OpenLab zkušenosti, zvláště pokud vyučujete více částí stejného kurzu nebo vyučujete stejný semestrální semestr. Pokud jste své kurzy jednoznačně nerozlišovali, mohou se po krátkém čase dostat docela těžkopádné (představte si několik let výuky více částí stejného kurzu "econ 101").
 
-Everyone has their own solution for this, but we think specificity is a good practice, and recommend the following URL format:   FacultyLastNameCourseCodeSemYear (smithadv1100sp2012).  And if you’re teaching multiple sections of the same course, you can add the section number.  It might make might make for a long URL, but it makes organization easier.
-<h4><strong>Using the same site in multiple sections, or for multiple semesters</strong></h4>
-Another thing to think about is using one course/site as a central “hub” for multiple semesters or courses in a single semester. We have professors on the OpenLab successfully using this model: for example, one of our professors has a class site where she keeps readings and resources for her class, but no student writes or adds material there. Instead, students create their own projects and sites for their own work. As a professor, you then can either simply visit each student’s site, or you can create a list of links to all those student pages in the sidebar of your site (we’re happy to show you how to do this). Whatever your solution, set up this way “your” site can potentially be reused from course to course.
+Každý má pro toto řešení své vlastní řešení, ale myslíme si, že specificita je správná praxe a doporučujeme následující formát adresy URL: FacultyLastNameCourseCodeSemYear (smithadv1100sp2012). A pokud vyučujete více částí stejného kurzu, můžete přidat číslo oddílu. Mohlo by to udělat pro dlouhou URL, ale usnadňuje organizaci.
+<h4><strong>Používání stejného webu v několika sekcích nebo pro více semestrů</strong></h4>
+Další věc, na kterou je třeba přemýšlet, je použít jeden kurz / místo jako centrální "rozbočovač" pro více semestrů nebo kursů v jednom semestru. Máme profesory na OpenLab, kteří úspěšně používají tento model: například jeden z našich profesorů má třídní místo, kde uchovává četby a prostředky pro svou třídu, ale žádný student tam píše nebo nepřidává materiál. Místo toho si studenti vytvářejí vlastní projekty a místa pro svou vlastní práci. Jako profesor můžete buď jednoduše navštívit stránky každého studenta, nebo si můžete vytvořit seznam odkazů na všechny studentské stránky v postranním panelu vašeho webu (rádi vám ukážeme, jak to udělat). Ať už je vaše řešení nastaveno jakýmkoli způsobem, vaše "stránky" se mohou potenciálně znovu použít z kurzu na kurz.
 
-Or you could simply add students to a single course over time.  This can be particularly successful if you have the sort of course in which students can contribute to an ever growing resource or resources (an encyclopedia, for example).
+Můžete také jednoduše přidat studenty do jednoho kurzu v průběhu času. To může být obzvláště úspěšné, pokud máte kurz, ve kterém mohou studenti přispívat k stále rostoucímu zdroji nebo zdrojům (například encyklopedie).
 
-If you’re interested in setting up this sort of structure, email us anytime for advice and assistance.
-<h3><strong>When the semester is done or Beginning a new semester</strong></h3>
-<h4>Copying (“cloning”) Courses</h4>
-Our system makes it incredibly easy to “clone” a course, bringing all documents and most settings to a new and uniquely named site and profile.  Cloning a course is particularly useful for setting up multiple sections of the same course in a new semester.  You’ll find cloning is now integrated into the OpenLab’s course creation.  You can <a href="https://lab.urad.online/help/cloning-a-course/">learn more about it here</a>.
+Máte-li zájem o vytvoření takového druhu struktury, pošlete nám e-mail kdykoli a za radu a pomoc.
+<h3><strong>Po skončení semestru nebo Začátek nového semestru</strong></h3>
+<h4>Kopírování ("klonování") Kurzy</h4>
+Náš systém dělá neuvěřitelně snadné "klonování" kurzu a přináší všechny dokumenty a většinu nastavení novému a jedinečně pojmenovanému webu a profilu. Klonování kurzu je obzvláště užitečné pro nastavení více částí stejného kurzu v novém semestru. Klonování je nyní integrováno do tvorby kurzu OpenLab. <a href="https://lab.urad.online/help/cloning-a-course/">Více se o ní</a> můžete <a href="https://lab.urad.online/help/cloning-a-course/">dozvědět</a> .
 
-If you want to copy only certain parts of a course site, however, or to copy material created only by certain users (yourself, for example), you might want to use the import/export function on our sites.  You can <a href="https://lab.urad.online/openroad/2012/05/21/importing-and-exporting-sites/">learn more about that here</a>.  Do note that the import/export function only copies course sites:  if most of your course material is on your profile page, you probably are better off using the clone feature.
+Chcete-li však kopírovat pouze některé části stránky kurzu, nebo kopírovat materiál vytvořený pouze určitými uživateli (např. Sami), můžete použít funkci import / export na našich stránkách. Zde se můžete <a href="https://lab.urad.online/openroad/2012/05/21/importing-and-exporting-sites/">dozvědět více</a> . Všimněte si, že funkce import / export pouze kopíruje kurzy: pokud je většina materiálů kurzu na stránce profilu, pravděpodobně budete lépe využívat funkci klonování.
 
-PLEASE DON’T DELETE STUDENT WORK!
+NESMÍTE VYMAZAT STUDENTOVÉ PRÁCE!
 
-You may be tempted to simply “clean out” a class site by deleting all the student work and starting fresh. Or you might not want incoming students to see “what happens” in your course, and be similarly tempted.
+Můžete být v pokušení jednoduše "vyčistit" třídní místo odstraněním všech studentských prací a začátkem čerstvého. Nebo byste možná neměli chtít, aby studenti, kteří přišli, viděli "co se děje" ve vašem kurzu a byli podobně pokoušeni.
 
-OpenLab work by the students belongs to the students, and we have promised them access to it for the remainder of their college career (and even beyond). After all, they might very well build on that work in later courses, or it may be used to show a potential employer (or even a proud parent), what they can do.   For that reason, we ask for your cooperation in not deleting student work from the OpenLab.
+OpenLab práce studentů patří studentům a slíbili jsme jim, že budou mít přístup k nim po zbytek své kariéry (a dokonce i za nimi). Koneckonců, oni by mohli velmi dobře stavět na této práci v pozdějších kurzech, nebo to může být použito ukázat potenciální zaměstnavatel (nebo dokonce hrdý rodič), co mohou dělat. Z tohoto důvodu vás žádáme o spolupráci, pokud nebudete smazat studentskou práci z OpenLab.
 
-We do, however, have solutions.  Cloning or importing non-student parts of a course is one solution. Or privacy settings can be set so only students who were members of the old versions of a course can access it after it ends. We’d love to discuss other options with you.  Email us anytime at <a href="mailto:openlab@citytech.cuny.edu">openlab@citytech.cuny.edu</a>.
+Máme však řešení. Klonování nebo importování neštudentských částí kurzu je jedním řešením. Nastavení soukromí lze nastavit tak, aby po ukončení studia měli přístup pouze studenti, kteří byli členy starých verzí kurzu. Rádi bychom s vámi diskutovali o dalších možnostech. Pošlete nám e-mail kdykoli na adrese <a href="mailto:openlab@citytech.cuny.edu">openlab@citytech.cuny.edu</a> .
