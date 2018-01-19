@@ -15,12 +15,12 @@ help_category:
   - Odstraňování problémů
 ---
 <ul>
- 	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#ctemail">I don’t know my City Tech email and/or password. How do I sign up for the OpenLab?</a></li>
- 	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#accounttype">I’m trying to create an account but the dropdown where I choose my account type is blank so I can’t choose anything.</a></li>
- 	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#confirmation">I signed up for the OpenLab but I’m not getting the confirmation email.</a></li>
- 	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#activationkey">I tried to create my account but when I click on the link in the confirmation email, I see a message that an activation key is needed.</a></li>
- 	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#login">I can’t log in to the OpenLab.</a></li>
- 	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#forgotpassword">I forgot my username and/or password.</a><a name="ctemail"></a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#ctemail">I don’t know my City Tech email and/or password. How do I sign up for the OpenLab?</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#accounttype">I’m trying to create an account but the dropdown where I choose my account type is blank so I can’t choose anything.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#confirmation">I signed up for the OpenLab but I’m not getting the confirmation email.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#activationkey">I tried to create my account but when I click on the link in the confirmation email, I see a message that an activation key is needed.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#login">I can’t log in to the OpenLab.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#forgotpassword">I forgot my username and/or password.</a><a name="ctemail"></a></li>
 </ul>
 <h4>I don’t know my City Tech email and/or password. How do I sign up for the OpenLab?</h4>
 <ul>
