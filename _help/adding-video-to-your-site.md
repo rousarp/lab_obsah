@@ -13,12 +13,12 @@ help_tags:
 help_category:
   - Používání webu (pro členy webu)
 ---
-1. To embed a video to your site from a video-hosting site such as YouTube or Vimeo, simply copy the URL of the video onto a single line on a “New Post” or “New Page” text box.
+1. Chcete-li do svého webu vložit video z webového místa pro video, jako je YouTube nebo Vimeo, jednoduše zkopírujte adresu URL videa na jeden řádek v textovém poli Nový příspěvek nebo Nová stránka.
 
-<img class="alignnone wp-image-3101 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Video5.png" alt="Adding Video screenshot" />
+<img class="alignnone wp-image-3101 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Video5.png" alt="Přidáním snímku obrazovky videa" />
 
-2. When you click <strong>Publish</strong> in the right-hand menu, your embedded video will appear on the published post or page, similar to what is pictured below.  You can learn more about embedding video in <a href="https://lab.urad.online/openroad/2012/06/04/embedding-youtube-video">this post</a> on the Open Road site.
+2. Po klepnutí na tlačítko <strong>Publikovat</strong> v pravém menu se vaše vložené video zobrazí na publikovaném příspěvku nebo na stránce, podobně jako na obrázku níže. Další informace o vkládání videa do <a href="https://lab.urad.online/openroad/2012/06/04/embedding-youtube-video">tohoto příspěvku naleznete</a> na webu Open Road.
 
-<img class="alignnone wp-image-7595 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Embedding_Video_2.png" alt="Publish Video screenshot" />
+<img class="alignnone wp-image-7595 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Embedding_Video_2.png" alt="Zveřejněte video obrazovku" />
 
-Help information courtesy of <a href="http://help.qwriting.org" target="_blank" rel="noopener">Qwriting.org</a> at Queens College, CUNY.
+Informace o nápovědě s laskavým svolením <a href="http://help.qwriting.org/" target="_blank" rel="noopener">Qwriting.org</a> na Queens College, CUNY.
