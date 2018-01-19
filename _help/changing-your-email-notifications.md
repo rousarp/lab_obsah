@@ -9,20 +9,18 @@ permalink: >
 published: true
 post_date: 2018-01-15 21:50:48
 help_tags:
+  - Profil
   - E-maily
   - Nastavení
-  - Profil
 help_category:
   - Můj OpenLab
 ---
-<strong>Please Note:</strong> The settings on this page affect how you receive email notifications for things on the OpenLab.  If you are the administrator of a <a title="What is a “Site” on a Course, Project, or Club?" href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">Site</a>, you can adjust how members receive emails <a title="Changing your email options for a Course, Project, or Club" href="https://lab.urad.online/help/changing-your-email-options-for-a-course-project-or-club/">here</a>.
+<strong>Upozorňujeme:</strong> Nastavení na této stránce ovlivňují způsob přijímání e-mailových upozornění na věci v OpenLab. Pokud jste správcem <a title="Co je &quot;místo&quot; na hřišti, projektu nebo klubu?" href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">stránek</a> , můžete upravit, jak členové dostávají e-maily <a title="Změna možností e-mailu pro kurz, projekt nebo klub" href="https://lab.urad.online/help/changing-your-email-options-for-a-course-project-or-club/">zde</a> .
 <strong>
-1</strong>. After logging into the OpenLab, click<strong> My OpenLab</strong> either from the main menu or top menu.  Then click<strong> My Settings</strong>.
+1</strong> . Po přihlášení do OpenLab klikněte na tlačítko <strong>My OpenLab</strong> z hlavního menu nebo z horní nabídky. Pak klikněte na <strong>Moje nastavení</strong> .
 
-2. Click<strong> Email Notifications</strong>.
+2. Klepněte na tlačítko <strong>Oznámení e-mailu</strong> .
 
-3.  Here you can make changes to how you receive email notifications from the OpenLab, from your friends on the OpenLab, and even whether you’d like to receive an email every time you’re mentioned on the OpenLab.  Make whichever changes you’d like, and then click<strong> Save Changes</strong>.
+3. Zde můžete provést změny v tom, jak obdržíte e-mailové upozornění z OpenLab, od svých přátel v OpenLabu a zda budete chtít dostávat e-mail pokaždé, když to bude uvedeno na OpenLabu. Proveďte libovolné změny, které chcete, a klikněte na tlačítko <strong>Uložit změny</strong> .
 
-<strong><img class="alignnone wp-image-36161 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Email_Notifications_1_2_v2.png" alt="Changing_Email_Settings screen shot" /></strong>
-
-&nbsp;
+<strong><img class="alignnone wp-image-36161 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Email_Notifications_1_2_v2.png" alt="Změna obrazovky Změna nastavení_Email_Settings" /></strong>
