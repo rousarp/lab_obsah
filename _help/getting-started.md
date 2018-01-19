@@ -11,42 +11,37 @@ post_date: 2018-01-07 22:17:29
 help_tags: [ ]
 help_category: [ ]
 ---
-<div>
-<blockquote>BEFORE YOU BEGIN, PLEASE NOTE:  To create an account on the OpenLab, you will need to be able to access your City Tech email account.  If you don’t have one, have never used one, or have forgotten your username and/or password for an existing account, you’ll need to contact the Help Desk at 718-260-4900 or studenthelpdesk@citytech.cuny.edu, or visit the Help Desk on the first floor of the Atrium Building.  You can also look up your email username <a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx">here</a>.  The Help Desk is not part of the OpenLab, which doesn’t handle CityTech email account issues.</blockquote>
-1. Once you are sure you can access your City Tech email account, go to the <a href="http://https://openlab.citytech.cuny.edu">OpenLab homepage</a> (<a href="https://lab.urad.online">https://openlab.citytech.cuny.edu</a>).  You’ll see <strong>Join OpenLab</strong> on the left of the screen.  Click<strong> Sign Up.</strong>
+<blockquote>
+<blockquote>PŘED ZAČÁTEK, POZORNĚ: Chcete-li vytvořit účet v OpenLab, musíte mít přístup k e-mailovému účtu City Tech. Pokud ji nemáte, nikdy jste ho nepoužili, nebo jste zapomněli své uživatelské jméno a / nebo heslo pro stávající účet, budete se muset obrátit na Help Desk na adrese 718-260-4900 nebo studenthelpdesk@citytech.cuny.edu , nebo navštivte Help Desk v prvním patře budovy Atrium. Můžete se také podívat do své e-mailové uživatelské jméno <a href="http://cis.citytech.cuny.edu/Student/it_student_findemail.aspx">zde</a> . Nápověda Desk není součástí programu OpenLab, který se nezabývá otázkami e-mailového účtu CityTech.</blockquote>
+1. Jakmile jste si jisti, že máte přístup k e-mailovému účtu City Tech, přejděte na  <a href="http://https//openlab.citytech.cuny.edu">domovskou stránku OpenLab</a>  ( <a href="https://lab.urad.online/">https://openlab.citytech.cuny.edu</a> ). Uvidíte spojení  <strong>OpenLab</strong>  v levé části obrazovky. Klikněte na položku <strong> Registrace.</strong>
 
-<img class="alignnone wp-image-36128 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_1_v2.png" alt="screen shot" />
+<img class="alignnone wp-image-36128 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_1_v2.png" alt="Snímek obrazovky" />
 
-2. On the next screen, fill in the following fields:
+2. Na další obrazovce vyplňte následující pole:
 <ul>
- 	<li>user name (this can’t be changed, so choose wisely)</li>
- 	<li>City Tech email address</li>
- 	<li>a password for your OpenLab account (this doesn’t have to be your City Tech email account password–in fact, it’s always good to use different passwords for all sites)</li>
- 	<li>display name (this is the name displayed on your profile page, and used to sign posts or comments; it can be changed after signing up)</li>
- 	<li>your first and last name (these will not be displayed on the site)</li>
- 	<li>your account type (student, alumni, faculty, or staff)</li>
+ 	<li>uživatelské jméno (toto nelze změnit, proto zvolte moudře)</li>
+ 	<li>E-mailová adresa města Tech</li>
+ 	<li>heslo pro váš účet OpenLab (toto nemusí být vaše heslo pro e-mailový účet City Tech - ve skutečnosti je vždy dobré používat různé hesla pro všechny weby)</li>
+ 	<li>zobrazovaný název (toto je název zobrazený na stránce vašeho profilu a slouží k podpisu příspěvků nebo komentářů, lze je změnit po registraci)</li>
+ 	<li>vaše jméno a příjmení (tyto se nebudou zobrazovat na webu)</li>
+ 	<li>typ účtu (student, absolventy, fakulty nebo zaměstnanci)</li>
 </ul>
-Apart from the City Tech email address, all of this information can be changed later by visiting <strong>Settings</strong> under <strong>My OpenLab</strong>.
-<blockquote>NOTE:  There is a difference between your username, which you use to log in to the City Tech site, and your display name, which is visible to others.  Your username, for example, might be ‘jsmith24’ but you might prefer your visible, display name to reflect you professionally or in your City Tech roll as student, professor, or staff member:  ‘jane smith,’ for example, or ‘Professor Jane Smith’<a id="email" href="https://lab.urad.online/help/registrace-na-openlab/" name="email"></a></blockquote>
-<img class="alignnone wp-image-36130 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_2_v3.png" alt="screen shot" />
+Kromě e-mailové adresy City Tech mohou být všechny tyto informace později změněny v části  <strong>Nastavení</strong> v části  <strong>My OpenLab</strong> .
+<blockquote>POZNÁMKA: Existuje rozdíl mezi uživatelským jménem, ​​který používáte k přihlášení k webu City Tech, a zobrazovaným názvem, který je viditelný ostatním. Vaše uživatelské jméno by mohlo být například "jsmith24", ale můžete preferovat viditelné zobrazované jméno, které by vás profesionálně nebo ve vašem City Tech roll odráželo jako student, profesor nebo zaměstnanec: například "jane Smith" nebo "Professor Jane Smithová<a id="email" href="https://lab.urad.online/help/registrace-na-openlab/" name="email"></a></blockquote>
+<img class="alignnone wp-image-36130 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_2_v3.png" alt="Snímek obrazovky" />
 
-3. Once you’ve done that, click <strong>Complete Sign Up</strong>.  Now you just have one more step!
+3. Jakmile to uděláte, klikněte na tlačítko  <strong>Dokončit registraci</strong> . Teď už máte ještě jeden krok!
 
-<img class="alignnone wp-image-36131 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_3_v2.png" alt="screen shot" />
+<img class="alignnone wp-image-36131 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_3_v2.png" alt="Snímek obrazovky" />
 
-4.  At this point, a confirmation email will be sent from the OpenLab to your City Tech email account.  <a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1377636614&amp;rver=6.1.6206.0&amp;wp=MBI_KEY&amp;wreply=https:%2F%2Fwww.outlook.com%2Fowa%2F&amp;id=260563&amp;whr=mail.citytech.cuny.edu&amp;CBCXT=out">Visit your City Tech email</a> account, and look for an email from the OpenLab.  Visit your City Tech email account, click the link you find in the email from us, and you’re officially a member of the OpenLab! (<a title="Accessing your City Tech email (for students)" href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">Instructions for accessing student email</a>).
+4. V tomto okamžiku bude od OpenLab zaslán potvrzovací e-mail na váš e-mailový účet City Tech.  <a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1377636614&amp;rver=6.1.6206.0&amp;wp=MBI_KEY&amp;wreply=https:%2F%2Fwww.outlook.com%2Fowa%2F&amp;id=260563&amp;whr=mail.citytech.cuny.edu&amp;CBCXT=out">Navštivte svůj e-mailový</a> účet <a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&amp;rpsnv=2&amp;ct=1377636614&amp;rver=6.1.6206.0&amp;wp=MBI_KEY&amp;wreply=https:%2F%2Fwww.outlook.com%2Fowa%2F&amp;id=260563&amp;whr=mail.citytech.cuny.edu&amp;CBCXT=out">City Tech</a> a vyhledejte e-mail od OpenLab. Navštivte svůj e-mailový účet City Tech, klikněte na odkaz, který najdete v e-mailu od nás, a jste oficiálně členem OpenLab! ( <a title="Přístup k e-mailu City Tech (pro studenty)" href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">Pokyny pro přístup ke studentským e-mailům</a> ).
 
-<strong>Students, please note</strong>: If you don’t see the account activation email in your Inbox, please check your Clutter folder. Sometimes account activation emails will appear there but not in the Inbox.
+<strong>Studenti, mějte na paměti</strong> : Pokud se ve složce Doručená pošta nezobrazuje aktivační e-mail účtu, zkontrolujte prosím složku Clutter. Někdy se tam zobrazí e-maily s aktivačními účty, ale nikoli v Doručené poště.
 
-<img class="alignnone wp-image-8788 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Signing_Up_4.jpg" alt="Signing Up screen shot" />
+<img class="alignnone wp-image-8788 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Signing_Up_4.jpg" alt="Zaznamenání snímku obrazovky" />
 
-5. After clicking on the link, you will be at the activation page shown below.  Your activation key will be prefilled, and all you need to do is click the <strong>Activate</strong> button.
+5. Po kliknutí na odkaz se dostanete na níže uvedenou aktivační stránku. Váš aktivační klíč bude předem vyplněn a vše, co musíte udělat, je kliknout na tlačítko <strong>Aktivovat</strong> .
 
-<img class="alignnone wp-image-43490 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_4.png" alt="screen shot" />
+<img class="alignnone wp-image-43490 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_4.png" alt="Snímek obrazovky" />
 
-You do not need to go through this process again.  When you want to come back to the OpenLab, simply go to our<a href="http://https://openlab.citytech.cuny.edu"> homepage</a> (<a href="https://lab.urad.online">https://openlab.citytech.cuny.edu</a>), and log in with the username and password you created in step two.  You can find more information in the OpenLab help section entitled “<a href="https://lab.urad.online/help/prihlaseni-k-openlab/">Logging In To The OpenLab</a>.”
-
-&nbsp;
-
-</div>
-<small>This content is created from https://openlab.citytech.cuny.edu/blog/help/registrace-na-openlab/ with <a href="https://codecanyon.net/item/scrapes-web-scraper-plugin-for-wordpress/18918857?ref=Octolooks">Octolooks Scrapes</a></small>
+Tento proces nepotřebujete znovu projít. Pokud se chcete vrátit k OpenLab, prostě navštivte naši <a href="http://https//openlab.citytech.cuny.edu">domovskou stránku</a>  ( <a href="https://lab.urad.online/">https://openlab.citytech.cuny.edu</a> ) a přihlaste se pomocí uživatelského jména a hesla, které jste vytvořili v druhém kroku. Další informace naleznete v části nápovědy OpenLab s názvem " <a href="https://lab.urad.online/help/prihlaseni-k-openlab/">Přihlášení k aplikaci OpenLab</a> ".</blockquote>
