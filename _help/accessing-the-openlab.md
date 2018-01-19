@@ -9,11 +9,10 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:03:59
 help_tags:
-  - Otázky a odpovědi
   - Úvod
+  - Otázky a odpovědi
 help_category:
   - Odstraňování problémů
-  - Otázky a odpovědi
 ---
 <ul>
  	<li><a href="https://lab.urad.online/help/accessing-the-openlab/#ctemail">I don’t know my City Tech email and/or password. How do I sign up for the OpenLab?</a></li>
