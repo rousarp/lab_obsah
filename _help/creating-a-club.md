@@ -13,101 +13,101 @@ help_tags:
 help_category:
   - Skupiny
 ---
-1. After logging in, click My OpenLab in the main menu. Then click <strong>My Clubs</strong> on the right-hand menu. On the My Clubs page, click <strong>+ Create a Club</strong> at the top of the page.
+1. Po přihlášení klikněte na tlačítko My OpenLab v hlavní nabídce. Poté klikněte na položku <strong>Moje kluby</strong> v pravé nabídce. Na stránce Moje kluby klikněte na položku <strong>+ Vytvořit klub</strong> v horní části stránky.
 
-<img class="alignnone wp-image-36469 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2.png" alt="Creating a Club Screen Shot" />
-<h3>Step One: Profile</h3>
-1. On the first club creation page, enter the required information including the <strong>Club Name</strong>, <strong>Club Description</strong>, and <strong>School</strong> (if applicable).  You can change any of the information later.
+<img class="alignnone wp-image-36469 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_1_V2.png" alt="Vytvoření výstřelu obrazovky v klubu" />
+<h3>Krok první: Profil</h3>
+1. Na první straně tvorby klubu, zadejte požadované informace, včetně <strong>Club Name</strong> , <strong>Club Popis</strong> a <strong>škola</strong> (v případě potřeby). Můžete později změnit některé informace.
 
-2. Choose whether you want to set up a site, and if so choose a <strong>site URL</strong>.  The URL, or web address, is what you see in the location bar of your browser (e.g. https://openlab.citytech.cuny.edu/MySite).  It cannot be changed, so take a moment to read through the guidelines below, and consider the URL carefully.
+2. Zvolte, zda chcete nastavit web a zda si zvolíte <strong>adresu URL webu</strong> . Adresa URL nebo webová adresa jsou to, co vidíte na liště umístění prohlížeče (např. Https://openlab.citytech.cuny.edu/MySite). Nemůže to být změněno, takže chvíli si přečtěte níže uvedené pokyny a pečlivě zvažte adresu URL.
 <ul>
- 	<li>If you have an existing OpenLab site that is not already linked to a Course, Project, Club, or Portfolio you can choose to <strong>Use an existing site</strong> for your club.  <strong>Please note</strong>: This option will not appear if you do not have a existing site that is not currently linked to a project, course, club, or portfolio.</li>
- 	<li>If you have an existing site that is not on the OpenLab, you can choose to <strong>Use an external site</strong> for your club.  If you choose this option, you can check for an RSS feed so that activity is displayed on the profile page.  To do so, type in the URL and click the <strong>Check</strong> button.  If it does not automatically find a feed you can type one in yourself.</li>
+ 	<li>Pokud máte stávající web OpenLab, který ještě není propojen s kurzem, projektem, klubem nebo portfoliem, můžete zvolit možnost <strong>Použít</strong> stávající webový <strong>server</strong> pro váš klub.  <strong>Poznámka</strong> : Tato možnost se nezobrazí, pokud nemáte stávající stránky, které nejsou aktuálně propojené s projektem, kurzem, klubem nebo portfoliem.</li>
+ 	<li>Pokud máte existující stránky, které nejsou v OpenLabu, můžete zvolit možnost <strong>Použití externího webu</strong> pro váš klub. Pokud zvolíte tuto možnost, můžete zkontrolovat zdroj RSS, aby se aktivita zobrazovala na stránce profilu. Chcete-li tak učinit, zadejte adresu URL a klepněte na tlačítko <strong>Kontrola</strong> . Pokud automaticky nenajde krmivo, můžete si ho napsat sám.</li>
 </ul>
-3. When you are finished, click <strong>Create Club and Continue</strong>.
+3. Po dokončení klikněte na tlačítko <strong>Vytvořit klub a pokračovat</strong> .
 
-<img class="alignnone wp-image-36471 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2.png" alt="Creating a Club Step One Screen Shot" />
-<h3>Step Two: Privacy Settings</h3>
-<h4>Profile Privacy Settings</h4>
-1. Choose your <strong>Profile </strong>privacy settings.  These settings control the privacy of the club profile, and are different from the club site, which you will choose next. You can change the <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">settings</a> at any time.
+<img class="alignnone wp-image-36471 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_2_V2.png" alt="Vytvoření klubového kroku Jeden snímek obrazovky" />
+<h3>Druhý krok: nastavení ochrany osobních údajů</h3>
+<h4>Nastavení ochrany osobních údajů profilu</h4>
+1. Zvolte nastavení ochrany osobních údajů <strong>profilu</strong> . Tato nastavení řídí soukromí profilu klubu a liší se od místa klubu, které si vyberete dále. <a title="Změna nastavení ochrany osobních údajů a dalších nastavení kurzů, projektů nebo klubů" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">Nastavení</a> můžete kdykoli změnit .
 
-<strong>This is a public club:</strong>
+<strong>Toto je veřejný klub:</strong>
 <ul>
- 	<li>The club profile and related content and activity will be visible to the public, whether or not they are members of the OpenLab.</li>
- 	<li>The club profile will be listed in the OpenLab club directory and search results.</li>
- 	<li>Any OpenLab member may join this club.</li>
+ 	<li>Profil klubu a související obsah a činnost budou veřejnosti viditelné, bez ohledu na to, zda jsou či nejsou členy OpenLab.</li>
+ 	<li>Profil klubu bude uveden v adresáři klubu OpenLab a výsledcích vyhledávání.</li>
+ 	<li>K tomuto klubu se může připojit jakýkoliv člen OpenLab.</li>
 </ul>
-<strong>This is a private club:</strong>
+<strong>Toto je soukromý klub:</strong>
 <ul>
- 	<li>The club and related content and activity will only be visible to members of the club.</li>
- 	<li>The club will be listed in the club directory and search results.</li>
- 	<li>Only OpenLab members who request membership and are accepted by the administrator may join this club.</li>
+ 	<li>Klub a související obsah a činnost budou vidět pouze členové klubu.</li>
+ 	<li>Klub bude uveden v klubovém adresáři a výsledky vyhledávání.</li>
+ 	<li>Do tohoto klubu se mohou připojit pouze členové OpenLab, kteří žádají o členství a jsou přijati správcem.</li>
 </ul>
-<strong>This is a hidden club:</strong>
+<strong>Toto je skrytý klub:</strong>
 <ul>
- 	<li>The club profile, related content, and activity will only be visible only to members of the club.</li>
- 	<li>The club profile will NOT be listed in the club directory and search results.</li>
- 	<li>Only OpenLab members who are invited may join this club.</li>
+ 	<li>Profil klubu, související obsah a činnost budou viditelné pouze pro členy klubu.</li>
+ 	<li>Profil klubu NENÍ uveden v klubovém adresáři a výsledky vyhledávání.</li>
+ 	<li>Do tohoto klubu se mohou připojit pouze pozvaní členové OpenLab.</li>
 </ul>
-<h4>Site Privacy Settings</h4>
-2. Next, choose the privacy settings for your club <strong>site</strong>.  These settings will not appear if you did not set up a site on the previous page.
+<h4>Nastavení soukromí stránek</h4>
+2. Dále zvolte nastavení ochrany osobních údajů pro vaše klubové <strong>stránky</strong> . Tato nastavení se nezobrazí, pokud jste na předchozí stránce nenastavili místo.
 
-<strong>Public</strong>
+<strong>Veřejnost</strong>
 
-<strong>Allow search engines to index this site:</strong>
+<strong>Povolit vyhledávačům indexovat tuto stránku:</strong>
 <ul>
- 	<li>Anyone can visit your site without needing a password.</li>
- 	<li>Search engines will index all pages and posts, meaning your site will show up in search results on Google, Bing and others.</li>
- 	<li>Choose this option for maximum public visibility.</li>
+ 	<li>Každý uživatel může navštívit váš web bez nutnosti zadání hesla.</li>
+ 	<li>Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že vaše stránky se budou zobrazovat ve výsledcích vyhledávání ve službách Google, Bing a dalších.</li>
+ 	<li>Tuto volbu vyberte pro maximální viditelnost veřejnosti.</li>
 </ul>
-<strong>Ask search engines not to index this site:</strong>
+<strong>Požádejte vyhledávače, aby tuto stránku indexovali:</strong>
 <ul>
- 	<li>Visitors do not need a password to see your site if they know the URL or are linked from elsewhere, but Google, Bing and other search engines should not index your posts and pages. (Please note: it is up to search engines to honor your request.)</li>
- 	<li>Choose this option if you want to be able to show the blog to people who are not members of the OpenLab, but you don’t want people to stumble upon it via search engines.</li>
+ 	<li>Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají adresu URL nebo jsou spojeny odjinud, ale Google, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozornění: je na vyhledávačích, aby vyhověli vaší žádosti.)</li>
+ 	<li>Zvolte tuto možnost, pokud chcete, aby byl blog zobrazen lidem, kteří nejsou členy OpenLab, ale nechcete, aby se lidé na něm setkávali pomocí vyhledávačů.</li>
 </ul>
-<strong>Private</strong>
+<strong>Soukromé</strong>
 
-<strong>I would like my site to be visible only to registered users of City Tech OpenLab:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný pouze pro registrované uživatele City Tech OpenLab:</strong>
 <ul>
- 	<li>Anyone who is signed into the OpenLab can see this site.</li>
- 	<li>Choose this option if you’d only like the OpenLab community to be able to see the site.</li>
+ 	<li>Každý uživatel, který je přihlášen do OpenLab, může tuto stránku vidět.</li>
+ 	<li>Zvolte tuto možnost, pokud chcete, aby komunita OpenLab mohla vidět web.</li>
 </ul>
-<strong>I would like my site to be visible to registered users of this Club:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný pro registrované uživatele tohoto Klubu:</strong>
 <ul>
- 	<li>Only members of your club will be able to visit the site.</li>
- 	<li>Choose this option if you only want club members to be able to see the site.</li>
+ 	<li>Pouze členové vašeho klubu budou moci navštívit stránky.</li>
+ 	<li>Zvolte tuto možnost, pokud chcete, aby členové klubu mohli vidět stránky.</li>
 </ul>
-<strong>Hidden</strong>
+<strong>Skrytý</strong>
 
-<strong>I would like my site to be visible only to site administrators:</strong>
+<strong>Chtěl bych, aby byl web viditelný pouze pro správce webu:</strong>
 <ul>
- 	<li>No one except site administrators can see the site.</li>
- 	<li>You may choose this option if you are in the process of creating your club site, but it would rarely be useful during an active club.</li>
+ 	<li>Nikdo, kromě správců stránek, nemůže tuto stránku vidět.</li>
+ 	<li>Tuto možnost můžete zvolit, pokud jste v procesu vytváření vašeho klubového webu, ale zřídka by byl užitečný během aktivního klubu.</li>
 </ul>
-3. When you’re done, click <strong>Next Step</strong>.
+3. Po dokončení klikněte <strong>na</strong> tlačítko <strong>Další krok</strong> .
 
-<img class="alignnone wp-image-36472 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2.png" alt="Creating a Club Step Two Screen Shot" />
-<h3>Step Three: Avatar</h3>
-1. Upload an avatar that reflects the subject or topic of your club.  If you have an image file ready that you would like to use as your avatar, click <strong>Browse</strong> or <strong>Choose</strong> <strong>File</strong>.  Select the file you want to use from your computer or flash drive and then click <strong>Upload Image</strong>.  If you don’t have an image you would like to use you can always add one later–just click <strong>Next Step </strong>(if you are finished skip to the next section, “Step Four: Invite Members”).
+<img class="alignnone wp-image-36472 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_3_V2.png" alt="Vytvoření Krok Krok Krok 2 Snímání obrazovky" />
+<h3>Krok třetí: Avatar</h3>
+1. Nahrajte avatar, který odráží téma nebo téma vašeho klubu. Pokud máte připravený soubor obrázku, který byste chtěli použít jako svůj avatar, klikněte na <strong>Procházet</strong> nebo <strong>vyberte </strong><strong>Soubor</strong> . Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klepněte na položku <strong>Nahrát obrázek</strong> . Pokud nemáte obrázek, který byste chtěli použít, můžete vždy přidat jednu později - stačí kliknout <strong>na</strong> tlačítko <strong>Další krok</strong> (pokud jste dokončili přeskočení na další část, krok 4: Pozvat členy).
 
-<img class="alignnone wp-image-36473 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2.png" alt="Creating a Club Step Three Screen Shot" />
+<img class="alignnone wp-image-36473 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_4_V2.png" alt="Vytvoření klubového kroku třetí obrazovky" />
 
-2. Crop the image by dragging the square around the portion of the image you want to use and then click <strong>Crop Image</strong>.
+2. Ořízněte snímek přetažením čtverečku kolem části obrázku, kterou chcete použít, a poté klepněte na <strong>Oříznout obrázek</strong> .
 
-<img class="alignnone wp-image-36474 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2.png" alt="Creating a Club Step Three Crop Screen Shot" />
+<img class="alignnone wp-image-36474 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_5_V2.png" alt="Vytvoření klubového kroku 3 oříznutí obrazovky" />
 
-3. Once your avatar is uploaded, click <strong>Next Step</strong>.
+3. Jakmile je váš avatar nahrán, klikněte <strong>na</strong> tlačítko <strong>Další krok</strong> .
 
-<img class="alignnone wp-image-36475 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2.png" alt="Creating a Club Next Step Screen Shot" />
-<h3>Step Four: Inviting Members</h3>
-1. If you would like to invite members to your club, start typing their display name.  When a dropdown list appears, select their name from the list.  Their name and avatar will appear under the heading Invites.  When you’re finished, or if you do not wish to invite anyone at this time (you can always do it later!), click <strong>Finish</strong>, at the bottom of the page.
+<img class="alignnone wp-image-36475 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_6_V2.png" alt="Vytvoření záběru obrazovky dalšího kroku klubu" />
+<h3>Krok č. 4: Pozvání členů</h3>
+1. Pokud chcete pozvat členy do vašeho klubu, začněte psát jejich zobrazované jméno. Když se objeví rozbalovací seznam, vyberte ze seznamu název. Jejich jméno a avatar se objeví pod nadpisem Pozvánky. Po dokončení nebo nechcete v tuto chvíli pozvat někoho (vždy to můžete udělat později!), Klepněte na tlačítko <strong>Dokončit</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36476 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2.png" alt="Creating a Club Step Four Screen Shot" />
+<img class="alignnone wp-image-36476 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_7_V2.png" alt="Vytvoření klubového kroku Čtyři obrazovky" />
 
-2. After you click <strong>Finish</strong> you will see your new Club Profile page!  From here, you can (a) change settings such as privacy, Club description, or (b) change your avatar.  From your Club Profile you can also access your (c) Club Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your Club Site).
+2. Po klepnutí na tlačítko <strong>Dokončit</strong> uvidíte novou stránku profilu klubu! Odtud můžete (a) změnit nastavení, jako je soukromí, popis klubu nebo (b) změnit svůj avatar. Z vašeho profilu klubu můžete také přistupovat k vašemu (c) klubu a <a title="Co je panel Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">řídicímu panelu</a>(panel administrátora, kde budete upravovat a přidávat obsah na vaše stránky klubu).
 
-<img class="alignnone wp-image-36477 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2.png" alt="Creating a Club Finished Screen Shot" />
+<img class="alignnone wp-image-36477 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Create_Club_8_V2.png" alt="Vytvoření zastřešení obrazovky v klubu" />
 
-Now that your club has been created, you may want to <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">modify settings</a> and start <a href="https://lab.urad.online/help/help-category/sites-on-the-openlab/">building your site</a>.
+Nyní, když byl váš klub vytvořen, možná budete chtít <a title="Změna nastavení ochrany osobních údajů a dalších nastavení kurzů, projektů nebo klubů" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">upravit nastavení</a> a začít <a href="https://lab.urad.online/help/help-category/sites-on-the-openlab/">vytvářet své stránky</a> .
 
-Help information on club site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu">Blogs@Baruch</a> at Baruch College, CUNY.
+Nápověda k informacím o ochraně osobních údajů klubu s laskavým svolením <a href="http://blsciblogs.baruch.cuny.edu/">blogů @ Baruch</a> na Baruch College, CUNY.
