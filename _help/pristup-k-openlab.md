@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/accessing-the-openlab/
+  https://lab.urad.online/help/pristup-k-openlab/
 published: true
 post_date: 2018-01-15 23:03:59
 help_tags:
