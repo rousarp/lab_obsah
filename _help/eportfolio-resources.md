@@ -13,37 +13,37 @@ help_tags:
 help_category:
   - Uživatelská portfolia
 ---
-There are many resources available for students working with ePortfolios.
+Pro studenty pracující s ePortfolios je k dispozici mnoho zdrojů.
 <h3>ePortfolio Lab, G-606</h3>
-There are ongoing workshops as well as individual help available in the <strong>ePortfolio Computer Lab</strong>, in <strong>Room G-606</strong>.
+V <strong>laboratoři ePortfolio Computer Lab</strong> v <strong>místnosti G-606</strong> jsou k dispozici další workshopy a individuální pomoc .
 
-The ePortfolio computer lab located in G-606 is exclusively for students participating in the ePortfolio project, however ePortfolio students may continue to use the lab throughout their academic career at City Tech regardless of whether or not they are taking an ePortfolio course. Students may also use the lab for any computer work, not just ePortfolios. The lab is fully equipped with both hardware and software that support the project, and peer tutors are available at all times to assist students with their ePortfolios. ePortfolio workshops, both reserved for participating classes and open (walk-in), are held in the G606 ePortfolio computer lab.  The hours are:
+Počítačová laboratoř ePortfolio, která se nachází v G-606, je určena výhradně studentům, kteří se účastní projektu ePortfolio, ale studenti ePortfolio mohou pokračovat ve využívání laboratoře během celé své akademické kariéry v City Tech bez ohledu na to, zda absolvují kurz ePortfolio. Studenti mohou také používat laboratoř pro práci s počítačem, ne pouze pro ePortfolios. Laboratoř je plně vybavena hardwarem a softwarem, které podporují projekt, a peer-instruktoři jsou k dispozici vždy, aby pomohli studentům s jejich ePortfolios. Workshopy ePortfolio, které jsou vyhrazeny jak pro zúčastněné kurzy, tak pro otevřené (walk-in) se konají v počítačové laboratoři ePortfolio G606. Hodiny jsou:
 
-Monday – Friday:     9:00am – 7:00pm
+Pondělí - pátek: 9:00 - 19:00
 
-<strong>The ePortfolio lab includes the following:</strong>
+<strong>Laboratoř ePortfolio zahrnuje následující:</strong>
 <ul>
- 	<li>22 high-end student computer workstations</li>
- 	<li>Contemporary software in the lab includes: Microsoft Office 2007 (Word, Excel, Access and PowerPoint), Adobe Photoshop 7.0 and Adobe Illustrator 10.0, Macromedia Studio MX (Dreamweaver, Flash, Freehand, and Fireworks), WinZip and FTP software.</li>
- 	<li>A presentation podium with computer, audio and VCR capabilities</li>
- 	<li>A ceiling-mounted projector and screen for the multimedia projection of presentations</li>
- 	<li>Peer tutors are available during lab hours to work one-on-one with students</li>
- 	<li>Peer tutors will answer student questions via email during ePortfolio lab hours</li>
- 	<li>Hands-on workshops and lab hours are scheduled in the ePortfolio lab throughout the semester and during summer and intersession breaks</li>
- 	<li>A network laser printer</li>
- 	<li>A digital camera</li>
- 	<li>A high-resolution scanner</li>
- 	<li>Video recording equipment (Mac computer and digital video camera for recording and editing videos)</li>
+ 	<li>22 vysoce kvalitních studentských počítačových pracovních stanic</li>
+ 	<li>Současný software v laboratoři zahrnuje: Microsoft Office 2007 (Word, Excel, Access a PowerPoint), Adobe Photoshop 7.0 a Adobe Illustrator 10.0, Macromedia Studio MX (Dreamweaver, Flash, Freehand a Fireworks), WinZip a FTP software.</li>
+ 	<li>Prezentační pódium s počítačem, audio a VCR schopností</li>
+ 	<li>Stropní projektor a obrazovka pro multimediální projekci prezentací</li>
+ 	<li>Peer lektoři jsou k dispozici během pracovních hodin, aby mohli studenti pracovat jeden na jednoho</li>
+ 	<li>Peer lektoři budou odpovídat na otázky studentů prostřednictvím e-mailu v hodinách ePortfolio</li>
+ 	<li>Pracovní semináře a laboratorní hodiny jsou naplánovány v laboratoři ePortfolio po celý semestr a během letních a intersessionových přestávek</li>
+ 	<li>Síťová laserová tiskárna</li>
+ 	<li>Digitální fotoaparát</li>
+ 	<li>Skener s vysokým rozlišením</li>
+ 	<li>Zařízení pro záznam videa (počítač Mac a digitální videokamera pro záznam a úpravu videa)</li>
 </ul>
-<strong>All computers in the ePortfolio lab have the following storage devices:</strong>
+<strong>Všechny počítače v laboratoři ePortfolio mají následující úložná zařízení:</strong>
 <ul>
- 	<li>CD R/W Drives</li>
- 	<li>Floppy Drives</li>
- 	<li>USB extension ports</li>
+ 	<li>Jednotky CD R / W</li>
+ 	<li>Diskové disky</li>
+ 	<li>Rozšiřující porty USB</li>
 </ul>
 <h3><strong>Mac Lab, N1101</strong></h3>
-For students using Macs, the ePortfolio project supported the establishment of a multimedia 24 station Mac computer lab for student and faculty use. The Mac lab is not an open ePortfolio lab; lab and classroom use is scheduled through the Advertising Design and Graphics Arts department. The Mac lab is located in N1101.
-<h3>Who may I contact for more information about the City Tech Career ePortfolio Project?</h3>
-<strong>ITMS Director</strong>: Karen Lundstrem klundstrem@citytech.cuny.edu
-<strong>Media Specialist</strong>: Ignacio Soltero isoltero@citytech.cuny.edu
-<strong>ePortfolio Lab Manager</strong>: Wilson Garcia wgarcia@citytech.cuny.edu
+Pro studenty, kteří používají počítače Mac, projekt ePortfolio podporoval zřízení počítačové laboratoře počítačů Mac s kapacitou 24 stanic pro studenty a studenty. Laboratoř Mac není otevřenou laboratoří ePortfolio; laboratoře a vyučování v učebnách je naplánováno prostřednictvím oddělení reklamního designu a grafiky. Laboratoř Mac se nachází v N1101.
+<h3>Pro koho můžu kontaktovat další informace o projektu ePortfolio společnosti City Tech Career?</h3>
+<strong>ITMS ředitel</strong> : Karen Lundstrem klundstrem@citytech.cuny.edu
+<strong>Specialista na média</strong> : Ignacio Soltero isoltero@citytech.cuny.edu
+<strong>Správce laboratoře ePortfolio</strong> : Wilson Garcia wgarcia@citytech.cuny.edu
