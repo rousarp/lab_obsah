@@ -103,35 +103,25 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
 </ol>
 
 <h3>Čtvrtý krok: Pozvat členy</h3>
-<ol start="2">
+<ol start="1">
  	<li style="list-style-type: none;">
-<ol start="2">
- 	<li style="list-style-type: none;">
-<ol>
- 	<li>Pokud chcete pozvat členy do kurzu, zadejte jejich zobrazované jména. Když se objeví rozbalovací seznam, vyberte ze seznamu konkrétní osobu. Jejich jméno a náhledový obrázek se objeví pod nadpisem Pozvánky. Nechcete-li v tuto chvíli pozvat nikoho (můžete to udělat vždycky později!), klikněte na <strong>Dokončit</strong> v dolní části stránky</li>
+
+ 	</li><li>Pokud chcete pozvat členy do kurzu, zadejte jejich zobrazované jména. Když se objeví rozbalovací seznam, vyberte ze seznamu konkrétní osobu. Jejich jméno a náhledový obrázek se objeví pod nadpisem Pozvánky. Nechcete-li v tuto chvíli pozvat nikoho (můžete to udělat vždycky později!), klikněte na <strong>Dokončit</strong> v dolní části stránky</li>
  	<li>Po klepnutí na tlačítko <strong>Dokončit</strong> bude kurz duplikován a zůstanete na <strong>profilové stránkce</strong> nového kurzu! Odtud můžete (a) měnit nastavení, jako je soukromí, popis kurzu nebo (b) změnit náhledový obrázek kurzu. Z profilu kurzu můžete také přistupovat k webu kurzu (c) a <a href="https://lab.urad.online/help/what-is-the-site-dashboard/"> řídicímu panelu</a> (admin panel, kde budete moci upravovat a přidávat obsah do kurzu)</li>
 </ol>
-</li>
-</ol>
-</li>
-</ol>
+
 <strong>POZOR:</strong>
-<ol start="2">
- 	<li style="list-style-type: none;">
-<ol start="2">
- 	<li style="list-style-type: none;">
+<ol start="">
 <ul>
- 	<li>Všechny vaše <a href="//lab.urad.online/help/writing-a-post/&quot;">příspěvky </a> a <a href="https://lab.urad.online/help/creating-pages-on-your-site / "> stránky </a> z předchozího kurzu budou také duplikovány. Budou však v návrhu, takže budete muset publikovat všechny, které potřebujete na novém webu zobrazit. Pokud je nezveřejníte, nezobrazí se, že vaše stránky zůstanou prázdné.</li>
+ 	<li style="list-style-type: none;">
+ 	</li><li>Všechny vaše <a href="//lab.urad.online/help/writing-a-post/&quot;">příspěvky </a> a <a href="https://lab.urad.online/help/creating-pages-on-your-site / "> stránky </a> z předchozího kurzu budou také duplikovány. Budou však v návrhu, takže budete muset publikovat všechny, které potřebujete na novém webu zobrazit. Pokud je nezveřejníte, nezobrazí se, že vaše stránky zůstanou prázdné.</li>
  	<li>Pokud jste měli vlastní <a href="https://lab.urad.online/help/changing-the-menu -on-your-site /">menu</a> bude ho muset nově aktivován, než se objeví na novém webu. Chcete-li tak učinit, přejděte na panel Nástěnka &amp; gt; Vzhled &amp; gt; Menu a klikněte na kartu Správa umístění v horní části stránky Úprava menu. Vyberte menu v rozbalovacín seznamu Primární navigace a klikněte na tlačítko Uložit změny.</li>
  	<li>Všimnete si, že všechny příspěvky na webu v <a href="https://lab.urad.online/help/discussion-forums/">Diskusním fóru</a> nebo v <a href="https://lab.urad.online/help/using-docs/">dokumentech </a>, které jste vytvořili nebo <a href="https: // lab. urad.online/help/using-files/">soubory </a> nahrané v předchozím kurzu se rovněž objeví v novém kurzu. Pokud je to nutné, můžete je zachovat nebo odstranit.</li>
 </ul>
-</li>
+
  	<li style="list-style-type: none;">
 <ul>
  	<li><a href="https://lab.urad.online/help/changing-the-appearance-of-your -site-with-themes / ">Téma</a> a profilový obrázek zůstávají stejné, i když je můžete kdykoli změnit. Kromě toho se na vašem novém webu objeví všechny <a href="https://lab.urad.online/help/adding-plugins-to-your-site/">pluginy</a> a widgety, které jste aktivovali v původních stránkách.</li>
 </ul>
-</li>
-</ol>
-</li>
-</ol>
+</li></ol>
 Informace o nápovědě k ochraně osobních údajů v kurzech se dozvíte zde.
