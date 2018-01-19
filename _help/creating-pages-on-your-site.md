@@ -15,24 +15,24 @@ help_category:
     Tvorba webových stránek (pro
     administrátory webu)
 ---
-1. To create a page on your site, go to your site Dashboard and click <strong>Pages &gt; Add New</strong> in the left-hand menu.
+1. Chcete-li na svých stránkách vytvořit stránku, přejděte na panel Dashboard a v levém menu klikněte na <strong>Stránky&gt; Přidat nový</strong>.
 
-<img class="alignnone wp-image-3193 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages1.png" alt="Add New Page Screenshot" />
+<img class="alignnone wp-image-3193 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages1.png" alt="Přidat screenshot nové stránky" />
 
-2. On the following screen, you will see a title line, a text box, and a formatting toolbar.  Here you can enter a title for your page and the content that you would like to appear on your page.  To modify your text (e.g., to change the font style, add a link, etc.), highlight the text that you want to change and click the appropriate button from the formatting toolbar.  You can also add <a title="Adding images to your Site" href="https://lab.urad.online/help/adding-images-to-your-site/">images</a>, audio, or <a title="Adding video to your Site" href="https://lab.urad.online/help/adding-video-to-your-site/">video</a> to your page by clicking the icon next to <strong>Upload/Insert</strong>.
+2. Na následující obrazovce se zobrazí řádek, textové pole a panel nástrojů pro formátování. Zde můžete zadat název stránky a obsah, který chcete zobrazit na vaší stránce. Chcete-li změnit svůj text (např. Změnit styl písma, přidat odkaz apod.), Zvýrazněte text, který chcete změnit, a klepněte na příslušné tlačítko na panelu nástrojů pro formátování. Klepnutím na ikonu vedle položky <strong>Nahrát / vložit</strong> můžete do stránky přidat také <a title="Přidání obrázků na váš web" href="https://lab.urad.online/help/adding-images-to-your-site/">obrázky</a> , zvuk nebo <a title="Přidání videa na vaše stránky" href="https://lab.urad.online/help/adding-video-to-your-site/">video</a> .
 
-<img class="alignnone wp-image-3194 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages2.png" alt="Upload Insert Screenshot" />
+<img class="alignnone wp-image-3194 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages2.png" alt="Nahrát Vložit snímek" />
 
-3. Once you have finished adding content to your page, click <strong>Publish</strong> in the “Publish” section of the right-hand menu.  If you would like to see how your page will look before you publish it, click <strong>Preview</strong> in the right-hand menu.  Additionally, if you would like to continue working on your page and publish it at a later time, click <strong>Save Draft</strong> in the right-hand menu.
+3. Jakmile dokončíte přidávání obsahu na svou stránku, klikněte na <strong>Publikovat</strong> v části Publikovat v pravé nabídce. Pokud byste chtěli vidět, jak bude vypadat vaše stránka dříve, než ji zveřejníte, klepněte na tlačítko <strong>Náhled</strong> v pravém menu. Navíc, pokud chcete pokračovat v práci na vaší stránce a později ji publikovat, klepněte na tlačítko <strong>Uložit návrh</strong> v pravém menu.
 
-<img class="alignnone wp-image-3195 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages3.png" alt="Publish Page Screenshot" />
+<img class="alignnone wp-image-3195 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages3.png" alt="Publikovat obrazovku obrazovky" />
 
-4. You can also change or edit your page’s privacy settings by clicking <strong>Edit</strong> in the Visibility settings in the same right-hand menu.  You can choose to make your page public, password protected, or private.
+4. Nastavení ochrany soukromí stránky můžete také změnit nebo upravit kliknutím na tlačítko <strong>Upravit</strong> v nastavení Viditelnost ve stejné pravé nabídce. Můžete si vybrat, zda chcete stránku zveřejnit, chránit heslem nebo soukromě.
 
-<img class="alignnone wp-image-3196 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages4.png" alt="Adjust Visibility Screenshot" />
+<img class="alignnone wp-image-3196 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages4.png" alt="Upravit obrazovku Viditelnost" />
 
-5. Lastly, in the “Page Attributes” section of the right-hand menu, you can edit your page attributes.  In this menu, you can give your page a parent (i.e., make the page appear as a sub-page on another page on your site) and/or edit the template options of your page.  For more information about page attributes, click the <strong>Help &gt; Page Attributes</strong> in the top right-hand corner of your screen.  Note: Make sure that you are still on the screen where your page text box appears.
+5. Nakonec v sekci "Atributy stránky" v pravé nabídce můžete upravit atributy stránky. V této nabídce můžete svou stránku poskytnout rodičům (tj. Nechat stránku zobrazit jako podstránku na jiné stránce na vašem webu) a / nebo upravit možnosti šablony stránky. Další informace o atributech stránek naleznete v <strong>nápovědě&gt; Atributy stránky</strong> v pravém horním rohu obrazovky. Poznámka: Ujistěte se, že jste stále na obrazovce, kde se zobrazí textové pole stránky.
 
-<img class="alignnone wp-image-3197 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages5.png" alt="Edit page attributes screenshot" />
+<img class="alignnone wp-image-3197 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Creating_Pages5.png" alt="Upravit snímek obrazovky atributů stránek" />
 
-Help information courtesy of <a href="http://help.qwriting.org" target="_blank" rel="noopener">Qwriting.org</a> at Queens College.
+Informace o nápovědě s laskavým svolením <a href="http://help.qwriting.org/" target="_blank" rel="noopener">Qwriting.org</a> na Queens College.
