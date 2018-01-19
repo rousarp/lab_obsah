@@ -12,24 +12,21 @@ help_tags:
   - Připojení
 help_category:
   - Kurzy
-  - Kurzy projekty a skupiny
 ---
-1. You must be logged in to the OpenLab to join a Course, so after logging in, go to the go to the <strong>Course Profile</strong> of the course you want to join.  (Read more about how to <a title="Finding a course" href="https://lab.urad.online/help/finding-a-course/">find a course</a>.)
+1. Musíte být přihlášeni do OpenLab, abyste se připojili k kurzu, takže po přihlášení jděte na <strong>profil</strong> kurzu kurzu, který se chcete připojit. (Přečtěte si více o tom, jak <a title="Hledání kurzu" href="https://lab.urad.online/help/finding-a-course/">najít kurz</a> .)
 
-2. If the course is public, click <strong>+ Join Now</strong>, and you will automatically become a member.  If the course is private, click <strong>+ Request Membership</strong> and your professor will be notified of your request.  Once she approves the request you’ll be added as a member.
+2. Pokud je kurz veřejný, klikněte na tlačítko <strong>+ Join Now</strong> a automaticky se stanete členem. Pokud je kurz soukromý, klikněte na možnost <strong>+ Žádost o členství</strong> a váš profesor bude o vaší žádosti informován. Po schválení žádosti budete přidáni jako člen.
 
-<img class="alignnone wp-image-36183 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_1_v2.png" alt="Joining_Course screen shot" />
+<img class="alignnone wp-image-36183 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_1_v2.png" alt="Připojeno_Curzní obrazovka" />
 
-3. Your professor may invite you to join a course. In this case, check your email inbox for a notification that you have been invited to join the course.  Click on the <strong>view invites link</strong> in that email.   You will then be prompted to log in.  When you do so, you’ll be on your “Invitations” page.  Click <strong>Accept</strong> next to the invitation for the course.
+3. Váš profesor vás může pozvat na kurz. V takovém případě zkontrolujte svou e-mailovou schránku, abyste dostali oznámení, že jste byli pozváni k připojení k kurzu. Klikněte na <strong>odkaz</strong> na <strong>pozvánky</strong> na <strong>zobrazení</strong> v tomto e-mailu. Potom budete vyzváni k přihlášení. Když tak učiníte, budete na stránce "Pozvánky". Klikněte na možnost <strong>Přijmout</strong> vedle pozvánky na kurz.
 
-<img class="alignnone wp-image-36683 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/joining_course_2a_v2.png" alt="Joining_Course screen shot" />
+<img class="alignnone wp-image-36683 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/joining_course_2a_v2.png" alt="Připojeno_Curzní obrazovka" />
 
-<img class="alignnone wp-image-36445 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_2b_v2.png" alt="Joining_Course screen shot" />
+<img class="alignnone wp-image-36445 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_2b_v2.png" alt="Připojeno_Curzní obrazovka" />
 
-4. If you are not a City Tech student but are taking a City Tech course using the OpenLab, please <a title="Contact Us" href="https://lab.urad.online/help/contact-us/" target="_blank" rel="noopener">contact us</a> for more information about how non-City Tech students can join the OpenLab.
-<h3><strong>Leaving a course</strong></h3>
-1. After logging into the OpenLab, go to the Course Profile and click <strong>– Leave Group</strong>. You will no longer be a member of the course.
+4. Pokud nejste studentem City Tech, ale využijete kurzu City Tech s využitím OpenLab, <a title="Kontaktujte nás" href="https://lab.urad.online/help/contact-us/" target="_blank" rel="noopener">kontaktujte nás</a>  pro více informací o tom, jak se mohou studenty non-City Tech připojit k OpenLabu.
+<h3><strong>Odchod z kurzu</strong></h3>
+1. Po přihlášení do OpenLab přejděte do profilu kurzu a klikněte na tlačítko <strong>- Leave Group</strong> . Už nebudete členem kurzu.
 
-<img class="alignnone wp-image-36447 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_3_v2.png" alt="Leaving Course screen shot" />
-
-&nbsp;
+<img class="alignnone wp-image-36447 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Joining_Course_3_v2.png" alt="Opuštění kurzu obrazovky" />
