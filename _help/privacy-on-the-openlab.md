@@ -17,30 +17,30 @@ help_tags:
 help_category:
   - Pro všechny
 ---
-We take privacy seriously on the OpenLab, which is why we have many different options for choosing what you want to share and with whom.
+Svou soukromí beru vážně na OpenLab, a proto máme mnoho možností, jak si vybrat, co chcete sdílet a s kým.
 
-<strong>Using your name on the OpenLab</strong>
+<strong>Použití svého jména v OpenLabu</strong>
 
-You choose your <strong>username</strong> when you first sign up for the OpenLab.
+Při prvním přihlášení k OpenLab si zvolíte své <strong>uživatelské jméno</strong> .
 
-Your username is only used to log in, and the only place where it is visible to anyone but you is in the URL of your profile page.
+Vaše uživatelské jméno se používá pouze pro přihlášení a jediné místo, kde je viditelné pro všechny, kromě vás, je v adrese URL vaší profilové stránky.
 
-Your <strong>display name</strong> is publicly visible throughout the site.  It is displayed on your profile page, when you post or comment on a <a title="What is a “Site” on a Course, Project, or Club?" href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">Site</a>, when you post on a <a title="Using “Discussion” forums" href="https://lab.urad.online/help/discussion-forums/">Discussion</a> forum, or when you create or edit a <a title="Using “Docs”" href="https://lab.urad.online/help/using-docs/">Doc</a>.
+Vaše <strong>zobrazované jméno</strong> je veřejně viditelný na celém webu. Zobrazuje se na stránce vašeho profilu při publikování či komentování <a title="Co je &quot;místo&quot; na hřišti, projektu nebo klubu?" href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">webu</a> , při publikování na <a title="Použití diskusních fór" href="https://lab.urad.online/help/discussion-forums/">diskuzním</a> fóru nebo při vytváření nebo úpravě <a title="Použití položky &quot;Dokumenty&quot;" href="https://lab.urad.online/help/using-docs/">dokumentu</a> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/privacy_on_the_openlab1.png"><img class="alignnone wp-image-36868 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/privacy_on_the_openlab1.png" alt="Private Information screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/privacy_on_the_openlab1.png"><img class="alignnone wp-image-36868 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/privacy_on_the_openlab1.png" alt="Soukromý obrázek obrazovky" /></a>
 
-Your username cannot be changed, but you can change your display name at any time.
+Vaše uživatelské jméno nelze změnit, ale zobrazované jméno můžete kdykoli změnit.
 
-You are asked for your <strong>full name</strong> when you sign up, so that <a title="Who can build a Site?" href="https://lab.urad.online/help/who-can-build-a-site/">course, project, or club administrators</a> can see who you are when you contribute (for example, professors can easily evaluate student work as part of a course), but your full name is never visible anywhere else on the OpenLab.
+Při přihlášení se vás zeptáte na <strong>celé jméno</strong> , aby <a title="Kdo může vytvořit web?" href="https://lab.urad.online/help/who-can-build-a-site/">správci kurzu, projektu nebo klubu</a> mohli vidět, kdysi jste, když přispíváte (například profesoři mohou snadno hodnotit studentskou práci jako součást kurzu), ale vaše celé jméno nikdy není vidět nikde jinde na OpenLab.
 
-Whether you use your real name or a pseudonym online (on the OpenLab or any social networking site), it’s good to keep in mind the pros and cons of each.
+Ať už používáte své skutečné jméno nebo pseudonym on-line (v OpenLabu nebo v jakékoli sociální síti), je dobré mít na paměti klady a zápory všech.
 
-Have you ever googled yourself and been dismayed that the top results were from pipl.com, whitepages.com, or include other people with your name? One of the benefits of posting work under your real name is that you can begin to influence what appears when people search for you.  It’s also a good way to start building an academic or professional online presence, and to connect with others in your field.
+Už jste se někdy pustil do sebe a byl jste zděšený, že špičkové výsledky byly z pipl.com, whitepages.com, nebo zahrnout jiné osoby se svým jménem? Jednou z výhod posílání díla pod svým skutečným jménem je to, že můžete začít ovlivňovat to, co se objeví, když vás lidé vyhledávají. Je to také dobrý způsob, jak začít budovat akademickou nebo profesionální online přítomnost a spojit se s ostatními ve svém oboru.
 
-If you’re unsure whether you want your public work on the OpenLab to be searchable, you can decide whether or not you want to have your real name associated with it.  For example, you might use a display name that is different from your real name, or just includes part of it.   And, you can always change your mind later.  Please note, however, that if you are working on a private site, the content you post there is not accessible to search engines.
+Pokud si nejste jisti, zda chcete, aby vaše veřejná práce na OpenLab byla prohledávatelná, můžete se rozhodnout, zda chcete s vaším skutečným jménem spojovat své skutečné jméno. Můžete například použít zobrazované jméno, které se liší od skutečného jména, nebo obsahuje pouze část. A vždy můžete změnit názor. Vezměte však na vědomí, že pokud pracujete na soukromém webu, obsah, který tam zveřejňujete, není vyhledávačům přístupný.
 
-<strong>Changing privacy settings for a course, project, club profile and site</strong>
+<strong>Změna nastavení ochrany soukromí pro kurz, projekt, profil klubu a web</strong>
 
-Another important place to consider privacy settings is in a course, project, club, portfolio, or ePortfolio.  The profile and site both have different controls for privacy so that you can have different settings for each.  However, if you change one, you should also remember to change the other as well.  Read about <a title="Changing privacy and other settings for a Course, Project, or Club" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">changing privacy settings</a> in a course, project, club, <a title="Changing privacy and other settings on an ePortfolio" href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio/">portfolio, or ePortfolio</a> in more detail.
+Dalším důležitým místem pro nastavení ochrany osobních údajů je kurz, projekt, klub, portfolio nebo ePortfolio. Profil a stránka mají různé ovládací prvky pro soukromí, takže můžete mít pro ně různá nastavení. Nicméně, pokud změníte jeden, měli byste také vzpomenout na změnu druhého. Přečtěte si více o <a title="Změna nastavení ochrany osobních údajů a dalších nastavení kurzů, projektů nebo klubů" href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">změně nastavení ochrany osobních údajů</a> v kurzu, projektu, klubu, <a title="Změna soukromí a dalších nastavení v ePortfoliu" href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio/">portfoliu nebo ePortfolio</a> .
 
-Help information on using real names vs. pseudonyms online courtesy of Michael Mandiberg’s<a href="http://2012core2.commons.gc.cuny.edu/syllabus"> Interactive Technology and Pedagogy syllabus</a> at The Graduate Center, CUNY.
+Pomozte informacím o používání reálných jmen a pseudonámií online s laskavým svolením programu <a href="http://2012core2.commons.gc.cuny.edu/syllabus">Interactive Technology and Pedagogy</a> Michaela Mandiberga v The Graduate Center, CUNY.
