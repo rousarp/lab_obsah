@@ -13,110 +13,110 @@ help_tags:
 help_category:
   - Pro všechny
 ---
-<h3>Making your Work Accessible</h3>
-Web accessibility means that people with disabilities can use the Web. More specifically, it means that people with disabilities can perceive, understand, navigate, and interact with the Web, and that they can contribute to the Web.  Web accessibility also benefits others, including older people with changing abilities due to aging (from <a href="https://www.w3.org/WAI/intro/accessibility.php">Web Accessibility Initiative</a>).  Implementing accessible design standards will often improve the experience of everyone using your site.
+<h3>Zpřístupnění práce</h3>
+Webová dostupnost znamená, že lidé s postižením mohou používat web. Konkrétně to znamená, že lidé s postižením mohou vnímat, pochopit, navigovat a komunikovat s webem a že mohou přispívat na web. Přístupnost webu také prospívá ostatním, včetně starších lidí s měnícími se schopnostmi v důsledku stárnutí (z <a href="https://www.w3.org/WAI/intro/accessibility.php">iniciativy Web Accessibility Initiative</a> ). Zavedení dostupných návrhových standardů často zlepší zážitek každého, kdo používá vaše stránky.
 
-The post below outlines what you should do to improve accessibility on your own Course, Project, Club, and Portfolio sites.  You can find out more information about accessibility, and improvements the OpenLab has been making, in our post on <a href="https://lab.urad.online/help/summary-of-accessibility-on-the-openlab/">Summary of Accessibility on the OpenLab</a>.  CUNY’s site on accessibility standards also has helpful information on <a href="http://www2.cuny.edu/accessibility/content/">making digital content accessible</a>.
-<h4>Documents</h4>
-It is important that documents, such as PDF and Microsoft Word files, that you upload to the OpenLab, are accessible.  These  include documents on a Site, or in the Files section of a Course, Project, or Club Profile.  CUNY’s guide to <a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/">creating accessible PDF and Microsoft Office documents</a> provides detailed instructions for how to do this, but a few key points are emphasized below.
+Níže uvedený příspěvek načrtává, co byste měli udělat, abyste zlepšili přístupnost na svých stránkách kurzu, projektu, klubu a portfolia. Další informace o dostupnosti a vylepšeních, které společnost OpenLab vytváří, naleznete v našem příspěvku o  <a href="https://lab.urad.online/help/summary-of-accessibility-on-the-openlab/">souhrnu dostupnosti OpenLab</a> . Stránka CUNY o standardech přístupnosti má rovněž užitečné informace o <a href="http://www2.cuny.edu/accessibility/content/">zpřístupnění digitálního obsahu</a> .
+<h4>Dokumenty</h4>
+Je důležité, aby dokumenty, jako jsou soubory PDF a Microsoft Word, které jste nahrali do OpenLab, byly přístupné. Patří sem dokumenty na webu nebo v sekci Soubory profilu kurzu, projektu nebo klubu. Příručka CUNY k <a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/">vytváření dostupných dokumentů PDF a Microsoft Office</a> poskytuje podrobné pokyny, jak to udělat, ale několik klíčových bodů je zdůrazněno níže.
 <ol>
- 	<li>PDF files are the most difficult file format to make accessible, and properly-structured HTML tends to be the most accessible.
+ 	<li>Soubory PDF jsou nejobtížnější souborový formát, který zpřístupňuje a správně strukturovaný kód HTML je nejvíce dostupný.
 <ul>
- 	<li>Use or link to a PDF only when you cannot use HTML or Microsoft Office files.</li>
- 	<li>Ensuring searchable text and tagging a PDF with hidden labels (tags) that describe the structure of the document are the minimum requirements for PDF document accessibility, in order to be correctly read by a screen reader.</li>
+ 	<li>Použijte nebo odkazujte na PDF pouze v případě, že nelze použít soubory HTML nebo Microsoft Office.</li>
+ 	<li>Zajištění prohledávatelného textu a označování PDF se skrytými štítky (značky), které popisují strukturu dokumentu, jsou minimální požadavky na přístupnost dokumentů PDF, aby byly správně čteny čtečkou obrazovky.</li>
 </ul>
 </li>
- 	<li>If it is necessary to use a PDF, please follow CUNY’s guidelines for:
+ 	<li>Pokud je nutné použít PDF, postupujte podle pokynů CUNY pro:
 <ul>
- 	<li><a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/#Save">Saving a Word document as PDF</a></li>
- 	<li><a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/#pdf_scanned">Using a scanned PDF document</a></li>
- 	<li><a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/#pdf_forms">Using PDF forms</a></li>
+ 	<li><a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/#Save">Uložení dokumentu aplikace Word jako PDF</a></li>
+ 	<li><a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/#pdf_scanned">Použití naskenovaného dokumentu PDF</a></li>
+ 	<li><a href="http://www2.cuny.edu/accessibility/content/pdf-microsoft/#pdf_forms">Použití formulářů PDF</a></li>
 </ul>
 </li>
 </ol>
-<h4>Images</h4>
+<h4>snímky</h4>
 <ol>
- 	<li>Include alternative text for all images.  Whenever you add a new image to a Post or Page, include short text in the <strong>Alt Text</strong> field in the Insert Media pop-up box (shown in the screenshot below).
+ 	<li>Zahrnout alternativní text pro všechny obrázky. Kdykoli přidáte nový snímek do příspěvku nebo stránky, do pole <strong>Alt Text</strong>vložte krátký text do pole pro vložení média (zobrazí se na následujícím obrázku obrazovky).
 <ul>
- 	<li>Do not include the words “photo of” or “image of” because the screen reader will already signal that it is an image file. Keep the description short and informative.</li>
- 	<li>For images that represent concepts and information, such as photos and illustrations, include alt text that briefly conveys the essential information presented by the image. For more on alt text for different types of images, see <a href="http://www2.cuny.edu/accessibility/content/websites/#images">CUNY’s guide to image accessibility</a>.</li>
- 	<li>Rationale: Alternative text, or “alt text” for short, refers to a short description for images that will be read aloud by screen readers, and is required for accessibility.</li>
+ 	<li>Nezahrnujte slova "fotka" nebo "obrázek", protože čtečka obrazovky již signalizuje, že jde o obrazový soubor. Uchovávejte popis krátký a informativní.</li>
+ 	<li>U snímků, které představují koncepty a informace, například fotografie a ilustrace, je třeba uvést jiný text, který krátce předává základní informace, které obrázek představuje. Další informace o alt textu pro různé typy obrázků naleznete  <a href="http://www2.cuny.edu/accessibility/content/websites/#images">v příručce CUNY pro přístupnost obrázků</a> .</li>
+ 	<li>Odůvodnění: Alternativní text nebo "alt text" zkratka odkazuje na krátký popis obrázků, které budou číst nahlas čtenáři obrazovky, a je vyžadován pro přístupnost.</li>
 </ul>
 </li>
- 	<li>Remove any text in the <strong>Title</strong> field.
+ 	<li>Odstraňte libovolný text v poli <strong>Název</strong> .
 <ul>
- 	<li>Rationale: WordPress automatically creates an image title that is the same as the image file name. Usually this results in a meaningless title, such as “IMG_5981.” Titles are optional and some browsers  or devices may not support them, so it is better to include only alt text and avoid the screen reader either missing the title or reading the same information twice.</li>
+ 	<li>Odůvodnění: WordPress automaticky vytvoří název obrázku, který je shodný s názvem souboru obrázku. Obvykle to vede k bezvýznamnému názvu, jako je "IMG_5981". Tituly jsou volitelná a některé prohlížeče nebo zařízení nemusí podporovat, takže je lepší zahrnout pouze alt text a vyhnout se čtečce na obrazovce buď chybějící titul nebo čtení stejných informací dvakrát.</li>
 </ul>
 </li>
- 	<li>Prevent images from opening in their own tab after being clicked, by selecting <strong>none</strong> in the <strong>Link To </strong>dropdown menu.
+ 	<li>Obrázků zabránit otevření v jejich záložce vlastní po klepnutí výběrem <strong>nic</strong> v <strong>Odkaz na</strong> menu.
 <ul>
- 	<li>Rationale: Images will not have any alt text or other accessibility controls when they open in the new window.</li>
+ 	<li>Odůvodnění: Snímky nebudou mít při otevření v novém okně žádný jiný text nebo jiné ovládací prvky přístupnosti.</li>
 </ul>
 </li>
 </ol>
 &nbsp;
 
-<img class="alignnone size-full wp-image-45616" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1.png" alt="Screenshot showing title, alt text, and link to settings." />
-<h4>Video and Animation</h4>
+<img class="alignnone size-full wp-image-45616" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Alt_Text_1.png" alt="Snímek obrazovky zobrazující název, alt text a odkaz na nastavení." />
+<h4>Video a animace</h4>
 <ol>
- 	<li>Do not autoplay video and animated gifs with flashing visual content.
+ 	<li>Neprovádějte automatické přehrávání videa a animovaných gifů s blikajícím vizuálním obsahem.
 <ul>
- 	<li>Rationale: People using screen readers may have difficulty hearing the reader’s output if other audio is playing at the same time.</li>
- 	<li>Rationale: Quickly blinking or flashing images  can trigger seizures in people with certain types of seizure disorders.</li>
- 	<li>Rationale: Animations can be disorienting to many people, especially those with certain types of cognitive disorders.</li>
+ 	<li>Odůvodnění: Lidé, kteří používají čtečky obrazovky, mohou mít potíže se slyšet výstup čtenáře, pokud se současně přehrává jiný zvuk.</li>
+ 	<li>Odůvodnění: Rychle blikající nebo blikající obrázky mohou způsobit záchvaty u osob s určitými typy záchvatových onemocnění.</li>
+ 	<li>Odůvodnění: Animace mohou být dezorientovány u mnoha lidí, zejména u těch, kteří mají určité typy kognitivních poruch.</li>
 </ul>
 </li>
- 	<li>Include captions for video.  Captions provide text versions of the words spoken in a video.  It is essential for people who cannot hear the audio, and can be helpful for all users of your site, including people not fluent in the language used in the video/audio, or people who are working in a quiet space.
+ 	<li>Zahrnout titulky pro video. Titulky poskytují textové verze slov ve videu. Je to zásadní pro lidi, kteří nemohou slyšet zvuk, a mohou být užiteční pro všechny uživatele vašeho webu, včetně lidí, kteří neublížili jazyku používanému ve videu / zvuku, nebo lidé, kteří pracují v klidném prostředí.
 <ul>
- 	<li><a href="https://www.youtube.com/">YouTube</a> and <a href="https://vimeo.com/">Vimeo</a> are the suggested video platforms for the OpenLab, and both allow you to add captions.  YouTube provides instructions for <a href="https://support.google.com/youtube/answer/2734796?hl=en">adding your own subtitles and closed captions</a> and Vimeo also has help on <a href="https://help.vimeo.com/hc/en-us/articles/224968828-Captions-and-subtitles">captions and subtitles</a>.</li>
- 	<li>You can find information on additional tools in CUNY’s guide to <a href="http://www2.cuny.edu/accessibility/content/videos/#video_captioning_tools">video captioning tools</a>.</li>
+ 	<li><a href="https://www.youtube.com/">YouTube</a> a <a href="https://vimeo.com/">Vimeo</a> jsou navrhované video platformy pro OpenLab a oba umožňují přidat titulky. YouTube poskytuje pokyny pro  <a href="https://support.google.com/youtube/answer/2734796?hl=en">přidání vlastních titulků a titulků</a>  a Vimeo má také nápovědu k  <a href="https://help.vimeo.com/hc/en-us/articles/224968828-Captions-and-subtitles">titulkům a titulkům</a> .</li>
+ 	<li>Informace o dalších nástrojích naleznete v příručce CUNY pro <a href="http://www2.cuny.edu/accessibility/content/videos/#video_captioning_tools">nástroje pro popis obrázků</a> .</li>
 </ul>
 </li>
 </ol>
-<h4>Site Organization<strong>
+<h4>Organizace stránek<strong>
 </strong></h4>
-<h5>Links</h5>
+<h5>Odkazy</h5>
 <ol>
- 	<li>Use informative and specific wording for the text that the user will click on, to describe where the link will take them.  For example, if you are linking to an accessibility article, use descriptive text such as “Article on Accessibility.”
+ 	<li>Použijte informativní a specifické znění pro text, na který uživatel klepne, a popište, kde bude odkaz přijímat. Například pokud odkazujete na článek o přístupnosti, použijte popisný text, například "Článek o přístupnosti".
 <ul>
- 	<li>Avoid vague phrases like “Click here.”</li>
- 	<li>Avoid using the word “link” because screen readers will already alert the user that the text is a link.</li>
- 	<li>Avoid using URLs in the link text, because they are cumbersome when read aloud.  E.g. Use “W3C Tutorial on Functional Images” rather than “https://www.w3.org/WAI/tutorials/images/functional”.</li>
- 	<li>Rationale: If someone is using a screen reader, which will read the links out loud, the user will be able to know where a link will take them before clicking.</li>
+ 	<li>Vyvarujte se nejasných frází typu "klikněte sem".</li>
+ 	<li>Nepoužívejte slovo "odkaz", protože čtečky obrazovky již upozorní uživatele, že text je odkaz.</li>
+ 	<li>Nepoužívejte adresy URL v textu odkazu, protože jsou nahlas čteny nahlas. Např. "W3C Tutorial na funkčních obrázcích" spíše než "https://www.w3.org/WAI/tutorials/images/functional".</li>
+ 	<li>Odůvodnění: Pokud někdo používá čtečku obrazovky, která bude hlasitě číst odkazy, uživatel bude moci vědět, kam bude mít odkaz předtím, než klikne.</li>
 </ul>
 </li>
 </ol>
-<h5>Information Design</h5>
+<h5>Návrh informací</h5>
 <ol>
- 	<li>Organize content in a Post or Page using Headings to structure the information you present to create a clear visual hierarchy.
+ 	<li>Uspořádejte obsah v příspěvku nebo stránce pomocí nadpisů a uspořádat informace, které předkládáte, abyste vytvořili jasnou vizuální hierarchii.
 <ul>
- 	<li>Rationale: using a logical structure will benefit everyone who visits your site. The information is easier to scan for sighted users. People using screen readers can use headings to navigate among the different sections.</li>
+ 	<li>Odůvodnění: pomocí logické struktury budete mít prospěch všem, kteří navštíví vaše stránky. Informace lze snadno vyhledávat pro zrakově postižené uživatele. Lidé, kteří používají čtečky obrazovky, mohou používat okruhy pro navigaci mezi různými sekcemi.</li>
 </ul>
 </li>
- 	<li>Use the Heading styles in the Post or Page editor dropdown, rather than bold or italics to indicate a heading (see screenshot below).
+ 	<li>Použijte styly Heading v rozbalovací nabídce Post nebo v editoru stránek namísto tučné nebo kurzívy, které označují nadpis (viz obrázek níže).
 <ul>
- 	<li>The Heading 1 style should only be used once per page. Don’t use Heading 2 styles too often; they should be reserved just for sub-section titles.</li>
+ 	<li>Styl Nadpis 1 by měl být použit pouze jednou na stránku. Nepoužívejte styly nadpisu 2 příliš často; měly by být vyhrazeny pouze pro názvy dílčích sekcí.</li>
 </ul>
 </li>
- 	<li>Use common, recognizable fonts that provide a strong contrast with the background color of the page.  This will not be an issue for most OpenLab members if you stick to the default fonts and colors for your theme.  However, if you’re using one of our font plugins, such as Easy Google Fonts, or changing the text or background colors, you can find more information about contrast in <a href="https://webaim.org/articles/visual/lowvision#highcontrast">WebAim: Visual Disabilities: High Contrast</a>.
+ 	<li>Používejte běžné rozpoznatelné písma, které poskytují silný kontrast s barvou pozadí stránky. To nebude problém pro většinu členů OpenLab, pokud se držíte výchozích písem a barev pro váš motiv. Pokud však používáte některý z našich pluginů pro písmo, jako například jednoduché písma Google nebo změníte barvy textu nebo pozadí, naleznete další informace o kontrastu ve <a href="https://webaim.org/articles/visual/lowvision#highcontrast">službě WebAim: Vizuální postižení: Vysoký kontrast</a> .
 <ul>
- 	<li>Avoid using colors that create a low contrast; for example, light color fonts on a white background.</li>
- 	<li>Avoid script fonts, which can be difficult to read for everyone; and especially people with visual impairments.</li>
- 	<li>Try viewing your site while zoomed in, which is a common practice to increase readability.  You can do this by pressing the ctrl and + keys together, or command + on a Mac.</li>
+ 	<li>Nepoužívejte barvy, které vytvářejí malý kontrast; například světlé barvy písma na bílém pozadí.</li>
+ 	<li>Vyhněte se skriptovým písmům, které mohou být obtížné číst pro všechny; a zejména lidí se zrakovým postižením.</li>
+ 	<li>Zkuste prohlížet své stránky při zvětšování, což je běžná praxe ke zvýšení čitelnosti. Můžete to provést stisknutím kláves ctrl a + nebo příkazem + na počítači Mac.</li>
 </ul>
 </li>
 </ol>
 &nbsp;
 
-<img class="alignnone size-full wp-image-45617" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2.png" alt="Screenshot showing heading styles" />
-<h4>Additional Resources</h4>
-Below are some more helpful resources on how to make your site more accessible:
+<img class="alignnone size-full wp-image-45617" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2017/10/Headings_2.png" alt="Snímek zobrazující styly nadpisů" />
+<h4>Dodatečné zdroje</h4>
+Níže uvádíme další užitečné zdroje, jak zpřístupnit vaše stránky:
 <ul>
- 	<li><a href="http://blogaccessibility.com/a-super-simple-way-to-make-images-accessible-alt-text-versus-title-explained/">A Super Simple Way to Make Images Accessible: Alt Text versus Title Explained</a></li>
- 	<li><a href="https://www.w3.org/WAI/tutorials/images/functional/">W3C Tutorial on Functional Images </a></li>
- 	<li><a href="http://www.interactiveaccessibility.com/blog/making-images-visible-blind-users#.WAfrZNwqH8U">Making Images Visible to Blind Users</a></li>
- 	<li>CUNY Guide to accessible uses of <a href="http://cats.cuny.edu/reasonableaccommodations/TechnologyintheClassroom.html">Technology in the Classroom and for Online Courses</a></li>
- 	<li><a href="https://er.educause.edu/articles/2017/1/ada-compliance-for-online-course-design">ADA Compliance for Online Course Design</a></li>
- 	<li><a href="http://wave.webaim.org/">Web Accessibility Evaluation Tool</a> (WAVE) – can be used to find any accessibility errors on your Site</li>
- 	<li><a href="https://webaim.org/resources/contrastchecker/">WebAIM Color Contrast Checker</a> – can be used to verify color contrasts match accessibility standards</li>
+ 	<li><a href="http://blogaccessibility.com/a-super-simple-way-to-make-images-accessible-alt-text-versus-title-explained/">Jednoduchý jednoduchý způsob, jak zpřístupnit obrazy: Vysvětlený text Alt versus Název</a></li>
+ 	<li><a href="https://www.w3.org/WAI/tutorials/images/functional/">W3C výuka na funkčních obrázcích</a></li>
+ 	<li><a href="http://www.interactiveaccessibility.com/blog/making-images-visible-blind-users#.WAfrZNwqH8U">Vytváření snímků viditelných pro nevidomé uživatele</a></li>
+ 	<li>CUNY Průvodce pro přístupné <a href="http://cats.cuny.edu/reasonableaccommodations/TechnologyintheClassroom.html">technologie v učebně a pro on-line kurzy</a></li>
+ 	<li><a href="https://er.educause.edu/articles/2017/1/ada-compliance-for-online-course-design">Shoda ADA pro návrh kurzů online</a></li>
+ 	<li><a href="http://wave.webaim.org/">Nástroj pro vyhodnocování dostupnosti webu</a> (WAVE) - lze použít k nalezení chyb na přístupnosti na vašem webu</li>
+ 	<li><a href="https://webaim.org/resources/contrastchecker/">Kontrola barevného kontrastu WebAIM</a> - lze použít k ověření barevných kontrastů, které odpovídají standardům přístupnosti</li>
 </ul>
