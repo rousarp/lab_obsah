@@ -14,11 +14,11 @@ help_tags:
 help_category:
   - Pluginy a widgety
 ---
-To quote <a title="View all posts by Ryan Cordell" href="http://chronicle.com/blogs/profhacker/author/rcordell">Ryan Cordell</a>‘s article on the plug-in: “Anthologize was developed as a way for scholars to easily publish blog content—from a personal research blog, a course blog, or scholarly group blog, or the like—in a number of formats”:
+Citovat článek společnosti <a title="Zobrazit všechny příspěvky od uživatele Ryan Cordell" href="http://chronicle.com/blogs/profhacker/author/rcordell">Ryan Cordell</a> o modulu plug-in: "Anthologize bylo vyvinuto jako způsob, jak pro učitele snadno publikovat obsah blogu - z osobního výzkumného blogu, blogu o kurzu nebo blogu odborné skupiny nebo podobně - v několika číslech formátů ":
 
-Anthologize is a free, open-source, plugin that transforms WordPress 3.0 into a platform for publishing electronic texts. Grab posts from your WordPress blog, import feeds from external sites, or create new content directly within Anthologize. Then outline, order, and edit your work, crafting it into a single volume for export in several formats, including—in this release—PDF, ePUB, TEI.
+Anthologize je bezplatný open-source plugin, který transformuje WordPress 3.0 na platformu pro publikování elektronických textů. Uchopte příspěvky z blogu WordPress, importujte zdroje z externích webů nebo vytvořte nový obsah přímo v Anthologize. Poté obrysujte, objednávejte a upravte svou práci a vytvořte ji v jediném svazku pro export v několika formátech včetně - v této verzi - PDF, ePUB, TEI.
 
-Using Anthologize is very simple, and we really cannot improve on the developers own guide, which you can find <a href="http://anthologize.org/learn/user-guide/">here</a>.  We’ve copied the main page below for ease of use.  As always, <a href="https://lab.urad.online/support/contact-us">contact us</a> with any questions!
+Použití Anthologize je velmi jednoduché a opravdu se nám nedaří zlepšit vlastní průvodce vývojáři, který naleznete <a href="http://anthologize.org/learn/user-guide/">zde</a> . Pro snadné použití jsme zkopírovali hlavní stránku níže. Jako vždy <a href="https://lab.urad.online/support/contact-us">kontaktujte nás</a> s jakýmikoli otázkami!
 
 <a href="https://lab.urad.online/openroad/files/2013/02/anthologize-png.png"><img class="alignnone" src="https://openlab.citytech.cuny.edu/openroad/files/2013/02/anthologize-png.png" alt="anthologize screenshot" /></a>
 
