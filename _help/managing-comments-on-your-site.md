@@ -13,31 +13,31 @@ help_tags:
 help_category:
   - Správa webových stránek
 ---
-1. After you have <a title="Who can build a Site?" href="https://lab.urad.online/help/who-can-build-a-site/">created your site</a>, you will often have to moderate and filter the <a title="Commenting on a Site" href="https://lab.urad.online/help/commenting-on-a-site/">comments</a> that are made on the posts and pages on your site.  All comments made on your site are listed in a moderation queue accessible via your site Dashboard.  You can view these comments by going to your Dashboard and clicking <strong>Comments</strong> in the left-hand menu.
+1. Jakmile vytvoříte <a title="Kdo může vytvořit web?" href="https://lab.urad.online/help/who-can-build-a-site/">své stránky</a> , budete často muset moderovat a filtrovat <a title="Komentář k webu" href="https://lab.urad.online/help/commenting-on-a-site/">komentáře,</a> které se provádějí v příspěvcích a stránkách vašeho webu. Všechny komentáře provedené na vašem webu jsou uvedeny ve frontě moderování přístupné prostřednictvím panelu Dashboard. Tyto komentáře můžete zobrazit tak, že přejdete na panel Dashboard a kliknete na položku <strong>Komentáře</strong> v levém menu.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments1.png"><img class="alignnone wp-image-3155 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments1.png" alt="Managing Comments 1 screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments1.png"><img class="alignnone wp-image-3155 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments1.png" alt="Správa komentářů 1 snímek obrazovky" /></a>
 
-2. You can edit the settings for comment moderation (e.g., approving comments, holding comments for approval) by clicking <strong>Settings &gt; Discussion</strong> in the left-hand menu.  Here you have the option of setting any of the following requirements for comments to be left on your site:
+2. Můžete upravovat nastavení moderování komentářů (např. Schvalování komentářů, přidávání poznámek ke schválení) klepnutím na položku <strong>Nastavení&gt; Diskuse</strong> v levém menu. Zde máte možnost nastavit některou z následujících požadavků na komentáře, která budou ponechána na vašem webu:
 <ul>
- 	<li>Comment authors must fill out their name and e-mail address before leaving a comment.</li>
- 	<li>Comment authors must log in to leave a comment (i.e., Commenters must be logged in to the OpenLab.  This will limit comments to OpenLab members only).</li>
- 	<li>Comments must be approved by a site administrator before they appear on your site. (Note: This is you if you have created the site, so if you expect lots of comments on your site, consider whether you want to approve each one.)</li>
- 	<li>Comments will be held for moderation (i.e., approval) if they contain 1 or more links in the comment.</li>
+ 	<li>Autoři komentářů musí před vyplněním komentáře vyplnit své jméno a e-mailovou adresu.</li>
+ 	<li>Autoři komentářů se musí přihlásit a zanechat komentář (tj. Commenters musí být přihlášeni do OpenLab, což omezuje komentáře pouze pro členy OpenLab).</li>
+ 	<li>Komentáře musí být schváleny administrátorem webu, než se objeví na vašem webu. (Poznámka: Toto jste vy, pokud jste stránky vytvořili, takže pokud očekáváte na vašem webu hodně komentářů, zvažte, zda je chcete schválit.)</li>
+ 	<li>Komentář bude probíhat ke zmírnění (tj. Schválení), pokud obsahují 1 nebo více odkazů v komentáři.</li>
 </ul>
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments2.png"><img class="alignnone wp-image-3156 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments2.png" alt="discussion settings screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments2.png"><img class="alignnone wp-image-3156 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments2.png" alt="diskusní nastavení nastavení obrazovky" /></a>
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments3.png"><img class="alignnone wp-image-3157 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments3.png" alt="discussion settings 2 screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments3.png"><img class="alignnone wp-image-3157 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments3.png" alt="diskusní nastavení 2 screenshot" /></a>
 
-Click <strong>Save Changes</strong> when you are done.
+Po dokončení klikněte na tlačítko <strong>Uložit změny</strong> .
 
-3. If you would like to disable, or “turn off,” the ability to make comments on new posts or pages on your site, go to your site Dashboard and click<strong> Settings &gt; Discussion</strong> and then uncheck the box that reads, “Allow People to Post Comments on New Articles.”  Click <strong>Save Changes</strong> when you are done.
+3. Pokud chcete vypnout nebo vypnout možnost komentovat nové příspěvky nebo stránky na vašem webu, přejděte na panel Dashboard a klikněte na <strong>Nastavení&gt; Diskuse</strong> a zrušte zaškrtnutí políčka "Povolit lidi k odeslání komentářů k novým článkům. " Po dokončení klepněte na tlačítko <strong>Uložit změny</strong> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments4.png"><img class="alignnone wp-image-3158 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments4.png" alt="discussion settings 3 screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments4.png"><img class="alignnone wp-image-3158 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments4.png" alt="diskusní nastavení 3 screenshot" /></a>
 
-4. Sometimes the comments that you receive on a post or page will be “spam” comments.  In this case, you can go to your site Dashboard and click <strong>Comments</strong> in the left-hand menu.  Check the box next to the comment that you would like to mark as spam, and then select “Mark as Spam” from the drop-down menu above the comments box and click <strong>Apply</strong>.  For more information about dealing with spam comments, see <a href="https://lab.urad.online/openroad/2012/07/09/this-week-in-the-openlab-july-10th-edition" target="_blank" rel="noopener">this post</a> on the Open Road site.
+4. Někdy komentáře, které obdržíte na příspěvku nebo stránce, budou komentáře spamu. V takovém případě můžete přejít na panel Dashboard a v levém menu klepnout na <strong>Poznámky</strong> . Zaškrtněte políčko vedle poznámky, kterou chcete označit jako spam, a v rozbalovací nabídce nad rámečkem s komentáři vyberte "Označit jako spam" a klikněte na tlačítko <strong>Použít</strong> . Další informace o vyřizování spamových komentářů najdete v <a href="https://lab.urad.online/openroad/2012/07/09/this-week-in-the-openlab-july-10th-edition" target="_blank" rel="noopener">tomto příspěvku</a> na stránkách Open Road.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments5.png"><img class="alignnone wp-image-3159 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments5.png" alt="mark comment as spam screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments5.png"><img class="alignnone wp-image-3159 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments5.png" alt="označte komentář jako spamový snímek" /></a>
 
-5. You can also mark a comment as “spam” by hovering your cursor under a comment in the “Comment” column until a line of options appears underneath and then click <strong>Spam</strong>.
+5. Můžete také označit poznámku jako "nevyžádanou poštu" umístěním kurzoru pod komentář do sloupce "Komentář", dokud se neobjeví řádek možností a poté klikněte na položku <strong>Spam</strong> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments6.png"><img class="alignnone wp-image-3160 size-full" title="Managing_Comments6" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments6.png" alt="mark comment as spam 2 screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Managing_Comments6.png"><img class="alignnone wp-image-3160 size-full" title="Managing_Comments6" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Managing_Comments6.png" alt="označit komentář jako spam 2 screenshot" /></a>
