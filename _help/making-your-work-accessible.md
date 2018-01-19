@@ -11,7 +11,6 @@ post_date: 2018-01-15 22:52:07
 help_tags:
   - Nepřiřazeno
 help_category:
-  - Osvědčené postupy
   - Pro všechny
 ---
 <h3>Making your Work Accessible</h3>
