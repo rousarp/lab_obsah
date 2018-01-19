@@ -11,10 +11,9 @@ permalink: >
 published: true
 post_date: 2018-01-15 22:58:54
 help_tags:
-  - Doporučení
   - Úvod
+  - Doporučení
 help_category:
-  - Osvědčené postupy
   - Pro spolupracovníky
 ---
 You may be wondering how <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">copyright</a> restrictions and <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">fair use</a> apply on the OpenLab.
