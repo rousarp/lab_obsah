@@ -12,7 +12,6 @@ help_tags:
   - Otázky a odpovědi
 help_category:
   - Jak mohu ...?
-  - Otázky a odpovědi
 ---
 <h3>How Do I…</h3>
 <a href="https://lab.urad.online/help/work-in-a-club/#changeadmins">make someone else the admin? I’m the admin for my club but I’m graduating.</a>
