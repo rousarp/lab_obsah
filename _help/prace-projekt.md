@@ -14,14 +14,14 @@ help_category:
   - Jak mohu ...?
 ---
 <h3>How Do I…</h3>
-<a href="https://lab.urad.online/help/work-in-a-project/#clubproject">decide whether to choose a club or project?</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#change2project">change my existing club or course to a project?</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#findprojects">find projects that I might be interested in?</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#changeadmins">make someone else the admin? I’m the admin for my project but I’m graduating.</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#multipleadmins">make it possible to allow several people to be able to update our website?</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#linksite">link our existing website to our OpenLab Project Profile?</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#newsite">start using a site on the OpenLab if our project has another website already?</a>
-<a href="https://lab.urad.online/help/work-in-a-project/#post">post or upload material on the OpenLab?</a><a name="clubproject"></a>
+<a href="https://lab.urad.online/help/prace-projekt/#clubproject">decide whether to choose a club or project?</a>
+<a href="https://lab.urad.online/help/prace-projekt/#change2project">change my existing club or course to a project?</a>
+<a href="https://lab.urad.online/help/prace-projekt/#findprojects">find projects that I might be interested in?</a>
+<a href="https://lab.urad.online/help/prace-projekt/#changeadmins">make someone else the admin? I’m the admin for my project but I’m graduating.</a>
+<a href="https://lab.urad.online/help/prace-projekt/#multipleadmins">make it possible to allow several people to be able to update our website?</a>
+<a href="https://lab.urad.online/help/prace-projekt/#linksite">link our existing website to our OpenLab Project Profile?</a>
+<a href="https://lab.urad.online/help/prace-projekt/#newsite">start using a site on the OpenLab if our project has another website already?</a>
+<a href="https://lab.urad.online/help/prace-projekt/#post">post or upload material on the OpenLab?</a><a name="clubproject"></a>
 <h4>How do I decide whether to choose a club or project?</h4>
 <ul>
  	<li>It is up to you which of these you would like, but clubs are usually either sanctioned City Tech clubs, or non-sanctioned clubs. Projects can be used much more broadly: any group of like minded individuals, a department committee, even a group caring for a garden!<a name="change2project"></a></li>
