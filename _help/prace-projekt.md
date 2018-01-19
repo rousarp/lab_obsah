@@ -13,51 +13,51 @@ help_tags:
 help_category:
   - Jak mohu ...?
 ---
-<h3>How Do I…</h3>
-<a href="https://lab.urad.online/help/prace-projekt/#clubproject">decide whether to choose a club or project?</a>
-<a href="https://lab.urad.online/help/prace-projekt/#change2project">change my existing club or course to a project?</a>
-<a href="https://lab.urad.online/help/prace-projekt/#findprojects">find projects that I might be interested in?</a>
-<a href="https://lab.urad.online/help/prace-projekt/#changeadmins">make someone else the admin? I’m the admin for my project but I’m graduating.</a>
-<a href="https://lab.urad.online/help/prace-projekt/#multipleadmins">make it possible to allow several people to be able to update our website?</a>
-<a href="https://lab.urad.online/help/prace-projekt/#linksite">link our existing website to our OpenLab Project Profile?</a>
-<a href="https://lab.urad.online/help/prace-projekt/#newsite">start using a site on the OpenLab if our project has another website already?</a>
-<a href="https://lab.urad.online/help/prace-projekt/#post">post or upload material on the OpenLab?</a><a name="clubproject"></a>
-<h4>How do I decide whether to choose a club or project?</h4>
+<h3>Jak mohu ...</h3>
+<a href="https://lab.urad.online/help/prace-projekt/#clubproject">rozhodnout, zda si vyberete klub nebo projekt? </a>
+<a href="https://lab.urad.online/help/prace-projekt/#change2project">změnit svůj stávající klub nebo kurz na projekt? </a>
+<a href="https://lab.urad.online/help/prace-projekt/#findprojects">najít projekty, o které bych se mohl zajímat? </a>
+<a href="https://lab.urad.online/help/prace-projekt/#changeadmins">udělat někdo jiný správce? Jsem správce pro můj projekt, ale absolvuji. </a>
+<a href="https://lab.urad.online/help/prace-projekt/#multipleadmins">umožnit několika lidem, aby mohli aktualizovat naše webové stránky? </a>
+<a href="https://lab.urad.online/help/prace-projekt/#linksite">propojit stávající webové stránky s profilem projektu OpenLab? </a>
+<a href="https://lab.urad.online/help/prace-projekt/#newsite">začít s používáním webu v OpenLab, pokud náš projekt již má jiné webové stránky? </a>
+<a href="https://lab.urad.online/help/prace-projekt/#post">odeslat nebo nahrát materiál na OpenLab?</a><a name="clubproject"></a>
+<h4>Jak se rozhodnu, zda si vyberete klub nebo projekt?</h4>
 <ul>
- 	<li>It is up to you which of these you would like, but clubs are usually either sanctioned City Tech clubs, or non-sanctioned clubs. Projects can be used much more broadly: any group of like minded individuals, a department committee, even a group caring for a garden!<a name="change2project"></a></li>
+ 	<li>Záleží jen na Vás, které z nich byste chtěli, ale kluby jsou obvykle schváleny kluby City Tech nebo kluby, které nejsou schváleny. Projekty mohou být používány mnohem širší: každá skupina podobných osobností, oddělení výboru, dokonce i skupina, která se stará o zahradu!<a name="change2project"></a></li>
 </ul>
-<h4>How do I change my existing club or course to a project?</h4>
+<h4>Jak mohu změnit svůj stávající klub nebo kurz na projekt?</h4>
 <ul>
- 	<li>You cannot switch a club or course to a project yourself.  However, if you want to change the category of your club, course, or project, please <a href="https://lab.urad.online/help/contact-us">contact us</a> and we can make the switch for you.<a name="findprojects"></a></li>
+ 	<li>Nemůžete přejít na klub nebo kurz k projektu sami. Pokud však chcete změnit kategorii svého klubu, kurzu nebo projektu, <a href="https://lab.urad.online/help/contact-us">kontaktujte nás</a> a můžeme udělat přepínač pro vás.<a name="findprojects"></a></li>
 </ul>
-<h4>How do I find projects that I might be interested in?</h4>
+<h4>Jak mohu najít projekty, o které bych se mohl zajímat?</h4>
 <ul>
- 	<li>There are a few ways to do this. You could just browse through the projects section, looking around. Or you can use the search box on the right side of the page (below the narrowing fields, and the <strong>submit</strong> and <strong>reset</strong> buttons).<a name="changeadmins"></a></li>
+ 	<li>Existuje několik způsobů, jak to udělat. Můžete prostě procházet sekcí projektů a rozhlížet se. Nebo můžete použít vyhledávací pole na pravé straně stránky (pod zúžení polí a tlačítka pro <strong>odeslání</strong> a <strong>obnovení</strong> ).<a name="changeadmins"></a></li>
 </ul>
-<h4>How do I make someone else the admin? I’m the admin for my project but I’m graduating.</h4>
+<h4>Jak mám dělat někoho jiného administrátora? Jsem správce pro svůj projekt, ale absolvuji.</h4>
 <ul>
- 	<li>If they’re not already a member of your project on the OpenLab, they’ll need to <a href="https://lab.urad.online/help/joining-a-club/">join it</a>.</li>
- 	<li>Once they’ve joined or if they’re already a member, you can promote them to admin status from the <a href="https://lab.urad.online/help/managing-membership-of-a-course-project-or-club-2/">“Members” section</a> on the profile page of your project.<a name="multipleadmins"></a></li>
+ 	<li>Pokud ještě nejsou členem vašeho projektu v OpenLabu, musí se <a href="https://lab.urad.online/help/joining-a-club/">k němu připojit</a> .</li>
+ 	<li>Jakmile se přihlásí nebo jsou již členem, můžete je propagovat do stavu administrátora z části <a href="https://lab.urad.online/help/managing-membership-of-a-course-project-or-club-2/">"Členové"</a> na stránce profilu vašeho projektu.<a name="multipleadmins"></a></li>
 </ul>
-<h4>How do I make it possible to allow several people to be able to update our website?</h4>
+<h4>Jak můžu umožnit několika lidem, aby mohli aktualizovat naše webové stránky?</h4>
 <ul>
- 	<li>All members of the project can update the site, but you can more closely manage <a href="https://lab.urad.online/help/managing-users-on-your-site/">who can do what</a>.<a name="linksite"></a></li>
+ 	<li>Všichni členové projektu mohou tuto stránku aktualizovat, ale můžete lépe řídit, <a href="https://lab.urad.online/help/managing-users-on-your-site/">kdo může dělat co</a> .<a name="linksite"></a></li>
 </ul>
-<h4>How do I link our existing website to our OpenLab Project Profile?</h4>
+<h4>Jak mohu propojit stávající webové stránky s profilem projektu OpenLab?</h4>
 <ul>
- 	<li>You can do that when<a href="https://lab.urad.online/help/who-can-build-a-site/"> you create your project</a> on the OpenLab.</li>
- 	<li>If you’ve already created your project, you can add the external site in your project <strong>Settings</strong>.<a name="newsite"></a></li>
+ 	<li>Můžete to udělat, když <a href="https://lab.urad.online/help/who-can-build-a-site/">vytvoříte svůj projekt</a> na OpenLab.</li>
+ 	<li>Pokud jste již svůj projekt vytvořili, můžete do projektového <strong>nastavení</strong> přidat externí web .<a name="newsite"></a></li>
 </ul>
-<h4>How do I start using a site on the OpenLab if our project has another website already?</h4>
+<h4>Jak mohu začít používat stránky v OpenLab, pokud náš projekt již má jiné webové stránky?</h4>
 <ul>
- 	<li>If you have your project’s website already linked to your profile on the OpenLab, you can unlink it in <strong>Settings</strong>.</li>
- 	<li>If you don’t have your project’s website linked to your profile on the OpenLab, you can create <a href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">a site</a> either when you <a href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">start your project</a> on the OpenLab or later in your project’s <strong>Settings</strong>.<a name="post"></a></li>
+ 	<li>Pokud máte web svého projektu již propojen s vaším profilem v OpenLab, můžete jej v <strong>Nastavení</strong> vypnout .</li>
+ 	<li>Pokud nechcete mít webové stránky vašeho projektu propojeny s vaším profilem na OpenLab, můžete vytvořit <a href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">web</a> buď při <a href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">spuštění projektu</a> na OpenLab nebo později v projektu <strong>Nastavení</strong> .<a name="post"></a></li>
 </ul>
-<h4>How do I post or upload material on the OpenLab?</h4>
+<h4>Jak mohu publikovat nebo nahrát materiál na OpenLab?</h4>
 <ul>
- 	<li>You can post or upload materials to your project’s profile page or to your project site.</li>
- 	<li>For example, on your project’s profile page, you can <a href="https://lab.urad.online/help/discussion-forums/">post new topics to a discussion forum</a>.</li>
- 	<li>You can also <a href="https://lab.urad.online/help/using-files/">upload files to your project’s profile page</a> or create a <a href="https://lab.urad.online/help/using-docs/">collaborative document</a>.</li>
- 	<li>You can post and/or upload materials to your project site by going to the project profile and clicking <strong>Dashboard</strong> underneath the <strong>Project Site</strong> link on the right-hand side of your screen.</li>
- 	<li>From the Dashboard, you can click <strong>Posts</strong> &gt; <strong>Add New</strong> <a href="https://lab.urad.online/help/writing-a-post/">to post or upload your project materials.</a></li>
+ 	<li>Materiály můžete odeslat nebo nahrát na stránku profilu projektu nebo na stránku projektu.</li>
+ 	<li>Například na stránce profilu vašeho projektu můžete <a href="https://lab.urad.online/help/discussion-forums/">do diskusního fóra přidávat nová témata</a> .</li>
+ 	<li>Můžete také <a href="https://lab.urad.online/help/using-files/">nahrát soubory na stránku profilu projektu</a> nebo vytvořit <a href="https://lab.urad.online/help/using-docs/">dokument pro spolupráci</a> .</li>
+ 	<li>Můžete posílat a / nebo nahrávat materiály na své stránky projektu tím, že přejdete do profilu projektu a kliknete na odkaz <strong>Dashboard</strong> pod odkazem <strong>Project Site</strong> na pravé straně obrazovky.</li>
+ 	<li>Na panelu Dashboard můžete klepnutím na položku <strong>Příspěvky</strong> &gt; <strong>Přidat nový, </strong><a href="https://lab.urad.online/help/writing-a-post/">chcete-li zveřejnit nebo nahrát materiály projektu.</a></li>
 </ul>
