@@ -12,7 +12,6 @@ help_tags:
   - Nástroje
 help_category:
   - Pluginy a widgety
-  - Webové stránky na OpenLab
 ---
 <strong>Akismet Widget</strong>
 
