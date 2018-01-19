@@ -13,12 +13,11 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:14:40
 help_tags:
+  - Úvod
   - E-maily
   - Připojení
-  - Úvod
 help_category:
   - Nastavení účtu
-  - Začínáme
 ---
 Zde bude návod, jak postupovat, pokud si chcete po ztrátě přístupu k emailové adrese instituce veřejné správy převést vlastnictví obsahu na portále OpenLab na svou soukromou adresu (typicky po odchodu ze zaměstnání).
 
