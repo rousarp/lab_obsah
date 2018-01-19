@@ -24,16 +24,16 @@ help_category:
 <a href="https://lab.urad.online/help/access-the-openlab/#alumni">pokračovat v používání OpenLabu poté, co ukončím práci a ztratím pracovní emailovou adresu?</a>
 <h4>Jak získat přístup k OpenLab?</h4>
 <ul>
- 	<li>Každý může procházet portálem OpenLab, ale pouze zaměstnanci úřadů nebo osobám s přiděleným přístupem se mohou <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">registrovat</a> a získat OpenLab účet.</li>
+ 	<li>Každý může procházet portálem OpenLab, ale pouze zaměstnanci úřadů nebo osobám s přiděleným přístupem se mohou <a href="https://lab.urad.online/help/registrace-na-openlab/">registrovat</a> a získat OpenLab účet.</li>
  	<li>K registraci potřebujete <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">přístup</a> k pracovnímu emailu kterékoliv instituce veřejné správy. Více informací získáte v článku Jak zjistím, zda se mohu se svým účtem registrovat či ne? </li>
- 	<li>Pokud je Vaše e-mailová adresa v systému institucí veřejné správy, můžete <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">vytvořit OpenLab účet</a>.</li>
+ 	<li>Pokud je Vaše e-mailová adresa v systému institucí veřejné správy, můžete <a href="https://lab.urad.online/help/registrace-na-openlab/">vytvořit OpenLab účet</a>.</li>
    	<li>Pokud máte účet, ale zapomněli jste heslo, klikněte na odkaz <strong>Zapomenuté heslo</strong> v <strong> boxu Přihlašte se</strong> na <a href="https://lab.urad.online/">Úvodní stránce OpenLab</a>, zadejte své e-mailové nebo uživatelské jméno a obnovte heslo.<a name="createaccount"></a></li>
 </ul>
 <h4>Jak mohu vytvořit účet?</h4>
 <ul>
  	<li>Za prvé, budete muset mít <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">přístup</a> k vašemu pracovnímu e-mailovému účtu libovolné instituce veřejné správy. Uživatelé mohou postupovat podle <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">našich instrukcí</a> pro přístup k pracovnímu účtu.</li>
  	<li>Pokud se nemůžete přihlásit, kontaktujte <a href="mailto:studenthelpdesk@citytech.cuny.edu">helpdesk@lab.urad.online</a>.
- 	</li><li>Pokud máte přístup k e-mailu, postupujte podle našich <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">pokynů</a> jak si vytvořit vlastní účet.<a name="email"></a></li>
+ 	</li><li>Pokud máte přístup k e-mailu, postupujte podle našich <a href="https://lab.urad.online/help/registrace-na-openlab/">pokynů</a> jak si vytvořit vlastní účet.<a name="email"></a></li>
 </ul>
 <h4>Jak mohu získat přístup k e-mailu instituce veřejné správy?</h4>
 <ul>
