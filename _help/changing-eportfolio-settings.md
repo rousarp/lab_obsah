@@ -13,101 +13,101 @@ help_tags:
 help_category:
   - Uživatelská portfolia
 ---
-You can changes settings for your ePortfolio on the ePortfolio Profile page.  These might include privacy settings, changing an avatar, or changing the description or title of your ePortfolio.
+Nastavení ePortfolio můžete změnit na stránce profilu ePortfolio. Mohou to zahrnovat nastavení ochrany osobních údajů, změnu avatarů nebo změnu popisu nebo názvu vašeho portfolia ePortfolio.
 <ol>
- 	<li>Log in and click <strong>My OpenLab</strong> in the main menu.  In the right-hand menu, click the <strong>Profile</strong> link, which appears under <strong>Portfolio Site</strong>.</li>
- 	<li>You will now be on at your <strong>ePortfolio Profile</strong>. In the right-hand menu, click <strong>Settings</strong>.</li>
- 	<li>At the top of the page, you will see the portfolio settings menu.</li>
+ 	<li>Přihlaste se a klikněte na tlačítko <strong>My OpenLab</strong> v hlavní nabídce. V pravém menu klikněte na odkaz <strong>Profil</strong> , který se zobrazí pod <strong>portfoliem stránek</strong> .</li>
+ 	<li>Budete nyní ve svém <strong>profilu ePortfolio</strong> . V pravé nabídce klikněte na <strong>Nastavení</strong> .</li>
+ 	<li>V horní části stránky se zobrazí nabídka nastavení portfolia.</li>
 </ol>
-<h3><strong>Edit Profile</strong></h3>
+<h3><strong>Editovat profil</strong></h3>
 <ol>
- 	<li>Here you can change your ePortfolio name and description.  After you enter your changes, be sure to click <strong>Save Changes</strong>.</li>
- 	<li>You can also choose to change the site associated with your ePortfolio. Click <strong>Unlink</strong> next to “This ePortfolio is currently associated with the site My ePortfolio.”  You will be able to choose to link to an existing site or an external site (not hosted on the OpenLab).  You could also choose to create a new ePortfolio site.  When you’re finished, click <strong>Save Changes</strong>.</li>
+ 	<li>Zde můžete změnit název a popis ePortfolio. Po zadání změn nezapomeňte kliknout na tlačítko <strong>Uložit změny</strong> .</li>
+ 	<li>Můžete také zvolit změnu místa spojeného s vaším ePortfoliom. Klikněte na odkaz <strong>Odpojit</strong> vedle položky "Toto ePortfolio je aktuálně přidruženo k webu Moje ePortfolio." Budete se moci rozhodnout odkazovat na existující web nebo na externí web (který není hostitelem OpenLabu). Můžete také zvolit vytvoření nového webu ePortfolio. Po dokončení klikněte na tlačítko <strong>Uložit změny</strong> .</li>
 </ol>
-<h3><strong>Change Avatar</strong></h3>
+<h3><strong>Změnit Avatar</strong></h3>
 <ol>
- 	<li>If you have an image file ready that you would like to use as your avatar, click <strong>Choose File</strong>.  Select the file you want to use from your computer or flash drive and then click <strong>Upload Image</strong>.</li>
- 	<li>Crop the image by dragging the square around the portion of the image you want to use and click <strong>Crop Image</strong>.</li>
- 	<li>You can also delete your current avatar if you wish (see image above), but we recommend you upload a new one.  If you delete your avatar, the system will automatically assign you a generic avatar.</li>
+ 	<li>Pokud máte připravený soubor obrázku, který chcete použít jako svůj avatar, klikněte na tlačítko <strong>Vybrat soubor</strong> . Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klepněte na položku <strong>Nahrát obrázek</strong> .</li>
+ 	<li>Ořízněte snímek přetažením čtverečku kolem části obrázku, kterou chcete použít, a klikněte na <strong>Oříznout snímek</strong> .</li>
+ 	<li>Pokud si přejete, můžete také svůj aktuální avatar smazat (viz obrázek výše), ale doporučujeme nahrát nový. Pokud odstraníte svůj avatar, systém vám automaticky přiřadí generický avatar.</li>
 </ol>
-<h3><strong>Privacy Settings</strong></h3>
-Profile privacy settings allow you to change the settings that control whether or not your ePortfolio profile and related content and activity will be visible to the public, show up in the Portfolio directory, and/or appear in search results.
+<h3><strong>Nastavení ochrany osobních údajů</strong></h3>
+Nastavení ochrany osobních údajů profilu umožňuje změnit nastavení, která určují, zda je profil ePortfolio a související obsah a aktivita veřejně viditelné, zda se zobrazují v adresáři portfolia a / nebo zda se objeví ve výsledcích vyhledávání.
 <ol>
- 	<li>Go to <strong>Settings</strong> &gt; <strong>Privacy Settings</strong>.</li>
- 	<li>First, choose your <strong>Profile</strong> privacy settings.  These settings control the privacy of the ePortfolio profile, and are different from the ePortfolio <strong>Site</strong>, which you will choose next.</li>
+ 	<li>Přejděte do části <strong>Nastavení</strong> &gt; <strong>Nastavení ochrany osobních údajů</strong> .</li>
+ 	<li>Nejprve vyberte nastavení ochrany osobních údajů <strong>profilu</strong> . Tato nastavení kontrolují soukromí profilu ePortfolio a jsou odlišné od <strong>stránek</strong> ePortfolio , které si vyberete dále.</li>
 </ol>
-<strong>This is a public ePortfolio:</strong>
+<strong>Toto je veřejné ePortfolio:</strong>
 <ul>
- 	<li>This ePortfolio Profile and related content and activity will be visible to anyone, whether or not they are members of the OpenLab.</li>
- 	<li>This ePortfolio Profile will be listed in the Portfolios directory, search results, or OpenLab home page.</li>
+ 	<li>Tento profil ePortfolio a související obsah a aktivita budou viditelné pro každého, bez ohledu na to, zda jsou nebo nejsou členy OpenLab.</li>
+ 	<li>Tento profil ePortfolio bude uveden v adresáři portfolií, výsledcích vyhledávání nebo na domovské stránce OpenLab.</li>
 </ul>
-<strong>This is a private Portfolio:</strong>
+<strong>Toto je soukromé portfolio:</strong>
 <ul>
- 	<li>This ePortfolio Profile, related content, and activity will only be visible only to members of your ePortfolio.</li>
- 	<li>This ePortfolio profile will NOT be listed in the Portfolios directory, search results, or OpenLab home page.</li>
- 	<li>The link to this Portfolio Profile and Site will not be publicly visible on your OpenLab Profile.</li>
+ 	<li>Tento profil ePortfolio, související obsah a aktivita budou viditelné pouze pro členy vašeho portfolia ePortfolio.</li>
+ 	<li>Tento profil e-portfolia nebude uveden v adresáři portfolií, výsledcích vyhledávání ani v domovské stránce OpenLab.</li>
+ 	<li>Odkaz na tento profil a web portfolia nebude veřejně viditelný ve vašem profilu OpenLab.</li>
 </ul>
-<strong>This is a hidden ePortfolio:</strong>
+<strong>Toto je skryté ePortfolio:</strong>
 <ul>
- 	<li>This ePortfolio Profile, related content, and activity will only be visible only to members of your ePortfolio.</li>
- 	<li>This ePortfolio profile will NOT be listed in the Portfolios directory, search results, or  the OpenLab home page.</li>
- 	<li>The link to this Portfolio Profile and Site will not be publicly visible on your OpenLab Profile.</li>
+ 	<li>Tento profil ePortfolio, související obsah a aktivita budou viditelné pouze pro členy vašeho portfolia ePortfolio.</li>
+ 	<li>Tento profil ePortfolio NENÍ uveden v adresáři portfolií, výsledcích vyhledávání nebo na domovské stránce OpenLab.</li>
+ 	<li>Odkaz na tento profil a web portfolia nebude veřejně viditelný ve vašem profilu OpenLab.</li>
 </ul>
 <ol start="3">
- 	<li>Next, choose the privacy settings for your ePortfolio <strong>Site</strong>.  These settings control whether others can view your site.</li>
+ 	<li>Dále zvolte nastavení ochrany osobních údajů pro vaši elektronického portfolia <strong>stránek</strong> . Tato nastavení určují, zda ostatní mohou zobrazit vaše stránky.</li>
 </ol>
-<strong>Public</strong>
+<strong>Veřejnost</strong>
 
-<strong>Allow search engines to index this site:</strong>
+<strong>Povolit vyhledávačům indexovat tuto stránku:</strong>
 <ul>
- 	<li>Anyone can visit your site without needing a password.</li>
- 	<li>Search engines will index all pages and posts, meaning your site will show up in search results on Google, Bing, and others.</li>
- 	<li>Choose this option for maximum public visibility.</li>
+ 	<li>Každý uživatel může navštívit váš web bez nutnosti zadání hesla.</li>
+ 	<li>Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že se vaše stránky zobrazí ve výsledcích vyhledávání na Google, Bing a dalších.</li>
+ 	<li>Tuto volbu vyberte pro maximální viditelnost veřejnosti.</li>
 </ul>
-<strong>Ask search engines not to index this site:</strong>
+<strong>Požádejte vyhledávače, aby tuto stránku indexovali:</strong>
 <ul>
- 	<li>Visitors do not need a password to see your site if they know the URL or are linked from elsewhere, but Google, Bing and other search engines should not index your posts and pages. (Please note: it is up to search engines to honor your request.)</li>
- 	<li>Choose this option if you want to be able to show the site to people who are not members of the OpenLab, but you don’t want people to stumble upon it via search engines.</li>
+ 	<li>Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají adresu URL nebo jsou spojeny odjinud, ale Google, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozornění: je na vyhledávačích, aby vyhověli vaší žádosti.)</li>
+ 	<li>Tuto možnost vyberte, pokud chcete, aby byl web zobrazen lidem, kteří nejsou členy OpenLabu, ale nechcete, aby se na něm vyhledávali vyhledávače.</li>
 </ul>
-<strong>Private</strong>
+<strong>Soukromé</strong>
 
-I would like my site to be visible only to registered users of City Tech OpenLab:
+Chtěl bych, aby byl můj web viditelný pouze pro registrované uživatele City Tech OpenLab:
 <ul>
- 	<li>Anyone who is signed into the OpenLab can see this site.</li>
- 	<li>Choose this option if you’d only like the OpenLab community to be able to see the site.</li>
+ 	<li>Každý uživatel, který je přihlášen do OpenLab, může tuto stránku vidět.</li>
+ 	<li>Zvolte tuto možnost, pokud chcete, aby komunita OpenLab mohla vidět web.</li>
 </ul>
-<strong>I would like my site to be visible to registered users I add:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný pro registrované uživatele Přidávám:</strong>
 <ul>
- 	<li>Choose this option if you only want members of your ePortfolio to be able to see the site.</li>
+ 	<li>Zvolte tuto možnost, pokud chcete, aby uživatelé vašeho e-portfolia mohli vidět stránky.</li>
 </ul>
-<strong>I would like my site to be visible only to me:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný jen pro mě:</strong>
 <ul>
- 	<li>No one except site admins can see the site.</li>
- 	<li>You may choose this option if you are in the process of creating your ePortfolio, but it would rarely be useful for an active ePortfolio.</li>
+ 	<li>Nikdo kromě administrátorů webových stránek nemůže tuto stránku vidět.</li>
+ 	<li>Tuto možnost můžete zvolit, pokud jste v procesu vytváření ePortfolio, ale zřídka by to bylo užitečné pro aktivní ePortfolio.</li>
 </ul>
 <ol start="4">
- 	<li>When you are finished, click <strong>Save Changes</strong> at the bottom of the page.</li>
+ 	<li>Po dokončení klikněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.</li>
 </ol>
-<h3><strong>Allowing Others to View a Private ePortfolio</strong></h3>
-Any other members of the OpenLab–for example, your professors, classmates, and advisor–can be added as members of your ePortfolio so they can view your work even if it’s private.
-<h4>Requesting Membership</h4>
+<h3><strong>Umožnit ostatním zobrazit soukromé ePortfolio</strong></h3>
+Ostatní členové OpenLab - například vaši profesoři, spolužáci a poradci - mohou být přidáni jako členové vašeho e-portfolia, aby mohli vidět vaši práci, i když jsou soukromí.
+<h4>Žádost o členství</h4>
 <ol>
- 	<li>The easiest way for someone to view your ePortfolio is for them to request membership themselves. To go so, they should go to your ePortfolio Profile and click <strong>Request Membership</strong>.</li>
- 	<li>Once they request membership, you will receive an email notification that they have done so.  Either click on the link in the email or go to your <strong>ePortfolio Profile</strong> &gt; <strong>Membership</strong> &gt; <strong>Member Requests</strong>.</li>
- 	<li>You will see them listed on the page.  Click <strong>Accept</strong>, and they will be added as a member.</li>
+ 	<li>Nejjednodušší způsob, jak si někdo může zobrazit vaše ePortfolio, je požádat o členství sami o sebe. Chcete-li tak učinit, měli by jít do vašeho profilu ePortfolio a kliknout na položku <strong>Požádat o členství</strong> .</li>
+ 	<li>Jakmile požádají o členství, obdržíte e-mailové oznámení, že tak učinili. Buď klikněte na odkaz v e-mailu nebo přejděte do <strong>profilu ePortfolio</strong> &gt; <strong>Členství</strong> &gt; <strong>Žádosti o </strong><strong>členství</strong> .</li>
+ 	<li>Uvidíte, že jsou uvedeny na stránce. Klepněte na tlačítko <strong>Přijmout</strong> a budou přidány jako člen.</li>
 </ol>
-<h4>Inviting Members to Join</h4>
-You can also invite members to join your ePortfolio.
+<h4>Pozvat členy, aby se připojili</h4>
+Můžete také pozvat členy, aby se připojili k vaší ePortfolio.
 <ol>
- 	<li>Go to <strong>Membership</strong> &gt; <strong>Invite New Members</strong>. Start typing their name, and when you see it appear, click on their name to add them to the invite list.</li>
- 	<li>When you are finished adding the person or people you want to invite to the list, click the <strong>Send Invites</strong> button and they’ll receive their invitation.</li>
- 	<li>To remove someone, go to Membership and next to their name, click <strong>Remove from Group</strong>.</li>
+ 	<li>Přejděte na <strong>Členství</strong> &gt; <strong>Pozvat nové členy</strong> . Začněte psát jejich jméno, a když to uvidíte, klikněte na jejich jméno a přidejte je do seznamu pozvaných.</li>
+ 	<li>Po dokončení přidání osoby nebo lidí, které chcete pozvat do seznamu, klikněte na tlačítko <strong>Odeslat</strong> pozvánky a obdrží pozvánku.</li>
+ 	<li>Chcete-li někoho odstranit, přejděte na položku Členství a vedle jeho jména klikněte na možnost <strong>Odebrat ze skupiny</strong> .</li>
 </ol>
-<h3><strong>Delete an ePortfolio</strong></h3>
-Once you delete your ePortfolio, you can not get it back; you would need to create a new one.
+<h3><strong>Odstranit ePortfolio</strong></h3>
+Jakmile své ePortfolio odstraníte, nemůžete ho vrátit zpět; musíte vytvořit novou.
 
-If you are sure you want to delete it, check the box indicating that you understand the consequences of deleting this portfolio. Click <strong>Delete ePortfolio</strong>.
+Pokud jste si jisti, že jej chcete smazat, zaškrtněte políčko, které znamená, že rozumíte důsledkům smazání tohoto portfolia. Klikněte na tlačítko <strong>Odstranit ePortfolio</strong> .
 
-Please note: the site associated with the ePortfolio you delete will still remain.  If you would like to delete the site as well, you will need to go to the Dashboard of that site to delete the site separately.
+Upozorňujeme, že stránky spojené s e-portfoliem, které odstraníte, zůstanou stále. Pokud byste chtěli smazat také web, budete muset jít na panel Dashboard tohoto webu a odstranit tak stránku samostatně.
 
-Help information on site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu">Blogs@Baruch</a> at Baruch College, CUNY.
+Pomozte nám s informacemi o ochraně soukromí na webu <a href="http://blsciblogs.baruch.cuny.edu/">blogy @ Baruch</a> na Baruch College, CUNY.
