@@ -14,7 +14,6 @@ help_category:
   - >
     Tvorba webových stránek (pro
     administrátory webu)
-  - Webové stránky na OpenLab
 ---
 A widget is a tool that adds different functions to your site. Most sites come with certain widgets already installed, but you can add to and remove them by following the steps below.
 
