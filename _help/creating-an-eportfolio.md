@@ -13,142 +13,142 @@ help_tags:
 help_category:
   - Uživatelská portfolia
 ---
-By creating an ePortfolio on the OpenLab, you will be setting up an ePortfolio Site and an associated ePortfolio Profile page.  The steps below will take you through naming your ePortfolio, writing a short description, and uploading an avatar for your ePortfolio Profile page.  You will also choose a URL for the ePortfolio Site and Privacy Settings for both the Profile and Site.
+Vytvořením ePortfolio v OpenLabu vytvoříte stránky ePortfolio a přidruženou stránku profilu ePortfolio. Níže uvedené kroky vám pomohou pojmenovat vaše ePortfolio, napsat krátký popis a nahrát avatar na stránce profilu ePortfolio. Také si vyberete adresu URL pro stránky ePortfolio a nastavení ochrany soukromí pro profil a web.
 
-1. After logging in, click <strong>My OpenLab</strong> in the main menu. Then click <strong>+ Create an ePortfolio</strong> in the right-hand menu.
+1. Po přihlášení klikněte na tlačítko <strong>My OpenLab</strong> v hlavní nabídce. Poté klikněte na tlačítko <strong>+ Vytvořit ePortfolio</strong> v pravém menu.
 
-<img class="alignnone wp-image-36734 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_1_v2.png" alt="Creating an ePortfolio screenshot" />
-<h3>Step One: Profile</h3>
-1. On the first ePortfolio creation page, you will see a space to enter your <strong>ePortfolio name</strong>.  It will already have a name filled in, based on your first and last name, but you can change that if you wish.  We recommend that you follow this format: FirstName LastName’s ePortfolio (for example, Jane Smith’s ePortfolio).
+<img class="alignnone wp-image-36734 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_1_v2.png" alt="Vytvoření screenshotu ePortfolio" />
+<h3>Krok první: Profil</h3>
+1. Na první stránce vytváření ePortfolio uvidíte místo pro zadání <strong>názvu e-portfolia</strong> . Bude již vyplněno jméno podle vašeho příjmení a příjmení, ale můžete jej změnit, pokud chcete. Doporučujeme, abyste postupovali podle tohoto formátu: ePortfolio FirstName LastName (například ePortfolio společnosti Jane Smith).
 
-2. Next, enter a <strong>description</strong> of your ePortfolio.  You can always <a title="Changing privacy and other settings on an ePortfolio" href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio/">change this</a> later, so if you don’t have a description prepared, just type something as a placeholder.
+2. Dále zadejte <strong>popis</strong> vašeho e-portfolia. Můžete to kdykoli <a title="Změna soukromí a dalších nastavení v ePortfoliu" href="https://lab.urad.online/help/changing-privacy-and-other-settings-on-an-eportfolio/">změnit</a> , takže pokud nemáte popis připravený, zadejte něco jako zástupný symbol.
 
-3. Check the appropriate boxes for your <strong>school</strong> and <strong>department</strong>.  These are required.
+3. Zkontrolujte příslušné políčka <strong>školy</strong> a <strong>oddělení</strong> . Jsou požadovány.
 
-4. Click <strong>Create a new ePortfolio site</strong> and choose a site URL.  Like your name, this text box will already be filled in, based on your name.  However, you can enter a different site URL if you wish.  Once created, the URL cannot be changed, so consider it carefully.
+4. Klepněte na tlačítko <strong>Vytvořit nový web ePortfolio</strong> a vyberte adresu URL webu. Podobně jako vaše jméno bude toto textové pole již vyplněno na základě vašeho jména. Chcete-li však, můžete zadat jinou adresu URL webu. Jakmile je adresa URL vytvořena, nelze ji změnit, proto ji zvažte pečlivě.
 
-Or, if you have an existing site on the OpenLab or an external site outside of the OpenLab, you can choose to <strong>Use an existing OpenLab site</strong> or <strong>Use an external site</strong> for your ePortfolio.  If you created an ePortfolio on the OpenLab prior to Fall 2012 and you would like to link that site, please view the instructions <a title="Linking to an existing ePortfolio Site" href="https://lab.urad.online/help/linking-to-an-existing-eportfolio-site/">here</a>. To use an external site outside of the OpenLab, type in the URL of the site in the text box provided, and click <strong>check</strong>.
+Nebo pokud máte stávající web na OpenLab nebo externí web mimo OpenLab, můžete zvolit <strong>Použití existujícího webu OpenLab</strong> nebo <strong>Použití externího webu</strong> pro vaše ePortfolio. Pokud jste vytvořili ePortfolio na OpenLab před podzimem 2012 a chcete jej propojit, přečtěte si <a title="Propojení s existujícím webem ePortfolio" href="https://lab.urad.online/help/linking-to-an-existing-eportfolio-site/">zde</a> pokyny . Chcete-li použít externí web mimo OpenLab, zadejte adresu URL stránky v uvedeném textovém poli a klepněte na tlačítko <strong>Kontrola</strong> .
 
-5. When you are finished, click <strong>Create ePortfolio and Continue</strong>.
+5. Po dokončení klikněte na možnost <strong>Vytvořit ePortfolio a Pokračovat</strong> .
 
 <img class="alignnone wp-image-36736 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_2_v2.png" alt="ePortfolio Step One screenshot" />
-<h3>Step Two: Privacy Settings</h3>
-<h4>Profile Privacy Settings</h4>
-1. Choose your <strong>Profile</strong> privacy settings.  These settings control the privacy of the ePortfolio Profile, and are different from the Site, which you will choose next.
-<p dir="ltr"><strong>This is a public ePortfolio:</strong></p>
+<h3>Druhý krok: nastavení ochrany osobních údajů</h3>
+<h4>Nastavení ochrany osobních údajů profilu</h4>
+1. Zvolte nastavení ochrany osobních údajů <strong>profilu</strong> . Tato nastavení kontrolují soukromí profilu ePortfolio a jsou odlišné od webu, který si vyberete dále.
+<p dir="ltr"><strong>Toto je veřejné ePortfolio:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">This ePortfolio Profile and related content and activity will be visible to anyone, whether or not they are members of the OpenLab.</p>
+<p dir="ltr">Tento profil ePortfolio a související obsah a aktivita budou viditelné pro každého, bez ohledu na to, zda jsou nebo nejsou členy OpenLab.</p>
 </li>
  	<li>
-<p dir="ltr">This ePortfolio Profile will be listed in the Portfolios directory, search results, or OpenLab home page.</p>
+<p dir="ltr">Tento profil ePortfolio bude uveden v adresáři portfolií, výsledcích vyhledávání nebo na domovské stránce OpenLab.</p>
 </li>
 </ul>
-<p dir="ltr"><strong>This is a private Portfolio:</strong></p>
+<p dir="ltr"><strong>Toto je soukromé portfolio:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">This ePortfolio Profile, related content, and activity will only be visible only to members of your ePortfolio.</p>
+<p dir="ltr">Tento profil ePortfolio, související obsah a aktivita budou viditelné pouze pro členy vašeho portfolia ePortfolio.</p>
 </li>
  	<li>
-<p dir="ltr">This ePortfolio profile will NOT be listed in the Portfolios directory, search results, or OpenLab home page.</p>
+<p dir="ltr">Tento profil e-portfolia nebude uveden v adresáři portfolií, výsledcích vyhledávání ani v domovské stránce OpenLab.</p>
 </li>
  	<li>
-<p dir="ltr">The link to this Portfolio Profile and Site will not be publicly visible on your OpenLab Profile.</p>
+<p dir="ltr">Odkaz na tento profil a web portfolia nebude veřejně viditelný ve vašem profilu OpenLab.</p>
 </li>
 </ul>
-<p dir="ltr"><strong>This is a hidden ePortfolio:</strong></p>
+<p dir="ltr"><strong>Toto je skryté ePortfolio:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">This ePortfolio Profile, related content, and activity will only be visible only to members of your ePortfolio.</p>
+<p dir="ltr">Tento profil ePortfolio, související obsah a aktivita budou viditelné pouze pro členy vašeho portfolia ePortfolio.</p>
 </li>
  	<li>
-<p dir="ltr">This ePortfolio profile will NOT be listed in the Portfolios directory, search results, or  the OpenLab home page.</p>
+<p dir="ltr">Tento profil ePortfolio NENÍ uveden v adresáři portfolií, výsledcích vyhledávání nebo na domovské stránce OpenLab.</p>
 </li>
  	<li>
-<p dir="ltr">The link to this Portfolio Profile and Site will not be publicly visible on your OpenLab Profile.</p>
+<p dir="ltr">Odkaz na tento profil a web portfolia nebude veřejně viditelný ve vašem profilu OpenLab.</p>
 </li>
 </ul>
-<h4>Site Privacy Settings</h4>
-2. Next, choose the privacy settings for your ePortfolio Site.
-<p dir="ltr"><strong>Public</strong></p>
-<p dir="ltr"><strong>Allow search engines to index this site:</strong></p>
+<h4>Nastavení soukromí stránek</h4>
+2. Dále zvolte nastavení ochrany soukromí pro vaše stránky ePortfolio.
+<p dir="ltr"><strong>Veřejnost</strong></p>
+<p dir="ltr"><strong>Povolit vyhledávačům indexovat tuto stránku:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">Anyone can visit your site without needing a password.</p>
+<p dir="ltr">Každý uživatel může navštívit váš web bez nutnosti zadání hesla.</p>
 </li>
  	<li>
-<p dir="ltr">Search engines will index all pages and posts, meaning your site will show up in search results on Google, Bing, and others.</p>
+<p dir="ltr">Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že se vaše stránky zobrazí ve výsledcích vyhledávání na Google, Bing a dalších.</p>
 </li>
  	<li>
-<p dir="ltr">Choose this option for maximum public visibility.</p>
+<p dir="ltr">Tuto volbu vyberte pro maximální viditelnost veřejnosti.</p>
 </li>
 </ul>
-<p dir="ltr"><strong>Ask search engines not to index this site:</strong></p>
+<p dir="ltr"><strong>Požádejte vyhledávače, aby tuto stránku indexovali:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">Visitors do not need a password to see your site if they know the URL or are linked from elsewhere, but Google, Bing and other search engines should not index your posts and pages. (Please note: it is up to search engines to honor your request.)</p>
+<p dir="ltr">Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají adresu URL nebo jsou spojeny odjinud, ale Google, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozornění: je na vyhledávačích, aby vyhověli vaší žádosti.)</p>
 </li>
  	<li>
-<p dir="ltr">Choose this option if you want to be able to show the site to people who are not members of the OpenLab, but you don’t want people to stumble upon it via search engines.</p>
+<p dir="ltr">Tuto možnost vyberte, pokud chcete, aby byl web zobrazen lidem, kteří nejsou členy OpenLabu, ale nechcete, aby se na něm vyhledávali vyhledávače.</p>
 </li>
 </ul>
-<p dir="ltr"><strong>Private</strong></p>
-<p dir="ltr">I would like my site to be visible only to registered users of City Tech OpenLab:</p>
+<p dir="ltr"><strong>Soukromé</strong></p>
+<p dir="ltr">Chtěl bych, aby byl můj web viditelný pouze pro registrované uživatele City Tech OpenLab:</p>
 
 <ul>
  	<li>
-<p dir="ltr">Anyone who is signed into the OpenLab can see this site.</p>
+<p dir="ltr">Každý uživatel, který je přihlášen do OpenLab, může tuto stránku vidět.</p>
 </li>
  	<li>
-<p dir="ltr">Choose this option if you’d only like the OpenLab community to be able to see the site.</p>
+<p dir="ltr">Zvolte tuto možnost, pokud chcete, aby komunita OpenLab mohla vidět web.</p>
 </li>
 </ul>
-<p dir="ltr"><strong>I would like my site to be visible to registered users I add:</strong></p>
+<p dir="ltr"><strong>Chtěl bych, aby byl můj web viditelný pro registrované uživatele Přidávám:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">Choose this option if you only want members of your ePortfolio to be able to see the site.</p>
+<p dir="ltr">Zvolte tuto možnost, pokud chcete, aby uživatelé vašeho e-portfolia mohli vidět stránky.</p>
 </li>
 </ul>
-<p dir="ltr"><strong>I would like my site to be visible only to me:</strong></p>
+<p dir="ltr"><strong>Chtěl bych, aby byl můj web viditelný jen pro mě:</strong></p>
 
 <ul>
  	<li>
-<p dir="ltr">No one except site admins can see the site.</p>
+<p dir="ltr">Nikdo kromě administrátorů webových stránek nemůže tuto stránku vidět.</p>
 </li>
  	<li>
-<p dir="ltr">You may choose this option if you are in the process of creating your ePortfolio, but it would rarely be useful for an active ePortfolio.</p>
+<p dir="ltr">Tuto možnost můžete zvolit, pokud jste v procesu vytváření ePortfolio, ale zřídka by to bylo užitečné pro aktivní ePortfolio.</p>
 </li>
 </ul>
-3. When you are finished, click <strong>Next Step</strong>.
+3. Po dokončení klikněte <strong>na</strong> tlačítko <strong>Další krok</strong> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2013/01/Creating_ePortfolio_3_v2.png"><img class="alignnone wp-image-36738 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_3_v2.png" alt="ePortfolio profile privacy settings screenshot" /></a>
-<h3>Step Three: Avatar</h3>
-1. Upload an avatar (an image that represents your ePortfolio–it can be a picture of you, or an image that represents you or your work).  If you have an image file ready that you would like to use as your avatar, click <strong>Browse</strong> or <strong>Choose</strong> <strong>File</strong>.  Select the file you want to use from your computer or flash drive and then click <strong>Upload Image</strong>.  If you don’t have an image you would like to use you can always add one later–just click <strong>Next Step </strong>(if you are finished skip to the next section, “Step Four: Invite Members”).
+<a href="https://lab.urad.online/wp-content/uploads/2013/01/Creating_ePortfolio_3_v2.png"><img class="alignnone wp-image-36738 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_3_v2.png" alt="ePortfolio profil nastavení ochrany soukromí screenshot" /></a>
+<h3>Krok třetí: Avatar</h3>
+1. Nahrajte avatar (obrázek, který reprezentuje vaše ePortfolio - může to být obrázek o vás, nebo obrázek, který reprezentuje vás nebo vaši práci). Pokud máte připravený soubor obrázku, který byste chtěli použít jako svůj avatar, klikněte na <strong>Procházet</strong> nebo <strong>vyberte </strong><strong>Soubor</strong> . Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klepněte na položku <strong>Nahrát obrázek</strong> . Pokud nemáte obrázek, který byste chtěli použít, můžete vždy přidat jednu později - stačí kliknout <strong>na</strong> tlačítko <strong>Další krok</strong> (pokud jste dokončili přeskočení na další část, krok 4: Pozvat členy).
 
-<img class="alignnone wp-image-36740 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_4_v2.png" alt="ePortfolio Step Three screenshot" />
+<img class="alignnone wp-image-36740 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_4_v2.png" alt="ePortfolio Krok třetí screenshot" />
 
-2. Crop the image by dragging the square around the portion of the image you want to use and click <strong>Crop Image</strong>.
+2. Ořízněte snímek přetažením čtverečku kolem části obrázku, kterou chcete použít, a klikněte na <strong>Oříznout obrázek</strong> .
 
-<img class="alignnone wp-image-36741 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_5_v2.png" alt="ePortfolio Step Three screenshot" />
+<img class="alignnone wp-image-36741 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_5_v2.png" alt="ePortfolio Krok třetí screenshot" />
 
-3. Once your avatar is uploaded, click <strong>Next Step</strong>.
+3. Jakmile je váš avatar nahrán, klikněte <strong>na</strong> tlačítko <strong>Další krok</strong> .
 
-<img class="alignnone wp-image-36742 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_6_v2.png" alt="ePortfolio Step Three screenshot" />
-<h3>Step Four: Inviting Members</h3>
-1. If you would like to invite members to your ePortfolio, start typing their display name.  When a dropdown list appears, select their name from the list.  Their name and avatar will appear under the heading Invites.  When you’re finished, or if you do not wish to invite anyone at this time (you can always do it later!), click <strong>Finish</strong>, at the bottom of the page.
+<img class="alignnone wp-image-36742 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_6_v2.png" alt="ePortfolio Krok třetí screenshot" />
+<h3>Krok č. 4: Pozvání členů</h3>
+1. Pokud chcete pozvat členy do svého ePortfolio, začněte psát jejich zobrazované jméno. Když se objeví rozbalovací seznam, vyberte ze seznamu název. Jejich jméno a avatar se objeví pod nadpisem Pozvánky. Po dokončení nebo nechcete v tuto chvíli pozvat někoho (vždy to můžete udělat později!), Klepněte na tlačítko <strong>Dokončit</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36743 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_7_v2.png" alt="ePortfolio Step Four screenshot" />
+<img class="alignnone wp-image-36743 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_7_v2.png" alt="Krok 4 obrazovky ePortfolio" />
 
-2. After you click <strong>Finish</strong> you will see your new ePortfolio Profile page!  From here, you can (a) change settings such as privacy, ePortfolio description, or (b) change your avatar.  From your ePortfolio Profile you can also access your (c) ePortfolio Site and <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (the admin panel, where you will edit and add content to your ePortfolio Site).
+2. Po klepnutí na tlačítko <strong>Dokončit</strong> uvidíte novou stránku profilu ePortfolio! Odtud můžete (a) měnit nastavení, jako je soukromí, popis e-portfolia nebo (b) změnit svůj avatar. Z vašeho profilu ePortfolio můžete také přistupovat k vašemu (c) portálu ePortfolio a <a title="Co je panel Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Dashboard</a> (administrátorský panel, kde budete upravovat a přidávat obsah na vaše stránky ePortfolio).
 
 <img class="alignnone wp-image-36744 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2013/01/Creating_ePortfolio_8_v2.png" alt="ePortfolio Finish screenshot" />
 
 _____________
 
-<a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">Here you can view a video</a> kindly created by the <a href="http://websupport1.citytech.cuny.edu/eportfolio.html">ePortfolio support team</a> that demonstrates <a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">how to create an ePortfolio</a>. Before you start, you will need to first <a title="Signing up on the Openlab" href="https://lab.urad.online/help/signing-up-on-the-openlab/">sign up on the OpenLab</a> if you don’t already have an account.
+<a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">Zde si můžete prohlédnout video, které</a> vytvořil <a href="http://websupport1.citytech.cuny.edu/eportfolio.html">tým podpory ePortfolio,</a> který ukazuje, <a href="http://websupport1.citytech.cuny.edu/eportfolio_student_videos/CreateEPortfolio/CreateEPortfolio.html">jak vytvořit ePortfolio</a> . Než začnete, musíte se nejprve <a title="Přihlášení k Openlabu" href="https://lab.urad.online/help/registrace-na-openlab/">zaregistrovat na OpenLab,</a> pokud ještě nemáte účet.
