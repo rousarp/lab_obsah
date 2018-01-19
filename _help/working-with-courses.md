@@ -9,10 +9,9 @@ permalink: >
 published: true
 post_date: 2018-01-15 22:57:27
 help_tags:
-  - Doporučení
   - Úvod
+  - Doporučení
 help_category:
-  - Osvědčené postupy
   - Pro spolupracovníky
 ---
 If you’re a faculty member, you might be wondering what practices might help organize your OpenLab course(s) to make semester-transition easier.  A few you might think about before the semester starts, others at the end.
