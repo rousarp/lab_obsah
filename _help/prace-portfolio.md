@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/
+  https://lab.urad.online/help/prace-portfolio/
 published: true
 post_date: 2018-01-15 23:03:05
 help_tags:
