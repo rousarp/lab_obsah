@@ -14,7 +14,6 @@ help_category:
   - >
     Tvorba webových stránek (pro
     administrátory webu)
-  - Webové stránky na OpenLab
 ---
 <strong>Categories</strong> allow you to further organize the content of your site.  Careful categorization allows your site posts to be grouped together with other similar posts on your site.  This, in turn, helps users to better navigate your site.  Note that all site posts are filed under categories.  If you do not create your own post categories, all of the posts on your site will be placed in the default category, “Uncategorized.”  In general, once you create categories, and assign posts to those categories, these categories do not change.
 
