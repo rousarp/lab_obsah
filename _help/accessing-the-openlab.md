@@ -26,7 +26,7 @@ help_category:
 <ul>
  	<li>You need<a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/"> access</a> to your City Tech email in order to sign up for an account.</li>
  	<li>Students can contact the Help Desk on the first floor of the Atrium Building, at 718-260-4900, or studenthelpdesk@citytech.cuny.edu.  Faculty and staff can contact<a href="http://cis.citytech.cuny.edu/index.aspx"> Computing and Information Services</a>.</li>
- 	<li>Once you are able to access to your email, please follow our<a href="https://lab.urad.online/help/signing-up-on-the-openlab/"> instructions</a> on how to create an account.<a name="accounttype"></a></li>
+ 	<li>Once you are able to access to your email, please follow our<a href="https://lab.urad.online/help/registrace-na-openlab/"> instructions</a> on how to create an account.<a name="accounttype"></a></li>
 </ul>
 <h4>I’m trying to create an account but the dropdown where I choose my account type is blank so I can’t choose anything.</h4>
 <ul>
@@ -49,8 +49,8 @@ help_category:
 </ul>
 <h4>I can’t log in to the OpenLab.</h4>
 <ul>
- 	<li>Have you <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">signed up</a> for an account? If not, please follow our<a href="https://lab.urad.online/help/signing-up-on-the-openlab/"> instructions</a> on how to create an account.</li>
- 	<li>If you have signed up recently, have you received the confirmation email from the OpenLab and clicked on the link in the email to confirm your account? If not, look for the email in your inbox. Please see step 4 of <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">Signing up on the OpenLab</a>.</li>
+ 	<li>Have you <a href="https://lab.urad.online/help/registrace-na-openlab/">signed up</a> for an account? If not, please follow our<a href="https://lab.urad.online/help/registrace-na-openlab/"> instructions</a> on how to create an account.</li>
+ 	<li>If you have signed up recently, have you received the confirmation email from the OpenLab and clicked on the link in the email to confirm your account? If not, look for the email in your inbox. Please see step 4 of <a href="https://lab.urad.online/help/registrace-na-openlab/">Signing up on the OpenLab</a>.</li>
  	<li>Have you forgotten your username and/or password? If so, click the Forgot Password link in the Log in box on the<a href="https://lab.urad.online/"> OpenLab homepage</a> and enter your City Tech email or username to reset your password. You will receive an email with a link to reset your password, as well as a reminder of your username.</li>
  	<li>Please <a href="https://lab.urad.online/help/contact-us">contact us</a> if you’re still having trouble.<a name="forgotpassword"></a></li>
 </ul>
