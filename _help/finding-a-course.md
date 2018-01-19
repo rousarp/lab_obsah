@@ -12,7 +12,6 @@ help_tags:
   - Nalezení
 help_category:
   - Kurzy
-  - Kurzy projekty a skupiny
 ---
 1. If you are already a member of the course, log in and click <strong>My OpenLab</strong> in the main menu. In the right-hand menu, click <strong>My Courses</strong>.  You will see a list of all the courses of which you are a member.
 
