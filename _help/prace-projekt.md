@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/work-in-a-project/
+  https://lab.urad.online/help/prace-projekt/
 published: true
 post_date: 2018-01-15 23:01:56
 help_tags:
