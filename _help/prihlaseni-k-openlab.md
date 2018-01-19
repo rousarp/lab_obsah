@@ -19,7 +19,7 @@ Jakmile jste členem OpenLab (viz <a href="https://lab.urad.online/help/signing-
 <strong>
 </strong>1. Můžete navštívit OpenLab <a href="https://lab.urad.online/">úvodní stránku</a> (<a href="https://lab.urad.online">https://lab.urad.online</a>) a zadejte své uživatelské jméno a heslo pod <strong>Přihlásit se</strong>. Jakmile to uděláte, zůstanete přihlášeni pro všechny navštěvované stránky webu.
 
-Zde také můžete požádat o pomoc, pokud jste své heslo nebo uživatelské jméno zapomněli. Pokud potřebujete pomoci s heslem, jednoduše klikněte na tlačítko <strong>Zapoměli jste heslo?</strong> a na další obrazovce zadejte uživatelské jméno nebo e-mailovou adresu. Pak se přihlaste do doručené pošty a vyhledejte e-mail od OpenLab.
+Zde také můžete požádat o pomoc, pokud jste své heslo nebo uživatelské jméno zapomněli. Pokud potřebujete pomoci s heslem, jednoduše klikněte na tlačítko <strong>Zapomněli jste heslo?</strong> a na další obrazovce zadejte uživatelské jméno nebo e-mailovou adresu. Pak se přihlaste do doručené pošty a vyhledejte e-mail od OpenLab.
 
 2. Můžete se také přihlásit z libovolné stránky, na které máte záložku nebo se ocitnete kliknutím na tlačítko <strong>Přihlášení</strong>, které najdete v pravém horním rohu obrazovky.
 
