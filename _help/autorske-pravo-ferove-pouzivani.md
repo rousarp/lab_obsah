@@ -7,7 +7,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/copyright-and-fair-use-2/
+  https://lab.urad.online/help/autorske-pravo-ferove-pouzivani/
 published: true
 post_date: 2018-01-15 22:58:54
 help_tags:
