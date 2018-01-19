@@ -1,6 +1,6 @@
 ---
 ID: 2015
-post_title: Contact us
+post_title: Kontaktujte nás
 author: admin
 post_excerpt: ""
 layout: help
