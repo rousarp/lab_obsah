@@ -5,12 +5,12 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/openlab-help/
+  https://lab.urad.online/help/napoveda-openlab/
 published: true
 post_date: 2018-01-15 23:17:51
 help_tags: [ ]
 help_category:
-  - Nápověda OpenLab
+  - OpenLab Help
 ---
 <h2>Máte otázku? Jste na správném místě!</h2>
 Začněte procházením témat napravo. Níže uvádíme několik nejčastějších nejčastějších otázek.
