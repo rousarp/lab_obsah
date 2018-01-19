@@ -12,16 +12,15 @@ help_tags:
   - Vytvoření
 help_category:
   - Používání webu (pro členy webu)
-  - Webové stránky na OpenLab
 ---
-1. You can add a link to a post or page by highlighting the words that you would like to link inside the text box and selecting link icon in the toolbar.
+1. Můžete přidat odkaz na příspěvek nebo stránku zvýrazněním slov, které chcete propojit uvnitř textového pole a výběrem ikony odkazu na panelu nástrojů.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Adding_Links3.png"><img class="alignnone wp-image-3121 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Links3.png" alt="highlight link text screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Adding_Links3.png"><img class="alignnone wp-image-3121 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Links3.png" alt="zvýrazněte textový obrázek textového odkazu" /></a>
 
-2. On the following screen, enter a URL address and a title for the text that you would like to link to.
+2. Na následující obrazovce zadejte adresu URL a název textu, ke kterému se chcete připojit.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Adding_Links4.png"><img class="alignnone wp-image-3122 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Links4.png" alt="add URL screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Adding_Links4.png"><img class="alignnone wp-image-3122 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Links4.png" alt="přidat obrázek obrazovky URL" /></a>
 
-3. You also have the option of linking to a post or page already created on your site.  To do this, click <strong>Or Link to Existing Content</strong> on the same screen.  After you have finished, click <strong>Add Link</strong>.  When you have finished adding content to the post or page, click <strong>Publish</strong> in the right-hand menu.  The post or page content  should now appear on your published post or page with the link.
+3. Máte také možnost propojení s příspěvkem nebo stránkou již vytvořenou na vašem webu. Chcete-li to provést, klepněte na stejnou obrazovku <strong>nebo na odkaz existující obsah</strong> . Po dokončení klikněte na <strong>odkaz Přidat odkaz</strong> . Po dokončení přidávání obsahu do příspěvku nebo stránky klikněte v pravé nabídce na tlačítko <strong>Publikovat</strong> . Obsah příspěvku nebo stránky by se měl nyní zobrazit na vašem zveřejněném příspěvku nebo stránce s tímto odkazem.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Adding_Links5.png"><img class="alignnone wp-image-3123 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Links5.png" alt="link to existing content screenshot" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Adding_Links5.png"><img class="alignnone wp-image-3123 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Adding_Links5.png" alt="odkaz na existující obsahový snímek obrazovky" /></a>
