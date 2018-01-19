@@ -15,38 +15,38 @@ help_category:
     Tvorba webových stránek (pro
     administrátory webu)
 ---
-With most <a title="Changing the appearance of your Site with themes" href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">themes</a>, you can create custom menus on your site.  Custom menus give you the option of modifying how viewers access the particular content on your site.  For example, custom menus allow you to change where your page links appear on your site, they allow you to add drop-down menus, add links to external sites, and/or create category archives on your site (i.e., pages that aggregate all posts into a particular category).
-<h3>Creating Your Menu</h3>
-1. To add a custom menu to your site, go to your site Dashboard and click <strong>Appearance &gt; Menus</strong> in the left-hand menu.  By default, there will already be a menu started for you called “Menu 1,” which will include all the pages you currently have created on your site.  Click <strong>Create Menu</strong> to save this as your menu.
+Většina <a title="Změna vzhledu vašeho webu motivy" href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">motivů</a> vám umožňuje vytvořit vlastní nabídky na vašem webu. Uživatelské nabídky vám dávají možnost upravit způsob přístupu diváků k určitému obsahu na vašem webu. Například uživatelské nabídky umožňují měnit, kde se vaše stránky na vašem webu zobrazují, umožňují přidávat rozbalovací nabídky, přidávat odkazy na externí stránky a vytvářet archivní kategorie na vašem webu (tj. Stránky, které shromažďují všechny příspěvky do určité kategorie).
+<h3>Vytvoření nabídky</h3>
+1. Chcete-li do svého webu přidat vlastní nabídku, přejděte na panel Dashboard a v levé nabídce klikněte na <strong>Vzhled&gt; Nabídky</strong> . Ve výchozím nastavení již bude pro vás spuštěna nabídka nazvaná "Menu 1", která bude obsahovat všechny stránky, které jste na svém webu vytvořili. Klepnutím na tlačítko <strong>Vytvořit nabídku</strong> uložte jako nabídku.
 
-<img class="alignnone wp-image-7904 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_1-1024x352.png" alt="Create Menu screenshot" />
-<h3>Adding Content to Your Menu</h3>
-1. There are three options for adding content to your menu: Pages, Links, and Categories.  The “Pages” box lets you select the pages from your site that you would like to add to your menu.  Your default menu will already contain pages, but if you need to add additional ones, you can do so here.  To do this, check the box next to the page (or pages) that you would like to add and click <strong>Add to Menu</strong>. Anytime you add something new or make a change to your menu, it’s always a good idea to click <strong>Save Menu</strong>.
+<img class="alignnone wp-image-7904 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_1-1024x352.png" alt="Vytvořte snímek obrazovky nabídky" />
+<h3>Přidání obsahu do nabídky</h3>
+1. Existují tři možnosti pro přidání obsahu do vašeho menu: Stránky, Odkazy a Kategorie. Pole "Stránky" umožňuje vybrat stránky z vašeho webu, které chcete přidat do své nabídky. Výchozí nabídka již obsahuje stránky, ale pokud je třeba přidat další, můžete tak učinit zde. Chcete-li to provést, zaškrtněte políčko vedle stránky (nebo stránek), kterou chcete přidat, a klikněte <strong>na</strong> tlačítko <strong>Přidat do nabídky</strong> . Kdykoli přidáte něco nového nebo provedete změnu v nabídce, je vždy dobré kliknout na <strong>nabídku Uložit</strong> .
 
-<img class="alignnone wp-image-7907 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_3.png" alt="Create Menu Pages screenshot" />
+<img class="alignnone wp-image-7907 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_3.png" alt="Vytvořte snímek Stránky nabídky Menu" />
 
-2. The “Links” box lets you add links to external sites in your new menu.  To add a link, type or cut-and-paste the web address of the site into the text box.  Choose the label for your link and click <strong>Add to Menu</strong>.
+2. Pole "Odkazy" umožňuje přidávat odkazy do externích stránek v nové nabídce. Chcete-li přidat odkaz, zadejte nebo zrušte a vložte webovou adresu webu do textového pole. Zvolte štítek pro svůj odkaz a klikněte <strong>na</strong> tlačítko <strong>Přidat do nabídky</strong> .
 
-<img class="alignnone wp-image-7908 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_4.png" alt="Create Menu Links screenshot" />
+<img class="alignnone wp-image-7908 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_4.png" alt="Vytvořte snímek obrazovky nabídky Odkazy" />
 
-3. The “Categories” box lets you create a link in your menu to a category archive page, i.e., it aggregates all posts in a particular category onto to one page.  To add a category to your menu, check the box next to the category that you would like to add and click<strong> Add to Menu</strong>.  If you don’t see all your categories listed, click the “<strong>View All</strong>” tab.
+3. Pole "Kategorie" umožňuje vytvořit odkaz v nabídce na stránku archivu kategorie, tj. Shrnuje všechny příspěvky v určité kategorii na jednu stránku. Chcete-li do nabídky přidat kategorii, zaškrtněte políčko vedle kategorie, kterou chcete přidat, a klikněte <strong>na</strong> tlačítko <strong>Přidat do nabídky</strong> . Pokud nevidíte všechny uvedené kategorie, klikněte na kartu <strong>Zobrazit vše</strong> .
 
-<img class="alignnone wp-image-7909 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_5.png" alt="Create Menu Categories screenshot" />
+<img class="alignnone wp-image-7909 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_5.png" alt="Vytvořte snímek obrazovky Kategorie nabídek" />
 
-4. You can create pages and sub-pages on your menu by dragging and dropping the menu items in the order that you would like, and indenting any menu items that you would like appear in a drop-down menu.  See example below:
+4. V nabídce můžete vytvářet stránky a podstránky přetažením položek menu v pořadí, které chcete, a odsazením všech položek nabídky, které byste chtěli vypadat v rozbalovací nabídce. Viz příklad níže:
 
-<img class="alignnone wp-image-7910 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_6-1024x284.png" alt="Create Menu structure screenshot" />
+<img class="alignnone wp-image-7910 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_6-1024x284.png" alt="Vytvořte snímek struktury nabídky" />
 
-<img class="alignnone wp-image-7911 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_7.png" alt="Menu Preview screenshot" />
+<img class="alignnone wp-image-7911 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_7.png" alt="Náhled obrazovky nabídky" />
 
-5. Under <strong>Menu Settings</strong>, be sure to click the <strong>Primary Navigation</strong> checkbox so that your menu appears on your site.
+5. V části <strong>Nastavení nabídky</strong> nezapomeňte kliknout na zaškrtávací políčko <strong>Primární navigace</strong> , aby se vaše nabídka zobrazila na vašem webu.
 
-6. When you have finished arranging your custom menu, remember to click <strong>Save Menu</strong> in the top right-hand corner of your screen.
+6. Jakmile dokončíte uspořádání vlastní nabídky, nezapomeňte kliknout na <strong>nabídku Uložit</strong> v pravém horním rohu obrazovky.
 
-<img class="alignnone wp-image-7912 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_8.png" alt="Save Menu screenshot" />
-<h3>Manage Locations</h3>
-1. If you don’t click the Primary Navigation checkbox, or if you change themes, your menu may not appear properly.  To fix this, click on the <strong>Manage Locations</strong> tab at the top of the Edit Menus page.  Choose your menu from the <strong>Primary Navigation</strong> dropdown and click <strong>Save Changes</strong>.
+<img class="alignnone wp-image-7912 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_8.png" alt="Uložit obrázek obrazovky nabídky" />
+<h3>Správa míst</h3>
+1. Pokud netisknete zaškrtávací políčko Primární navigace nebo pokud změníte motivy, nabídka se nemusí zobrazit správně. Chcete-li to vyřešit, klikněte na kartu <strong>Správa umístění</strong> v horní části stránky Upravit nabídky. Vyberte nabídku v rozbalovací nabídce <strong>Primární navigace</strong> a klikněte na tlačítko <strong>Uložit změny</strong> .
 
-<img class="alignnone wp-image-7913 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_9.png" alt="Manage Menu screenshot" />
+<img class="alignnone wp-image-7913 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Menus_9.png" alt="Správa obrazovky nabídky" />
 
-Help information courtesy of <a href="http://help.qwriting.org" target="_blank" rel="noopener">Qwriting.org</a> at Queens College.
+Informace o nápovědě s laskavým svolením <a href="http://help.qwriting.org/" target="_blank" rel="noopener">Qwriting.org</a> na Queens College.
