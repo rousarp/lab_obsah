@@ -13,274 +13,274 @@ help_tags:
 help_category:
   - Pluginy a widgety
 ---
-<strong>Achievements</strong>
+<strong>Úspěchy</strong>
 
-Achievements allows you to gamify your site by using challenges, badges, and points to encourage participation by site members. You can also use leaderboards and rankings to compare points among site members.
+Úspěchy vám umožňují zařadit vaše stránky pomocí výzev, odznaků a bodů, které podpoří účast členů webu. Můžete také použít tabulky a žebříčky pro srovnání bodů mezi členy webu.
 
-<a href="https://lab.urad.online/help/ajax-wp-edit-comments/"><strong>Ajax Edit Comments</strong></a>
+<a href="https://lab.urad.online/help/ajax-wp-edit-comments/"><strong>Ajax Upravit komentáře</strong></a>
 
-This plugin allows comments to be edited for a specified length of time (the administrator of the site can set the time length); it also has some formatting features not available in the usual comment editor, a spell check feature, and a simple spam prevention captcha. <a href="https://lab.urad.online/help/ajax-wp-edit-comments/">Click here </a>for a longer tutorial.
+Tento plugin umožňuje upravovat komentáře na určitou dobu (administrátor webu může nastavit délku času); má také některé funkce formátování, které nejsou k dispozici v obvyklém editoru komentářů, funkce kontroly pravopisu a jednoduchá ochrana před spamem captcha. <a href="https://lab.urad.online/help/ajax-wp-edit-comments/">Klikněte zde</a> pro delší výukový program.
 
-<strong>Ambrosite Next/Previous Post Link Plus</strong>
+<strong>Ambrosite Next / Previous Post Link Plus</strong>
 
-According to its developers, this plugin “upgrades the next/previous post link functions to reorder or loop adjacent post navigation links, sort on custom fields, return multiple links, display post thumbnails, and customize the link format.”
+Podle jeho vývojářů tento plugin "upgraduje další / předchozí post linkové funkce, aby změnil uspořádání nebo smyčku vedlejších navigačních odkazů post, třídil na vlastní pole, vrátil několik odkazů, zobrazoval miniatury pošty a přizpůsobil formát odkazu."
 
-<a href="https://lab.urad.online/help/anthologize/"><strong>Anthologize</strong></a>
+<a href="https://lab.urad.online/help/anthologize/"><strong>Anthologizujte</strong></a>
 
-In the words of the plugin developers, “Anthologize is a free, open-source, plugin that transforms WordPress into a platform for publishing electronic texts. Grab posts from your WordPress blog, import feeds from external sites, or create new content directly within Anthologize. Then outline, order, and edit your work, crafting it into a single volume for export in several formats, including—in this release—PDF, ePUB, TEI.” <a href="https://lab.urad.online/help/anthologize/">Click here</a> for a longer tutorial.
+Slova vývojářů pluginů "Anthologize je bezplatný open source plugin, který transformuje WordPress do platformy pro publikování elektronických textů. Uchopte příspěvky z blogu WordPress, importujte zdroje z externích webů nebo vytvořte nový obsah přímo v Anthologize. Poté načrtněte, objednejte a upravte svou práci a vytvořte ji do jednoho svazku pro export v několika formátech, včetně - v této verzi - PDF, ePUB, TEI. " <a href="https://lab.urad.online/help/anthologize/">Klikněte sem</a> pro delší výukový program.
 
-<a href="https://lab.urad.online/help/awesome-flickr-gallery-plugin/"><strong>Awesome Flickr Gallery</strong></a>
+<a href="https://lab.urad.online/help/awesome-flickr-gallery-plugin/"><strong>Awesome Flickr Galerie</strong></a>
 
-Awesome Flickr Gallery allows you to create photo galleries that import photos from your Flickr account.  You can display a particular set or curate a gallery from different Flickr photos.  You must have a Flickr account to use this plugin. <a href="https://lab.urad.online/help/awesome-flickr-gallery-plugin/">Click here</a> for a longer tutorial.
+Awesome Flickr Gallery vám umožňuje vytvářet fotogalerie, které importují fotografie z vašeho Flickr účtu. Můžete zobrazit konkrétní soubor nebo vyčistit galerii z různých flickrových fotografií. Musíte mít účet Flickr použít tento plugin. <a href="https://lab.urad.online/help/awesome-flickr-gallery-plugin/">Klikněte zde</a> pro delší výukový program.
 
 <strong>BadgeOS</strong>
 
-BadgeOS turns your site into an achievement and badging system. Your users complete steps, demonstrate skills and knowledge, and earn digital badges. Badges are Mozilla OBI compatible and sharable via Credly.
+BadgeOS změní váš web na systém úspěchu a odznaků. Vaši uživatelé provádějí kroky, prokazují dovednosti a znalosti a vydělávají digitální odznaky. Odznaky jsou kompatibilní s Mozilla OBI a jsou k dispozici prostřednictvím služby Credly.
 
-<strong>CAC Featured Content</strong>
+<strong>CAC Doporučený obsah</strong>
 
-The CAC Featured Content plugin was developed by our friends over at the<a href="http://commons.gc.cuny.edu"> CUNY Academic Commons</a>. It uses a widget which allows site admins to feature selected content, such as Featured Blogs, Featured Groups, Featured Posts, Featured Members and Featured Resources. We use it on the OpenLab homepage to generate our “In the Spotlight” section, but you could use it on any site to feature anything from your own site or another.
+CAC Featured Content plugin byl vyvinut našimi přáteli na <a href="http://commons.gc.cuny.edu/">CUNY Academic Commons</a> . Používá widget, který administrátorům stránek umožňuje zobrazovat vybraný obsah, například doporučené blogy, doporučené skupiny, doporučené příspěvky, doporučené členy a doporučené zdroje. Používáme jej na domovské stránce OpenLab, abychom generovali sekci "V Spotlight", ale mohli byste ji použít na libovolném webu, aby zobrazovali něco z vašeho webu nebo jiného.
 
-<strong><a href="https://lab.urad.online/help/category-sticky-post-plugin/">Category Sticky Post</a></strong>
+<strong><a href="https://lab.urad.online/help/category-sticky-post-plugin/">Kategorie Sticky Post</a></strong>
 
-Category Sticky Post is a plugin that allows you to mark a post as sticky within a specific category archive. It works exactly like the typical sticky post functionality within WordPress, except that it’s specifically for category archives.
+Kategorie Sticky Post je plugin, který vám umožní označit příspěvek jako lepicí v rámci konkrétního archivu kategorií. Funguje to přesně jako typická funkčnost slepých příspěvků v aplikaci WordPress, s výjimkou toho, že je specifická pro kategorii archivů.
 
 <strong>Captcha</strong>
 
-According to its developers, this “plugin allows you to implement a super security captcha form into web forms. It protects your website from spam by means of math logic, easily understood by human beings. You will not have to spend your precious time on annoying attempts to understand hard-to-read words, combinations of letters or pictures that make your eyes pop up. All you need is to do one of the three basic maths actions – add, subtract and multiply. This captcha can be used for login, registration, password recovery, comments forms.”
+Podle jeho vývojářů tento plugin umožňuje implementovat do webových formulářů formulář zabezpečení ve formátu super zabezpečení. Chrání vaše webové stránky před nevyžádanou poštou pomocí matematické logiky, snadno pochopitelné pro lidi. Nebudete muset trávit drahocenný čas na otravné pokusy porozumět těžko čitelným slovám, kombinacím dopisů nebo obrázkům, které zvedají oči. Vše, co potřebujete, je provést jednu ze tří základních matematických akcí - přidání, odečtení a násobení. Tato captcha může být použita pro přihlášení, registraci, obnovu hesla, formuláře komentářů. "
 
-<strong>CM Tooltip Glossary</strong>
+<strong>CM Tooltip Slovníček</strong>
 
-This plugin allows you to create a glossary of terms from your site and show the definition when users hover over a word.
+Tento plugin vám umožňuje vytvořit glosář termínů z vašich stránek a zobrazit definici, když uživatelé umístí kurzor nad slovo.
 
-<strong>Contact Form 7</strong>
+<strong>Kontaktní formulář 7</strong>
 
-This plugin allows you to create a contact form (or multiple forms) to add to your site. You can also easily customize the forms, as well as use CAPTCHA and Akismet for simple spam prevention.
+Tento plugin vám umožňuje vytvořit kontaktní formulář (nebo více formulářů), který můžete přidat na své stránky. Můžete také snadno přizpůsobit formuláře, stejně jako použít CAPTCHA a Akismet pro jednoduchou prevenci spamu.
 
 <a href="https://lab.urad.online/help/cubepoints/"><strong>CubePoints</strong></a>
 
-CubePoints is a way of awarding points to site visitors and members for participating in a site. Site administrators can choose what sorts of activities are worth points, and how many each activity is worth. If you connect points to real-world prizes, or even just honorary titles, you might find your site visitors and members are more active. The plugin keeps track of each user’s activity, allows for a “leaderboard” on the site home-page, and gives the administrator many specific options, making it very customizable. <a href="https://lab.urad.online/help/cubepoints/">Click here</a> for a longer tutorial.
+CubePoints je způsob, jak udělit body návštěvníkům a členům webu za účast na webu. Správci stránek si mohou vybrat, jaké druhy aktivit mají hodnotu a kolik stojí za každou aktivitu. Pokud připojíte body k cenám v reálném světě nebo dokonce k čestným titulům, můžete najít, že návštěvníci a členové vašeho webu jsou aktivnější. Zásuvný modul sleduje činnost každého uživatele, umožňuje "leaderboard" na domovské stránce webu a poskytuje administrátorovi mnoho konkrétních možností, což je velmi přizpůsobitelné. <a href="https://lab.urad.online/help/cubepoints/">Klikněte zde</a> pro delší výukový program.
 
-<strong>Duplicate Post</strong>
+<strong>Duplicitní příspěvek</strong>
 
-This plugin allows you to clone an existing post or page on your site, or edit it as a new draft.
+Tento plugin umožňuje clonovat existující příspěvek nebo stránku na vašem webu nebo jej upravit jako nový návrh.
 
-<strong>Dynamic Widgets</strong>
+<strong>Dynamické widgety</strong>
 
-Dynamic Widgets allows you to control the pages on which a widget will display, dynamically showing or hiding widgets on different pages.
+Dynamické widgety umožňují ovládat stránky, na kterých se bude widget zobrazovat, dynamicky zobrazovat nebo skrývat widgety na různých stránkách.
 
-<strong>DW Question &amp; Answer</strong>
+<strong>Otázka a odpověď DW</strong>
 
-This plugin that allows you to add a question and answer section similar to Stack Overflow, Quora, or Yahoo Answers.
+Tento plugin, který vám umožní přidat sekci otázky a odpovědi podobnou přetečení Stack Overflow, Quora nebo Yahoo Answers.
 
-<strong>Easy Table</strong>
+<strong>Snadná tabulka</strong>
 
-This plugin provides a convenient way to add a table to any post or page without needing to know HTML.
+Tento plugin poskytuje pohodlný způsob přidání tabulky do libovolného příspěvku nebo stránky, aniž byste museli znát HTML.
 
 <strong>Edge Suite</strong>
 
-Edge Suite allows you to manage and view Adobe Edge Animate compositions on your site.
+Aplikace Edge Suite umožňuje spravovat a prohlížet kompozice Adobe Edge Animate na vašem webu.
 
-<strong>Embed Google Map</strong>
+<strong>Vložit mapu Google</strong>
 
-This plugin allows you to embed Google Maps to posts, pages, or text widgets on your site.  Simply use the address or coordinates of the location you want to display on a map inside the [google_maps] shortcode.
+Tento plugin vám umožňuje vkládat Mapy Google na příspěvky, stránky nebo textové widgety na vašem webu. Jednoduše použijte adresu nebo souřadnice umístění, které chcete zobrazit na mapě uvnitř zkratkového kódu [google_maps].
 
-<a href="https://lab.urad.online/help/expire-sticky-posts-plugin/"><strong>Expire Sticky Posts</strong></a>
+<a href="https://lab.urad.online/help/expire-sticky-posts-plugin/"><strong>Zaniknout Sticky příspěvky</strong></a>
 
-This plugin allows you to set an expiration date on sticky posts so you don’t have to go back and “unstick” posts.  They’ll simply become “unstuck” on the date you set.
+Tento plugin vám umožňuje nastavit datum vypršení platnosti na lepivých příspěvcích, takže se nemusíte vracet a "odstraňovat" příspěvky. Jednoduše se stanou "uvolněnými" v den, který jste nastavili.
 
-<strong>Featured Content Gallery</strong>
+<strong>Doporučená galerie obsahu</strong>
 
-This plugin allows you to create a rotating image gallery anywhere you choose on your site. There are a number of customizable options, including gallery size, color, and style. In addition, you can choose which images and/or categories to display, create pages or posts with custom overlay text, and create a thumbnail carousel.
+Tento plugin vám umožňuje vytvářet rotující galerii obrázků kdekoli na vašem webu. Existuje několik možností, které lze přizpůsobit, včetně velikosti, barvy a stylu galerie. Kromě toho si můžete zvolit, které obrázky a / nebo kategorie se zobrazí, vytvářet stránky nebo příspěvky s vlastním překryvným textem a vytvářet kolotoč.
 
 <a href="https://lab.urad.online/help/feedwordpress/"><strong>FeedWordPress</strong></a>
 
-FeedWordPress is a plugin that pulls the posts from a site or multiple sites (using the RSS feed), and aggregates them on another site so that they appear on that site’s main blog page. <a href="https://lab.urad.online/help/feedwordpress/">Click here</a> for a longer tutorial.
+FeedWordPress je plugin, který přitahuje příspěvky z webu nebo více stránek (pomocí RSS kanálu) a shromažďuje je na jiném webu tak, aby se objevili na hlavní stránce blogu. <a href="https://lab.urad.online/help/feedwordpress/">Klikněte zde</a> pro delší výukový program.
 
 <strong>Gravity Forms</strong>
 
-Gravity Forms is a very robust plugin for creating forms that can do many different things, from polling users, collecting contact information, to organizing reservations for events, and more. It can also be used as a way for site members to submit files.  <a href="https://lab.urad.online/help/using-gravity-forms-to-collect-work/">Click here</a> for a tutorial on how to use it to collect work.
+Gravity Forms je velmi robustní plugin pro vytváření formulářů, které mohou dělat mnoho různých věcí od uživatelů dotazování, shromažďování kontaktních informací, organizování rezervací událostí a další. Může být také použit jako způsob, jak členům webu předkládat soubory.  <a href="https://lab.urad.online/help/using-gravity-forms-to-collect-work/">Klikněte zde</a> pro výukový program o tom, jak jej použít k práci.
 
-<strong>Gravity Forms Change Entry Creator Add-on</strong>
+<strong>Gravity Forms Změnit položku Creator Add-on</strong>
 
-This plugin is an add-on for Gravity Forms, which allows you to edit the user who created an entry in a form.
+Tento plugin je doplněk pro Gravity Forms, který umožňuje upravit uživatele, který vytvořil položku ve formuláři.
 
 <strong>Gravity Forms Directory &amp; Addons</strong>
 
-This is a Gravity Forms add-on which allows you to easily collect and display contact information, creating a directory of users. Members can display, for example, their email, or phone numbers, or interests, which then become searchable. Directories can be public or private just to site members.
+Jedná se o doplněk Gravity Forms, který vám umožňuje snadno sbírat a zobrazovat kontaktní informace a vytvářet adresář uživatelů. Členové mohou zobrazovat například jejich e-maily nebo telefonní čísla nebo zájmy, které se pak mohou prohledávat. Adresáře mohou být veřejné nebo soukromé pouze členům webu.
 
-<a href="https://lab.urad.online/help/gravity-forms-quiz-add-on-plugin/"><strong>Gravity Forms Quiz Add-On</strong> </a>
+<a href="https://lab.urad.online/help/gravity-forms-quiz-add-on-plugin/"><strong>Gravita Forms Quiz Add-On</strong></a>
 
-This plugin allows you to quickly create Quizzes that are automatically graded or scored when the form is submitted.
+Tento plugin vám umožňuje rychle vytvářet kvízy, které se při předložení formuláře automaticky stupňují.
 
-<strong>Google Doc Embedder</strong>
+<strong>Vkládání dokumentů Google</strong>
 
-Google Doc Embedder lets you embed several types of files into your WordPress pages using the free Google Docs Viewer, which allows inline viewing (and optional downloading) of a wide range of file types, with no Flash or PDF browser plug-ins required.  The embedded documents do not have to be Google Docs.
+Vestavěný dokument Google Docu Embedder umožňuje vložit do svých stránek WordPress několik typů souborů pomocí bezplatného Prohlížeče dokumentů Google, který umožňuje prohlížet (a volitelně stahovat) celou řadu typů souborů bez požadavku na zásuvné moduly Flash nebo PDF. Vkládané dokumenty nemusí být dokumenty Google.
 
-<strong>Google Docs Shortcode</strong>
+<strong>Krátký kód Google Docs</strong>
 
-This plugin allows you to embed a Google Doc into a post or page on your site.
+Tento plugin vám umožňuje vložit dokument Google do příspěvku nebo stránky na vašem webu.
 
-<strong>Google for WordPress</strong>
+<strong>Google pro WordPress</strong>
 
-This plugin allows you to integrate many of Google’s products into your site, including Google+, Calendar, Drive, Fonts, Groups, Hangouts, Maps, Translate, and more.
+Tento plugin umožňuje integraci mnoha produktů společnosti Google do vašich stránek, včetně Google+, Kalendáře, Jednotky, Písma, Skupiny, Hangouty, Mapy, Přeložit a další.
 
-<strong>HTML Import 2</strong>
+<strong>Import HTML 2</strong>
 
-This plugin imports static HMTL files into a WordPress site.  If importing pages, the directory hierarchy will be preserved, and linked media files (image, documents, etc) will be imported to the media library.
+Tento plugin importuje statické soubory HMTL do webu WordPress. Pokud importujete stránky, zůstane hierarchie adresářů zachována a související mediální soubory (obrázky, dokumenty atd.) Budou importovány do knihovny médií.
 
-<strong>Hypothesis</strong>
+<strong>Hypotéza</strong>
 
-This plugin integrates your site with Hypothesis, a web annotation tool that allows users to provide commentary on top of a site. You can highlight words, phrases, or other elements on your site with commentary that becomes visible when you hover over the elements.  You can find out more at http://hypothes.is/
+Tento plugin integruje váš web pomocí nástroje Hypothesis, který umožňuje uživatelům poskytovat komentáře na webu. Můžete zvýraznit slova, fráze nebo jiné prvky na vašem webu s komentářem, který se objeví při pohybu nad prvky. Více se dozvíte na http://hypothes.is/
 
 <strong>Jetpack</strong>
 
-Jetpack is a plugin created by WordPress.com that adds many different enhancements to your site, including stats, image optimization, custom CSS, contact forms, image galleries and carousels, and more.
+Jetpack je plugin vytvořený aplikací WordPress.com, která na vaše stránky přidává mnoho různých vylepšení, včetně statistik, optimalizace obrazu, vlastní CSS, kontaktních formulářů, obrázkových galerií a kolotočů a další.
 
 <strong>KB Gradebook</strong>
 
-This plugin allows instructors to securely upload a spreadsheet (CSV file) with student grades, providing students with a way to check their grades through the course site. The grades are password protected so that students can only view their own individual grade.
+Tento plugin umožňuje instruktorům bezpečně nahrát tabulku (soubor CSV) se studentskými známkami a poskytnout studentům způsob, jak zkontrolovat své známky prostřednictvím místa kurzu. Známky jsou chráněny heslem, takže studenti mohou vidět pouze svou vlastní třídu.
 
-<strong>Link Library</strong>
+<strong>Knihovna odkazů</strong>
 
-This plugin allows you to add a list of links and link categories to your site.  You can also include notes and descriptions of all the links.  The links and categories are those that you’ve defined inside the Links section of your Site Dashboard.
+Tento plugin umožňuje přidávat na vaše stránky seznam odkazů a kategorií odkazů. Můžete také obsahovat poznámky a popisy všech odkazů. Odkazy a kategorie jsou ty, které jste definovali v sekci Odkazy na panelu stránek.
 
-<strong>Link Manager</strong>
+<strong>Správce odkazů</strong>
 
-The link manager was removed from WordPress Dashboards in a recent update. You might still see it on older sites, but on new sites you’ll have to activate the Link Manager plugin to use the feature.
+Správce odkazů byl v nedávné aktualizaci odstraněn z panelů Dashboardů WordPress. Může se vám to stále zobrazovat na starších stránkách, ale na nových webech budete muset aktivovat plugin Správce odkazů pro použití této funkce.
 
 <strong>OSM – OpenStreetMap</strong>
 
-This plugin allows users to embed OpenStreetMaps in their posts or pages.  Features include ability to display different open map types (such as OpenStreetMap, OpenWeatherMap, BaseMap), display maps with markers, geotag posts, display photos on the map, and more.
+Tento plugin umožňuje uživatelům vkládat OpenStreetMaps do svých příspěvků nebo stránek. Funkce zahrnují schopnost zobrazovat různé otevřené typy map (například OpenStreetMap, OpenWeatherMap, BaseMap), zobrazovat mapy se značkami, geografické příspěvky, zobrazovat fotografie na mapě a další.
 
 &nbsp;
 
-<strong>Page Links To</strong>
+<strong>Odkazy na stránku do</strong>
 
-According to its developers, “this plugin allows you to make a WordPress page or post link to a URL of your choosing, instead of its WordPress page or post URL.” You can activate this plugin on any site, but if you’re using the Sliding Door theme, you’ll need this plugin to make the sliding images link to pages on your site.
+Podle svých vývojářů "tento plugin umožňuje vytvořit stránku WordPress nebo poštovní odkaz na adresu URL podle vašeho výběru namísto jeho stránky WordPress nebo post URL." Tento plugin můžete aktivovat na libovolném webu, ale pokud používáte téma Posuvné dveře, budete potřebovat tento plugin, abyste spojili posuvné obrázky s stránkami na vašem webu.
 
 <a href="https://lab.urad.online/help/pagemash/"><strong>PageMash</strong></a>
 
-PageMash makes menu customization easy. Use it if you want to hide pages so they don’t show up on your menu, if you want to quickly rename the page, or if you want to create parent/child pages (e.g. a dropdown menu). You can do all these things without PageMash, but the plugin makes it easy and intuitive. Click here for a longer tutorial. <a href="https://lab.urad.online/help/pagemash/">Click here</a> for a longer tutorial.
+PageMash usnadňuje přizpůsobení nabídky. Použijte jej, pokud chcete skrýt stránky, aby se nezobrazovaly ve vašem menu, chcete-li stránku rychle přejmenovat nebo chcete vytvořit rodičovské / podřízené stránky (např. Rozbalovací menu). Všechny tyto věci můžete provést bez aplikace PageMash, ale plugin je snadný a intuitivní. Klikněte zde pro delší výukový program. <a href="https://lab.urad.online/help/pagemash/">Klikněte zde</a> pro delší výukový program.
 
-<strong>Page Tagger</strong>
+<strong>Tagger stránky</strong>
 
-Page Tagger allows you to add tags to pages, a function that is usually reserved only for posts.
+Tagger stránky umožňuje přidávat značky na stránky, což je funkce, která je zpravidla vyhrazena pouze pro příspěvky.
 
-<strong>Papercite</strong>
+<strong>Papír</strong>
 
-Papercite formats BibTeX entries to display a bibliography or citations in posts and pages.
+Papírové formáty BibTeX položky pro zobrazení bibliografie nebo citací v příspěvcích a stránkách.
 
 <a href="https://lab.urad.online/help/prezi-wp/"><strong>Prezi WP</strong></a>
 
-This plugin allows users to embed Prezi presentations into posts and pages using a simple shortcode.  Prezi is a “cloud-based presentation software” that allows users to create presentations with different animated effects. Since it is web-based, the presentation is available anywhere you have an internet connection. <a href="https://lab.urad.online/help/prezi-wp/">Click here</a> for a longer tutorial.
+Tento plugin umožňuje uživatelům vkládat prezentace Prezi do příspěvků a stránek pomocí jednoduchého zkráceného kódu. Prezi je "prezentační software na bázi cloud", který uživatelům umožňuje vytvářet prezentace s různými animovanými efekty. Vzhledem k tomu, že je založen na webu, prezentace je k dispozici kdekoli, kde máte připojení k internetu. <a href="https://lab.urad.online/help/prezi-wp/">Klikněte zde</a> pro delší výukový program.
 
-<strong>Really Simple CAPTCHA</strong>
+<strong>Opravdu jednoduchá CAPTCHA</strong>
 
-This plugin works with Contact Form 7, and can be used to add a simple CAPTCHA to the form submission to prevent spam.
+Tento plugin pracuje s Kontaktním formulářem 7 a může být použit k přidání jednoduchého kódu CAPTCHA k odeslání formuláře, aby se zabránilo spamu.
 
-<strong><a href="https://lab.urad.online/help/require-post-category-plugin/">Require Post Category</a></strong>
+<strong><a href="https://lab.urad.online/help/require-post-category-plugin/">Vyžadovat kategorii příspěvků</a></strong>
 
-This very simple plugin can do wonders to organize a site with multiple users, just by making sure users can’t post without choosing a category first.
+Tento velmi jednoduchý plugin může dělat zázraky organizovat stránky s více uživateli, jen tím, že ujistěte, že uživatelé nemohou post, aniž byste si nejprve zvolili kategorii.
 
-<a href="https://lab.urad.online/help/rotating-post-gallery/"><strong>Rotating Post Gallery</strong></a>
+<a href="https://lab.urad.online/help/rotating-post-gallery/"><strong>Rotující Galerie příspěvků</strong></a>
 
-This plugin allows you to add a rotating gallery of images to one of the sidebars of your site. Each time a visitor refreshes or visits a new page, the image will change, giving them an appealing overall sense of the site activity. <a href="https://lab.urad.online/help/rotating-post-gallery/">Click here</a> for a longer tutorial.
+Tento plugin vám umožňuje přidávat rotační galerii obrázků do jedné z postranních panelů vašeho webu. Pokaždé, když se návštěvník obnoví nebo navštíví novou stránku, snímek se změní a poskytne jim atraktivní celkový pocit aktivity na webu. <a href="https://lab.urad.online/help/rotating-post-gallery/">Klikněte zde</a> pro delší výukový program.
 
 <a href="https://lab.urad.online/help/sharethis/"><strong>ShareThis</strong></a>
 
-ShareThis adds a social media bar to all posts and pages, allowing your followers, members, or readers to easily share posts or pages from your site on other social media platforms such as Twitter and Facebook. <a href="https://lab.urad.online/help/sharethis/">Click here</a> for a longer tutorial.
+ShareThis přidává panel sociálních médií ke všem příspěvkům a stránkám a umožňuje svým stoupencům, členům nebo čtenářům snadné sdílení příspěvků nebo stránek z vašich stránek na jiných platformách sociálních médií, jako jsou Twitter a Facebook. <a href="https://lab.urad.online/help/sharethis/">Klikněte zde</a> pro delší výukový program.
 
 <strong>Subscribe2</strong>
 
-This plugin allows “comprehensive email subscription management.” Many of its features overlap with existing email members settings on the OpenLab. But it also provides a number of things you might find valuable, including customizable unsubscribe messages. It might be particularly useful for those sites that have or hope to have a non-City Tech readership and want to make it easy for non-City Tech readers to follow your site. If they subscribe through this plugin, which will accept any valid email address, they will get a message anytime you add a new post.
+Tento plugin umožňuje "komplexní správu odběru e-mailů". Mnoho jeho funkcí se překrývá se stávajícími nastaveními e-mailových členů na OpenLab. Poskytuje však také množství věcí, které můžete považovat za cenné, včetně přizpůsobitelných odhlášených zpráv. Může to být obzvláště užitečné pro ty stránky, které mají nebo doufají, že mají čtenář, který nepatří do města Tech, a chtějí, aby čtenáři jiných technologií nepocházeli z vašeho webu. Pokud se přihlásí prostřednictvím tohoto pluginu, který přijme platnou e-mailovou adresu, obdrží zprávu kdykoli přidá nový příspěvek.
 
-<strong>Table of Contents Plus</strong>
+<strong>Obsah Plus</strong>
 
-This plugin allows users to create an index or table of contents (TOC) for pages on a WordPress site, which will look similar to the TOC on a Wikipedia page.  Users can also create a sitemap that lists pages and/or categories from the site.
+Tento plugin umožňuje uživatelům vytvářet index nebo obsah (TOC) pro stránky na webu WordPress, který bude vypadat podobně jako TOC na stránce Wikipedie. Uživatelé mohou také vytvořit soubor Sitemap, který uvádí stránky a / nebo kategorie z webu.
 
-<strong>Tako Movable Comments</strong>
+<strong>Tako pohyblivé komentáře</strong>
 
-This plugin allows site admins to move comments from one past or page to another.
+Tento plugin umožňuje správcům stránek přesunout komentáře z jedné minulosti nebo z druhé stránky.
 
-<strong>TaskFreak! Free</strong>
+<strong>TaskFreak! Volný, uvolnit</strong>
 
-This plugin integrates the TaskFreak! web application into a WordPress site, allowing task management for an individual or group.  Users can create projects or teams, add and assign tasks to other users, add attachments, discuss tasks, and follow task status.
+Tento plugin integruje TaskFreak! webovou aplikaci do stránky WordPress, což umožňuje správu úkolů pro jednotlivce nebo skupinu. Uživatelé mohou vytvářet projekty nebo týmy, přidávat a přiřazovat úkoly ostatním uživatelům, přidávat přílohy, diskutovat o úkolech a sledovat stav úkolů.
 
-<strong>Text Hover</strong>
+<strong>Text přejetím kurzoru</strong>
 
-This plugin allows users to add hover text to specific terms included on posts or pages.  When site visitors hover their mouse over the word or phrase, they’ll see additional text, such as definitions or additional information.
+Tento plugin umožňuje uživatelům přidávat text přesunu do konkrétních výrazů obsažených v příspěvcích nebo stránkách. Když návštěvníci stránek umístí kurzor myši nad slovo nebo frázi, uvidí další text, například definice nebo další informace.
 
-<strong>The Events Calendar</strong>
+<strong>Kalendář událostí</strong>
 
-This plugin adds a customizable events calendar, which can be embedded in a page, post, or sidebar widget.
+Tento plugin přidává kalendář přizpůsobitelných událostí, který lze vložit do widgetu stránky, příspěvku nebo postranního panelu.
 
 <strong>TinyMCE Advanced</strong>
 
-This plugin will allow you to add, remove and arrange the buttons that are shown on the Visual Editor toolbar. Once enabled, you can decide which buttons/functions to include in the settings page. Some of the features added by this plugin include: support for creating and editing tables, more options when inserting lists, search and replace within the editor, editing in-line CSS styles, advanced image dialog that offer a lot of options, and adding and removing HTML tag attributes.
+Tento plugin vám umožní přidat, odstranit a uspořádat tlačítka, která jsou zobrazena na panelu nástrojů aplikace Visual Editor. Jakmile je tato funkce aktivována, můžete se rozhodnout, které tlačítka / funkce se mají zahrnout do stránky nastavení. Některé z funkcí přidávaných tímto pluginem zahrnují: podporu pro vytváření a úpravy tabulek, další možnosti při vkládání seznamů, vyhledávání a nahrazování v editoru, editaci in-line stylů CSS, pokročilé dialogové okno s obrazy, které nabízejí spoustu možností a přidání a odstranění atributů značky HTML.
 
-<strong>Ultimate Category Excluder</strong>
+<strong>Konec kategorie</strong>
 
-With this plugin, users can choose categories to exclude from the site home page, archives, feeds, or search results.  Posts in those categories will not appear on those pages, if chosen.
+Pomocí tohoto pluginu mohou uživatelé vybrat kategorie, které se mají vyloučit z domovské stránky, archivů, kanálů nebo výsledků vyhledávání. Příspěvky v těchto kategoriích se na těchto stránkách nezobrazí, pokud je vybrána.
 
-<strong><a href="https://lab.urad.online/help/openlab-grade-comments-plugin/">WP Grade Comments</a></strong>
+<strong><a href="https://lab.urad.online/help/openlab-grade-comments-plugin/">WP Grade Komentáře</a></strong>
 
-The WP Grade Comments plugin is very simple to use, and it has an easy interface for privately leaving grades only the post creator and administrator can see.  You can also leave private comments.
+Doplněk WP Grade Comments je velmi jednoduchý a má snadné rozhraní pro soukromé zanechání známky pouze post tvůrce a správce může vidět. Můžete také nechat soukromé komentáře.
 
-<strong>WP-Polls</strong>
+<strong>WP-Ankety</strong>
 
-This plugin allows you to add polls to your site, on a post, page, or in your sidebar. It includes the ability to customize different options and styles.
+Tento plugin umožňuje přidávat ankety na vaše stránky, na příspěvek, stránku nebo na postranním panelu. Zahrnuje možnost přizpůsobení různých možností a stylů.
 
 <strong>WP-Pro-Quiz</strong>
 
-WP-Pro-Quiz allows you to create and add quizzes to your site. It is highly customizable, with options for different types of quizzes, as well as the ability to set options such as time limits, adding media content to questions, and hints. Quiz results can also be displayed immediately to the person taking the quiz.
+WP-Pro-Quiz vám umožňuje vytvářet a přidávat kvízy na vaše stránky. Je vysoce přizpůsobitelný, s možnostmi pro různé typy kvízů, stejně jako možnost nastavit možnosti, jako jsou časové limity, přidávání obsahu médií k otázkám a rady. Kvíz výsledky mohou být také okamžitě zobrazeny osobě, která kvíz.
 
 <strong>WP-SWFObject</strong>
 
-This plugin allows users to embed Flash media into posts or pages using shortcodes.
+Tento plugin umožňuje uživatelům vkládat média Flash do příspěvků nebo stránek pomocí zkratek.
 
 <strong>WPBadgeDisplay</strong>
 
-WPBadgeDisplay allows you to display site members’ Open Badges on your site, using the widget in your site’s sidebar. There are options allowing you to choose how to display each member’s badges.
+WPBadgeDisplay umožňuje zobrazovat na svých stránkách otevřené odznaky členů webu pomocí widgetu na postranním panelu vašeho webu. K dispozici jsou možnosti, které vám umožňují vybrat, jak zobrazit odznaky jednotlivých členů.
 
 <strong>WPBadger</strong>
 
-This plugin allows you to issue Open Badges to site members, who can then add them to their Open Badges backpack.
+Tento plugin vám umožňuje vydávat otevřené odznaky členům webu, kteří je pak mohou přidat do svého batohu s otevřenými odznaky.
 
-<strong>WP Document Revisions</strong>
+<strong>Revize dokumentů WP</strong>
 
-This is document management and version control plugin allows multiple site members to collaboratively edit and track versions of files uploaded to the site, such as text documents, spreadsheets, images, and many others. It also allows site members to securely upload and download password protected documents that are available only to site members.
+Jedná se o správu dokumentů a plugin pro správu verzí umožňuje více členům webu spolupracovat s úpravou a sledováním verzí souborů nahraných na web, jako jsou textové dokumenty, tabulky, obrázky a mnoho dalších. Umožňuje také členům webu bezpečně nahrát a stáhnout dokumenty chráněné heslem, které jsou k dispozici pouze členům webu.
 
 <strong>WP DPLA</strong>
 
-The WP DPLA plugin allows you to display content from the DPLA (Digital Public Library of America) on your site. It uses the tags you assign to a post to display related items from the DPLA at the bottom of the post.
+Doplněk WP DPLA umožňuje zobrazit obsah z DPLA (Digital Public Library of America) na vašem webu. Používá značky přidělené příspěvku pro zobrazení souvisejících položek z DPLA ve spodní části příspěvku.
 
 <strong>WP LaTeX</strong>
 
-This plugin allows site members to use LaTeX code in posts, pages, and comments to display mathematical equations and formulas.
+Tento plugin umožňuje členům webu používat kódy LaTeX v příspěvcích, stránkách a komentářích k zobrazení matematických rovnic a vzorců.
 
 <strong>WP Lightbox 2</strong>
 
-This simple plug-in allows you to create a lightbox (overlay) effect on your pages–images can “pop out” from galleries as separate pages.
+Tento jednoduchý modul plug-in umožňuje vytvářet efekt lightbox (překrývání) na vašich stránkách - obrázky mohou být vyskakovány z galerií jako samostatné stránky.
 
-<strong>WP Post to PDF</strong>
+<strong>WP příspěvek do PDF</strong>
 
-WP Post to PDF allows visitor to download a post in PDF format for easy future reference.
+WP Post to PDF umožňuje návštěvníkovi stáhnout příspěvek ve formátu PDF pro snadnou budoucí orientaci.
 
-<strong>WP SIMILE Timeline</strong>
+<strong>Časová osa WP SIMILE</strong>
 
-Simile Timeline creates beautiful interactive timelines which can be dragged horizontally or by using the mouse-wheel. WP Simile Timeline brings that functionality to the OpenLab, including individual categories to be displayed in the timeline, a lifestream timeline with RSS feeds from your WordPress link archive, customizable colors for timeline bands and categories, support for multiple instances on different pages, displays of individual icons or images, and image attachments from posts in the timeline.
+Časová osa Simile vytváří krásné interaktivní časové pásmo, které lze přetáhnout vodorovně nebo pomocí kolečka myši. WP Simile Timeline přináší tuto funkcionalitu OpenLab, včetně jednotlivých kategorií, které se budou zobrazovat na časové ose, časové řádek lifestream s RSS kanály z archivu odkazů WordPress, přizpůsobitelné barvy pro časové pásma a kategorie, podpora více instancí na různých stránkách, jednotlivé ikony nebo obrázky a přílohy obrázků z příspěvků na časové ose.
 
-<strong>WP Simple Anchor Links</strong>
+<strong>Jednoduché kotvení WP</strong>
 
-This plugin allows users to add anchor links within a particular page or post.  An anchor link is a link to particular place on the same page, for example, an anchor link at the top of a long page may link to another place lower down on the page.
+Tento plugin umožňuje uživatelům přidávat kotevní odkazy na konkrétní stránce nebo příspěvku. Kotevní odkaz je odkaz na konkrétní místo na stejné stránce, například ukotvení v horní části dlouhé stránky může odkazovat na jiné místo dolů na stránce.
 
-<strong>WTI Like Post</strong>
+<strong>WTI jako pošta</strong>
 
-According to its developers, “WTI Like Post is a plugin for adding like (thumbs up) and unlike (thumbs down) functionality for wordpress posts/pages….[I]t will show a maximum of the 10 most liked posts/pages….It comes with a widget to display the most liked posts/pages which you can place in any widget area. It has live updates of the like count on the widget if you like or unlike any post/page.” Once you activate the plugin, you’ll see the like icon appear at the bottom of your post.
+Podle svých vývojářů "WTI Like Post je plugin pro přidávání (thumbs up) a nepodporujících (thumbs down) funkcionalitu pro příspěvky / stránky Wordpress ... [I] t zobrazí maximálně 10 nejvíce podobných příspěvků / stránek ... . Je dodáván s widgetem pro zobrazování nejoblíbenějších příspěvků / stránek, které můžete umístit do libovolné oblasti widgetů. Má aktuální aktualizace podobně jako v widgetu, pokud se vám líbí nebo na rozdíl od jakéhokoli příspěvku / stránky. "Jakmile aktivujete plugin, uvidíte podobnou ikonu v dolní části příspěvku.
 
-<strong>ZooEffect Plugin for Video player, Photo Gallery Slideshow jQuery and audio / music / podcast</strong>
+<strong>Doplněk ZooEffect pro přehrávač videa, Fotogalerie Prezentace jQuery a audio / hudba / podcast</strong>
 
-ZooEffect is a photo gallery with slideshow function, video players, music and podcast functions, many templates (players) and powerful management for your media assets. It has cool interfaces, customizable galleries, captions and descriptions, and a simple and automatic embed code.
+ZooEffect je fotogalerie s funkcí prezentace, přehrávači videa, funkcemi pro hudbu a podcast, mnoha šablonami (přehrávači) a výkonnou správu médií. Má skvělé rozhraní, přizpůsobitelné galerie, popisky a popisy a jednoduchý a automatický kód pro vkládání.
 
-*Descriptions for many of the plugins taken from the <a href="https://wordpress.org/plugins/">WordPress.org Plugin Directory</a>.
+* Popisy mnoha pluginů převzatých z <a href="https://wordpress.org/plugins/">adresáře Plugin WordPress.org</a> .
