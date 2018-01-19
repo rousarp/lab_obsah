@@ -18,12 +18,12 @@ help_category:
     Změny nastavení pro kurzy, projekty a
     skupiny
 ---
-To change the avatar for any course, project, or club, make sure that you’re logged in, and then go to your course, project, or club profile page.
+Chcete-li změnit avatar pro jakýkoli kurz, projekt nebo klub, ujistěte se, že jste přihlášeni, a pak přejděte na stránku profilu kurzu, projektu nebo klubu.
 
-1. Once there, click <strong>Project Settings</strong> in the right-hand menu, then click <strong>Change Avatar</strong> in the Settings menu (just below the line below your group name on the profile page).
+1. Klepněte na položku <strong>Nastavení projektu</strong> v pravé nabídce a poté na možnost <strong>Změnit avatar</strong> v nabídce Nastavení (pod řádkem pod názvem skupiny na stránce profilu).
 
-2. Once you’ve chosen and uploaded a file from your computer, you’ll be prompted to choose a square area from your image.  If you want to stretch or change an image (anything other than cropping), you’ll need to do so with another program, before uploading.  Once you’ve chosen an area, click <strong>Save</strong>, and your new avatar should appear.
+2. Jakmile vyberete a odešlete soubor z počítače, budete vyzváni k výběru čtvercové oblasti z obrázku. Pokud chcete roztáhnout nebo změnit obrázek (cokoliv jiného než oříznutí), musíte to před dalším nahráním provést jiným programem. Jakmile vyberete oblast, klikněte na <strong>Uložit</strong> a objeví se váš nový avatar.
 
-<img class="alignnone wp-image-36486 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Avatar_1_V2.png" alt="Changing Avatar Screen Shot" />
+<img class="alignnone wp-image-36486 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Avatar_1_V2.png" alt="Změna snímku obrazovky Avatar" />
 
-From this page you are also able to delete your avatar, but we recommend uploading a new one, rather than reverting to the default.
+Z této stránky můžete smazat i váš avatar, ale doporučujeme nahrát nový, místo aby se vrátil k výchozímu.
