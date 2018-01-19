@@ -14,7 +14,6 @@ help_category:
   - >
     Tvorba webových stránek (pro
     administrátory webu)
-  - Webové stránky na OpenLab
 ---
 1. To create a page on your site, go to your site Dashboard and click <strong>Pages &gt; Add New</strong> in the left-hand menu.
 
