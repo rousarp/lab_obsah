@@ -61,22 +61,23 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
  	<li>Do tohoto kurzu se mohou připojit pouze pozvaní členové OpenLab.</li>
 </ul>
 <ol start="2">
- 	<li style="list-style-type: none;">
-<ol start="2">
-<li>Dále zvolte nastavení ochrany osobních údajů pro váš kurz. &amp;</li>
+<li style="list-style-type: none;">
+</li><li>Dále zvolte nastavení ochrany osobních údajů pro váš kurz.</li>
 </ol>
-<strong></strong><strong>Veřejné:</strong><strong> Povolit vyhledávačům indexování tohoto webu:</strong>
+<strong>Veřejné:</strong>
+
+<strong> Povolit vyhledávačům indexování webových stránek vašeho nového kurzu:</strong>
 <ul>
  	<li>Každý uživatel může navštívit váš web bez nutnosti zadání hesla.</li>
- 	<li>Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že vaše stránky se budou zobrazovat ve výsledcích vyhledávání na stránkách Google, Seznam, Bing a dalších.</li>
- 	<li>Zvolte tuto volbu pro maximální viditelnost veřejnosti.</li>
+ 	<li>Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že vaše stránky se budou zobrazovat ve výsledcích vyhledávání na stránkách Google, Seznam, Bing a dalších./li>
+ 	</li><li>Zvolte tuto volbu pro maximální viditelnost veřejnosti.</li>
 </ul>
-<strong>Požádejte vyhledávače, aby tuto stránku neindexovali:</strong>
+<strong>Zakázat vyhledávačům, aby webové stránky neindexovali:</strong>
 <ul>
- 	<li>Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají URL nebo jsou propojeni jinam, ale Google, Seznam, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozorňujeme, že vyhledávače odpovídají vašim požadavkům.)</li>
+ 	<li>Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají URL nebo jsou propojeni jinam, ale Google, Seznam, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozorňujeme, že záleží na vyhledávačích, zda dodrží váš požadavek.)</li>
  	<li>Tuto možnost vyberte, pokud chcete, aby byl web zobrazen lidem, kteří nejsou členy OpenLabu, ale nechcete, aby na něm vyhledávali vyhledávače.</li>
 </ul>
-<strong>Soukromé:</strong>
+<strong>Soukromý:</strong>
 
 <strong> Chtěli byste, aby byl web viditelný pouze pro registrované uživatele OpenLab: </strong>
 <ul>
@@ -85,30 +86,22 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
 </ul>
 <strong>Chtěli byste, aby byl váš web viditelný pro registrované uživatele tohoto kurzu:</strong>
 
-<strong>Skrytý: </strong><strong></strong><strong></strong><strong>Chtěli byste, aby byl web viditelný pouze pro správce webu:</strong>
+<strong>Skrytý: </strong>
+
+<strong>Chtěli byste, aby byl web viditelný pouze pro správce webu:</strong>
 <ul>
- 	<li></li>
- 	<li>nikdo kromě administrátorů stránek (pouze vyučující, pokud přidáte další) &gt; Touto volbou můžete zvolit, pokud se chystáte vytvořit šablonu kurzu, ale zřídka by to bylo užitečné během aktivního kurzu.</li>
+ 	<li>nikdo kromě administrátorů stránek (pouze vyučující, pokud přidáte další). Touto volbou můžete zvolit, pokud se chystáte vytvořit šablonu kurzu, ale zřídka by to bylo užitečné během aktivního kurzu.</li>
 </ul>
-</li>
-</ol>
+
 <h3>Třetí krok: Náhledový obrázek kurzu</h3>
 <ol start="2">
- 	<li style="list-style-type: none;">
-<ol start="2">
- 	<li style="list-style-type: none;">
-<ol>
- 	<li>Náhledový obrázek kurzu Bude zachován. Pokud chcete tento avatar ponechat, stačí kliknout na tlačítko <strong>Další krok</strong>. Chcete-li jej změnit, klikněte na možnost <strong>Procházet</strong>. Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klikněte na tlačítko <strong>Nahrát obrázek</strong>.</li>
+<li>Náhledový obrázek kurzu Bude zachován. Pokud chcete tento avatar ponechat, stačí kliknout na tlačítko <strong>Další krok</strong>. Chcete-li jej změnit, klikněte na možnost <strong>Procházet</strong>. Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klikněte na tlačítko <strong>Nahrát obrázek</strong>.</li>
 </ol>
-</li>
- 	<li style="list-style-type: none;">
-<ol start="2">
+
+<ol start="3">
  	<li>klikněte na tlačítko <strong>Další krok</strong></li>
 </ol>
-</li>
-</ol>
-</li>
-</ol>
+
 <h3>Čtvrtý krok: Pozvat členy</h3>
 <ol start="2">
  	<li style="list-style-type: none;">
