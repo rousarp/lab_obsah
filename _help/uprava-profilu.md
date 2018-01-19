@@ -15,9 +15,9 @@ help_category:
   - Jak mohu ...?
 ---
 <h3>How do I…</h3>
-<a href="https://lab.urad.online/help/edit-my-profile/#changeprofile">change the information in my profile?</a>
-<a href="https://lab.urad.online/help/edit-my-profile/#changeavatar">change my avatar (profile picture)?</a>
-<a href="https://lab.urad.online/help/edit-my-profile/#changename">change the name on my profile? </a><a name="changeprofile"></a>
+<a href="https://lab.urad.online/help/uprava-profilu/#changeprofile">change the information in my profile?</a>
+<a href="https://lab.urad.online/help/uprava-profilu/#changeavatar">change my avatar (profile picture)?</a>
+<a href="https://lab.urad.online/help/uprava-profilu/#changename">change the name on my profile? </a><a name="changeprofile"></a>
 <h4>How do I change the information in my profile?</h4>
 <ul>
  	<li>To get to your profile page, click <strong>My OpenLab</strong> in the main menu.</li>
