@@ -12,7 +12,6 @@ help_tags:
   - Nalezení
   - Vytvoření
 help_category:
-  - Kurzy projekty a skupiny
   - Používání kurzů, projektů a skupin
 ---
 Discussions, also called “Discussions Forums,” are one way you can communicate with other members of your group. You can post new topics in the discussion forums or reply to what others have posted. Discussion forums are a good place to ask questions, share resources, or have informal discussions. Discussion forums are available for all Courses, Projects, and Clubs. In order to start a new Discussion, comment on an existing discussion, or adjust your email notification settings on discussion topics you need to first be logged into your account on the Openlab.
