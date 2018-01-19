@@ -15,68 +15,68 @@ help_category:
 ---
 <strong>Akismet Widget</strong>
 
-Akismet is a spam catching plugin. This widget displays how much spam has been caught on a particular site by Akismet.
+Akismet je záchytný plugin pro spam. Tento widget zobrazuje, kolik spamu bylo zachyceno na konkrétním webu společnosti Akismet.
 
-<strong>Archives</strong>
+<strong>Archiv</strong>
 
-The Archives Widget organizes your previously published posts by month. This can be handy for readers who want to browse your older content.
+Widget Archiv organizuje vaše dříve publikované příspěvky podle měsíce. To může být užitečné pro čtenáře, kteří chtějí prohlížet váš starší obsah.
 
-<strong>Calendar</strong>
+<strong>Kalendář</strong>
 
-Archives Calendar widget that make your monthly/daily archives look like a calendar on the sidebar. If you have a lot of archives that takes a lot of space on your sidebar this widget is for you.
+Archiv Kalendář widget, který dělá vaše měsíční / denní archivy vypadají jako kalendář na postranním panelu. Máte-li mnoho archivů, které na bočním panelu zabírají spoustu místa, tento widget je pro vás.
 
-<strong>Categories</strong>
+<strong>Kategorie</strong>
 
-The Categories Widget organizes your posts by category in your blog’s sidebar. This can be handy for readers who want to find more of your posts about certain topics.
+Category Widget organizuje příspěvky podle kategorie na postranním panelu vašeho blogu. To může být užitečné pro čtenáře, kteří chtějí najít více vašich příspěvků o určitých tématech.
 
-<strong>Custom Menu</strong>
+<strong>Uživatelská nabídka</strong>
 
-The Custom Menu Widget allows you to display pages, categories, and custom links in your blog’s sidebar.
+Uživatelský widget Menu umožňuje zobrazovat stránky, kategorie a vlastní odkazy na postranním panelu vašeho blogu.
 
-<strong>Invite Anyone</strong>
+<strong>Pozvat každého</strong>
 
-The ability to invite members to the site by email. The plugin creates a tab on each member’s Profile page called “Send Invites”, which contains a form where users can invite outsiders to join the site. There is a field for a custom message. Also, inviters can optionally select any number of their groups, and when the invitee accepts the invitation he or she automatically receive invitations to join those groups.
+Schopnost pozvat členy na stránku e-mailem. Zásuvný modul vytvoří kartu na stránce profilu každého člena s názvem Odeslat pozvánky, která obsahuje formulář, kde uživatelé mohou pozvat cizince, aby se k webu připojili. K dispozici je pole pro vlastní zprávu. Inviteři mohou volitelně vybrat libovolný počet svých skupin a pokud pozvaný přijme pozvánku, automaticky obdrží pozvánky, aby se připojil k těmto skupinám.
 
-<strong>Links</strong>
+<strong>Odkazy</strong>
 
-The Links Widget displays a list of links (also known as a blogroll) in your sidebar. If you want to share your favorite blogs or websites with your readers, this is the widget for you.
+Odkaz Widget zobrazuje na vašem postranním panelu seznam odkazů (také známých jako blogroll). Pokud chcete sdílet své oblíbené blogy nebo webové stránky s čtenáři, je to widget pro vás.
 
 <strong>Meta</strong>
 
-The Meta Widget is a simple tool that makes it easy to log in and out of your blog and access your dashboard and RSS feeds from your sidebar.
+Meta Widget je jednoduchý nástroj, který umožňuje snadné přihlášení a odhlášení z vašeho blogu a přístup do vašeho řídicího panelu a kanálů RSS z vašeho postranního panelu.
 
-<strong>Pages</strong>
+<strong>Stránky</strong>
 
-The Pages Widget displays your blog’s pages in your sidebar. This can make it easier for your readers to navigate around your blog.
+Widget Stránky zobrazuje stránky vašeho blogu na postranním panelu. Díky tomu může vaše čtenáři jednodušeji procházet váš blog.
 
-<strong>Portfolio List</strong>
+<strong>Seznam portfolia</strong>
 
-This widget displays convenient links to member portfolios in the sidebar of your site.
+Tento widget zobrazuje pohodlné odkazy na portfolia členů v postranním panelu vašeho webu.
 
-<strong>Recent Comments</strong>
+<strong>Nedávné Komentáře</strong>
 
-This widget will add a list of the most recent comments posted to your blog. They are gathered in descending order (newest at the top), but then grouped by post title, so that comments from the same post are listed together. The list items will be links to the comments, and will contain the name of the commenter.
+Tento widget přidá seznam nejnovějších komentářů zveřejněných na váš blog. Jsou shromážděny v sestupném pořadí (nejnovější v horní části), ale poté seskupeny podle názvu příspěvku, takže jsou komentáře ze stejného příspěvku uvedeny společně. Položky seznamu budou odkazy na komentáře a obsahují jméno komentátora.
 
-<strong>Recent Posts</strong>
+<strong>Poslední příspěvky</strong>
 
-The Recent Posts widget displays the most recent posts on your blog in descending order.
+Widget Poslední příspěvky zobrazuje nejnovější příspěvky na vašem blogu v sestupném pořadí.
 
 <strong>RSS</strong>
 
-The RSS widget allows you to display an RSS or ATOM feed in the sidebar of your site. You can modify the number of entries, and display titles only or short excerpts of the entries.
+Modul widget RSS umožňuje zobrazovat RSS nebo ATOM kanál na postranním panelu vašeho webu. Můžete upravit počet položek a zobrazovat pouze tituly nebo krátké úryvky záznamů.
 
-<strong>Search</strong>
+<strong>Vyhledávání</strong>
 
-The Search widget adds a search box to your blog sidebar or footer, allowing readers to easily search your site for posts and pages you’ve written in the past
+Widget pro vyhledávání přidá do vašeho blogového postranního panelu nebo zápatí vyhledávací pole, díky čemuž mohou čtenáři snadno vyhledávat vaše stránky pro příspěvky a stránky, které jste v minulosti napsali
 
 <strong>Stout Google Calendar</strong>
 
-The Stout Google Calendar plugin allows you to easily add and customize embedded Google Calendars to your WordPress site. You can even change color settings that are not normally modifiable, allowing you to seamlessly integrate Google Calendars into the look of your site. This widget displays the calendar in your sidebar.
+Plugin Stout Google Calendar vám umožňuje jednoduše přidávat a přizpůsobovat vložené kalendáře Google na webovou stránku aplikace WordPress. Dokonce můžete změnit nastavení barev, které se běžně nemění, což vám umožní bez problémů integrovat kalendáře Google do vzhledu vašeho webu. Tato miniaplikace zobrazuje kalendář na postranním panelu.
 
 <strong>Tag Cloud</strong>
 
-The Tag Cloud creates a cloud (a group of words sized by use) based on the tags assigned to your posts.
+Tag Cloud vytváří cloud (skupinu slov, která je dimenzována podle použití) na základě značek přidělených vašim příspěvkům.
 
 <strong>Text</strong>
 
-The text widget is an extremely flexible widget: it can be used to post text on the sidebar of your site and can. You can also use HTML to display images and links.
+Textová miniaplikace je extrémně flexibilní widget: může být použita k postavení textu na postranním panelu vašeho webu a může. Můžete také použít HTML pro zobrazení obrázků a odkazů.
