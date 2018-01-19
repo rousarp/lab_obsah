@@ -14,7 +14,6 @@ help_tags:
   - Vytvoření
 help_category:
   - Kurzy
-  - Kurzy projekty a skupiny
 ---
 Cloning a course will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.
 <ol>
