@@ -14,15 +14,15 @@ help_category:
   - Jak mohu ...?
 ---
 <h3>How Do I…</h3>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#resume">put my resume on the OpenLab? You said something about “hosting my resume.”</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#createportfolio">create a Portfolio or ePortfolio?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#findlink">find the link to my Portfolio?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#image">include an image or video in my Portfolio?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#changemenu">change the menu at the top of my Portfolio site?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#changetitle">change the title of my Portfolio?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#changetext">change the “About Me” text in the sidebar of my site?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#privacy">make my Portfolio public or private?</a>
-<a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#findstudents">find my students’ ePortfolios?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#resume">put my resume on the OpenLab? You said something about “hosting my resume.”</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#createportfolio">create a Portfolio or ePortfolio?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#findlink">find the link to my Portfolio?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#image">include an image or video in my Portfolio?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#changemenu">change the menu at the top of my Portfolio site?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#changetitle">change the title of my Portfolio?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#changetext">change the “About Me” text in the sidebar of my site?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#privacy">make my Portfolio public or private?</a>
+<a href="https://lab.urad.online/help/prace-portfolio/#findstudents">find my students’ ePortfolios?</a>
 <h4>How do I put my resume on the OpenLab? You said something about “hosting my resume.”</h4>
 <ul>
  	<li>The best place for your resume is on an <a href="https://lab.urad.online/help/help-category/student-eportfolios/">ePortfolio </a>site.</li>
