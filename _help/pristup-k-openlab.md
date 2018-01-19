@@ -15,47 +15,47 @@ help_category:
   - Odstraňování problémů
 ---
 <ul>
- 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#ctemail">I don’t know my City Tech email and/or password. How do I sign up for the OpenLab?</a></li>
- 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#accounttype">I’m trying to create an account but the dropdown where I choose my account type is blank so I can’t choose anything.</a></li>
- 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#confirmation">I signed up for the OpenLab but I’m not getting the confirmation email.</a></li>
- 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#activationkey">I tried to create my account but when I click on the link in the confirmation email, I see a message that an activation key is needed.</a></li>
- 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#login">I can’t log in to the OpenLab.</a></li>
- 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#forgotpassword">I forgot my username and/or password.</a><a name="ctemail"></a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#ctemail">Neznám svou e-mailovou adresu a / nebo heslo pro město Tech. Jak se zaregistruji k OpenLab?</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#accounttype">Snažím se vytvořit účet, ale rozbalovací seznam, kde si zvolím svůj typ účtu, je prázdný, takže nemohu nic vybrat.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#confirmation">Přihlásil jsem se do OpenLab, ale nedostávám potvrzovací e-mail.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#activationkey">Snažil jsem se vytvořit svůj účet, ale když kliknu na odkaz v potvrzovacím e-mailu, uvidím zprávu, že je zapotřebí aktivační klíč.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#login">Nemohu se přihlásit k OpenLabu.</a></li>
+ 	<li><a href="https://lab.urad.online/help/pristup-k-openlab/#forgotpassword">Zapomněl jsem své uživatelské jméno a / nebo heslo.</a><a name="ctemail"></a></li>
 </ul>
-<h4>I don’t know my City Tech email and/or password. How do I sign up for the OpenLab?</h4>
+<h4>Neznám svou e-mailovou adresu a / nebo heslo pro město Tech. Jak se zaregistruji k OpenLab?</h4>
 <ul>
- 	<li>You need<a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/"> access</a> to your City Tech email in order to sign up for an account.</li>
- 	<li>Students can contact the Help Desk on the first floor of the Atrium Building, at 718-260-4900, or studenthelpdesk@citytech.cuny.edu.  Faculty and staff can contact<a href="http://cis.citytech.cuny.edu/index.aspx"> Computing and Information Services</a>.</li>
- 	<li>Once you are able to access to your email, please follow our<a href="https://lab.urad.online/help/registrace-na-openlab/"> instructions</a> on how to create an account.<a name="accounttype"></a></li>
+ 	<li>Chcete -li se přihlásit k účtu, potřebujete <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">přístup</a> k e-mailu City Tech.</li>
+ 	<li>Studenti se mohou obrátit na Help Desk v prvním patře budov Atrium na adrese 718-260-4900 nebo studenthelpdesk@citytech.cuny.edu. Fakulta a pracovníci mohou kontaktovat <a href="http://cis.citytech.cuny.edu/index.aspx">výpočetní a informační služby</a> .</li>
+ 	<li>Jakmile budete mít přístup k e-mailu, postupujte podle <a href="https://lab.urad.online/help/registrace-na-openlab/">pokynů</a> k vytvoření účtu.<a name="accounttype"></a></li>
 </ul>
-<h4>I’m trying to create an account but the dropdown where I choose my account type is blank so I can’t choose anything.</h4>
+<h4>Snažím se vytvořit účet, ale rozbalovací seznam, kde si zvolím svůj typ účtu, je prázdný, takže nemohu nic vybrat.</h4>
 <ul>
- 	<li>Go back and check your email address.  Did you enter everything correctly?</li>
- 	<li>Student email should look like this: <a href="mailto:firstname.lastname@mail.citytech.cuny.edu">firstname.lastname@mail.citytech.cuny.edu</a></li>
- 	<li>Faculty and staff email should look like this: <a href="mailto:jsmith@citytech.cuny.edu">jsmith@citytech.cuny.edu</a></li>
- 	<li>Once your email address is formatted correctly, the dropdown should show either student, or you can choose faculty or staff.<a name="confirmation"></a></li>
+ 	<li>Vraťte se a zkontrolujte e-mailovou adresu. Zadali jste vše správně?</li>
+ 	<li>Studentský e-mail by měl vypadat takto: <a href="mailto:firstname.lastname@mail.citytech.cuny.edu">firstname.lastname@mail.citytech.cuny.edu</a></li>
+ 	<li>E-mail na fakultě a zaměstnanci by měl vypadat takto: <a href="mailto:jsmith@citytech.cuny.edu">jsmith@citytech.cuny.edu</a></li>
+ 	<li>Jakmile je vaše e-mailová adresa správně formátována, rozbalovací nabídka by měla zobrazovat buď studenta, nebo můžete vybrat fakultu nebo zaměstnance.<a name="confirmation"></a></li>
 </ul>
-<h4>I signed up for the OpenLab but I’m not getting the confirmation email.</h4>
+<h4>Přihlásil jsem se do OpenLab, ale nedostávám potvrzovací e-mail.</h4>
 <ul>
- 	<li>Have you refreshed your inbox?  Try waiting for a few minutes and refreshing your inbox.</li>
- 	<li>Have you checked in your spam folder?  There’s a chance it could have gotten caught there.</li>
- 	<li>In rare occasions, it could take over an hour to receive the email.</li>
- 	<li>Please <a href="https://lab.urad.online/help/contact-us">contact us</a> if you’re still having trouble.<a name="activationkey"></a></li>
+ 	<li>Obnovili jste svou schránku? Vyzkoušejte několik minut a aktualizujte doručenou poštu.</li>
+ 	<li>Zkontrolovali jste složku spamu? Je tu šance, že by se tam dostala.</li>
+ 	<li>Ve vzácných případech může trvat přes hodinu, než obdržíte e-mail.</li>
+ 	<li>Prosím <a href="https://lab.urad.online/help/contact-us">kontaktujte nás</a> , pokud máte stále potíže.<a name="activationkey"></a></li>
 </ul>
-<h4>I tried to create my account but when I click on the link in the confirmation email, I see a message that an activation key is needed.</h4>
+<h4>Snažil jsem se vytvořit svůj účet, ale když kliknu na odkaz v potvrzovacím e-mailu, uvidím zprávu, že je zapotřebí aktivační klíč.</h4>
 <ul>
- 	<li>Have you checked to make sure you’re not already logged in?  If not, go back to the OpenLab home page or refresh the page you’re on.  You will probably see that you’re already logged in.</li>
- 	<li>If this doesn’t work, try closing your browser, opening it again, and trying to log in.<a name="login"></a></li>
+ 	<li>Zkontrolovali jste, zda nejste přihlášeni? Pokud tomu tak není, přejděte zpět na domovskou stránku OpenLab nebo obnovte stránku, na které se právě nacházíte. Budete pravděpodobně vidět, že jste již přihlášeni.</li>
+ 	<li>Pokud to nefunguje, zkuste zavřít prohlížeč, znovu ho otevřít a pokusit se přihlásit.<a name="login"></a></li>
 </ul>
-<h4>I can’t log in to the OpenLab.</h4>
+<h4>Nemohu se přihlásit k OpenLabu.</h4>
 <ul>
- 	<li>Have you <a href="https://lab.urad.online/help/registrace-na-openlab/">signed up</a> for an account? If not, please follow our<a href="https://lab.urad.online/help/registrace-na-openlab/"> instructions</a> on how to create an account.</li>
- 	<li>If you have signed up recently, have you received the confirmation email from the OpenLab and clicked on the link in the email to confirm your account? If not, look for the email in your inbox. Please see step 4 of <a href="https://lab.urad.online/help/registrace-na-openlab/">Signing up on the OpenLab</a>.</li>
- 	<li>Have you forgotten your username and/or password? If so, click the Forgot Password link in the Log in box on the<a href="https://lab.urad.online/"> OpenLab homepage</a> and enter your City Tech email or username to reset your password. You will receive an email with a link to reset your password, as well as a reminder of your username.</li>
- 	<li>Please <a href="https://lab.urad.online/help/contact-us">contact us</a> if you’re still having trouble.<a name="forgotpassword"></a></li>
+ 	<li><a href="https://lab.urad.online/help/registrace-na-openlab/">Přihlásili</a> jste <a href="https://lab.urad.online/help/registrace-na-openlab/">se</a> k účtu? Pokud ne, postupujte podle <a href="https://lab.urad.online/help/registrace-na-openlab/">pokynů</a> k vytvoření účtu.</li>
+ 	<li>Pokud jste se zaregistrovali nedávno, obdržíte potvrzovací e-mail od OpenLab a kliknutím na odkaz v e-mailu potvrdíte svůj účet? Pokud tomu tak není, podívejte se na e-mail v doručené poště. Prostudujte si krok 4 v části <a href="https://lab.urad.online/help/registrace-na-openlab/">Registrace na OpenLab</a> .</li>
+ 	<li>Zapomněli jste své uživatelské jméno a / nebo heslo? Pokud ano, klikněte na odkaz Zapomenuté heslo v poli Přihlašovací jméno na <a href="https://lab.urad.online/">domovské</a> stránce <a href="https://lab.urad.online/">OpenLab</a> a zadejte své e-mailové jméno nebo uživatelské jméno v City Tech, abyste <a href="https://lab.urad.online/">obnovili</a>heslo. Obdržíte e-mail s odkazem na obnovení hesla a připomenutí vašeho uživatelského jména.</li>
+ 	<li>Prosím <a href="https://lab.urad.online/help/contact-us">kontaktujte nás</a> , pokud máte stále potíže.<a name="forgotpassword"></a></li>
 </ul>
-<h4>I forgot my username and/or password.</h4>
+<h4>Zapomněl jsem své uživatelské jméno a / nebo heslo.</h4>
 <ul>
- 	<li>Have you tried resetting your password?</li>
- 	<li>Click the Forgot Password link in the Log in box on the<a href="https://lab.urad.online/"> OpenLab homepage</a> and enter your City Tech email or username to reset your password. You will receive an email with a link to reset your password, as well as a reminder of your username.</li>
+ 	<li>Zkusili jste obnovit své heslo?</li>
+ 	<li>Klikněte na odkaz Zapomenuté heslo v poli Přihlašovací jméno na <a href="https://lab.urad.online/">domovské</a> stránce <a href="https://lab.urad.online/">OpenLab</a> a zadejte své e-mailové jméno nebo uživatelské jméno v City Tech, abyste <a href="https://lab.urad.online/">obnovili</a> heslo. Obdržíte e-mail s odkazem na obnovení hesla a připomenutí vašeho uživatelského jména.</li>
 </ul>
