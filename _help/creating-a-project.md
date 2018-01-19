@@ -11,7 +11,6 @@ post_date: 2018-01-15 22:03:08
 help_tags:
   - Vytvoření
 help_category:
-  - Kurzy projekty a skupiny
   - Projekty
 ---
 1. After logging in, click <strong>My OpenLab</strong> in the main menu. Then click <strong>My Projects</strong> on the right-hand menu. On the My Projects page, click <strong>+ Create a Project</strong> at the top of the page.
