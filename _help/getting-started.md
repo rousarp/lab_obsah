@@ -27,7 +27,7 @@ help_category: [ ]
  	<li>your account type (student, alumni, faculty, or staff)</li>
 </ul>
 Apart from the City Tech email address, all of this information can be changed later by visiting <strong>Settings</strong> under <strong>My OpenLab</strong>.
-<blockquote>NOTE:  There is a difference between your username, which you use to log in to the City Tech site, and your display name, which is visible to others.  Your username, for example, might be ‘jsmith24’ but you might prefer your visible, display name to reflect you professionally or in your City Tech roll as student, professor, or staff member:  ‘jane smith,’ for example, or ‘Professor Jane Smith’<a id="email" href="https://lab.urad.online/help/signing-up-on-the-openlab/" name="email"></a></blockquote>
+<blockquote>NOTE:  There is a difference between your username, which you use to log in to the City Tech site, and your display name, which is visible to others.  Your username, for example, might be ‘jsmith24’ but you might prefer your visible, display name to reflect you professionally or in your City Tech roll as student, professor, or staff member:  ‘jane smith,’ for example, or ‘Professor Jane Smith’<a id="email" href="https://lab.urad.online/help/registrace-na-openlab/" name="email"></a></blockquote>
 <img class="alignnone wp-image-36130 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_2_v3.png" alt="screen shot" />
 
 3. Once you’ve done that, click <strong>Complete Sign Up</strong>.  Now you just have one more step!
@@ -49,4 +49,4 @@ You do not need to go through this process again.  When you want to come back t
 &nbsp;
 
 </div>
-<small>This content is created from https://openlab.citytech.cuny.edu/blog/help/signing-up-on-the-openlab/ with <a href="https://codecanyon.net/item/scrapes-web-scraper-plugin-for-wordpress/18918857?ref=Octolooks">Octolooks Scrapes</a></small>
+<small>This content is created from https://openlab.citytech.cuny.edu/blog/help/registrace-na-openlab/ with <a href="https://codecanyon.net/item/scrapes-web-scraper-plugin-for-wordpress/18918857?ref=Octolooks">Octolooks Scrapes</a></small>
