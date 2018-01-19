@@ -14,7 +14,6 @@ help_tags:
   - Vytvoření
 help_category:
   - Kurzy
-  - Kurzy projekty a skupiny
 ---
 1. After logging in, click <strong>My OpenLab </strong>in the main menu. Then click <strong>My Courses</strong> in the right-hand menu. On the My Courses page, click <strong>+ Create / Clone a Course</strong> at the top of the page.
 
