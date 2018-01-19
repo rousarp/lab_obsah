@@ -2,9 +2,7 @@
 ID: 1588
 post_title: >
   Zachování přístupu k účtu OpenLab
-  (pro zaměsnance, kteří ukončili
-  pracovní poměr v instituci veřejné
-  správy)
+  (po odchodu ze zaměstnání)
 author: admin
 post_excerpt: ""
 layout: help
