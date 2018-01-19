@@ -17,22 +17,22 @@ help_category:
     Změny nastavení pro kurzy, projekty a
     skupiny
 ---
-To edit the profile of a course, project, or club, make sure that you’re logged in, and that you are the administrator of the site.
+Chcete-li upravit profil kurzu, projektu nebo klubu, ujistěte se, že jste přihlášeni a že jste správcem stránek.
 
-1. Once you’ve done that, click My OpenLab in the main menu, then <strong>My Courses/Projects/Clubs</strong> in the right-hand menu.  Find the course that you’d like to edit, then click the tile.
+1. Jakmile to uděláte, klikněte v hlavní nabídce na nabídku My OpenLab a potom na <strong>moje kurzy / projekty / kluby</strong> v pravé nabídce. Najděte kurz, který chcete upravit, a klikněte na dlaždici.
 
-<img class="alignnone wp-image-36482 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_CPC_Settings_1_V2.png" alt="Edit Project Screen Shot" />
+<img class="alignnone wp-image-36482 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_CPC_Settings_1_V2.png" alt="Upravit projekci obrazovky" />
 
-2. Click <strong>Edit Profile</strong> in the Settings Menu.
+2. V nabídce Nastavení klepněte na tlačítko <strong>Upravit profil</strong> .
 
-<img class="alignnone wp-image-36483 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_CPC_Settings_2_V2.png" alt="Edit Project Profile Screen Shot" />
+<img class="alignnone wp-image-36483 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_CPC_Settings_2_V2.png" alt="Upravit profil projektu" />
 
-3. Here you can change the title and description of the course, project, or club.
+3. Zde můžete změnit název a popis kurzu, projektu nebo klubu.
 
-4. Here you can decide whether users will get email notification for changes to the course, project, or club.
+4. Zde se můžete rozhodnout, zda uživatelé obdrží e-mailové oznámení o změnách kurzu, projektu nebo klubu.
 
-Please note: there are a few additional options for courses, such as the ability to change the course code, section, and semester.
+Upozorňujeme, že pro kurzy existuje několik dalších možností, jako je možnost změny kódu kurzu, sekce a semestru.
 
-5.  Lastly, here you can associate your course, project, or club with a particular City Tech school.  This simply allows it to show up under those designations in our search functions.
+5. Konečně můžete zde spojit svůj kurz, projekt nebo klub s konkrétní školou City Tech. To jednoduše dovoluje, aby se objevila pod těmito označeními v našich vyhledávacích funkcích.
 
-<img class="alignnone wp-image-36484 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_CPC_Profile_3_V2.png" alt="Edit Project Profile Screen Shot" />
+<img class="alignnone wp-image-36484 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Editing_CPC_Profile_3_V2.png" alt="Upravit profil projektu" />
