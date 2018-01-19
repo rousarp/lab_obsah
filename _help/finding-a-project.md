@@ -11,7 +11,6 @@ post_date: 2018-01-15 22:01:23
 help_tags:
   - Nalezení
 help_category:
-  - Kurzy projekty a skupiny
   - Projekty
 ---
 1. If you are already a member of the project, log in and click on <strong>My OpenLab</strong> in the main menu. In the right-hand menu, click <strong>My Projects</strong>.  You will see a list of all the projects of which you are a member.
