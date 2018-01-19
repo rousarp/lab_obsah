@@ -14,17 +14,17 @@ help_tags:
 help_category:
   - Uživatelé na OpenLab
 ---
-You can find people on the OpenLab in several different ways.
+Lidé v OpenLabu můžete najít několika různými způsoby.
 
-1. You can find people by typing in a username or portion of a display name into the <strong>Search</strong> field in the upper right corner (just below the top menu) of any page, being sure that People is selected.
+1. Lidé můžete nalézt zadáním uživatelského jména nebo části zobrazovaného názvu do <strong>vyhledávacího</strong> pole v pravém horním rohu (těsně pod horním menu) kterékoli stránky a budete si jisti, že je vybrána možnost Lidé.
 
-2. You can also search for people with some help by clicking <strong>People</strong> in the main menu.  You’ll be taken to a page which shows the latest active members of the OpenLab (which you could search through manually).  You can also use the right-hand menu to browse by alphabetical, newest, or last active members.  And you can filter by type (faculty, student, or staff).  Below that you can type display names into the search field as well, which works like step 1 (above).
+2. Můžete také hledat lidi s nějakou pomocí klepnutím na položku <strong>Lidé</strong> v hlavní nabídce. Budete převedeni na stránku, která zobrazuje nejnovější aktivní členy OpenLab (které můžete vyhledávat ručně). Můžete také použít pravou nabídku pro procházení podle abecedních, nejnovějších nebo posledních aktivních členů. A můžete filtrovat podle typu (fakulty, studenta nebo zaměstnance). Dále můžete zadat zobrazená jména do vyhledávacího pole, která funguje stejně jako v kroku 1 (výše).
 
-3. If you’re not looking for anyone specific, or if you know the person that you’re searching for is likely to be on the OpenLab, or has recently been on the OpenLab, you’ll see that there are several places on the OpenLab where profile images appear based on who was last active.
+3. Pokud nehledáte žádného konkrétního uživatele, nebo pokud víte, že osoba, kterou hledáte, pravděpodobně bude v OpenLabu nebo byla v nedávné době v OpenLab, uvidíte, že je na něm několik míst OpenLab, kde se zobrazují profilové obrázky podle toho, kdo byl naposledy aktivní.
 
-One of these is the OpenLab home page…
+Jednou z nich je domovská stránka OpenLab ...
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/finding_people_on_the_openlab1.png"><img class="alignnone wp-image-36873 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/finding_people_on_the_openlab1.png" alt="Finding people screenshot 1" /></a>
-<p dir="ltr"><a href="https://lab.urad.online/wp-content/uploads/2012/09/finding_people_on_the_openlab2.png"><img class="alignnone wp-image-36874 size-full" title="Finding_People_3" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/finding_people_on_the_openlab2.png" alt="Finding people screenshot 2" /></a></p>
-<p dir="ltr">And another is in My OpenLab, though this is a place where you can only find people you have already friended.  You can find your friends either at the bottom of your <strong>My OpenLab</strong> page (shown below), or by going to <strong>My OpenLab</strong> and clicking on <strong>My Friends</strong> in the right-hand menu.</p>
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/finding_people_on_the_openlab3.png"><img class="alignnone wp-image-36875 size-full" title="Finding_People_2.png" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/finding_people_on_the_openlab3.png" alt="Finding people screenshot 3" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/finding_people_on_the_openlab1.png"><img class="alignnone wp-image-36873 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/finding_people_on_the_openlab1.png" alt="Hledání screenshotů lidí 1" /></a>
+<p dir="ltr"><a href="https://lab.urad.online/wp-content/uploads/2012/09/finding_people_on_the_openlab2.png"><img class="alignnone wp-image-36874 size-full" title="Finding_People_3" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/finding_people_on_the_openlab2.png" alt="Hledání screenshotů lidí 2" /></a></p>
+<p dir="ltr">A další je v programu My OpenLab, i když je to místo, kde můžete najít pouze lidi, se kterými jste se již přátelili. Můžete najít své přátele buď v dolní části stránky <strong>My OpenLab</strong> (viz níže), nebo tím, že přejdete do <strong>složky My OpenLab</strong> a v pravém menu kliknete na položku <strong>Moji přátelé</strong> .</p>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/finding_people_on_the_openlab3.png"><img class="alignnone wp-image-36875 size-full" title="Finding_People_2.png" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/finding_people_on_the_openlab3.png" alt="Hledání screenshotů lidí 3" /></a>
