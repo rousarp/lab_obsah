@@ -14,11 +14,11 @@ help_category:
   - Jak mohu ...?
 ---
 <h3>How Do I…</h3>
-<a href="https://lab.urad.online/help/work-in-a-club/#changeadmins">make someone else the admin? I’m the admin for my club but I’m graduating.</a>
-<a href="https://lab.urad.online/help/work-in-a-club/#multipleadmins">make it possible to allow several people to be able to update our club website?</a>
-<a href="https://lab.urad.online/help/work-in-a-club/#linksite">link our existing website to our OpenLab Club Profile?</a>
-<a href="https://lab.urad.online/help/work-in-a-club/#newsite">start using a site on the OpenLab if our club has another website already?</a>
-<a href="https://lab.urad.online/help/work-in-a-club/#post">post or upload material on the OpenLab?</a><a name="changeadmins"></a>
+<a href="https://lab.urad.online/help/prace-skupina/#changeadmins">make someone else the admin? I’m the admin for my club but I’m graduating.</a>
+<a href="https://lab.urad.online/help/prace-skupina/#multipleadmins">make it possible to allow several people to be able to update our club website?</a>
+<a href="https://lab.urad.online/help/prace-skupina/#linksite">link our existing website to our OpenLab Club Profile?</a>
+<a href="https://lab.urad.online/help/prace-skupina/#newsite">start using a site on the OpenLab if our club has another website already?</a>
+<a href="https://lab.urad.online/help/prace-skupina/#post">post or upload material on the OpenLab?</a><a name="changeadmins"></a>
 <h4>How do I make someone else the admin? I’m the admin for my club but I’m graduating.</h4>
 <ul>
  	<li>If they’re not already a member of your club on the OpenLab, they’ll need to <a href="https://lab.urad.online/help/joining-a-club/">join it</a>.<a name="change2project"></a></li>
