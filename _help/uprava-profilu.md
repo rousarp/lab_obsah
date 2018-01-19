@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/edit-my-profile/
+  https://lab.urad.online/help/uprava-profilu/
 published: true
 post_date: 2018-01-15 23:00:42
 help_tags:
