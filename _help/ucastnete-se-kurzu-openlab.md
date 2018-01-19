@@ -13,39 +13,39 @@ help_tags:
 help_category:
   - Jak mohu ...?
 ---
-<h3>How Do I…</h3>
-<a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#postassignments">post or upload assignments on the OpenLab?</a>
-<a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#postmaterials">post or upload course materials on the OpenLab?
-</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#findcourse">help my students find my Course?
-</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#discussion">set up a discussion board?
-</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#setupcourse">set up a Course on the OpenLab? (Faculty-only)</a><a name="postassignments"></a>
-<h4>How Do I Post or Upload Assignments on the OpenLab?</h4>
+<h3>Jak mohu ...</h3>
+<a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#postassignments">post nebo nahrát přiřazení na OpenLab? </a>
+<a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#postmaterials">post nebo nahrát materiály kurzu na OpenLab?
+</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#findcourse">pomozte mým studentům najít svůj kurz?
+</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#discussion">založit diskusní panel?
+</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#setupcourse">nastavit kurz na OpenLab? (Pouze fakulta)</a><a name="postassignments"></a>
+<h4>Jak mohu odeslat nebo nahrát přiřazení na OpenLab?</h4>
 <ul>
- 	<li>To post/upload course assignments, first make sure that you are a <a href="https://lab.urad.online/help/joining-a-course/">member</a> of your OpenLab course by clicking <strong>Join Now</strong> or <strong>Request Membership</strong> on your course’s profile page.</li>
- 	<li>Once you are a member of an OpenLab course, you can post and/or upload your assignment by going to the course’s profile page and clicking <strong>Dashboard</strong> underneath the <strong>Course Site</strong> link on the right-hand side of your screen.</li>
- 	<li>From the Dashboard, you can click <strong>Posts</strong> &gt; <strong>Add New</strong> <a href="https://lab.urad.online/help/writing-a-post/">to post or upload your assignment</a>.<a name="postmaterials"></a></li>
+ 	<li>Chcete-li odesílat / nahrát přiřazené předměty, nejprve se ujistěte, že jste <a href="https://lab.urad.online/help/joining-a-course/">členem</a> kurzu OpenLab, kliknutím na tlačítko <strong>Připojit se nyní</strong> nebo <strong>požádat o členství</strong> na stránce profilu kurzu.</li>
+ 	<li>Jakmile jste členem kurzu OpenLab, můžete odeslat a / nebo nahrát svou práci na stránce profilu kurzu a kliknutím na <strong>panel Dashboard</strong> pod linkou <strong>Course Site</strong> na pravé straně obrazovky.</li>
+ 	<li>Na panelu Dashboard můžete kliknout na položky <strong>Příspěvky</strong> &gt; <strong>Přidat nový, </strong><a href="https://lab.urad.online/help/writing-a-post/">abyste mohli zveřejnit nebo odevzdat zadání</a> .<a name="postmaterials"></a></li>
 </ul>
-<h4>How Do I Post or Upload Course Materials on the OpenLab?</h4>
+<h4>Jak mohu publikovat nebo nahrát materiály kurzu na OpenLab?</h4>
 <ul>
- 	<li>You can post or upload materials to your course’s profile page or to your course site.</li>
- 	<li>For example, on your course’s profile page, you can <a href="https://lab.urad.online/help/discussion-forums/">post new topics to a discussion forum</a>.</li>
- 	<li>You can also <a href="https://lab.urad.online/help/using-files/">upload files to your course’s profile page</a> or create a <a href="https://lab.urad.online/help/using-docs/">collaborative document</a>.</li>
- 	<li>You can post and/or upload materials to your course site by going to the course’s and clicking <strong>Dashboard</strong> underneath the <strong>Course Site</strong> link on the right-hand side of your screen.</li>
- 	<li>From the Dashboard, you can click <strong>Posts</strong> &gt; <strong>Add New</strong> <a href="https://lab.urad.online/help/writing-a-post/">to post or upload your course materials.</a><a name="findcourse"></a></li>
+ 	<li>Materiály můžete odeslat nebo nahrát na stránku profilu kurzu nebo na stránku kurzu.</li>
+ 	<li>Například na stránce profilu kurzu můžete <a href="https://lab.urad.online/help/discussion-forums/">do diskuzního fóra přidávat nová témata</a> .</li>
+ 	<li>Můžete také <a href="https://lab.urad.online/help/using-files/">nahrát soubory na stránku profilu kurzu</a> nebo vytvořit <a href="https://lab.urad.online/help/using-docs/">dokument pro spolupráci</a> .</li>
+ 	<li>Můžete posílat a / nebo nahrávat materiály do svého kurzu tím, že <strong>navštívíte</strong> kurzor a kliknete na <strong>Dashboard</strong> pod odkazem <strong>Course Site</strong> na pravé straně obrazovky.</li>
+ 	<li>Na panelu Dashboard můžete kliknout na položky <strong>Příspěvky</strong> &gt; <strong>Přidat nový, </strong><a href="https://lab.urad.online/help/writing-a-post/">abyste mohli publikovat nebo odevzdat materiály kurzu.</a><a name="findcourse"></a></li>
 </ul>
-<h4>How Do I Help My Students Find My Course?</h4>
+<h4>Jak mohu pomoci studentům najít svůj kurz?</h4>
 <ul>
- 	<li>You can <a href="https://lab.urad.online/help/finding-a-course/">find a course</a> by clicking <strong>Courses</strong> from the main menu at the top of the OpenLab homepage. You can narrow your search by using the filter options (school, semester, etc.) in the right-hand menu on the Courses page.</li>
- 	<li>You can also find an OpenLab course by using the search bar at the top right-hand corner of your screen. Enter the course name and select <strong>Courses</strong> in the drop-down menu next to the search box.</li>
- 	<li>From your course profile page, students can join your course by clicking <strong>Join Now</strong> beneath the course avatar or if the course is restricted to members only by clicking <strong>Request Membership</strong>.<a name="discussion"></a></li>
+ 	<li>Můžete <a href="https://lab.urad.online/help/finding-a-course/">najít kurz</a> kliknutím <strong>kurzy</strong> z hlavního menu v horní části openlab domovské stránce. Můžete vyhledávat podle možností filtrů (škola, semestr atd.) V pravé nabídce na stránce Kurzy.</li>
+ 	<li>Můžete také najít kurz OpenLab pomocí vyhledávacího panelu v pravém horním rohu obrazovky. Zadejte název kurzu a v rozevírací nabídce vedle vyhledávacího pole vyberte možnost <strong>Kurzy</strong> .</li>
+ 	<li>Na stránce profilu kurzu se studenti mohou připojit k vašemu kurzu kliknutím na tlačítko <strong>Připojit se nyní</strong> pod avatarem kurzu nebo pokud je kurz omezen pouze na členy kliknutím na položku <strong>Požádat o členství</strong> .<a name="discussion"></a></li>
 </ul>
-<h4>How Do I Set Up a Discussion Board?</h4>
+<h4>Jak nastavím diskusní panel?</h4>
 <ul>
- 	<li>You can set up a discussion board or <a href="https://lab.urad.online/help/discussion-forums/">“discussion forum”</a> on the the profile page of your OpenLab course, project, or club.</li>
- 	<li>To set up a discussion board, go to your profile page and click <strong>Discussion</strong> in the right-hand menu.</li>
- 	<li>Once you are on the <a href="https://lab.urad.online/help/discussion-forums/">Discussion page</a>, you can click <strong>New Topic</strong> and enter your discussion topic title and content. When you are finished starting a new discussion, you can click <strong>Post Topic</strong>.<a name="setupcourse"></a></li>
+ 	<li>Můžete vytvořit <a href="https://lab.urad.online/help/discussion-forums/">diskusní fóra</a> nebo <a href="https://lab.urad.online/help/discussion-forums/">"diskusní fórum"</a> na stránce profilu vašeho kurzu, projektu nebo klubu OpenLab.</li>
+ 	<li>Chcete-li nastavit diskusní panel, přejděte na svou stránku profilu a v pravé nabídce klikněte na <strong>Diskuse</strong> .</li>
+ 	<li>Jakmile jste na stránce <a href="https://lab.urad.online/help/discussion-forums/">Diskuze</a> , můžete klepnout na položku <strong>Nová témata</strong> a zadat název a obsah diskuzní témy. Po dokončení nové diskuze klikněte na položku <strong>Post Topic</strong> .<a name="setupcourse"></a></li>
 </ul>
-<h4>How Do I Set Up a Course on the OpenLab? (Faculty-only)</h4>
+<h4>Jak nastavím kurz na OpenLab? (Pouze fakulta)</h4>
 <ul>
- 	<li>Once you are signed in to the OpenLab, you can click <strong>My OpenLab</strong> in the main menu. Then click <strong>My Courses</strong> in the right-hand menu. On the My Courses pages, click <strong>+Create/Clone a Course</strong> to <a href="https://lab.urad.online/help/creating-a-course-faculty-only/">create a new course or to clone an existing one</a>.</li>
+ 	<li>Jakmile jste přihlášeni do OpenLab, můžete kliknout na <strong>My OpenLab</strong> v hlavní nabídce. Poté klikněte na <strong>moje kurzy</strong> v pravé nabídce. Na stránkách Moje kurzy klikněte na tlačítko <strong>+ Vytvořit / Klonovat kurz</strong> k <a href="https://lab.urad.online/help/creating-a-course-faculty-only/">vytvoření nového kurzu nebo k klonování existujícího kurzu</a> .</li>
 </ul>
