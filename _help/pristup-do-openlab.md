@@ -15,13 +15,13 @@ help_category:
   - Jak mohu ...?
 ---
 <h3>Jak mohu…</h3>
-<a href="https://lab.urad.online/help/access-the-openlab/#gainaccess">získat přístup k OpenLab?</a>
-<a href="https://lab.urad.online/help/access-the-openlab/#createaccount">vytvořit účet??</a>
-<a href="https://lab.urad.online/help/access-the-openlab/#email">přístup k mému e-mailu City Tech?</a>
-<a href="https://lab.urad.online/help/access-the-openlab/#username">vyhledat své e-mailové uživatelské jméno?</a>
-<a href="https://lab.urad.online/help/access-the-openlab/#olpassword">obnovit své heslo OpenLab, které jsem zapomněl(a)?</a>
-<a href="https://lab.urad.online/help/access-the-openlab/#emailpassword">resetovat moje e-mailové heslo?</a><a name="gainaccess"></a>
-<a href="https://lab.urad.online/help/access-the-openlab/#alumni">pokračovat v používání OpenLabu poté, co ukončím práci a ztratím pracovní emailovou adresu?</a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#gainaccess">získat přístup k OpenLab?</a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#createaccount">vytvořit účet??</a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#email">přístup k mému e-mailu City Tech?</a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#username">vyhledat své e-mailové uživatelské jméno?</a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#olpassword">obnovit své heslo OpenLab, které jsem zapomněl(a)?</a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#emailpassword">resetovat moje e-mailové heslo?</a><a name="gainaccess"></a>
+<a href="https://lab.urad.online/help/pristup-do-openlab/#alumni">pokračovat v používání OpenLabu poté, co ukončím práci a ztratím pracovní emailovou adresu?</a>
 <h4>Jak získat přístup k OpenLab?</h4>
 <ul>
  	<li>Každý může procházet portálem OpenLab, ale pouze zaměstnanci úřadů nebo osobám s přiděleným přístupem se mohou <a href="https://lab.urad.online/help/registrace-na-openlab/">registrovat</a> a získat OpenLab účet.</li>
