@@ -9,12 +9,11 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:13:07
 help_tags:
-  - Připojení
   - Úvod
+  - Připojení
   - Vytvoření
 help_category:
   - Nastavení účtu
-  - Začínáme
 ---
 <blockquote>POZNÁMKA NEŽ ZAČNETE: Chcete-li vytvořit účet na OpenLab, budete muset mít přístup k e-mailovému účtu organizace veřejné správy. Pokud ho nemáte, budete se muset obrátit na Help Desk helpdesk@openlab.urad.online nebo postupovat podle návodu zde.</blockquote>
 1. Jakmile jste si jisti, že máte přístup k e-mailovému účtu libovolné organizace veřejné správy, přejděte na  <a href="https://lab.urad.online">domovskou stránku OpenLab</a>  ( <a href="https://lab.urad.online">https://lab.urad.online</a> ). Registraci <strong>OpenLab</strong> uvidíte v levé části obrazovky. Klikněte na položku <strong>Registrace.</strong>
