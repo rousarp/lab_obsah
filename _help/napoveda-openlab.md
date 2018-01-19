@@ -1,7 +1,7 @@
 ---
-ID: 1590
+ID: 2023
 post_title: Nápověda OpenLab
-author: admin
+author: pavel
 post_excerpt: ""
 layout: help
 permalink: >
@@ -10,12 +10,11 @@ published: true
 post_date: 2018-01-15 23:17:51
 help_tags: [ ]
 help_category:
-  - OpenLab Help
+  - Nápověda OpenLab
 ---
 <h2>Máte otázku? Jste na správném místě!</h2>
 Začněte procházením témat napravo. Níže uvádíme několik nejčastějších nejčastějších otázek.
-<blockquote>
-Potřebujete pomoc s …
+<blockquote>Potřebujete pomoc s …
 <ul>
  	<li><a href="https://lab.urad.online/help/signing-up-on-the-openlab/">vytvořením účtu na portále OpenLab</a>?</li>
  	<li><a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">získáním přístupu k účtu veřejné správy</a>?</li>
