@@ -12,7 +12,6 @@ help_tags:
   - Vytvoření
 help_category:
   - Používání webu (pro členy webu)
-  - Webové stránky na OpenLab
 ---
 1. To embed a video to your site from a video-hosting site such as YouTube or Vimeo, simply copy the URL of the video onto a single line on a “New Post” or “New Page” text box.
 
