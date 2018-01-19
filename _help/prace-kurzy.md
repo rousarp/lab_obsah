@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/working-with-courses/
+  https://lab.urad.online/help/prace-kurzy/
 published: true
 post_date: 2018-01-15 22:57:27
 help_tags:
