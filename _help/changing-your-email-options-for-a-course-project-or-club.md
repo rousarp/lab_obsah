@@ -15,35 +15,35 @@ help_tags:
 help_category:
   - Používání kurzů, projektů a skupin
 ---
-1. In order to change the amount and types of emails you receive that alert you to new activity in your Course, Project, or Club you need to first log into the OpenLab. Once logged in, click the <strong>My OpenLab</strong> dropdown menu.
+1. Chcete-li změnit množství a typy e-mailů, které obdržíte tak, že vás upozorní na novou aktivitu v kurzu, projektu nebo klubu, musíte se nejprve přihlásit do OpenLab. Po přihlášení klikněte na rozbalovací nabídku <strong>My OpenLab</strong> .
 
-<img class="alignnone wp-image-36525 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_1_v2.png" alt="Emails Options Screen Shot" />
+<img class="alignnone wp-image-36525 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_1_v2.png" alt="Možnosti e-mailů Screen Shot" />
 
-2. Choose <strong>My Courses</strong>, <strong>My Projects</strong>, or <strong>My Clubs</strong> depending on the type of Group.
+2. Zvolte <strong>Moje kurzy</strong> , <strong>Moje projekty</strong> nebo <strong>Moje kluby v</strong> závislosti na typu skupiny.
 
-<img class="alignnone wp-image-36526 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_2_v2.png" alt="Emails Options Screen Shot" />
-<h3><strong>How To Change Your Email Settings for an Individual Course, Project, or Club
+<img class="alignnone wp-image-36526 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_2_v2.png" alt="Možnosti e-mailů Screen Shot" />
+<h3><strong>Jak změnit nastavení e-mailu pro jednotlivý kurz, projekt nebo klub
 </strong></h3>
-1. Once you’ve found the Course, Project, or Club you want to change the email settings for, click <strong>Membership</strong>, then click <strong>Your Email Options.</strong>
+1. Jakmile najdete kurz, projekt nebo klub, který chcete změnit nastavení e-mailu, klikněte na položku <strong>Členství</strong> a potom na <strong>možnost Možnosti e-mailu.</strong>
 
-<img class="alignnone wp-image-36534 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_3_v2.png" alt="Emails Options Membership Screen Shot" />
+<img class="alignnone wp-image-36534 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_3_v2.png" alt="E-maily Možnosti členství Screen Shot" />
 
-<img class="alignnone wp-image-36540 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_4_v2.png" alt="Emails Options Screen Shot" />
+<img class="alignnone wp-image-36540 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_4_v2.png" alt="Možnosti e-mailů Screen Shot" />
 
-2. Choose any of the five email subscription options to manage how much and what kind of email you receive about activity in your group by clicking the option you want, and click <strong>Save Settings</strong>.  REMINDER: You can only change the settings for one Course, Project, or Club at a time. In order to change the email settings in another group that you belong to, you must visit the profile that group.
+2. Zvolte některou z pěti možností odběru e-mailů, abyste mohli řídit, kolik a jaký druh e-mailů máte o činnosti ve vaší skupině, kliknutím na požadovanou možnost a kliknutím na tlačítko <strong>Uložit nastavení</strong> . POZNÁMKA: Nastavení můžete změnit pouze pro jeden kurz, projekt nebo klub. Chcete-li změnit nastavení e-mailu v jiné skupině, do které patříte, musíte navštívit tento profil.
 
-<img class="alignnone wp-image-36542 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_5_v2.png" alt="Emails Options Screen Shot" />
-<h3><strong>Admins: How to Change the Default Email Settings for New Users</strong></h3>
-1. From your Course, Project, or Club profile click <strong>Settings</strong> in the right-hand menu. Remember: You can only change the settings for one Course, Project, or Club at a time. In order to change the email settings in another group that you belong to you must visit the profile that group .
+<img class="alignnone wp-image-36542 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_5_v2.png" alt="Možnosti e-mailů Screen Shot" />
+<h3><strong>Administrátoři: Jak změnit výchozí nastavení e-mailu pro nové uživatele</strong></h3>
+1. V profilu kurzu, projektu nebo klubu klikněte na tlačítko <strong>Nastavení</strong> v pravém menu. Nezapomeňte: Nastavení můžete změnit pouze v jednom kurzu, projektu nebo v klubu. Chcete-li změnit nastavení e-mailu v jiné skupině, do které patříte, musíte navštívit tento profil.
 
-<img class="alignnone wp-image-36543 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_6_v2.png" alt="Group Email Settings Screen Shot" />
+<img class="alignnone wp-image-36543 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_6_v2.png" alt="Skupinové nastavení nastavení e-mailu" />
 
-1. Click <strong>Settings</strong> in the Settings Menu.
+1. V nabídce <strong>Nastavení</strong> klikněte na Nastavení.
 
-<img class="alignnone wp-image-36544 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_7_v2.png" alt="Project Settings Screen Shot" />
+<img class="alignnone wp-image-36544 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_7_v2.png" alt="Nastavení obrazovky Nastavení projektu" />
 
-1. Choose any of the five email subscription options to manage how much and what kind of email you would like new members of your Course, Project, or Club to receive about activity in your group by clicking the bubble next to your selection. Remember: this setting affects new members default setting, but they can always change this once they join the group.
+1. Zvolte některou z pěti možností odběru e-mailu, abyste mohli řídit, kolik a jaký typ e-mailu chcete, aby noví členové vašeho kurzu, projektu nebo klubu dostali o činnosti ve vaší skupině kliknutím na bublinu vedle vašeho výběru. Nezapomeňte: toto nastavení se týká výchozího nastavení nových členů, ale mohou je změnit vždy, jakmile se stanou členy skupiny.
 
-2. Once you’ve chosen, click <strong>Save Settings</strong>.
+2. Once you’ve chosen, click <strong>Save Settings</strong>.
 
-<img class="alignnone wp-image-36551 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_8_v2.png" alt="Email Subscriptions" />
+<img class="alignnone wp-image-36551 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Changing_Email_Options_8_v2.png" alt="Předplatné e-mailu" />
