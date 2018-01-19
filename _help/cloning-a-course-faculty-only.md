@@ -86,7 +86,7 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
 </ul>
 <strong>Chtěli byste, aby byl váš web viditelný pro registrované uživatele tohoto kurzu:</strong>
 
-<strong>Skrytý: </strong>
+<strong>Skrytý:</strong>
 
 <strong>Chtěli byste, aby byl web viditelný pouze pro správce webu:</strong>
 <ul>
@@ -94,11 +94,11 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
 </ul>
 
 <h3>Třetí krok: Náhledový obrázek kurzu</h3>
-<ol start="2">
+<ol>
 <li>Náhledový obrázek kurzu Bude zachován. Pokud chcete tento avatar ponechat, stačí kliknout na tlačítko <strong>Další krok</strong>. Chcete-li jej změnit, klikněte na možnost <strong>Procházet</strong>. Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klikněte na tlačítko <strong>Nahrát obrázek</strong>.</li>
 </ol>
 
-<ol start="3">
+<ol>
  	<li>klikněte na tlačítko <strong>Další krok</strong></li>
 </ol>
 
@@ -111,13 +111,11 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
 </ol>
 
 <strong>POZOR:</strong>
-<ol start="">
-<ul>
- 	<li style="list-style-type: none;">
- 	</li><li>Všechny vaše <a href="//lab.urad.online/help/writing-a-post/&quot;">příspěvky </a> a <a href="https://lab.urad.online/help/creating-pages-on-your-site / "> stránky </a> z předchozího kurzu budou také duplikovány. Budou však v návrhu, takže budete muset publikovat všechny, které potřebujete na novém webu zobrazit. Pokud je nezveřejníte, nezobrazí se, že vaše stránky zůstanou prázdné.</li>
+<ol ">
+<li>Všechny vaše <a href="//lab.urad.online/help/writing-a-post/&quot;">příspěvky </a> a <a href="https://lab.urad.online/help/creating-pages-on-your-site / "> stránky </a> z předchozího kurzu budou také duplikovány. Budou však v návrhu, takže budete muset publikovat všechny, které potřebujete na novém webu zobrazit. Pokud je nezveřejníte, nezobrazí se, že vaše stránky zůstanou prázdné.</li>
  	<li>Pokud jste měli vlastní <a href="https://lab.urad.online/help/changing-the-menu -on-your-site /">menu</a> bude ho muset nově aktivován, než se objeví na novém webu. Chcete-li tak učinit, přejděte na panel Nástěnka &amp; gt; Vzhled &amp; gt; Menu a klikněte na kartu Správa umístění v horní části stránky Úprava menu. Vyberte menu v rozbalovacín seznamu Primární navigace a klikněte na tlačítko Uložit změny.</li>
  	<li>Všimnete si, že všechny příspěvky na webu v <a href="https://lab.urad.online/help/discussion-forums/">Diskusním fóru</a> nebo v <a href="https://lab.urad.online/help/using-docs/">dokumentech </a>, které jste vytvořili nebo <a href="https: // lab. urad.online/help/using-files/">soubory </a> nahrané v předchozím kurzu se rovněž objeví v novém kurzu. Pokud je to nutné, můžete je zachovat nebo odstranit.</li>
-</ul>
+
 
  	<li style="list-style-type: none;">
 <ul>
