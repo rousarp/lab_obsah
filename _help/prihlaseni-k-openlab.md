@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/logging-in-to-the-openlab/
+  https://lab.urad.online/help/prihlaseni-k-openlab/
 published: true
 post_date: 2018-01-15 23:14:01
 help_tags:
