@@ -11,11 +11,10 @@ permalink: >
 published: true
 post_date: 2018-01-15 22:53:22
 help_tags:
-  - Doporučení
-  - Profil
   - Úvod
+  - Profil
+  - Doporučení
 help_category:
-  - Osvědčené postupy
   - Pro všechny
 ---
 We take privacy seriously on the OpenLab, which is why we have many different options for choosing what you want to share and with whom.
