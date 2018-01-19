@@ -12,8 +12,8 @@ help_tags:
   - Otázky a odpovědi
   - Profil
 help_category:
-  - FAQs
-  - How do I...?
+  - Jak mohu ...?
+  - Otázky a odpovědi
 ---
 <h3>How do I…</h3>
 <a href="https://lab.urad.online/help/edit-my-profile/#changeprofile">change the information in my profile?</a>

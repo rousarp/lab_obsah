@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:32:06
 help_tags:
   - Obrázky
 help_category:
-  - Sites on the OpenLab
-  - Using a Site (for Site members)
+  - Používání webu (pro členy webu)
+  - Webové stránky na OpenLab
 ---
 In addition to adding individual images to a post or page, you can also add an image gallery.
 

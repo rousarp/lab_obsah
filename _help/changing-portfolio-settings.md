@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:24:50
 help_tags:
   - Nastavení
 help_category:
-  - Faculty and Staff Portfolios
+  - Porfolia
 ---
 You can changes settings for your Portfolio on the Portfolio Profile page.  These might include privacy settings, changing an avatar, or changing the description or title of your Portfolio.
 <ol>

@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:33:24
 help_tags:
   - Doporučení
 help_category:
-  - Sites on the OpenLab
-  - Using a Site (for Site members)
+  - Používání webu (pro členy webu)
+  - Webové stránky na OpenLab
 ---
 Many people don’t notice the Screen Options menu, appearing in the upper right-hand corner when editing a post or page.  If you’ve ever wondered why you can’t find settings you might be looking for, for example, discussion (commenting) settings or the revisions history, try looking under the Screen Options menu.
 

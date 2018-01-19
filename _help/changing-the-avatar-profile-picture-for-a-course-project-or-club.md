@@ -1,8 +1,9 @@
 ---
 ID: 1463
 post_title: >
-  Změna náhledového obrázku (profilový obrázek)
- pro kurz, projekt nebo skupinu
+  Změna náhledového obrázku
+  (profilový obrázek) ro kurz, projekt
+  nebo skupinu
 author: admin
 post_excerpt: ""
 layout: help
@@ -13,10 +14,10 @@ post_date: 2018-01-15 22:14:27
 help_tags:
   - Nastavení
 help_category:
+  - Kurzy projekty a skupiny
   - >
-    Changing Settings for Courses Projects
-    and Clubs
-  - Courses Projects and Clubs
+    Změny nastavení pro kurzy, projekty a
+    skupiny
 ---
 To change the avatar for any course, project, or club, make sure that you’re logged in, and then go to your course, project, or club profile page.
 

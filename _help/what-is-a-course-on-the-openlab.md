@@ -11,8 +11,8 @@ post_date: 2018-01-15 21:55:31
 help_tags:
   - Úvod
 help_category:
-  - Courses
-  - Courses Projects and Clubs
+  - Kurzy
+  - Kurzy projekty a skupiny
 ---
 Courses on the OpenLab offer an online extension of the classroom-learning environment.  They can provide a forum for students and faculty to maintain ongoing conversations and collaborate outside of a set course time, and a space to share and discuss each other’s work.  Each course offers a <a title="Using “Discussion” forums" href="https://lab.urad.online/help/discussion-forums/">Discussion forum</a>, <a title="Using “Docs”" href="https://lab.urad.online/help/using-docs/">Docs</a> for collaborative editing, a place to upload <a title="Using “Files”" href="https://lab.urad.online/help/using-files/">Files</a>, and a <a title="Who can build a Site?" href="https://lab.urad.online/help/who-can-build-a-site/">Site</a> where faculty and students can write posts (blog entries), provide feedback, and share files and other resources.
 <h3><strong>Course Profile</strong></h3>

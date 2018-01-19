@@ -11,8 +11,8 @@ post_date: 2018-01-15 23:01:56
 help_tags:
   - Otázky a odpovědi
 help_category:
-  - FAQs
-  - How do I...?
+  - Jak mohu ...?
+  - Otázky a odpovědi
 ---
 <h3>How Do I…</h3>
 <a href="https://lab.urad.online/help/work-in-a-project/#clubproject">decide whether to choose a club or project?</a>

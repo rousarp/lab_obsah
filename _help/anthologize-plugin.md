@@ -12,8 +12,8 @@ help_tags:
   - Nástroje
   - Vytvoření
 help_category:
-  - Plugins and Widgets
-  - Sites on the OpenLab
+  - Pluginy a widgety
+  - Webové stránky na OpenLab
 ---
 To quote <a title="View all posts by Ryan Cordell" href="http://chronicle.com/blogs/profhacker/author/rcordell">Ryan Cordell</a>‘s article on the plug-in: “Anthologize was developed as a way for scholars to easily publish blog content—from a personal research blog, a course blog, or scholarly group blog, or the like—in a number of formats”:
 

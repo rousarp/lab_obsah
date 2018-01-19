@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:02:02
 help_tags:
   - Připojení
 help_category:
-  - Courses Projects and Clubs
-  - Projects
+  - Kurzy projekty a skupiny
+  - Projekty
 ---
 1. You must be logged in to the OpenLab to join a Project, so after logging in, go to the <strong>Project Profile</strong> of the Project you want to join.  (Read more about how to <a title="Finding a Project" href="https://lab.urad.online/help/finding-a-project/">find a Project</a>.)
 

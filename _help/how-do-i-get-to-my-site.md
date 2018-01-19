@@ -12,8 +12,8 @@ help_tags:
   - Nalezení
   - Úvod
 help_category:
-  - Site Basics
-  - Sites on the OpenLab
+  - Webové stránky na OpenLab
+  - Základy webových stránek
 ---
 1. You can reach your site by logging in to the OpenLab and clicking <strong>My OpenLab</strong> in the main menu.  In the right-hand menu on the following screen, click the appropriate category for which you have either <a title="Who can build a Site?" href="https://lab.urad.online/help/who-can-build-a-site/">created</a> or joined a site (i.e., My Courses, My Projects, My Clubs) and then click the site title on the following screen.
 

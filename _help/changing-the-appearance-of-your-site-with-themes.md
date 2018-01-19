@@ -1,8 +1,6 @@
 ---
 ID: 1515
-post_title: >
-  Změna vzhledu vašeho webu
-  s motivy
+post_title: Změna vzhledu vašeho webu s motivy
 author: admin
 post_excerpt: ""
 layout: help
@@ -14,9 +12,9 @@ help_tags:
   - Vytvoření
 help_category:
   - >
-    Building your Site (for Site
-    administrators)
-  - Sites on the OpenLab
+    Tvorba webových stránek (pro
+    administrátory webu)
+  - Webové stránky na OpenLab
 ---
 1. Choosing a theme allows you to determine the visual aspects, or “look,” of your site.  You can change your site’s theme by going to your site Dashboard and clicking <strong>Appearance &gt; Themes</strong> in the left-hand menu.  Additionally, you can customize your current theme by clicking <strong>Appearance &gt; Themes</strong> and then clicking <strong>Customize</strong> underneath the description of your current theme.
 

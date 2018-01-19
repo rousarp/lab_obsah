@@ -13,9 +13,9 @@ help_tags:
   - Vytvoření
 help_category:
   - >
-    Building your Site (for Site
-    administrators)
-  - Sites on the OpenLab
+    Tvorba webových stránek (pro
+    administrátory webu)
+  - Webové stránky na OpenLab
 ---
 Changing your site’s header image is a quick and easy way to customize your site. A header image refers to the image that appears at the top of every page in many <a title="Changing the appearance of your Site with themes" href="https://lab.urad.online/help/changing-the-appearance-of-your-site-with-themes/">themes</a> (see example below). Depending on your theme, however, the header image will appear differently.  Two themes don’t have header images: “Carrington” doesn’t have a space for image at the top and the “<a title="Sliding Door theme" href="https://lab.urad.online/help/sliding-door-theme/">Sliding Door</a>” header image is actually a visual menu (read more about that here).
 

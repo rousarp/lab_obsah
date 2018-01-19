@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:21:52
 help_tags:
   - Doporučení
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 There are many resources available for students working with ePortfolios.
 <h3>ePortfolio Lab, G-606</h3>

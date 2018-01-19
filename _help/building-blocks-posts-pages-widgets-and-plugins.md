@@ -12,9 +12,9 @@ help_tags:
   - Úvod
 help_category:
   - >
-    Building your Site (for Site
-    administrators)
-  - Sites on the OpenLab
+    Tvorba webových stránek (pro
+    administrátory webu)
+  - Webové stránky na OpenLab
 ---
 The four basic “building blocks” for your site are the following: <a href="https://lab.urad.online/help/writing-a-post/">posts</a>, <a title="Creating pages on your Site" href="https://lab.urad.online/help/creating-pages-on-your-site/">pages</a>, widgets, and plugins.  To add content to your site, you can use posts or pages.  To add functions to your site, you can use widgets and plugins.  In this section, you will find brief explanations of these building blocks as well as helpful tips for how to best use them on your site.
 

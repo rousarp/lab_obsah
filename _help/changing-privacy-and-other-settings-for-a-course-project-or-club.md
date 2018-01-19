@@ -1,8 +1,9 @@
 ---
 ID: 1465
 post_title: >
-  Změna nastavení soukromí a dalších nastavení pro
-  kurz, projekt nebo skupinu
+  Změna nastavení soukromí a dalších
+  nastavení pro kurz, projekt nebo
+  skupinu
 author: admin
 post_excerpt: ""
 layout: help
@@ -13,10 +14,10 @@ post_date: 2018-01-15 22:15:14
 help_tags:
   - Nastavení
 help_category:
+  - Kurzy projekty a skupiny
   - >
-    Changing Settings for Courses Projects
-    and Clubs
-  - Courses Projects and Clubs
+    Změny nastavení pro kurzy, projekty a
+    skupiny
 ---
 1. To change privacy and other settings for a course, project, or club, log in and go to the <strong>Profile</strong> of your course, project or club.
 

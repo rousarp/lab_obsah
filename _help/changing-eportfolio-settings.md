@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:19:45
 help_tags:
   - Nastavení
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 You can changes settings for your ePortfolio on the ePortfolio Profile page.  These might include privacy settings, changing an avatar, or changing the description or title of your ePortfolio.
 <ol>

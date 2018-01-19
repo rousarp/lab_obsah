@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:18:56
 help_tags:
   - Vytvoření
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 By creating an ePortfolio on the OpenLab, you will be setting up an ePortfolio Site and an associated ePortfolio Profile page.  The steps below will take you through naming your ePortfolio, writing a short description, and uploading an avatar for your ePortfolio Profile page.  You will also choose a URL for the ePortfolio Site and Privacy Settings for both the Profile and Site.
 

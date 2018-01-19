@@ -1,6 +1,8 @@
 ---
 ID: 1553
-post_title: Ochrana osobních údajů na portále OpenLab
+post_title: >
+  Ochrana osobních údajů na portále
+  OpenLab
 author: admin
 post_excerpt: ""
 layout: help
@@ -13,8 +15,8 @@ help_tags:
   - Profil
   - Úvod
 help_category:
-  - Best Practices
-  - For Everyone
+  - Osvědčené postupy
+  - Pro všechny
 ---
 We take privacy seriously on the OpenLab, which is why we have many different options for choosing what you want to share and with whom.
 

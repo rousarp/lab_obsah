@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:28:35
 help_tags:
   - Úvod
 help_category:
-  - Site Basics
-  - Sites on the OpenLab
+  - Webové stránky na OpenLab
+  - Základy webových stránek
 ---
 1. When you type in the URL, or web address for your site, you are viewing the public side or “front-end” of your site.  If you have kept your site public, anyone can see this.
 

@@ -12,8 +12,8 @@ help_tags:
   - Připojení
   - Úvod
 help_category:
-  - Getting Started
-  - Setting up an Account
+  - Nastavení účtu
+  - Začínáme
 ---
 Jakmile jste členem OpenLab (viz <a href="https://lab.urad.online/help/signing-up-on-the-openlab/ ‎">Registrace na OpenLab</a>), můžete se přihlásit dvěma způsoby:
 

@@ -1,8 +1,8 @@
 ---
 ID: 1467
 post_title: >
-  Správa členství v kurzu,
-  projektu nebo skupině
+  Správa členství v kurzu, projektu
+  nebo skupině
 author: admin
 post_excerpt: ""
 layout: help
@@ -13,10 +13,10 @@ post_date: 2018-01-15 22:15:56
 help_tags:
   - Nastavení
 help_category:
+  - Kurzy projekty a skupiny
   - >
-    Changing Settings for Courses Projects
-    and Clubs
-  - Courses Projects and Clubs
+    Změny nastavení pro kurzy, projekty a
+    skupiny
 ---
 Go to the <strong>Profile Page</strong> of the Course, Project, or Club you administer, and click <strong>Membership</strong> in the right hand menu.  You’ll find two main areas. The major portion of the page (where all the avatars are), and the submenu just above them where you can accept Member Requests, Invite New Members, Email Members, or change Your Email Options. We’ll deal with each of these in turn.
 

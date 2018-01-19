@@ -10,7 +10,7 @@ published: true
 post_date: 2018-01-15 23:17:51
 help_tags: [ ]
 help_category:
-  - OpenLab Help
+  - Nápověda OpenLab
 ---
 <h2>Máte otázku? Jste na správném místě!</h2>
 Začněte procházením témat napravo. Níže uvádíme několik nejčastějších nejčastějších otázek.

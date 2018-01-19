@@ -12,7 +12,7 @@ help_tags:
   - Nalezení
   - Propojování
 help_category:
-  - People on the OpenLab
+  - Uživatelé na OpenLab
 ---
 You can find people on the OpenLab in several different ways.
 

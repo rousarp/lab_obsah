@@ -9,11 +9,11 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:00:03
 help_tags:
-  - Úvod
   - Otázky a odpovědi
+  - Úvod
 help_category:
-  - How do I...?
-  - FAQs
+  - Jak mohu ...?
+  - Otázky a odpovědi
 ---
 <h3>Jak mohu…</h3>
 <a href="https://lab.urad.online/help/access-the-openlab/#gainaccess">získat přístup k OpenLab?</a>
@@ -34,7 +34,7 @@ help_category:
 <ul>
  	<li>Za prvé, budete muset mít <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">přístup</a> k vašemu pracovnímu e-mailovému účtu libovolné instituce veřejné správy. Uživatelé mohou postupovat podle <a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">našich instrukcí</a> pro přístup k pracovnímu účtu.</li>
  	<li>Pokud se nemůžete přihlásit, kontaktujte <a href="mailto:studenthelpdesk@citytech.cuny.edu">helpdesk@lab.urad.online</a>.
- 	<li>Pokud máte přístup k e-mailu, postupujte podle našich <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">pokynů</a> jak si vytvořit vlastní účet.<a name="email"></a></li>
+ 	</li><li>Pokud máte přístup k e-mailu, postupujte podle našich <a href="https://lab.urad.online/help/signing-up-on-the-openlab/">pokynů</a> jak si vytvořit vlastní účet.<a name="email"></a></li>
 </ul>
 <h4>Jak mohu získat přístup k e-mailu instituce veřejné správy?</h4>
 <ul>

@@ -13,10 +13,10 @@ post_date: 2018-01-15 22:12:45
 help_tags:
   - Nastavení
 help_category:
+  - Kurzy projekty a skupiny
   - >
-    Changing Settings for Courses Projects
-    and Clubs
-  - Courses Projects and Clubs
+    Změny nastavení pro kurzy, projekty a
+    skupiny
 ---
 Only administrators can change settings for courses, projects, and clubs.  By default the administrator is the member who started the site, but sites can have multiple administrators.  This can be particularly useful for clubs and groups, where you might not want every major change to have to go through one specific person.  It can also create confusion, particularly if more than one administrator is making changes simultaneously (everything can be reset, however), so we recommend a good level of communication between all administrators.
 

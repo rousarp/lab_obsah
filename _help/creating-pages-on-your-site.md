@@ -12,9 +12,9 @@ help_tags:
   - Vytvoření
 help_category:
   - >
-    Building your Site (for Site
-    administrators)
-  - Sites on the OpenLab
+    Tvorba webových stránek (pro
+    administrátory webu)
+  - Webové stránky na OpenLab
 ---
 1. To create a page on your site, go to your site Dashboard and click <strong>Pages &gt; Add New</strong> in the left-hand menu.
 

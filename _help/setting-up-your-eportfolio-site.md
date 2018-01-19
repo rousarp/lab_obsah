@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:20:26
 help_tags:
   - Vytvoření
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 Once you have created your ePortfolio, you can then begin working on your ePortfolio Site.  The student ePortfolio site is set up to include pages that students in any major or profession can use, but you may customize the site in any way that suits you.
 

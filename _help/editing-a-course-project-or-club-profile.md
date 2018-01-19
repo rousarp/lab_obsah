@@ -13,10 +13,10 @@ post_date: 2018-01-15 22:13:42
 help_tags:
   - Nastavení
 help_category:
+  - Kurzy projekty a skupiny
   - >
-    Changing Settings for Courses Projects
-    and Clubs
-  - Courses Projects and Clubs
+    Změny nastavení pro kurzy, projekty a
+    skupiny
 ---
 To edit the profile of a course, project, or club, make sure that you’re logged in, and that you are the administrator of the site.
 

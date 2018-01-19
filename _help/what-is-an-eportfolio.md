@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:17:11
 help_tags:
   - Úvod
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 Each ePortfolio consists of both a Site and an associated Profile that are linked to an OpenLab member’s personal Profile, and can be created by anyone in the OpenLab community.
 

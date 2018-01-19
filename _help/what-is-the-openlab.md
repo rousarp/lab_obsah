@@ -12,8 +12,8 @@ help_tags:
   - Otázky a odpovědi
   - Úvod
 help_category:
-  - Getting Started
-  - OpenLab Basics
+  - Začínáme
+  - Základy OpenLab
 ---
 <h3>Vítejte v OpenLab!</h3>
 Pokud zjistíte, že máte otázku, která není v naší sekci nápovědy zodpovězena, chtěli byste se dozvědět více o tom, co zde naleznete nebo máte nějaké požadavky, prosím, kdykoli nás <a href="https://lab.urad.online/support/contact-us">kontaktujte</a>.

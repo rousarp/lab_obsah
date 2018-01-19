@@ -1,6 +1,8 @@
 ---
 ID: 1431
-post_title: Vytvoření kurzu (pouze pro správce kurzů)
+post_title: >
+  Vytvoření kurzu (pouze pro správce
+  kurzů)
 author: admin
 post_excerpt: ""
 layout: help
@@ -11,8 +13,8 @@ post_date: 2018-01-15 21:57:51
 help_tags:
   - Vytvoření
 help_category:
-  - Courses
-  - Courses Projects and Clubs
+  - Kurzy
+  - Kurzy projekty a skupiny
 ---
 1. After logging in, click <strong>My OpenLab </strong>in the main menu. Then click <strong>My Courses</strong> in the right-hand menu. On the My Courses page, click <strong>+ Create / Clone a Course</strong> at the top of the page.
 

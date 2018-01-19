@@ -11,8 +11,8 @@ post_date: 2018-01-15 23:03:05
 help_tags:
   - Otázky a odpovědi
 help_category:
-  - FAQs
-  - How do I...?
+  - Jak mohu ...?
+  - Otázky a odpovědi
 ---
 <h3>How Do I…</h3>
 <a href="https://lab.urad.online/help/work-on-an-eportfolio-or-portfolio/#resume">put my resume on the OpenLab? You said something about “hosting my resume.”</a>

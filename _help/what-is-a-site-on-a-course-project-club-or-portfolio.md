@@ -1,8 +1,6 @@
 ---
 ID: 1491
-post_title: >
-Co jsou "webové stránky" v kurzu, 
- projektu, skupině nebo v portfoliu?
+post_title: ""
 author: admin
 post_excerpt: ""
 layout: help
@@ -13,8 +11,8 @@ post_date: 2018-01-15 22:26:42
 help_tags:
   - Úvod
 help_category:
-  - Site Basics
-  - Sites on the OpenLab
+  - Webové stránky na OpenLab
+  - Základy webových stránek
 ---
 1. If you are faculty, you can create a site on the OpenLab as an extension of your <a title="What is a course on the OpenLab?" href="https://lab.urad.online/help/what-is-a-course-on-the-openlab/">course</a>, <a title="What is a Project on the OpenLab?" href="https://lab.urad.online/help/what-is-a-project-on-the-openlab/">project</a>, or <a title="What is a Club on the OpenLab?" href="https://lab.urad.online/help/what-is-a-club-on-the-openlab/">club</a>.  Your site provides an additional online presence for your course, project, or club where you can create content (e.g., blog posts), maintain content (e.g., a syllabus or project description), and engage in discussion with other site <a title="Managing users on your Site" href="https://lab.urad.online/help/managing-users-on-your-site/">users</a>.
 

@@ -13,8 +13,8 @@ help_tags:
   - Úvod
   - Vytvoření
 help_category:
-  - Getting Started
-  - Setting up an Account
+  - Nastavení účtu
+  - Začínáme
 ---
 <blockquote>POZNÁMKA NEŽ ZAČNETE: Chcete-li vytvořit účet na OpenLab, budete muset mít přístup k e-mailovému účtu organizace veřejné správy. Pokud ho nemáte, budete se muset obrátit na Help Desk helpdesk@openlab.urad.online nebo postupovat podle návodu zde.</blockquote>
 1. Jakmile jste si jisti, že máte přístup k e-mailovému účtu libovolné organizace veřejné správy, přejděte na  <a href="https://lab.urad.online">domovskou stránku OpenLab</a>  ( <a href="https://lab.urad.online">https://lab.urad.online</a> ). Registraci <strong>OpenLab</strong> uvidíte v levé části obrazovky. Klikněte na položku <strong>Registrace.</strong>
@@ -40,11 +40,11 @@ Kromě e-mailové adresy mohou být všechny tyto informace později změněny v
 
 4.  V tomto okamžiku Vám bude od OpenLab odeslán potvrzovací e-mail na váš e-mailový účet. Navštivte svůj e-mailový účet, klikněte na odkaz, který najdete v e-mailu od nás, a jste oficiálně členem OpenLab!
 
-<strong>Mějte na paměti</ strong>: Pokud se ve složce Doručená pošta nezobrazuje aktivační e-mail, zkontrolujte prosím složku Spam. Někdy se zobrazí e-maily s aktivačními účty v této složce, nikoli v Doručené poště.
+<strong>Mějte na paměti: Pokud se ve složce Doručená pošta nezobrazuje aktivační e-mail, zkontrolujte prosím složku Spam. Někdy se zobrazí e-maily s aktivačními účty v této složce, nikoli v Doručené poště.
 
 <img class="alignnone wp-image-8788 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Signing_Up_4.jpg" alt="Zaznamenání snímku obrazovky" />
 
-5. Po kliknutí na odkaz se dostanete na níže uvedenou aktivační stránku. Váš aktivační klíč bude předem vyplněn a vše, co musíte udělat, je klepnout na tlačítko <strong>Aktivovat</strong>.
+5. Po kliknutí na odkaz se dostanete na níže uvedenou aktivační stránku. Váš aktivační klíč bude předem vyplněn a vše, co musíte udělat, je klepnout na tlačítko </strong><strong>Aktivovat</strong>.
 
 <img class="alignnone wp-image-43490 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/signing_up_4.png" alt="Aktivace" />
 

@@ -1,8 +1,10 @@
 ---
 ID: 1588
 post_title: >
-  Zachování přístupu k účtu OpenLab (pro
-  zaměsnance, kteří ukončili pracovní poměr v instituci veřejné správy)
+  Zachování přístupu k účtu OpenLab
+  (pro zaměsnance, kteří ukončili
+  pracovní poměr v instituci veřejné
+  správy)
 author: admin
 post_excerpt: ""
 layout: help
@@ -15,8 +17,8 @@ help_tags:
   - Připojení
   - Úvod
 help_category:
-  - Getting Started
-  - Setting up an Account
+  - Nastavení účtu
+  - Začínáme
 ---
 Zde bude návod, jak postupovat, pokud si chcete po ztrátě přístupu k emailové adrese instituce veřejné správy převést vlastnictví obsahu na portále OpenLab na svou soukromou adresu (typicky po odchodu ze zaměstnání).
 

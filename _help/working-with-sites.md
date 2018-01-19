@@ -11,8 +11,8 @@ post_date: 2018-01-15 23:04:34
 help_tags:
   - Otázky a odpovědi
 help_category:
-  - FAQs
-  - Troubleshooting
+  - Odstraňování problémů
+  - Otázky a odpovědi
 ---
 <ul>
  	<li><a href="https://lab.urad.online/help/working-with-sites/#videoembed">I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</a></li>

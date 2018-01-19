@@ -1,8 +1,8 @@
 ---
 ID: 1457
 post_title: >
-  Změna možností e-mailu pro
-  kurz, projekt nebo skupinu
+  Změna možností e-mailu pro kurz,
+  projekt nebo skupinu
 author: admin
 post_excerpt: ""
 layout: help
@@ -13,8 +13,8 @@ post_date: 2018-01-15 22:10:45
 help_tags:
   - Nastavení
 help_category:
-  - Courses Projects and Clubs
-  - Using Courses Projects and Clubs
+  - Kurzy projekty a skupiny
+  - Používání kurzů, projektů a skupin
 ---
 1. In order to change the amount and types of emails you receive that alert you to new activity in your Course, Project, or Club you need to first log into the OpenLab. Once logged in, click the <strong>My OpenLab</strong> dropdown menu.
 

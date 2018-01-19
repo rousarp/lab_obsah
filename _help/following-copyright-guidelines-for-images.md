@@ -1,8 +1,6 @@
 ---
 ID: 1551
-post_title: >
-Následujte pokyny pro autorská práva ke
- snímkům
+post_title: ""
 author: admin
 post_excerpt: ""
 layout: help
@@ -15,8 +13,8 @@ help_tags:
   - Obrázky
   - Profil
 help_category:
-  - Best Practices
-  - For Everyone
+  - Osvědčené postupy
+  - Pro všechny
 ---
 Images that you upload are integral to the appearance and message of your OpenLab presence. From your My OpenLab profile to your Course, Project, or Club and their sites, images play a very important role.  Hence, it’s important to use these images ethically and legally. Here are some ways to find images that are meant to be shared.
 

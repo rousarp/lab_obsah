@@ -1,16 +1,15 @@
 ---
-ID: 867
-post_title: "Title With Special Characters ~`!@#$%^&#038;*()-_=+{}[]/\;:'&#8220;?,.>"
-author: ""
+ID: 1790
+post_title: 'Title With Special Characters ~`!@#$%^&#038;*()-_=+{}[]/;:&#8217;&#8220;?,.&gt;'
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/title-with-special-characters/
+  https://lab.urad.online/title-with-special-characters-_-3/
 published: true
 post_date: 2013-01-05 11:00:20
-tags: [ ]
-categories:
-  - Titles
+help_tags: [ ]
+help_category: [ ]
 ---
 Putting special characters in the title should have no adverse effect on the layout or functionality.
 

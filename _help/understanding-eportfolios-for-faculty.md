@@ -1,6 +1,8 @@
 ---
 ID: 1479
-post_title: Porozumění portfoliím (pro zaměstnance veřejné správy)
+post_title: >
+  Porozumění portfoliím (pro
+  zaměstnance veřejné správy)
 author: admin
 post_excerpt: ""
 layout: help
@@ -11,7 +13,7 @@ post_date: 2018-01-15 22:21:12
 help_tags:
   - Úvod
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 Faculty using ePortfolios in their courses can help students build their ePortfolios by choosing their best work to showcase and encouraging them to establish connections between their coursework and the professional skills they will need when they graduate.
 

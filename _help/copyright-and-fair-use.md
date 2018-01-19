@@ -1,6 +1,8 @@
 ---
 ID: 1559
-post_title: Autorské právo a férové používání
+post_title: >
+  Autorské právo a férové
+  používání
 author: admin
 post_excerpt: ""
 layout: help
@@ -12,9 +14,9 @@ help_tags:
   - Doporučení
   - Úvod
 help_category:
-  - Best Practices
-  - For Students
-  - People on the OpenLab
+  - Osvědčené postupy
+  - Pro uživatele
+  - Uživatelé na OpenLab
 ---
 <h3><strong>Using the Work of Others on the OpenLab</strong></h3>
 One of the great things about using the OpenLab is that it’s easy to share work, such as writing, images, video, and sound. This means that it’s also important to understand how to respect copyright guidelines, give appropriate credit to the work and ideas of others, and to understand how others might use your work.

@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:46:43
 help_tags:
   - Nástroje
 help_category:
-  - Plugins and Widgets
-  - Sites on the OpenLab
+  - Pluginy a widgety
+  - Webové stránky na OpenLab
 ---
 <div class="entry-content">
 

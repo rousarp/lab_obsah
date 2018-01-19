@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:06:37
 help_tags:
   - Vytvoření
 help_category:
-  - Clubs
-  - Courses Projects and Clubs
+  - Kurzy projekty a skupiny
+  - Skupiny
 ---
 1. After logging in, click My OpenLab in the main menu. Then click <strong>My Clubs</strong> on the right-hand menu. On the My Clubs page, click <strong>+ Create a Club</strong> at the top of the page.
 

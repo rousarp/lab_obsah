@@ -1,6 +1,8 @@
 ---
 ID: 1433
-post_title: Klonování kurzu (pouze správci kurzů)
+post_title: >
+  Klonování kurzu (pouze správci
+  kurzů)
 author: admin
 post_excerpt: ""
 layout: help
@@ -11,8 +13,8 @@ post_date: 2018-01-15 21:58:46
 help_tags:
   - Vytvoření
 help_category:
-  - Courses
-  - Courses Projects and Clubs
+  - Kurzy
+  - Kurzy projekty a skupiny
 ---
 Cloning a course will create an exact copy of an existing course, keeping all content you created or uploaded, but student work will not be copied over.  The course avatar, course settings, and site settings will all remain the same, although you can change anything as necessary.
 <ol>

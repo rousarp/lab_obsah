@@ -1,19 +1,16 @@
 ---
-ID: 877
+ID: 1788
 post_title: >
   Super/Duper/Long/NonBreaking/Path/Name/To/A/File/That/Is/Way/Deep/Down/In/Some/Mysterious/Remote/Desolate/Part/Of/The/Operating/System/To/A/File/That/Just/So/Happens/To/Be/Strangely/Named/Supercalifragilisticexpialidocious.txt
-author: ""
+author: pavel
 post_excerpt: ""
 layout: post
 permalink: >
-  http://multi.openlab.dev/blog/non-breaking-text/
+  https://lab.urad.online/superduperlongnonbreakingpathnametoafilethatiswaydeepdowninsomemysteriousremotedesolatepartoftheoperatingsystemtoafilethatjustsohappenstobestrangelynamedsupercalifra-3/
 published: true
 post_date: 2013-01-05 12:00:59
-tags: [ ]
-categories:
-  - Comments
-  - Content
-  - Titles
+help_tags: [ ]
+help_category: [ ]
 ---
 Super/Duper/Long/NonBreaking/Path/Name/To/A/File/That/Is/Way/Deep/Down/In/Some/Mysterious/Remote/Desolate/Part/Of/The/Operating/System/To/A/File/That/Just/So/Happens/To/Be/Strangely/Named/Supercalifragilisticexpialidocious.txt
 

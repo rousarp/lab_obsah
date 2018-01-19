@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/contact-us/jirka-spravce/
+  https://lab.urad.online/help/support/contact-us/jirka-spravce/
 published: true
 post_date: 2018-01-18 00:51:49
 help_tags: [ ]

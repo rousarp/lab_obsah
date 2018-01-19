@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:29:49
 help_tags:
   - Vytvoření
 help_category:
-  - Sites on the OpenLab
-  - Using a Site (for Site members)
+  - Používání webu (pro členy webu)
+  - Webové stránky na OpenLab
 ---
 1. From your site’s Dashboard, click on <strong>Posts &gt; Add New</strong> in the left hand menu. Or click <strong>+ New</strong> in the toolbar that appears at the top of the screen, and choose <strong>Post</strong> from the drop down menu.
 

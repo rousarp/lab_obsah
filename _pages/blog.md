@@ -4,7 +4,7 @@ post_title: Blog
 author: pavel
 post_excerpt: ""
 layout: page
-permalink: https://lab.urad.online/
+permalink: https://lab.urad.online/blog/
 published: true
 post_date: 2013-03-15 17:59:55
 help_tags: [ ]

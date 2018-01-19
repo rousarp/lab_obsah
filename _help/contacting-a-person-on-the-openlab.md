@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:49:32
 help_tags:
   - Propojování
 help_category:
-  - People on the OpenLab
+  - Uživatelé na OpenLab
 ---
 Once you have <a title="Finding People on the OpenLab" href="https://lab.urad.online/help/finding-people-on-the-openlab/">located</a> an OpenLab member, you can contact that person in more than one way.
 

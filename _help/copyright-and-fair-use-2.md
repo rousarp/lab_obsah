@@ -1,6 +1,8 @@
 ---
 ID: 1564
-post_title: Autorské právo a férové používání
+post_title: >
+  Autorské právo a férové
+  používání
 author: admin
 post_excerpt: ""
 layout: help
@@ -12,8 +14,8 @@ help_tags:
   - Doporučení
   - Úvod
 help_category:
-  - Best Practices
-  - For Faculty
+  - Osvědčené postupy
+  - Pro spolupracovníky
 ---
 You may be wondering how <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">copyright</a> restrictions and <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">fair use</a> apply on the OpenLab.
 

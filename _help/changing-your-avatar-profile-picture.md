@@ -1,6 +1,8 @@
 ---
 ID: 1415
-post_title: Změna vašeho náhledového obrázku (Profilový obrázek)
+post_title: >
+  Změna vašeho náhledového obrázku
+  (Profilový obrázek)
 author: admin
 post_excerpt: ""
 layout: help

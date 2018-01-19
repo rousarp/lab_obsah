@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:05:51
 help_tags:
   - Připojení
 help_category:
-  - Clubs
-  - Courses Projects and Clubs
+  - Kurzy projekty a skupiny
+  - Skupiny
 ---
 1. You must be logged in to the OpenLab to join a Club, so after logging in, go to the <strong>Club Profile</strong> of the Club you want to join.  (Read more about how to <a title="Finding a Club" href="https://lab.urad.online/help/finding-a-club/">find a Club</a>.)
 

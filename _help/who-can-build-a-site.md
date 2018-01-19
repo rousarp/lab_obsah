@@ -12,9 +12,9 @@ help_tags:
   - Úvod
 help_category:
   - >
-    Building your Site (for Site
-    administrators)
-  - Sites on the OpenLab
+    Tvorba webových stránek (pro
+    administrátory webu)
+  - Webové stránky na OpenLab
 ---
 Any faculty, staff, or student can create a site as part of a course (faculty only), project, or club.  The individual who creates the site will be that site’s <a title="Managing users on your Site" href="https://lab.urad.online/help/managing-users-on-your-site/">Administrator</a> and in charge of creating and managing the site content and site functions.
 

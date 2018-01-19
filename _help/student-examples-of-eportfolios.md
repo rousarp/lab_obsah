@@ -11,7 +11,7 @@ post_date: 2018-01-15 22:18:09
 help_tags:
   - Vytvoření
 help_category:
-  - Student ePortfolios
+  - Uživatelská portfolia
 ---
 Sometimes it’s helpful to look at other ePortfolios to see what is possible and get ideas for creating your own.  Here are some examples of student ePortfolios on the OpenLab:
 <h3><strong>Communication Design</strong></h3>

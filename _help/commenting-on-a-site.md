@@ -12,8 +12,8 @@ help_tags:
   - Propojování
   - Úvod
 help_category:
-  - Site Basics
-  - Sites on the OpenLab
+  - Webové stránky na OpenLab
+  - Základy webových stránek
 ---
 1. When you are viewing a <a title="Building blocks: posts, pages, widgets, and plugins" href="https://lab.urad.online/help/building-blocks-posts-pages-widgets-and-plugins/">post or a page</a> on a course, project, or club site, you will usually have the option of leaving a comment.  Comments usually respond to the content of a post or a page (e.g., expand a conversation, answer a question, etc.).  To leave a comment on a site, you will need to <a title="How do I get to my Site?" href="https://lab.urad.online/help/how-do-i-get-to-my-site/">access that site’s “Home” page</a>  and browse to locate the post or page on which you would like to leave a comment.  Once you have identified the appropriate post or page, click <strong>Leave a Reply</strong>.  If others have already left comments, the link will instead let you know how many comments have already been left (e.g., instead of “Leave a Reply” it will read “4 Replies”)—this is still the correct link to leave your comment.
 

@@ -11,8 +11,8 @@ post_date: 2018-01-15 22:30:32
 help_tags:
   - Vytvoření
 help_category:
-  - Sites on the OpenLab
-  - Using a Site (for Site members)
+  - Používání webu (pro členy webu)
+  - Webové stránky na OpenLab
 ---
 1. You can add a link to a post or page by highlighting the words that you would like to link inside the text box and selecting link icon in the toolbar.
 
