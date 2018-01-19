@@ -18,145 +18,145 @@ help_category:
     Změny nastavení pro kurzy, projekty a
     skupiny
 ---
-1. To change privacy and other settings for a course, project, or club, log in and go to the <strong>Profile</strong> of your course, project or club.
+1. Chcete-li změnit nastavení soukromí a dalších nastavení kurzu, projektu nebo klubu, přihlaste se a přejděte na <strong>Profil</strong> svého kurzu, projektu nebo klubu.
 
-2. In the right-hand menu, (a) click <strong>Course, Project, or Club Settings</strong>, and then in the Settings menu, (b) click <strong>Settings</strong>.
+2. V pravé nabídce (a) klepněte na nabídku  <strong>Kurz, Projekt nebo Klub</strong> a v nabídce Nastavení (b) klikněte na <strong>Nastavení</strong> .
 
-<img class="alignnone wp-image-36748 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_1_v3.png" alt="Changing Settings Screen Shot" />
-<h3><strong>Discussion Settings</strong></h3>
-1. At the top of the page is a checkbox to enable or disable the Discussion forum.  If the box is checked, Discussion is enabled. Click <strong>Save Changes</strong> at the bottom of the page.
+<img class="alignnone wp-image-36748 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_1_v3.png" alt="Změna nastavení snímku obrazovky" />
+<h3><strong>Nastavení diskuze</strong></h3>
+1. V horní části stránky je zaškrtávací políčko povolit nebo zakázat Diskusní fórum. Je-li políčko zaškrtnuto, je diskuse povolena. Klikněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36749 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_2_v3.png" alt="Changing Settings Screen Shot" />
-<h3>Related Links List Settings</h3>
-1. Beneath Discussion settings, you’ll find the <strong>Related Links List Settings</strong>, which allow you to display a list of links related to your Course, Project, or Club in the right-hand menu beneath the link to the Site.  These links can be anything, for example, course projects, related projects, or a club’s Facebook or Twitter page.
+<img class="alignnone wp-image-36749 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_2_v3.png" alt="Změna nastavení snímku obrazovky" />
+<h3>Související nastavení seznamu odkazů</h3>
+1. Pod nastavením Diskuze naleznete <strong>Související nastavení seznamu odkazů</strong> , které vám umožní zobrazit seznam odkazů týkajících se kurzu, projektu nebo klubu v pravém menu pod odkazem na web. Tyto odkazy mohou být cokoli, například projekty kurzu, související projekty nebo klubová stránka Facebook nebo Twitter.
 
-2. To show the Related Links list, click the checkbox for <strong>Enable related groups list</strong>.  Beneath that, you can choose the heading for the list.
+2. Chcete-li zobrazit seznam Související odkazy, zaškrtněte políčko <strong>Povolit související skupiny</strong> . Pod tím můžete zvolit nadpis pro seznam.
 
-3. Add a name and URL for each link you want to display.  To add an additional link, click the “+” button.
+3. Přidejte jméno a adresu URL pro každý odkaz, který chcete zobrazit. Chcete-li přidat další odkaz, klikněte na tlačítko "+".
 
-4.  When you’re finished, click <strong>Save Changes</strong> at the bottom of the page.
+4. Po dokončení klikněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36750 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_3_v3.png" alt="Changing Settings Screen Shot" />
-<h3>Portfolio List Settings</h3>
-1. Beneath the Related Links List Settings, you’ll find <strong>Portfolio List Settings</strong>, which allow you to display a list of Course, Project, or Club members’ Portfolios on the Profile page of your Course, Project, or Club.  To show a list of member Portfolios, click the checkbox for <strong>Enable portfolio list</strong>.  Beneath that, you can change the heading for the list if you wish.  When you’re finished, click <strong>Save Changes</strong> at the bottom of the page.
+<img class="alignnone wp-image-36750 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_3_v3.png" alt="Změna nastavení snímku obrazovky" />
+<h3>Nastavení seznamu portfolií</h3>
+1. Pod položkou Související seznamy odkazů naleznete <strong>Nastavení seznamu portfolií</strong> , které vám umožní zobrazit seznam portfolií členů kurzu, projektu nebo člena klubu na stránce profilu vašeho kurzu, projektu nebo klubu. Chcete-li zobrazit seznam členských portfolií, zaškrtněte políčko <strong>Aktivovat seznam portfolií</strong> . Pod tím můžete změnit nadpis pro seznam, pokud si přejete. Po dokončení klikněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36751 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_4_v3.png" alt="Changing Settings Screen Shot" />
-<h3><strong>Privacy Settings</strong></h3>
-1. <strong>Profile privacy settings</strong> allow you to change how OpenLab members can join your Course, Project or Club, and whether non-members can see Discussion, Docs, and Files content on the Profile.  <strong>Site privacy settings</strong> are separate and can be changed just beneath Profile privacy settings.  These settings determine who can see the Course, Project, or Club Site.
-<h4><strong>Profile privacy settings</strong></h4>
-<strong>This is a public course, project, or club:</strong>
+<img class="alignnone wp-image-36751 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_4_v3.png" alt="Změna nastavení snímku obrazovky" />
+<h3><strong>Nastavení ochrany osobních údajů</strong></h3>
+1. <strong>Nastavení ochrany osobních údajů profilu</strong> umožňují změnit způsob, jakým se mohou členové OpenLab připojit k vašemu kurzu, projektu nebo klubu, a zda mohou nečlenové vidět obsah diskuze, dokumentů a souborů v profilu.  <strong>Nastavení ochrany soukromí stránek</strong> jsou oddělené a lze je změnit pod položkou Nastavení ochrany osobních údajů profilu. Tato nastavení určují, kdo může vidět místo kurzu, projektu nebo klubu.
+<h4><strong>Nastavení ochrany osobních údajů profilu</strong></h4>
+<strong>Jedná se o veřejný kurz, projekt nebo klub:</strong>
 <ul>
- 	<li>The course, project, or club profile and related content and activity will be visible to anyone, whether or not they are members of the OpenLab.</li>
- 	<li>The course, project, or club profile will be listed in OpenLab directories and search results.</li>
- 	<li>Any OpenLab member may join this course, project, or club.</li>
+ 	<li>Profil kurzu, projektu nebo klubu a související obsah a aktivita budou viditelné pro každého, bez ohledu na to, zda jsou nebo nejsou členy OpenLab.</li>
+ 	<li>Kurz, projekt nebo profil klubu budou uvedeny v adresářích OpenLab a výsledcích vyhledávání.</li>
+ 	<li>Každý člen OpenLab se může připojit k tomuto kurzu, projektu nebo klubu.</li>
 </ul>
-<strong>This is a private course, project, or club:</strong>
+<strong>Jedná se o soukromý kurz, projekt nebo klub:</strong>
 <ul>
- 	<li>The course, project, or club profile and related content and activity will only be visible to members.</li>
- 	<li>The course, project, or club profile will be listed in OpenLab directories and search results.</li>
- 	<li>Only OpenLab members who request membership and are accepted by an <a title="Who Can Change Settings for Courses, Projects, and Clubs?" href="https://lab.urad.online/help/who-can-change-settings-for-courses-projects-and-clubs-2/">administrator</a> may join this course.</li>
+ 	<li>Profil kurzu, projektu nebo klubu a související obsah a aktivita budou viditelné pouze pro členy.</li>
+ 	<li>Kurz, projekt nebo profil klubu budou uvedeny v adresářích OpenLab a výsledcích vyhledávání.</li>
+ 	<li>Do tohoto kurzu se mohou připojit pouze členové OpenLab, kteří žádají o členství a jsou přijati <a title="Kdo může změnit nastavení kurzů, projektů a klubů?" href="https://lab.urad.online/help/who-can-change-settings-for-courses-projects-and-clubs-2/">správcem</a> .</li>
 </ul>
-<strong>This is a hidden course, project, or club:</strong>
+<strong>Toto je skrytý kurz, projekt nebo klub:</strong>
 <ul>
- 	<li>The course, project, or club profile, related content, and activity will only be visible only to members.</li>
- 	<li>The course, project, or club profile will NOT be listed in the OpenLab directories and search results.</li>
- 	<li>Only OpenLab members who are invited may join this course, project, or club.</li>
+ 	<li>Kurz, projekt nebo profil klubu, související obsah a aktivita budou viditelné pouze pro členy.</li>
+ 	<li>Kursový, projektový nebo klubový profil NENÍ uveden v adresářích OpenLab a výsledcích vyhledávání.</li>
+ 	<li>Do tohoto kurzu, projektu nebo klubu se mohou připojit pouze pozvaní členové OpenLab.</li>
 </ul>
-2. Once you’ve selected the best option for you, click <strong>Save Changes</strong> at the bottom of the page.
+2. Jakmile vyberete pro vás nejlepší možnost, klepněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/08/Changing_Settings_5_v3.png"><img class="alignnone wp-image-36752 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_5_v3.png" alt="profile privacy settings screenshot" /></a>
-<h4><strong>Site Privacy Settings</strong></h4>
-3. Site privacy settings are just beneath Profile privacy settings.
+<a href="https://lab.urad.online/wp-content/uploads/2012/08/Changing_Settings_5_v3.png"><img class="alignnone wp-image-36752 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_5_v3.png" alt="profil nastavení ochrany osobních údajů screenshot" /></a>
+<h4><strong>Nastavení soukromí stránek</strong></h4>
+3. Nastavení ochrany soukromí stránek jsou právě pod nastavením ochrany osobních údajů profilu.
 
-<strong>Public</strong>
+<strong>Veřejnost</strong>
 
-<strong>Allow search engines to index this site:</strong>
+<strong>Povolit vyhledávačům indexovat tuto stránku:</strong>
 <ul>
- 	<li>Anyone can visit your site without needing a password.</li>
- 	<li>Search engines will index all pages and posts, meaning your site will show up in search results on Google, Bing, and others.</li>
- 	<li>Choose this option for maximum public visibility.</li>
+ 	<li>Každý uživatel může navštívit váš web bez nutnosti zadání hesla.</li>
+ 	<li>Vyhledávače budou indexovat všechny stránky a příspěvky, což znamená, že se vaše stránky zobrazí ve výsledcích vyhledávání na Google, Bing a dalších.</li>
+ 	<li>Tuto volbu vyberte pro maximální viditelnost veřejnosti.</li>
 </ul>
-<strong>Ask search engines not to index this site:</strong>
+<strong>Požádejte vyhledávače, aby tuto stránku indexovali:</strong>
 <ul>
- 	<li>Visitors do not need a password to see your site if they know the URL or are linked from elsewhere, but Google, Bing and other search engines should not index your posts and pages. (Please note: it is up to search engines to honor your request.)</li>
- 	<li>Choose this option if you want to be able to show the site to people who are not members of the OpenLab, but you don’t want people to stumble upon it via search engines.</li>
+ 	<li>Návštěvníci nepotřebují heslo, aby viděli vaše stránky, pokud znají adresu URL nebo jsou spojeny odjinud, ale Google, Bing a další vyhledávače by neměly indexovat vaše příspěvky a stránky. (Upozornění: je na vyhledávačích, aby vyhověli vaší žádosti.)</li>
+ 	<li>Tuto možnost vyberte, pokud chcete, aby byl web zobrazen lidem, kteří nejsou členy OpenLabu, ale nechcete, aby se na něm vyhledávali vyhledávače.</li>
 </ul>
-<strong>Private</strong>
+<strong>Soukromé</strong>
 
-<strong>I would like my site to be visible only to registered users of City Tech OpenLab:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný pouze pro registrované uživatele City Tech OpenLab:</strong>
 <ul>
- 	<li>Anyone who is signed into the OpenLab can see this site.</li>
- 	<li>Choose this option if you’d only like the OpenLab community to be able to see the site.</li>
+ 	<li>Každý uživatel, který je přihlášen do OpenLab, může tuto stránku vidět.</li>
+ 	<li>Zvolte tuto možnost, pokud chcete, aby komunita OpenLab mohla vidět web.</li>
 </ul>
-<strong>I would like my site to be visible to registered users I add:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný pro registrované uživatele Přidávám:</strong>
 <ul>
- 	<li>Choose this option if you only want members of your course, project, or club to be able to see the site.</li>
+ 	<li>Tuto možnost vyberte, pokud chcete, aby členové vašeho kurzu, projektu nebo klubu mohli vidět stránky.</li>
 </ul>
-<strong>Hidden</strong>
+<strong>Skrytý</strong>
 
-<strong>I would like my site to be visible only to me:</strong>
+<strong>Chtěl bych, aby byl můj web viditelný jen pro mě:</strong>
 <ul>
- 	<li>No one except site admins can see the site.</li>
- 	<li>You may choose this option if you are in the process of creating your course site, but it would rarely be useful for an active course, project, or club.</li>
+ 	<li>Nikdo kromě administrátorů webových stránek nemůže tuto stránku vidět.</li>
+ 	<li>Tuto možnost si můžete zvolit, pokud jste v procesu vytváření stránek kurzu, ale zřídka by to bylo užitečné pro aktivní kurz, projekt nebo klub.</li>
 </ul>
-4. Once you’ve selected the best option for you, click <strong>Save Changes</strong> at the bottom of the page.
+4. Jakmile vyberete pro vás nejlepší možnost, klepněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36753 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_6_v3.png" alt="Changing Privacy Settings Screen Shot" />
-<h3><strong>Email Subscription Defaults</strong></h3>
-1. These settings control the default email settings for new members of your course, project, or club.  Individual members may <a href="https://lab.urad.online/help/changing-your-email-options-for-a-course-project-or-club/">change their own settings</a> at any time, but these settings set the automatic standard for anyone who signs up.
+<img class="alignnone wp-image-36753 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_6_v3.png" alt="Změna nastavení ochrany soukromí Screen Shot" />
+<h3><strong>Předvolby předplatného e-mailu</strong></h3>
+1. Tato nastavení ovládají výchozí nastavení e-mailu pro nové členy kurzu, projektu nebo klubu. Jednotliví členové mohou kdykoli <a href="https://lab.urad.online/help/changing-your-email-options-for-a-course-project-or-club/">změnit své vlastní nastavení</a> , ale tato nastavení nastaví automatický standard pro každého, kdo se zaregistruje.
 
-<strong>No Email</strong>
+<strong>Žádný e-mail</strong>
 <ul>
- 	<li>Members will not receive emails when there’s activity in Discussion, Docs, or Files.</li>
- 	<li>This is good for large courses, projects, or clubs where there’s a lot of activity and daily emails might be too much.</li>
+ 	<li>Členové nebudou přijímat e-maily, pokud je aktivita v Diskuze, Dokumenty nebo Souborech.</li>
+ 	<li>To je dobré pro velké kurzy, projekty nebo kluby, kde je spousta aktivity a denní e-maily mohou být příliš mnoho.</li>
 </ul>
-<strong>Weekly Summary Email</strong>
+<strong>Týdenní souhrnný e-mail</strong>
 <ul>
- 	<li>Members will receive a weekly summary of all activity.</li>
- 	<li>This is good for large courses, projects, or clubs where there’s a lot of activity and daily emails might be too much, but you want members to receive some notification.</li>
+ 	<li>Členové obdrží týdenní přehled všech činností.</li>
+ 	<li>To je dobré pro velké kurzy, projekty nebo kluby, kde je spousta aktivity a denní e-maily mohou být příliš, ale chcete, aby členové dostali oznámení.</li>
 </ul>
 <strong>Daily Digest Email</strong>
 <ul>
- 	<li>Members receive an email once per day that summarizes all activity for that day.</li>
- 	<li>This is good for medium size courses, projects, or clubs.</li>
+ 	<li>Členové obdrží e-mail jednou denně, který shrnuje veškerou aktivitu daného dne.</li>
+ 	<li>To je dobré pro středně velké kurzy, projekty nebo kluby.</li>
 </ul>
-<strong>New Topics Email</strong>
+<strong>Nové téma e-mail</strong>
 <ul>
- 	<li>Members receive emails every time a new topic begins, but will not receive emails notifying them of replies to that topic.</li>
- 	<li>This might be good for small courses, projects, or clubs, but will still generate a lot of email for larger groups.</li>
+ 	<li>Členové dostávají e-maily pokaždé, když začíná nové téma, ale nebudou přijímat e-maily s upozorněním na odpovědi na toto téma.</li>
+ 	<li>To by mohlo být dobré pro malé kurzy, projekty nebo kluby, ale stále bude generovat mnoho e-mailů pro větší skupiny.</li>
 </ul>
-<strong>All Email</strong>
+<strong>Všechny e-maily</strong>
 <ul>
- 	<li>Members receive an email any time there is activity in the course, project, or club.</li>
- 	<li>This is recommended for smaller courses, projects, or clubs where the emails won’t be overwhelming, or where it’s important that members are notified of all activity as it happens.</li>
+ 	<li>Členové obdrží e-mail kdykoli je v kurzu, projektu nebo klubu aktivita.</li>
+ 	<li>Doporučuje se pro menší kurzy, projekty nebo kluby, kde nebudou e-maily ohromující, nebo kde je důležité, aby byli členové informováni o veškeré činnosti, jak se to stalo.</li>
 </ul>
-2. Once you’ve selected the best option for you, click <strong>Save Changes</strong> at the bottom of the page.
+2. Jakmile vyberete pro vás nejlepší možnost, klepněte na tlačítko <strong>Uložit změny</strong> v dolní části stránky.
 
-<img class="alignnone wp-image-36754 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_7_v3.png" alt="Changing Email Settings Screen Shot" />
-<h3><strong>Post or Page Privacy Settings</strong></h3>
-Privacy settings for individual posts and pages need to be changed on your <a title="What is the Site Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">Site Dashboard</a>.
+<img class="alignnone wp-image-36754 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_7_v3.png" alt="Změna nastavení e-mailu Snímání obrazovky" />
+<h3><strong>Nastavení pošty nebo soukromí stránky</strong></h3>
+Nastavení nastavení ochrany osobních údajů pro jednotlivé příspěvky a stránky je třeba změnit na <a title="Co je panel Dashboard?" href="https://lab.urad.online/help/what-is-the-site-dashboard/">panelu Dashboard</a> .
 
-1. On the right side of the post or page editor screen, there is a box with <strong>Publish</strong> options.
+1. Na pravé straně obrazovky pošty nebo editoru stránek se nachází rámeček s možnostmi <strong>Publikovat</strong> .
 
-2. Next to Visibility: Public click <strong>Edit</strong>.
+2. Vedle viditelnosti: Veřejné klikněte na <strong>Upravit</strong> .
 
-<img class="alignnone wp-image-36755 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_8_v3.png" alt="Changing Privacy Settings Screen Shot" />
+<img class="alignnone wp-image-36755 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_8_v3.png" alt="Změna nastavení ochrany soukromí Screen Shot" />
 
-In the expanded view, you have three options:
+V rozbaleném pohledu máte tři možnosti:
 
-<strong>A. Public</strong>
-This is the standard setting and makes the post or page visible to anyone who can visit the site. Under Public, you can also opt to<strong> Stick this post to the front page</strong>. This keeps the site post at the top of the site’s home page, even as newer items are posted.
+<strong>A. Veřejné</strong>
+Toto je standardní nastavení a zpřístupňuje příspěvek nebo stránku všem, kteří mohou navštívit web. Ve skupinovém rámečku Veřejné se můžete také rozhodnout, že <strong>tento příspěvek uložíte na titulní stránku</strong> . Toto udržuje příspěvek na webu v horní části domovské stránky webu, i když jsou zveřejněny novější položky.
 
-<strong> B. Password Protected</strong>
-Choose this option if you want to control who can view the post or page and who cannot. Once you click the button it will ask you to create a password specific to that post or page.  Only people who enter the password can view the post or page.
+<strong> B. Ochrana heslem</strong>
+Zvolte tuto možnost, pokud chcete ovládat, kdo může zobrazit příspěvek nebo stránku a kdo nemůže. Jakmile kliknete na tlačítko, budete vyzváni, abyste vytvořili heslo specifické pro tento příspěvek nebo stránku. Pouze lidé, kteří zadali heslo, mohou zobrazit příspěvek nebo stránku.
 
-<strong>C. Private</strong>
-This makes it so the post or page is only visible to the its author and <a title="Managing users on your Site" href="https://lab.urad.online/help/managing-users-on-your-site/">site administrators</a>. This option may be useful in a course site if you are having students post assignments to the site and you do not want them to be visible to the entire class.
+<strong>C. Soukromé</strong>
+Toto je tak, aby příspěvek nebo stránka byla viditelná pouze autorům a <a title="Správa uživatelů na vašem webu" href="https://lab.urad.online/help/managing-users-on-your-site/">správcům stránek</a> . Tato možnost může být užita v kurzu, pokud máte studenty přiřazení úkolů k webu a nechcete, aby byly viditelné pro celou třídu.
 
-3. Click <strong>OK</strong> to save when you are done and then <strong>Publish</strong> when you are ready, or <strong>Update</strong> if the post is already published.
+3. Po dokončení klikněte na tlačítko <strong>OK</strong> a poté <strong>publikujte,</strong> když jste připraveni, nebo <strong>aktualizujte,</strong> pokud je příspěvek již publikován.
 
-<img class="alignnone wp-image-36756 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_9_v3.png" alt="Changing Privacy Settings Screen Shot" />
+<img class="alignnone wp-image-36756 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Settings_9_v3.png" alt="Změna nastavení ochrany soukromí Screen Shot" />
 
-Please note: Students should check with their professors before making a post password protected or private.
+Poznámka: Studenti by si měli zkontrolovat u svých profesorů předtím, než vytvoří soukromé nebo chráněné poštovní heslo.
 
-Help information on site privacy courtesy of <a href="http://blsciblogs.baruch.cuny.edu" target="_blank" rel="noopener">Blogs@Baruch</a> at Baruch College, CUNY.
+Pomozte nám s informacemi o ochraně soukromí na webu <a href="http://blsciblogs.baruch.cuny.edu/" target="_blank" rel="noopener">blogy @ Baruch</a> na Baruch College, CUNY.
