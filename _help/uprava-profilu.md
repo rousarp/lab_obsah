@@ -14,28 +14,28 @@ help_tags:
 help_category:
   - Jak mohu ...?
 ---
-<h3>How do I…</h3>
-<a href="https://lab.urad.online/help/uprava-profilu/#changeprofile">change the information in my profile?</a>
-<a href="https://lab.urad.online/help/uprava-profilu/#changeavatar">change my avatar (profile picture)?</a>
-<a href="https://lab.urad.online/help/uprava-profilu/#changename">change the name on my profile? </a><a name="changeprofile"></a>
-<h4>How do I change the information in my profile?</h4>
+<h3>Jak mohu ...</h3>
+<a href="https://lab.urad.online/help/uprava-profilu/#changeprofile">změnit informace v mém profilu? </a>
+<a href="https://lab.urad.online/help/uprava-profilu/#changeavatar">změnit avatar (profilový obrázek)? </a>
+<a href="https://lab.urad.online/help/uprava-profilu/#changename">změnit jméno v mém profilu?</a><a name="changeprofile"></a>
+<h4>Jak mohu změnit informace v mém profilu?</h4>
 <ul>
- 	<li>To get to your profile page, click <strong>My OpenLab</strong> in the main menu.</li>
- 	<li>Click the <strong>Edit Profile</strong> button beneath your avatar (profile picture).</li>
- 	<li>Here, you can make changes to any existing information or add information to any blank fields, e.g. Display Name, Academic Interests, Bio, Twitter ID, etc. Don’t forget to click <strong>Save Changes</strong> at the bottom.</li>
- 	<li>For more information, see the help page, <a href="https://lab.urad.online/help/editing-my-profile/">Editing your profile</a><a name="changeavatar"></a></li>
+ 	<li>Chcete-li se dostat na svou profilovou stránku, klikněte v hlavní nabídce na <strong>My OpenLab</strong> .</li>
+ 	<li>Klikněte na tlačítko <strong>Upravit profil</strong> pod vaším avatarem (profilový obrázek).</li>
+ 	<li>Zde můžete provádět změny ve stávajících informacích nebo přidávat informace do libovolných prázdných polí, např. Zobrazovaný název, Akademické zájmy, Bio, ID Twitteru atd. Nezapomeňte kliknout na tlačítko <strong>Uložit změny</strong> v dolní části.</li>
+ 	<li>Další informace naleznete na stránce nápovědy <a href="https://lab.urad.online/help/editing-my-profile/">Úpravy profilu</a><a name="changeavatar"></a></li>
 </ul>
-<h4>How do I change my avatar (profile picture)?</h4>
+<h4>Jak mohu změnit svůj avatar (profilový obrázek)?</h4>
 <ul>
- 	<li>To get to your profile page, click <strong>My OpenLab</strong> in the main menu.</li>
- 	<li>Click the <strong>Change Avatar</strong> button beneath your avatar (profile picture). Here, you may upload a new avatar.</li>
- 	<li>For more information, see the help page, <a href="https://lab.urad.online/help/changing-your-avatar-profile-picture/">Changing your avatar</a><a name="changename"></a></li>
+ 	<li>Chcete-li se dostat na svou profilovou stránku, klikněte v hlavní nabídce na <strong>My OpenLab</strong> .</li>
+ 	<li>Klikněte na tlačítko <strong>Změnit avatar</strong> pod avatarem (obrázek profilu). Zde můžete nahrát nový avatar.</li>
+ 	<li>Další informace naleznete na stránce nápovědy <a href="https://lab.urad.online/help/changing-your-avatar-profile-picture/">Změna vašeho avataru</a><a name="changename"></a></li>
 </ul>
-<h4>How do I change the name on my profile?</h4>
+<h4>Jak mohu změnit jméno v mém profilu?</h4>
 <ul>
- 	<li>You can change your Display Name (the name that appears on your profile page), but not your username (the username you use to log in).</li>
- 	<li>To change your Display Name, click <strong>My OpenLab</strong> in the main menu.</li>
- 	<li>Click the <strong>Edit Profile</strong> button beneath your avatar (profile picture).</li>
- 	<li>Display Name is the first field you’ll see. Don’t forget to click <strong>Save Changes</strong> at the bottom.</li>
- 	<li>For more information, see the help page, <a href="https://lab.urad.online/help/editing-my-profile/">Editing your profile</a>.</li>
+ 	<li>Můžete změnit své zobrazované jméno (jméno, které se zobrazí na stránce vašeho profilu), ale nikoli vaše uživatelské jméno (uživatelské jméno, které používáte k přihlášení).</li>
+ 	<li>Chcete-li změnit zobrazované jméno, klikněte v hlavní nabídce na tlačítko <strong>My OpenLab</strong> .</li>
+ 	<li>Klikněte na tlačítko <strong>Upravit profil</strong> pod vaším avatarem (profilový obrázek).</li>
+ 	<li>Zobrazené jméno je první pole, které uvidíte. Nezapomeňte kliknout na tlačítko <strong>Uložit změny</strong> v dolní části stránky.</li>
+ 	<li>Další informace naleznete na stránce nápovědy <a href="https://lab.urad.online/help/editing-my-profile/">Úpravy profilu</a> .</li>
 </ul>
