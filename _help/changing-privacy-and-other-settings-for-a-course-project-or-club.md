@@ -14,7 +14,6 @@ post_date: 2018-01-15 22:15:14
 help_tags:
   - Nastavení
 help_category:
-  - Kurzy projekty a skupiny
   - >
     Změny nastavení pro kurzy, projekty a
     skupiny
