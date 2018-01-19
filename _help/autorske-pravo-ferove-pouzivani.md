@@ -16,51 +16,51 @@ help_tags:
 help_category:
   - Pro spolupracovníky
 ---
-You may be wondering how <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">copyright</a> restrictions and <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">fair use</a> apply on the OpenLab.
+Možná vás zajímá, jak omezují <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">autorská práva</a> a <a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">spravedlivé používání</a> v OpenLabu.
 
-While copyrighted works are restricted by law, there are many uses considered legitimate under the fair use doctrine, which allows the limited usage, within specific parameters, of copyrighted material without receiving permission from the owner. Fair use covers uses such as quotation for the purposes of commentary or criticism, parody, news reporting, and scholarly and educational use.
+Zatímco díla chráněná autorskými právy jsou zákonem omezena, existuje mnoho způsobů použití považovaných za legitimní podle doktríny o spravedlivém užívání, což umožňuje omezené použití materiálů chráněných autorskými právy v rámci konkrétních parametrů bez povolení majitele. Spravedlivé použití zahrnuje použití jako citace pro účely komentáře nebo kritiky, parodie, zpravodajství a vědecké a vzdělávací využití.
 
-The same principles you would use in your own scholarly work apply on the OpenLab. However, there are a few differences. Below are some guidelines for teaching on the OpenLab or posting work on your own website. Additional information is available at <a href="http://www.cuny.edu/libraries/services/copyright.html">Copyright @ CUNY</a>.
+Stejné zásady, které byste použili ve své vlastní vědecké práci, platí pro OpenLab. Existuje však několik rozdílů. Níže uvádíme několik pokynů pro výuku na OpenLab nebo o práci na vašich webových stránkách. Další informace naleznete na adrese <a href="http://www.cuny.edu/libraries/services/copyright.html">Copyright @ CUNY</a> .
 <ul>
- 	<li>While printed coursepacks are considered legal under fair use, it is <b>not </b>legal to post copyrighted materials for download on a website that is open to the public.</li>
- 	<li>It is always permissible to link directly to an article available online in one of the City Tech library databases. <a href="http://cityte.ch/durable">Instructions are available on the library website</a>, or contact your <a href="http://library.citytech.cuny.edu/instruction/subjectSpecialists.php">library subject specialist</a> for more information.</li>
- 	<li>We are exploring solutions for password-protecting files on individual pages and posts for public sites, but for now pages and posts on a public site are not a secure place for files you would like password-protected, unless the site is private. If your site is public, we advise that you use Dropbox or another external file sharing site until we find a solution.  If your course or project profile is private, you can also use the Files area.</li>
- 	<li>According to <a href="http://www.teachingcopyright.org/handout/fair-use-faq">fair use</a> guidelines, you may post parts of creative works–for example music, video, or images–in order to comment on or critique them as long as you give credit to the author and do not post the entire work.</li>
- 	<li>It is always best to embed video from another site, such as YouTube or Vimeo. These sites do their best to make sure their content adheres to copyright rules. However, they can’t always check everything, so use your best judgement and don’t embed anything you know or suspect infringes on copyright.
+ 	<li>Zatímco tištěné balíčky jsou považovány za zákonné za spravedlivého používání, <b>není</b> legální publikovat materiály chráněné autorskými právy ke stažení na webových stránkách, které jsou přístupné veřejnosti.</li>
+ 	<li>Je vždy dovoleno propojit přímo s článkem, který je k dispozici online v jedné z databází knihovny City Tech. <a href="http://cityte.ch/durable">Pokyny jsou k dispozici na internetových stránkách knihovny</a> nebo se obraťte na <a href="http://library.citytech.cuny.edu/instruction/subjectSpecialists.php">specializovaného odborníka knihovny</a> .</li>
+ 	<li>Prozkoumáme řešení pro ochranu souborů chráněných heslem na jednotlivých stránkách a příspěvky pro veřejné weby, zatím ale stránky a příspěvky na veřejných místech nejsou bezpečným místem pro soubory, které byste chtěli chránit heslem, pokud je web soukromý. Je-li váš web veřejný, doporučujeme použít Dropbox nebo jiný externí soubor pro sdílení souborů, dokud nenalezneme řešení. Pokud je váš kurz nebo profil projektu soukromý, můžete také použít oblast Soubory.</li>
+ 	<li>Podle pokynů ke <a href="http://www.teachingcopyright.org/handout/fair-use-faq">spravedlivému použití</a> můžete posílat části kreativních děl - například hudbu, video nebo obrázky - abyste je mohli komentovat nebo kritizovat, pokud udělujete autorovi autoritu a neposíláte celou práci.</li>
+ 	<li>Vždy je nejlepší vkládat video z jiných webů, jako je YouTube nebo Vimeo. Tyto stránky vyvíjejí maximální úsilí, aby se ujistil, že jejich obsah dodržuje pravidla autorských práv. Nicméně, nemohou vždy zkontrolovat vše, takže použijte svůj nejlepší úsudek a nezavádějte nic, co znáte, nebo se domníváte, že porušuje autorská práva.
 <ul>
- 	<li>When using images that are not yours:
+ 	<li>Při použití obrázků, které nejsou vaše:
 <ul>
- 	<li>Use open license images, such as those licensed through <a href="http://creativecommons.org/licenses/">Creative Commons</a>. You may use these as long as you credit the original owner or creator of the image.</li>
- 	<li>Try to find images that are in the public domain, which are free of copyright. In the U.S., images created before 1923 are automatically in the public domain.</li>
- 	<li>Find out whether you have permission to use an image. If it says “all rights reserved” or “copyright,” do not use. Or, if you can’t find any copyright information or if you’re unsure, it’s best not to use.</li>
- 	<li>Read our help page on <a href="https://lab.urad.online/help/following-copyright-guidelines-for-images/">images</a> for more information, including where you can find open license and public domain images.</li>
+ 	<li>Používejte otevřené licenční obrázky, například licencované prostřednictvím <a href="http://creativecommons.org/licenses/">Creative Commons</a> . Můžete je použít, dokud připočítáte původní majitele nebo tvůrce obrazu.</li>
+ 	<li>Pokuste se najít obrázky, které jsou ve veřejné doméně, které jsou bez autorských práv. V USA jsou snímky vytvořené před rokem 1923 automaticky ve veřejné doméně.</li>
+ 	<li>Zjistěte, zda máte oprávnění k použití obrázku. Pokud je uvedeno "všechna práva vyhrazena" nebo "copyright", nepoužívejte. Nebo pokud nemůžete najít žádné informace o autorských právech nebo pokud si nejste jisti, nejlépe nepoužívejte.</li>
+ 	<li>Další informace naleznete v nápovědě na <a href="https://lab.urad.online/help/following-copyright-guidelines-for-images/">obrázcích</a> , včetně informací o otevřených licencích a obrázcích ve veřejné doméně.</li>
 </ul>
 </li>
 </ul>
 </li>
- 	<li>You can also link to a website, text, image, video, or music; again, it’s best not to link to something you know is infringing on copyright.</li>
+ 	<li>Můžete také odkazovat na webové stránky, text, obrázky, videa nebo hudbu. znovu, je nejlepší, aby nebylo odkazováno na něco, co víte, že porušuje autorská práva.</li>
 </ul>
-<h3><b>Licensing your own Work on the OpenLab</b></h3>
-Any content that you or your students create or post on the OpenLab is automatically protected under the terms and conditions of a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution NonCommercial Share-Alike 3.0 license</a>, or any successor or equivalent Creative Commons license. However, you are free to specify other copyright conditions for any content that you create or post on the OpenLab. You will need to specify those on your own site if they differ from the general OpenLab license.
+<h3><b>Licencování vlastní práce na OpenLab</b></h3>
+Jakýkoli obsah, který vy nebo vaši studenti vytvoříte nebo zveřejňujete na OpenLabu, je automaticky chráněn za podmínek licencí <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution Noncommercial Share-Alike 3.0</a> nebo jakéhokoli nástupce nebo ekvivalentní licence Creative Commons. Můžete však určit další podmínky týkající se autorských práv pro jakýkoli obsah, který vytváříte nebo publikujete v OpenLabu. Budete-li se lišit od obecné licence OpenLab, budete muset zadat ty, které se nacházejí na vašich stránkách.
 
-If you have questions about copyright and fair use, or concerns about violations related to your content, please contact us at openlab@citytech.cuny.edu. You can also find more information about copyright issues by reading our <a href="https://lab.urad.online/about/terms-of-service/">Terms of Use</a>.
-<h3><b>Additional Resources</b></h3>
-<b>Copyright and Fair Use
+Máte-li dotazy týkající se autorských práv a spravedlivého užívání nebo obav z porušení vztahujících se k vašemu obsahu, kontaktujte nás na adrese openlab@citytech.cuny.edu. Více informací o problémech s autorskými právy naleznete také v našich <a href="https://lab.urad.online/about/terms-of-service/">Podmínkách</a> .
+<h3><b>Dodatečné zdroje</b></h3>
+<b>Autorská práva a spravedlivé použití
 </b><a href="http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use">http://library.citytech.cuny.edu/research/subjectGuides/wiki/index.php/Copyright_and_Fair_Use
-</a>Learn more about copyright and fair use from this great resource compiled by the City Tech Library.
+</a>Další informace o autorských právech a spravedlivém používání z tohoto skvělého zdroje, který zpracuje knihovna City Tech.
 
 <b>Copyright @ CUNY
 </b><a href="http://www.cuny.edu/libraries/services/copyright.html">http://www.cuny.edu/libraries/services/copyright.html
-</a>Created by CUNY library faculty and the Office of General Counsel, this resource is designed to provide copyright and fair use information for CUNY faculty, students, librarians, and staff.
+</a>Vytvořeno knihovnou CUNY a Kanceláří generálního právního zástupce je určen k poskytování informací o autorských právech a spravedlivém užívání pro fakulty CUNY, studenty, knihovníky , a zaměstnanci.
 
-<b>Teaching Copyright
+<b>Výuka autorských práv
 </b><a href="http://www.teachingcopyright.org/">http://www.teachingcopyright.org
-</a>This site was created by the <a href="https://www.eff.org/">Electronic Frontier Foundation</a> for K-12 education, but is still a great resource for anyone.
+</a>Tato stránka byla vytvořena <a href="https://www.eff.org/">Electronic Frontier Foundation</a> pro vzdělávání K-12, ale stále je pro někoho velkým zdrojem.
 
 <b>Creative Commons
 </b><a href="http://creativecommons.org/">http://creativecommons.org/
-</a>Learn more about the Creative Commons License used by the OpenLab, as well as Creative Commons in general, which allows a more flexible approach to protecting intellectual and creative work than “all rights reserved.”
+</a>Další informace o licenci Creative Commons, kterou používá OpenLab, stejně jako Creative Commons obecně, umožňuje pružnější přístup k ochraně intelektuální a tvůrčí práce než "všechna práva vyhrazena".
 
-<b>Open Access @ CUNY
-</b><a href="http://openaccess.commons.gc.cuny.edu">http://openaccess.commons.gc.cuny.edu
-</a>Learn more about Open Access initiatives at CUNY.
+<b>Otevřený přístup @ CUNY
+</b><a href="http://openaccess.commons.gc.cuny.edu/">http://openaccess.commons.gc.cuny.edu
+</a>Další informace o iniciativách Open Access v CUNY.
