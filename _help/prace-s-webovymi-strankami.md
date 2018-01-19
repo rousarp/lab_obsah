@@ -14,32 +14,32 @@ help_category:
   - Odstraňování problémů
 ---
 <ul>
- 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#videoembed">I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</a></li>
- 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#quota">I tried to upload a file to my site and I’m getting an error message that the site has reached its size quota.</a></li>
- 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#comment">I’m trying to comment on a post, but I can’t.</a></li>
- 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#google">Content from my Site is appearing in a Google search but I don’t want it to.</a><a name="videoembed"></a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#videoembed">Snažím se do mého příspěvku nebo stránky vložit video YouTube, video však nebude vkládat a vše, co vidím, je odkaz na video.</a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#quota">Snažil jsem se nahrát soubor na můj web a dostávám chybovou zprávu, že web dosáhl své kvóty velikosti.</a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#comment">Snažím se komentovat příspěvek, ale nemohu.</a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#google">Obsah z mého webu se objevuje ve vyhledávání Google, ale nechci to.</a><a name="videoembed"></a></li>
 </ul>
-<h4>I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</h4>
+<h4>Snažím se do mého příspěvku nebo stránky vložit video YouTube, video však nebude vkládat a vše, co vidím, je odkaz na video.</h4>
 <ul>
- 	<li>In order to avoid this, be sure to copy and paste the correct YouTube link.  Instead of copying the “share” or “embed” link, copy and paste the URL directly from your search engine’s search bar.</li>
- 	<li>Occasionally videos do not allow embedding, although this is rare. You can check on the YouTube video page.</li>
- 	<li>For more information on embedding video, see our help on <a href="https://lab.urad.online/help/adding-video-to-your-site/">Adding video to your Site</a>.<a name="quota"></a></li>
+ 	<li>Chcete-li tomu zabránit, nezapomeňte zkopírovat a vložit správný odkaz YouTube. Místo kopírování odkazu "sdílet" nebo "vložte" adresu URL zkopírujte a vložte přímo z vyhledávacího panelu vyhledávače.</li>
+ 	<li>Občas videa neumožňují vkládání, ačkoli je to vzácné. Můžete se podívat na stránku s videem YouTube.</li>
+ 	<li>Další informace o vkládání videa naleznete v nápovědě k <a href="https://lab.urad.online/help/adding-video-to-your-site/">přidání videa na vaše stránky</a> .<a name="quota"></a></li>
 </ul>
-<h4>I tried to upload a file to my site and I’m getting an error message that the site has reached its size quota.</h4>
+<h4>Snažil jsem se nahrát soubor na můj web a dostávám chybovou zprávu, že web dosáhl své kvóty velikosti.</h4>
 <ul>
- 	<li>In order to provide the best possible service, all sites on the OpenLab have a size limit of 300MB per site. While in most cases you won’t reach it, you might find that if you have a lot of media–particularly large photographs, PowerPoint presentations, or perhaps video–you will exceed your site quota.</li>
- 	<li>If so, you should consider external solutions for <a href="https://lab.urad.online/help/sharing-large-files-on-the-openlab/">sharing large files on the OpenLab</a>.</li>
- 	<li>If you have a lot of video, you’ll find that your site is more responsive (and looks better), if you upload your video to <a href="https://www.youtube.com/" target="_blank" rel="noopener">YouTube</a> or <a href="https://vimeo.com/" target="_blank" rel="noopener">Vimeo</a> and then <a href="https://lab.urad.online/help/adding-video-to-your-site/">embed the link</a> on your OpenLab site.</li>
- 	<li>Please be sure to resize images!  Rarely do images on the internet need to be full size, and in fact the default width for sites tends to be about 600 pixels wide.<a name="comment"></a></li>
+ 	<li>Aby bylo možné co nejlépe poskytnout služby, všechny weby v OpenLabu mají limit velikosti 300 MB na stránku. Zatímco ve většině případů nedosáhnete, můžete zjistit, že pokud máte velké množství médií - obzvláště velké fotografie, prezentace PowerPoint nebo možná video - překročíte kvótu webu.</li>
+ 	<li>Pokud ano, měli byste zvážit externí řešení pro <a href="https://lab.urad.online/help/sharing-large-files-on-the-openlab/">sdílení velkých souborů na OpenLab</a> .</li>
+ 	<li>Pokud máte spoustu videí, zjistíte, že váš web je citlivější (a vypadá lépe), pokud nahrajete své video na <a href="https://www.youtube.com/" target="_blank" rel="noopener">YouTube</a> nebo <a href="https://vimeo.com/" target="_blank" rel="noopener">Vimeo</a> a pak <a href="https://lab.urad.online/help/adding-video-to-your-site/">do něj</a> vložíte <a href="https://lab.urad.online/help/adding-video-to-your-site/">odkaz</a> na webu OpenLab.</li>
+ 	<li>Nezapomeňte změnit velikost obrázků! Vzácně musí být obrazy na internetu plné velikosti, ve skutečnosti je výchozí šířka stránek asi 600 pixelů.<a name="comment"></a></li>
 </ul>
-<h4>I’m trying to comment on a post, but I can’t.</h4>
+<h4>Snažím se komentovat příspěvek, ale nemohu.</h4>
 <ul>
- 	<li>Are you logged in to the OpenLab?  The site might be set to only allow commenting by logged-in users.</li>
- 	<li>If you’re logged in and you still don’t see a place to comment, it could be that the administrator of the site or the author of a post has disabled comments on that post.</li>
- 	<li>If you are the site administrator, you can always enable comments for individual posts if the author has accidentally disabled them.  Go to <strong>Dashboard</strong> &gt; <strong>Posts</strong>.  Hover over the post in question and choose <strong>Quick Edit</strong>.  Make sure the <strong>Enable Comments</strong> checkbox on the right-hand side is checked..<a name="google"></a></li>
+ 	<li>Jste přihlášeni do OpenLab? Stránky mohou být nastaveny tak, aby umožňovaly komentovat pouze přihlášené uživatele.</li>
+ 	<li>Pokud jste přihlášeni a stále se vám nedaří komentovat, mohlo by to znamenat, že správce webu nebo autor příspěvku zakázal komentáře k tomuto příspěvku.</li>
+ 	<li>Pokud jste administrátoři stránek, můžete vždy povolit komentáře pro jednotlivé příspěvky, pokud je autor náhodou zakázal. Přejděte do <strong>panelu</strong> &gt; <strong>Příspěvky</strong> . Umístěte ukazatel myši na daný příspěvek a zvolte možnost <strong>Rychlé úpravy</strong> . Zkontrolujte, zda je zaškrtnuto políčko <strong>Povolit komentáře</strong> na pravé straně.<a name="google"></a></li>
 </ul>
-<h4>Content from my Site is appearing in a Google search but I don’t want it to.</h4>
+<h4>Obsah z mého webu se objevuje ve vyhledávání Google, ale nechci to.</h4>
 <ul>
- 	<li>You can <a href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">change privacy settings</a> anytime on the Profile page of your Course, Project, Club, or Portfolio.  Under Site Privacy Settings, choose “Ask search engines not to index this site. Your site should not show up in web search results.”</li>
- 	<li>If your site has already been created and active, do note that there will be a delay (usually a few days, but sometimes longer) before the results disappear from Google searches.</li>
+ 	<li><a href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">Nastavení ochrany osobních údajů</a> můžete kdykoli <a href="https://lab.urad.online/help/changing-privacy-and-other-settings-for-a-course-project-or-club/">změnit</a> na stránce profilu kurzu, projektu, klubu nebo portfolia. Ve skupinovém rámečku Nastavení ochrany osobních údajů vyberte "Zeptejte se vyhledávačů, aby tyto stránky indexovaly. Vaše stránky by se neměly zobrazovat ve výsledcích vyhledávání na webu. "</li>
+ 	<li>Pokud byl váš web již vytvořen a aktivní, nezapomeňte, že před tím, než výsledky zmizí z vyhledávání Google, dojde ke zpoždění (obvykle několik dní, ale někdy i déle).</li>
 </ul>
