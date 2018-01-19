@@ -15,14 +15,14 @@ help_category:
 ---
 <div class="entry-content">
 
-<a title="Category Sticky Post" href="http://wordpress.org/extend/plugins/category-sticky-post/">Category Sticky Post for WordPress</a> is a plugin that allows you to mark a post as sticky within a specific category archive. It works exactly like the typical sticky post functionality within WordPress, except that it’s specifically for category archives.
+<a title="Kategorie Sticky Post" href="http://wordpress.org/extend/plugins/category-sticky-post/">Kategorie Sticky Post for WordPress</a> je plugin, který vám umožní označit příspěvek jako lepicí v rámci konkrétního archivu kategorie. Funguje to přesně jako typická funkčnost slepých příspěvků v aplikaci WordPress, s výjimkou toho, že je specifická pro kategorii archivů.
 
-To use it, first activate the plug-in. Once you do, you’ll see a new “Category Sticky” field appear above “Categories.”
+Chcete-li jej použít, nejprve aktivujte plug-in. Jakmile to uděláte, uvidíte nové pole "Kategorie Sticky" zobrazené nad "Kategorie".
 
-<img class="alignnone wp-image-37528 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2016/07/CategoryStickyPost1.png" alt="Category Sticky Post Screenshot" />
+<img class="alignnone wp-image-37528 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2016/07/CategoryStickyPost1.png" alt="Kategorie Sticky Post Screenshot" />
 
-If you choose a category from the drop-down, the post that you’re currently editing or creating will automatically “stick” to the top of the category archive. This is particularly useful if you’re using a custom menu with category archives–it will allow you to post an introduction, say, or some other bit of contextual information for the archive.
+Pokud v rozbalovací nabídce vyberete kategorii, příspěvek, který právě upravujete nebo vytváříte, se automaticky přidá k horní části archivu kategorie. To je obzvláště užitečné, pokud používáte vlastní nabídku s archivy kategorií - umožní vám uveřejnit úvod, řekněme nebo nějaký jiný kontextový obsah pro archiv.
 
-That’s it! As always, <a href="http://openlab@citytech.cuny.edu">let us know</a> if you have any questions.
+A je to! Jako vždy, <a href="http://openlab@citytech.cuny.edu/">dejte nám vědět,</a> pokud máte nějaké dotazy.
 
 </div>
