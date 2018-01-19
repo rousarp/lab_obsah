@@ -9,10 +9,9 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:12:00
 help_tags:
-  - Otázky a odpovědi
   - Úvod
+  - Otázky a odpovědi
 help_category:
-  - Začínáme
   - Základy OpenLab
 ---
 <h3>Vítejte v OpenLab!</h3>
