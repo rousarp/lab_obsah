@@ -9,11 +9,10 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:14:01
 help_tags:
-  - Připojení
   - Úvod
+  - Připojení
 help_category:
   - Nastavení účtu
-  - Začínáme
 ---
 Jakmile jste členem OpenLab (viz <a href="https://lab.urad.online/help/signing-up-on-the-openlab/ ‎">Registrace na OpenLab</a>), můžete se přihlásit dvěma způsoby:
 
