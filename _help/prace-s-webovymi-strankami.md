@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/working-with-sites/
+  https://lab.urad.online/help/prace-s-webovymi-strankami/
 published: true
 post_date: 2018-01-15 23:04:34
 help_tags:
