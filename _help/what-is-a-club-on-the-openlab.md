@@ -11,7 +11,6 @@ post_date: 2018-01-15 22:04:17
 help_tags:
   - Úvod
 help_category:
-  - Kurzy projekty a skupiny
   - Skupiny
 ---
 Students, faculty, and staff can create clubs on the OpenLab to serve as online extensions of their in-person City Tech clubs. If updated regularly, this online space can serve as a way to inform other students of club meetings and activities, have discussions about events and other club-related matters, share club materials, and maintain a web presence.  Each club offers a <a title="Using “Discussion” forums" href="https://lab.urad.online/help/discussion-forums/">Discussion</a> forum, <a title="Using “Docs”" href="https://lab.urad.online/help/using-docs/">Docs</a> for collaborative editing, a place to upload <a title="Using “Files”" href="https://lab.urad.online/help/using-files/">Files</a>, and a <a title="What is a “Site” on a Course, Project, or Club?" href="https://lab.urad.online/help/what-is-a-site-on-a-course-project-or-club/">Site</a> where members can write posts (blog entries), provide feedback, and share files and other resources.
