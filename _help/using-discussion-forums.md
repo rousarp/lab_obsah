@@ -14,32 +14,30 @@ help_tags:
 help_category:
   - Používání kurzů, projektů a skupin
 ---
-Discussions, also called “Discussions Forums,” are one way you can communicate with other members of your group. You can post new topics in the discussion forums or reply to what others have posted. Discussion forums are a good place to ask questions, share resources, or have informal discussions. Discussion forums are available for all Courses, Projects, and Clubs. In order to start a new Discussion, comment on an existing discussion, or adjust your email notification settings on discussion topics you need to first be logged into your account on the Openlab.
+Diskuse, nazývané také "Diskuzní fóra", jsou jedním ze způsobů, jak komunikovat s ostatními členy vaší skupiny. Můžete posílat nová témata v diskusních fórech nebo odpovědět na to, co ostatní poslali. Diskusní fóra jsou dobrým místem k dotazování, sdílení zdrojů nebo k neformálním diskusím. Diskusní fóra jsou k dispozici pro všechny kurzy, projekty a kluby. Chcete-li zahájit novou diskusi, komentovat existující diskusi nebo upravit nastavení e-mailových upozornění na témata diskuse, je třeba nejdříve přihlásit do svého účtu v Openlabu.
 
-If you are the Administrator of the Course, Project, or Club and do not wish to use the Discussion feature, you can disable it under <strong>Settings</strong>.
-<h3><strong>Starting a New Discussion on a Discussion Forum</strong></h3>
-1. From your Course, Project, or Club’s profile page click  <strong>Discussion</strong> in the right-hand menu.
+Pokud jste administrátorem kurzu, projektu nebo klubu a nechcete používat funkci diskuse, můžete jej v části <strong>Nastavení</strong> zakázat .
+<h3><strong>Zahájení nové diskuse na diskuzním fóru</strong></h3>
+1. Na stránce profilu kurzu, projektu nebo klubu klepněte na položku   <strong>Diskuse</strong> v pravém menu.
 
-<img class="alignnone wp-image-36512 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_1_v2.png" alt="Using Discussion Screen Shot" />
+<img class="alignnone wp-image-36512 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_1_v2.png" alt="Použití diskusního snímku" />
 
-1. On the main Discussion page, scroll down to the bottom of the page and enter the <strong>Title</strong> and <strong>Content</strong> of your new topic post.  You can also add <strong>Tags</strong> and attach files.
+1. Na hlavní stránce Diskuse přejděte dolů na spodní stranu stránky a zadejte <strong>název</strong> a <strong>obsah</strong> příspěvku nového tématu. Můžete také přidat <strong>značky</strong> a připojit soubory.
 
-2. When you’re finished, click <strong>Post Topic</strong>.
+2. Po dokončení klikněte na položku <strong>Post topic</strong> .
 
-<img class="alignnone wp-image-36514 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_3_v2.png" alt="Discussion Post Topic Screen Shot" />
-<h3><strong>Commenting on Posts on a Discussion Forum</strong></h3>
-1. Click the topic from the main Discussion page.
+<img class="alignnone wp-image-36514 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_3_v2.png" alt="Diskuze Post Topic Screen Shot" />
+<h3><strong>Komentáře k příspěvkům na diskuzním fóru</strong></h3>
+1. Klikněte na téma z hlavní diskusní stránky.
 
-<img class="alignnone wp-image-36515 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_4_v2.png" alt="Discussion Comment Screen Shot" />
+<img class="alignnone wp-image-36515 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_4_v2.png" alt="Diskuse Komentář Obrazovka Shot" />
 
-1. Read the topic and type your reply in the <strong>Add a Reply</strong> box.
+1. Přečtěte si téma a zadejte odpověď v poli <strong>Přidat odpověď</strong> .
 
-2. Click <strong>Post Reply</strong>.
+2. Klikněte na <strong>Odpovědět</strong> .
 
-3. To return to other discussion topics, click <strong>Course/Project/Club Discussion</strong>.
+3. Chcete-li se vrátit k dalším diskusním tématům, klikněte na možnost <strong>Kurz / Projekt / Klubová diskuse</strong> .
 
-4. Or to go on to the next discussion topic, click <strong>Next Topic</strong>.
+4. Nebo přejděte k dalšímu tématu diskuze, klikněte na <strong>Další téma</strong> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png"><img class="alignnone wp-image-36516 size-full" title="Using_Discussion_5" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png" alt="return to discussion screenshot" /></a>
-
-&nbsp;
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png"><img class="alignnone wp-image-36516 size-full" title="Using_Discussion_5" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/Using_Discussion_Forums_5_v2.png" alt="návrat do diskusního screenshotu" /></a>
