@@ -9,11 +9,10 @@ permalink: >
 published: true
 post_date: 2018-01-15 23:00:03
 help_tags:
-  - Otázky a odpovědi
   - Úvod
+  - Otázky a odpovědi
 help_category:
   - Jak mohu ...?
-  - Otázky a odpovědi
 ---
 <h3>Jak mohu…</h3>
 <a href="https://lab.urad.online/help/access-the-openlab/#gainaccess">získat přístup k OpenLab?</a>
