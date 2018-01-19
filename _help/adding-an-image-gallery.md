@@ -12,28 +12,27 @@ help_tags:
   - Obrázky
 help_category:
   - Používání webu (pro členy webu)
-  - Webové stránky na OpenLab
 ---
-In addition to adding individual images to a post or page, you can also add an image gallery.
+Kromě přidávání jednotlivých obrázků do příspěvku nebo stránky můžete také přidat galerii obrázků.
 
-1. From the Edit Post or Page screen, put your cursor where you would like to add the image gallery, and click the <b>Add Media</b> button.
+1. Na obrazovce Upravit příspěvek nebo stránku přejděte kurzorem, kam chcete přidat galerii obrázků, a klikněte na tlačítko <b>Přidat media</b> .
 
-<img class="alignnone wp-image-8173 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_1.png" alt="Add media screenshot" />
+<img class="alignnone wp-image-8173 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_1.png" alt="Přidat obrázek obrazovky médií" />
 
-2. Click <b>Create Gallery</b> on the left-hand side of the next page (see below).  You can either choose images that you’ve already uploaded to your Media Library, or you can upload new files.  Depending on which option you want, click on either the <b>Upload Files</b> or <b>Media Library</b> tab.
+2. Na levé straně další stránky klikněte na tlačítko <b>Vytvořit galerii</b> (viz níže). Můžete si vybrat snímky, které jste již nahrali do knihovny médií, nebo můžete nahrát nové soubory. V závislosti na požadované možnosti klikněte na kartu <b>Nahrát soubory</b>nebo <b>Knihovna médií</b> .
 
-3. Choose the files you would like to add to the gallery.  When you’re finished, click <b>Create a new gallery</b> in the bottom right-hand corner.
+3. Vyberte soubory, které chcete přidat do galerie. Po dokončení klikněte na tlačítko <b>Vytvořit novou galerii</b> v pravém dolním rohu.
 
-<img class="alignnone wp-image-8174 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_2-1024x516.png" alt="Create gallery screenshot" />
+<img class="alignnone wp-image-8174 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_2-1024x516.png" alt="Vytvořte snímek obrazovky galerie" />
 
-4. Next, edit the gallery.  You may add captions to your images, drag and drop to change the order of the images, change the number of columns that will appear in the gallery, or add additional images to the gallery.  When you’re finished, click <b>Insert gallery</b> in the bottom right-hand corner.
+4. Dále upravte galerii. Do obrázků můžete přidat titulky, přetáhnout a přetáhnout, změnit pořadí obrázků, změnit počet sloupců, které se objeví v galerii, nebo přidávat další obrázky do galerie. Po dokončení klikněte na tlačítko <b>Vložit galerie</b> v pravém dolním rohu.
 
-<img class="alignnone wp-image-8175 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_3-1024x514.png" alt="Insert gallery screenshot" />
+<img class="alignnone wp-image-8175 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_3-1024x514.png" alt="Vložit snímek obrazovky galerie" />
 
-5. The image gallery will appear as a dotted gray box in the post or page editor.  If you need to edit the gallery, click on the gray box, and then click on the icon with the camera (see image below).
+5. Obrazová galerie se v editoru příspěvků nebo stránek zobrazí jako šedé pole s tečkami. Pokud potřebujete upravit galerii, klikněte na šedé pole a poté klikněte na ikonu fotoaparátu (viz obrázek níže).
 
-<img class="alignnone wp-image-8176 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_4-1024x459.png" alt="Edit gallery screenshot" />
+<img class="alignnone wp-image-8176 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_4-1024x459.png" alt="Upravit snímek obrazovky galerie" />
 
-6. When you’re finished, <b>Publish</b> your post or page, and the image gallery will appear in your post or page similar to what is pictured below.
+6. Po dokončení <b>publikujte</b> svůj příspěvek nebo stránku a galerie obrázků se zobrazí ve vašem příspěvku nebo na stránce podobně jako na obrázku níže.
 
-<img class="alignnone wp-image-8177 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_5.png" alt="Publish gallery screenshot" />
+<img class="alignnone wp-image-8177 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2014/02/Image_Gallery_5.png" alt="Publikujte snímek obrazovky galerie" />
