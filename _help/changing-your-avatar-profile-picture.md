@@ -11,22 +11,21 @@ permalink: >
 published: true
 post_date: 2018-01-15 21:48:58
 help_tags:
-  - Obrázky
-  - Profil
   - Úvod
+  - Profil
+  - Obrázky
 help_category:
   - Můj OpenLab
 ---
-Avatars introduce us and represent us on the OpenLab community.  While many users feel comfortable with images of themselves, it’s not at all required.  Feel free to use an image that represents you or your interests.  But do change it from the generic avatar–it makes the community a much more vibrant place.
+Avatary nás představují a reprezentují v komunitě OpenLab. Zatímco mnozí uživatelé se cítí dobře s obrázky sebe sama, není to vůbec nutné. Nebojte se použít obrázek, který zastupuje vás nebo vaše zájmy. Ale změňte to z generického avataru - dělá komunitu mnohem živější místo.
 
-1. After logging in, click<strong> My OpenLab &gt; My Settings </strong>in the right-hand menu.
+1. Po přihlášení klikněte v pravém menu na <strong>My OpenLab&gt; Moje nastavení</strong> .
 
-2. Click<strong> Change Avatar</strong>.
+2. Klikněte na <strong>Změnit Avatar</strong> .
 
-3. Click<strong> Browse</strong> to search for an image from your computer.  Once you’ve chosen it, click<strong> Upload Image</strong>.  Now you’ll have the opportunity to<strong> Crop </strong>the image to the square aspect of the avatar.  If you want to stretch or change an image (anything other than cropping), you’ll need to do so with another image editing program before uploading.  When done, click<strong> Crop Image</strong>.
+3. Klepnutím na tlačítko <strong>Procházet</strong> vyhledejte obrázek z počítače. Jakmile ji vyberete, klikněte na možnost <strong>Nahrát obrázek</strong> . Nyní budete mít příležitost <strong>Oříznout</strong> obrázek na čtvercový aspekt avataru. Chcete-li roztáhnout nebo změnit obrázek (cokoliv jiného než oříznutí), budete muset před nahráním provést jiný program pro úpravy obrázků. Po dokončení klikněte na <strong>Oříznout snímek</strong> .
 
 <strong>
-</strong><img class="alignnone wp-image-36158 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Avatar_1_v2.png" alt="Changing Avatar screen shot" />
+</strong><img class="alignnone wp-image-36158 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Changing_Avatar_1_v2.png" alt="Změna snímku obrazovky Avatar" />
 
-5. If you’d like, you can also delete your avatar here (the the system will automatically assign you a generic avatar), although uploading a new image does delete and replace the old one.  <strong>
-</strong>
+5. Pokud chcete, můžete také svůj avatar smazat (systém vám automaticky přiřadí generický avatar), ačkoli nahrávání nového snímku odstraní a nahradí starý.
