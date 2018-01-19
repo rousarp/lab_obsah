@@ -13,18 +13,18 @@ help_tags:
 help_category:
   - Uživatelé na OpenLab
 ---
-Once you have <a title="Finding People on the OpenLab" href="https://lab.urad.online/help/finding-people-on-the-openlab/">located</a> an OpenLab member, you can contact that person in more than one way.
+Jakmile budete mít <a title="Hledání lidí na OpenLab" href="https://lab.urad.online/help/finding-people-on-the-openlab/">umístěn</a> člen, openlab, můžete se obrátit na tuto osobu ve více než jedním způsobem.
 
-1. You can contact anyone on the OpenLab, whether you have friended them or not, by visiting <strong>People</strong> in the top menu and clicking their <strong>Profile Avatar</strong> or by clicking their <strong>name</strong>.
+1. Můžete kontaktovat někoho na OpenLab, zda jste přidat mezi přátele, nebo ne, při návštěvě <strong>Lidé</strong> v horním menu a kliknutím na jejich <strong>profil Avatar</strong> nebo kliknutím na jejich <strong>jména</strong> .
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab1.png"><img class="alignnone wp-image-36870 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab1.png" alt="Contacting person screenshot 1" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab1.png"><img class="alignnone wp-image-36870 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab1.png" alt="Obrazovka kontaktování osoby 1" /></a>
 
-2.  This will bring you to their Profile, where you can click <strong>Send Message</strong>, fill in the fields, and a message will be sent.
+2. Tím se dostanete do profilu, kde můžete kliknout na tlačítko <strong>Odeslat zprávu</strong> , vyplnit pole a poslat zprávu.
 
-3.  You can also contact them by clicking <strong>Request Friendship</strong> just to the left of the Send Message button on their Profile page.
+3. Můžete je také kontaktovat kliknutím na odkaz <strong>Požádat o přátelství</strong> jen na levé straně tlačítka Odeslat zprávu na stránce profilu.
 
-4. Many users also have other ways to contact them outside of the OpenLab on their profile pages, this may include alternate email addresses, twitter handles, or other social media platforms.
+4. Mnoho uživatelů má také jiné způsoby, jak je kontaktovat mimo OpenLab na svých stránkách profilu, což může zahrnovat alternativní e-mailové adresy, ručičky twitter nebo jiné platformy sociálních médií.
 
-5.  Lastly, the top menu is another place to monitor requests from other members and invitations.
+5. Konečně je horní nabídka dalším místem, kde můžete sledovat požadavky jiných členů a pozvánky.
 
-<a href="https://lab.urad.online/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab2.png"><img class="alignnone wp-image-36871 size-full" title="Contacting_2" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab2.png" alt="Contacting person screenshot 2" /></a>
+<a href="https://lab.urad.online/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab2.png"><img class="alignnone wp-image-36871 size-full" title="Kontaktování_2" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/09/contacting_a_person_on_the_openlab2.png" alt="Obrazovka pro kontaktování osoby 2" /></a>
