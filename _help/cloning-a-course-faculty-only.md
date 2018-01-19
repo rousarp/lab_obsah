@@ -96,26 +96,20 @@ Nastavení ochrany osobních údajů pro nový kurz bude stejné jako nastavení
 <h3>Třetí krok: Náhledový obrázek kurzu</h3>
 <ol>
 <li>Náhledový obrázek kurzu Bude zachován. Pokud chcete tento avatar ponechat, stačí kliknout na tlačítko <strong>Další krok</strong>. Chcete-li jej změnit, klikněte na možnost <strong>Procházet</strong>. Vyberte soubor, který chcete použít, z počítače nebo jednotky flash a poté klikněte na tlačítko <strong>Nahrát obrázek</strong>.</li>
-</ol>
-
-<ol>
- 	<li>klikněte na tlačítko <strong>Další krok</strong></li>
+<li>klikněte na tlačítko <strong>Další krok</strong></li>
 </ol>
 
 <h3>Čtvrtý krok: Pozvat členy</h3>
 <ol>
  <li>Pokud chcete pozvat členy do kurzu, zadejte jejich zobrazované jména. Když se objeví rozbalovací seznam, vyberte ze seznamu konkrétní osobu. Jejich jméno a náhledový obrázek se objeví pod nadpisem Pozvánky. Nechcete-li v tuto chvíli pozvat nikoho (můžete to udělat vždycky později!), klikněte na <strong>Dokončit</strong> v dolní části stránky</li>
- 	<li>Po klepnutí na tlačítko <strong>Dokončit</strong> bude kurz duplikován a zůstanete na <strong>profilové stránkce</strong> nového kurzu! Odtud můžete (a) měnit nastavení, jako je soukromí, popis kurzu nebo (b) změnit náhledový obrázek kurzu. Z profilu kurzu můžete také přistupovat k webu kurzu (c) a <a href="https://lab.urad.online/help/what-is-the-site-dashboard/"> řídicímu panelu</a> (admin panel, kde budete moci upravovat a přidávat obsah do kurzu)</li>
+ <li>Po klepnutí na tlačítko <strong>Dokončit</strong> bude kurz duplikován a zůstanete na <strong>profilové stránkce</strong> nového kurzu! Odtud můžete (a) měnit nastavení, jako je soukromí, popis kurzu nebo (b) změnit náhledový obrázek kurzu. Z profilu kurzu můžete také přistupovat k webu kurzu (c) a <a href="https://lab.urad.online/help/what-is-the-site-dashboard/"> řídicímu panelu</a> (admin panel, kde budete moci upravovat a přidávat obsah do kurzu)</li>
 </ol>
 
 <strong>POZOR:</strong>
 <ol>
 <li>Všechny vaše <a href="//lab.urad.online/help/writing-a-post/&quot;">příspěvky </a> a <a href="https://lab.urad.online/help/creating-pages-on-your-site / "> stránky</a> z předchozího kurzu budou také duplikovány. Budou však v návrhu, takže budete muset publikovat všechny, které potřebujete na novém webu zobrazit. Pokud je nezveřejníte, nezobrazí se, že vaše stránky zůstanou prázdné.</li>
- 	<li>Pokud jste měli vlastní <a href="https://lab.urad.online/help/changing-the-menu -on-your-site /">menu</a> bude ho muset nově aktivován, než se objeví na novém webu. Chcete-li tak učinit, přejděte na panel Nástěnka &amp; &gt; Vzhled &amp; &gt; Menu a klikněte na kartu Správa umístění v horní části stránky Úprava menu. Vyberte menu v rozbalovacín seznamu Primární navigace a klikněte na tlačítko Uložit změny.</li>
+ 	<li>Pokud jste měli vlastní <a href="https://lab.urad.online/help/changing-the-menu -on-your-site /">menu</a> bude ho muset nově aktivován, než se objeví na novém webu. Chcete-li tak učinit, přejděte na panel Nástěnka &gt; Vzhled &gt; Menu a klikněte na kartu Správa umístění v horní části stránky Úprava menu. Vyberte menu v rozbalovacín seznamu Primární navigace a klikněte na tlačítko Uložit změny.</li>
  	<li>Všimnete si, že všechny příspěvky na webu v <a href="https://lab.urad.online/help/discussion-forums/">Diskusním fóru</a> nebo v <a href="https://lab.urad.online/help/using-docs/">dokumentech </a>, které jste vytvořili nebo <a href="https: // lab. urad.online/help/using-files/">soubory </a> nahrané v předchozím kurzu se rovněž objeví v novém kurzu. Pokud je to nutné, můžete je zachovat nebo odstranit.</li>
-
-
- 	<li style="list-style-type: none;">
- 	</li><li><a href="https://lab.urad.online/help/changing-the-appearance-of-your -site-with-themes / ">Téma</a> a profilový obrázek zůstávají stejné, i když je můžete kdykoli změnit. Kromě toho se na vašem novém webu objeví všechny <a href="https://lab.urad.online/help/adding-plugins-to-your-site/">pluginy</a> a widgety, které jste aktivovali v původních stránkách.</li>
+<li><a href="https://lab.urad.online/help/changing-the-appearance-of-your -site-with-themes / ">Téma</a> a profilový obrázek zůstávají stejné, i když je můžete kdykoli změnit. Kromě toho se na vašem novém webu objeví všechny <a href="https://lab.urad.online/help/adding-plugins-to-your-site/">pluginy</a> a widgety, které jste aktivovali v původních stránkách.</li>
 </ol>
 Informace o nápovědě k ochraně osobních údajů v kurzech se dozvíte zde.
