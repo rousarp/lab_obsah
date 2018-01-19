@@ -14,10 +14,10 @@ help_category:
   - Odstraňování problémů
 ---
 <ul>
- 	<li><a href="https://lab.urad.online/help/working-with-sites/#videoembed">I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</a></li>
- 	<li><a href="https://lab.urad.online/help/working-with-sites/#quota">I tried to upload a file to my site and I’m getting an error message that the site has reached its size quota.</a></li>
- 	<li><a href="https://lab.urad.online/help/working-with-sites/#comment">I’m trying to comment on a post, but I can’t.</a></li>
- 	<li><a href="https://lab.urad.online/help/working-with-sites/#google">Content from my Site is appearing in a Google search but I don’t want it to.</a><a name="videoembed"></a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#videoembed">I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#quota">I tried to upload a file to my site and I’m getting an error message that the site has reached its size quota.</a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#comment">I’m trying to comment on a post, but I can’t.</a></li>
+ 	<li><a href="https://lab.urad.online/help/prace-s-webovymi-strankami/#google">Content from my Site is appearing in a Google search but I don’t want it to.</a><a name="videoembed"></a></li>
 </ul>
 <h4>I’m trying to embed a YouTube video in my post or page, but the video won’t embed and all I see is a link to the video.</h4>
 <ul>
