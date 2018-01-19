@@ -14,20 +14,19 @@ help_category:
   - >
     Tvorba webových stránek (pro
     administrátory webu)
-  - Webové stránky na OpenLab
 ---
-Any faculty, staff, or student can create a site as part of a course (faculty only), project, or club.  The individual who creates the site will be that site’s <a title="Managing users on your Site" href="https://lab.urad.online/help/managing-users-on-your-site/">Administrator</a> and in charge of creating and managing the site content and site functions.
+Jakákoli fakulta, zaměstnanec nebo student může vytvořit místo jako součást kurzu (pouze fakulty), projektu nebo klubu. Jednotlivec, který vytvoří web, bude <a title="Správa uživatelů na vašem webu" href="https://lab.urad.online/help/managing-users-on-your-site/">administrátor</a> webu a zodpovídá za vytváření a správu obsahu webu a funkcí webu.
 
-1. To create a site for a course (faculty only), project, or club, log in to the OpenLab and click <strong>My OpenLab</strong> in the main menu.  On the following screen, click the appropriate right-hand menu item for which you would like to create a site (i.e., <strong>My Courses</strong>, <strong>My Projects</strong>, <strong>My Clubs</strong>).
+1. Chcete-li vytvořit místo pro kurz (pouze fakulta), projekt nebo klub, přihlaste se do OpenLab a klikněte v hlavním menu na <strong>My OpenLab</strong> . Na následující obrazovce klikněte na příslušnou pravou položku menu, pro kterou chcete vytvořit web (tj. <strong>Moje kurzy</strong>, <strong>Moje projekty</strong> , <strong>Moje kluby</strong> ).
 
-<img class="alignnone wp-image-36864 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/who_can_build_a_site1-1024x404.png" alt="Building a site screenshot" />
+<img class="alignnone wp-image-36864 size-large" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/who_can_build_a_site1-1024x404.png" alt="Vytváření screenshotu webu" />
 
-2. Click <strong>+ Create a Course</strong> (faculty only), +<strong> Create a Project</strong>, or <strong>+ Create a Club</strong>.  After you have filled in the requisite information, you will be given the option of creating a new site, using an existing site, or using an external site.  To create a new site, check the box next to “Create a Site?” at the bottom of your screen.  For more detailed information, see <a title="Creating a course (faculty only)" href="https://lab.urad.online/help/creating-a-course-faculty-only/" target="_blank" rel="noopener">Creating a Course</a> (faculty only), <a title="Creating a Club" href="https://lab.urad.online/help/creating-a-club/">Creating a Club</a>, and <a title="Creating a Project" href="https://lab.urad.online/help/creating-a-project/">Creating a Project</a>.
+2. Klepněte na tlačítko <strong>+ Vytvořit kurz</strong> (pouze fakulta), + <strong>Vytvořit projekt</strong> nebo <strong>+ Vytvořit klub</strong> . Poté, co jste vyplnili potřebné informace, budete mít možnost vytvořit nový web, používat existující web nebo použít externí web. Chcete-li vytvořit nový web, zaškrtněte políčko vedle možnosti "Vytvořit web?" Ve spodní části obrazovky. Podrobnější informace naleznete v tématu <a title="Vytvoření kurzu (pouze fakulta)" href="https://lab.urad.online/help/creating-a-course-faculty-only/" target="_blank" rel="noopener">Vytvoření kurzu</a> (pouze fakulta), <a title="Vytvoření klubu" href="https://lab.urad.online/help/creating-a-club/">Vytvoření klubu</a> a <a title="Vytvoření projektu" href="https://lab.urad.online/help/creating-a-project/">Vytvoření projektu</a> .
 
-<img class="alignnone wp-image-36865 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/who_can_build_a_site2.png" alt="Building a site Step One screenshot" />
+<img class="alignnone wp-image-36865 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/who_can_build_a_site2.png" alt="Vytváření screenshotu k webu Step One" />
 
-3. Enter the address of your new site.
+3. Zadejte adresu svého nového webu.
 
-3b and 3c. You can also choose to use an existing site if you have one (if you do not this option will not appear) or (3c) use an external site not hosted on the OpenLab.
+3b a 3c. Můžete také zvolit použití existujícího webu, pokud jej máte (pokud se tato možnost nezobrazí) nebo (3c) použijte externí web, který není hostitelem OpenLabu.
 
-4. Click <strong>Create Course and Continue</strong> (faculty only), <strong>Create Project and Continue</strong>, or <strong>Create Club and Continue</strong>.
+4. Klikněte na možnost <strong>Vytvořit kurz a pokračovat</strong> (pouze fakulta), <strong>Vytvořit projekt a Pokračovat</strong> nebo <strong>Vytvořit klub a Pokračovat</strong> .
