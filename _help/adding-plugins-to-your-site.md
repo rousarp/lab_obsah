@@ -14,7 +14,6 @@ help_category:
   - >
     Tvorba webových stránek (pro
     administrátory webu)
-  - Webové stránky na OpenLab
 ---
 Plugins add functionality to your course, project, or club site.  A plugin may allow you to create, manage, or edit features of your site that you cannot normally create, manage, or edit without the addition of a plugin.  You can view available plugins by going to your site Dashboard and clicking <strong>Plugins &gt; Installed Plugins</strong>.  Please note that plugins are often edited and updated, so plugin availability can change.  Additionally, some plugins add features to the OpenLab network as a whole and not just your specific site.  For more information (with tutorials) about plugins currently available for use on the OpenLab, see <a href="https://lab.urad.online/openroad/useful-tools-and-plug-ins" target="_blank" rel="noopener">this post</a> on The Open Road.
 
