@@ -13,23 +13,22 @@ post_date: 2018-01-15 22:12:45
 help_tags:
   - Nastavení
 help_category:
-  - Kurzy projekty a skupiny
   - >
     Změny nastavení pro kurzy, projekty a
     skupiny
 ---
-Only administrators can change settings for courses, projects, and clubs.  By default the administrator is the member who started the site, but sites can have multiple administrators.  This can be particularly useful for clubs and groups, where you might not want every major change to have to go through one specific person.  It can also create confusion, particularly if more than one administrator is making changes simultaneously (everything can be reset, however), so we recommend a good level of communication between all administrators.
+Pouze správci mohou měnit nastavení kurzů, projektů a klubů. Ve výchozím nastavení je správcem ten správce, který web začal, ale servery mohou mít více administrátorů. To může být zvláště užitečné pro kluby a skupiny, kde byste nemuseli chtít, aby každá velká změna prošla jednou konkrétní osobou. Může to také vyvolat zmatenost, zvláště pokud více než jeden správce provádí změny současně (vše však může být resetováno), proto doporučujeme správnou komunikaci mezi všemi správci.
 
-To make a member an administrator, follow these steps:
+Chcete-li člena správce, postupujte takto:
 
-1.  Go to the course, project or club’s <strong>Profile Page</strong> then click <strong>Membership</strong> in the right hand menu.
+1. Přejděte na stránku <strong>profilu</strong> kurzu, projektu nebo klubu a pak klikněte na <strong>Členství</strong> v pravém menu.
 
-2.  Here you will see all the members of your site, arranged by current role.  Find the member you would like to promote, then change their role in the drop-down menu to the right of their avatar.
+2. Zde uvidíte všechny členy vašeho webu, uspořádané podle aktuální role. Najděte člena, kterého chcete propagovat, a pak změňte svou roli v rozevírací nabídce napravo od svého avataru.
 
-<img class="alignnone wp-image-36479 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2.png" alt="Membership Change Settings Screen Shot" />
+<img class="alignnone wp-image-36479 size-full" src="https://openlab.citytech.cuny.edu/wp-content/uploads/2012/08/Who_Can_Change_Settings_1_V2.png" alt="Nastavení změny změny členství Změna obrazovky" />
 
-3. Click <strong>Save Changes</strong>, and you’re done!
+3. Klikněte na tlačítko <strong>Uložit změny</strong> a jste hotovi!
 
-For more about managing member roles, see Managing membership of a course, project, or club.
+Další informace o správě rolí členů naleznete v části Řízení členství v kurzu, projektu nebo klubu.
 
-You can also read more at <a href="http://codex.wordpress.org/Roles_and_Capabilities">WordPress.org</a> for additional information about Roles on WordPress sites.
+Také si můžete přečíst více na <a href="http://codex.wordpress.org/Roles_and_Capabilities">WordPress.org</a> o bližší informace o rolích na WordPress stránek.
