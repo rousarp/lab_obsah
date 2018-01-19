@@ -11,7 +11,6 @@ post_date: 2018-01-15 22:04:55
 help_tags:
   - Nalezení
 help_category:
-  - Kurzy projekty a skupiny
   - Skupiny
 ---
 1. If you are already a member of the club, log in and click on <strong>My OpenLab</strong> in the main menu. In the right-hand menu, click <strong>My Clubs</strong>.  You will see a list of all the clubs of which you are a member.
