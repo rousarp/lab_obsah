@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/participate-in-openlab-courses/
+  https://lab.urad.online/help/ucastnete-se-kurzu-openlab/
 published: true
 post_date: 2018-01-15 23:01:21
 help_tags:
