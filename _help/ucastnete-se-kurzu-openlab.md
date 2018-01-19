@@ -14,11 +14,11 @@ help_category:
   - Jak mohu ...?
 ---
 <h3>How Do I…</h3>
-<a href="https://lab.urad.online/help/participate-in-openlab-courses/#postassignments">post or upload assignments on the OpenLab?</a>
-<a href="https://lab.urad.online/help/participate-in-openlab-courses/#postmaterials">post or upload course materials on the OpenLab?
-</a><a href="https://lab.urad.online/help/participate-in-openlab-courses/#findcourse">help my students find my Course?
-</a><a href="https://lab.urad.online/help/participate-in-openlab-courses/#discussion">set up a discussion board?
-</a><a href="https://lab.urad.online/help/participate-in-openlab-courses/#setupcourse">set up a Course on the OpenLab? (Faculty-only)</a><a name="postassignments"></a>
+<a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#postassignments">post or upload assignments on the OpenLab?</a>
+<a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#postmaterials">post or upload course materials on the OpenLab?
+</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#findcourse">help my students find my Course?
+</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#discussion">set up a discussion board?
+</a><a href="https://lab.urad.online/help/ucastnete-se-kurzu-openlab/#setupcourse">set up a Course on the OpenLab? (Faculty-only)</a><a name="postassignments"></a>
 <h4>How Do I Post or Upload Assignments on the OpenLab?</h4>
 <ul>
  	<li>To post/upload course assignments, first make sure that you are a <a href="https://lab.urad.online/help/joining-a-course/">member</a> of your OpenLab course by clicking <strong>Join Now</strong> or <strong>Request Membership</strong> on your course’s profile page.</li>
