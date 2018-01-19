@@ -9,10 +9,9 @@ permalink: >
 published: true
 post_date: 2018-01-15 22:54:00
 help_tags:
-  - Doporučení
   - Obrázky
+  - Doporučení
 help_category:
-  - Osvědčené postupy
   - Pro všechny
 ---
 <h3>Sharing Large Files</h3>
