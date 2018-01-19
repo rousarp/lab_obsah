@@ -9,10 +9,9 @@ permalink: >
 published: true
 post_date: 2018-01-15 22:51:23
 help_tags:
-  - Doporučení
   - Úvod
+  - Doporučení
 help_category:
-  - Osvědčené postupy
   - Pro všechny
 ---
 Since the OpenLab is just that — open — it’s important for City Tech faculty, students, and staff to contribute to a welcoming and safe environment for all of us to share. We’re all responsible for making the OpenLab a friendly and welcoming place to collaborate.
