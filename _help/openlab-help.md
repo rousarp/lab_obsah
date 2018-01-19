@@ -12,19 +12,19 @@ help_tags: [ ]
 help_category:
   - OpenLab Help
 ---
-<h2>Do you have a question? You're in the right place!</h2>
-You can get started by browsing through the topics to the right.  Or, below are a few of our top frequently asked questions.
+<h2>Máte otázku? Jste na správném místě!</h2>
+Začněte procházením témat napravo. Níže uvádíme několik nejčastějších nejčastějších otázek.
 
-Do you need help…
+Potřebujete pomoc s …
 <ul>
- 	<li><a href="https://lab.urad.online/help/signing-up-on-the-openlab/">Creating an account</a>?</li>
- 	<li><a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">Accessing your City Tech email</a>?</li>
- 	<li><a href="https://lab.urad.online/help/joining-a-course/">Joining a Course</a>, <a href="https://lab.urad.online/help/joining-a-project/">Project</a>, or <a href="https://lab.urad.online/help/joining-a-club/">Club</a>?</li>
- 	<li><a href="https://lab.urad.online/help/creating-a-course-faculty-only/">Creating a Course</a>, <a href="https://lab.urad.online/help/creating-a-project/">Project</a>, or <a href="https://lab.urad.online/help/creating-a-club/">Club</a>?</li>
- 	<li><a href="https://lab.urad.online/help/creating-an-eportfolio/">Creating an ePortfolio</a> or <a href="https://lab.urad.online/help/creating-a-portfolio/">Portfolio</a>?</li>
- 	<li><a href="https://lab.urad.online/help/help-category/using-a-site/">Posting work on a Site in a Course, Project, Club, or Portfolio</a>?</li>
- 	<li><a href="https://lab.urad.online/help/help-category/building-your-site-for-site-administrators/">Building your Site</a>?</li>
- 	<li><a href="https://lab.urad.online/help/help-category/managing-your-site/">Managing your Site</a>?</li>
- 	<li><a href="https://lab.urad.online/help/editing-my-profile/">Editing your Profile</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/signing-up-on-the-openlab/">vytvořením účtu na portále OpenLab</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/accessing-your-city-tech-email-for-students/">získáním přístupu k účtu veřejné správy</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/joining-a-course/">připojením ke kurzu</a>, <a href="https://lab.urad.online/help/joining-a-project/">projektu</a> nebo <a href="https://lab.urad.online/help/joining-a-club/">Skupině</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/creating-a-course-faculty-only/">vytvořením kurzu</a>, <a href="https://lab.urad.online/help/creating-a-project/">projektu</a> nebo <a href="https://lab.urad.online/help/creating-a-club/">skupiny</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/creating-an-eportfolio/">vytvořením eportfolia</a> nebo <a href="https://lab.urad.online/help/creating-a-portfolio/">portfolia</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/help-category/using-a-site/">vytvořením obsahu na webových stránkách kurzů, projektů, skupin nebo portfolia</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/help-category/building-your-site-for-site-administrators/">vytvořením webových stránek</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/help-category/managing-your-site/">správou webových stránek</a>?</li>
+ 	<li><a href="https://lab.urad.online/help/editing-my-profile/">úpravou svého profilu</a>?</li>
 </ul>
-Can’t find what you’re looking for here? <a href="https://lab.urad.online/help/contact-us/"> Contact us!</a>
+Nenalezli jste, co hledáte? <a href="https://lab.urad.online/help/contact-us/">Kontaktujte nás!</a>
