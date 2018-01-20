@@ -1,11 +1,11 @@
 ---
-ID: 1368
+ID: 1667
 post_title: Vytvořit účet na OpenLab
 author: admin
 post_excerpt: ""
 layout: help
 permalink: >
-  https://lab.urad.online/help/registrace-na-openlab-2/
+  http://multi.openlab.dev/blog/help/registrace-na-openlab-2/
 published: true
 post_date: 2018-01-07 22:30:24
 help_tags: [ ]
